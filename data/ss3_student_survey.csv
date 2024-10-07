@@ -1,0 +1,362 @@
+Student_ID,Reason_For_Performance,Access_To_Resources,Study_Hours_Per_Week,Health_Issues,Teacher_Support,Parental_Support,Stress_Level,Peer_Influence,Additional_Tutoring,Use_Of_Study_Groups,Exam_Anxiety,Jamb_Scores,Num_Credit_Passes_WAEC,verdict
+ccf3a17156dc4907ba6c34ab6712303a,Difficulty understanding topics,Yes,4,No,4,4,Yes,No,No,No,No,186,5,Fail
+db20a56edc814fe78eda8bbb71710434,Confidence issues,No,0,No,3,4,No,Yes,Yes,Yes,No,302,7,Pass
+03c72ba8d60547708a63f881ffd0f9d5,Lack of resources,No,34,No,2,1,Yes,No,No,No,Yes,319,3,Fail
+bc594585944548c08ef8c2d6f7fd5646,Confidence issues,Yes,28,No,4,2,Yes,Yes,Yes,No,Yes,169,8,Fail
+504867babf7b439b8f9aea4b8acd4e10,Lack of resources,No,27,No,5,2,Yes,Yes,Yes,No,No,335,9,Pass
+7a0ecfea958c49ba8cd620c20ea2622b,Personal issues,No,39,No,5,5,Yes,Yes,Yes,No,Yes,152,8,Fail
+dca02eecacda4acc9165e21098543881,Health challenges,No,1,No,2,1,Yes,No,Yes,No,Yes,386,8,Pass
+14fcdd549e8f49658a2c827e98326856,Lack of preparation,No,13,No,3,1,Yes,Yes,Yes,No,No,395,6,Pass
+90b2b633956b4c0ca8499b926b5252e3,Lack of resources,No,19,No,3,3,No,No,Yes,No,No,188,3,Fail
+ef8c485bc07a40f2add4253b50f0fd0a,Difficulty understanding topics,Yes,38,Yes,3,1,Yes,Yes,No,No,Yes,129,9,Fail
+3e896c64e1174ac3919c4ea3e1805081,Health challenges,No,24,Yes,5,2,No,Yes,No,No,No,123,4,Fail
+e0ccedc5f05d476e9a84a51aa9d3d7c7,Confidence issues,No,38,Yes,1,2,No,No,No,No,Yes,309,5,Pass
+35ebd32d9ad640ab88212ddb45b89cd9,Confidence issues,Yes,11,Yes,3,4,No,Yes,Yes,Yes,No,269,9,Pass
+afffcfd2341e440b97c700aab7b56ea7,Personal issues,Yes,19,No,2,5,Yes,No,Yes,No,No,357,4,Fail
+e87d1c78e7c441c780497b717d106c60,Personal issues,Yes,33,No,1,3,No,No,Yes,No,Yes,224,3,Fail
+0a368ce7dc574131b8e1daa7cbceabde,Difficulty understanding topics,Yes,28,No,4,2,No,Yes,Yes,Yes,Yes,267,3,Fail
+ae9bec3635c7436c9b9962c6e61fecc0,Lack of preparation,No,21,No,3,2,Yes,No,Yes,No,Yes,127,9,Fail
+3c9ad14cee0c4eb5acfedb992790cebd,Difficulty understanding topics,No,30,No,5,1,Yes,Yes,Yes,No,Yes,323,6,Pass
+ccc56569f9e84369a999b735dd56cc94,Difficulty understanding topics,No,33,Yes,3,1,No,Yes,Yes,No,Yes,319,5,Pass
+391184973a4342ba9f0f06cbcb9bc326,Personal issues,No,26,Yes,4,3,No,No,No,No,Yes,171,4,Fail
+11c58ef0dd464c09875287aa5408f9ac,Personal issues,Yes,10,Yes,3,5,No,No,Yes,No,No,388,7,Pass
+59e4b67147744c5885f8bc16f7860b50,Lack of preparation,No,21,No,1,2,Yes,No,No,Yes,Yes,329,3,Fail
+e08596db1d8749668710d430f071d879,Difficulty understanding topics,Yes,40,Yes,5,5,Yes,No,Yes,No,Yes,384,8,Pass
+94a1875d2db64edb82deffccf86c2ca2,Confidence issues,Yes,4,No,5,4,Yes,Yes,No,Yes,No,344,2,Fail
+6fb78271504d481f89535b63ba81edd9,Difficulty understanding topics,No,29,No,2,1,No,Yes,Yes,Yes,Yes,235,5,Pass
+1d9af65982ec4f2dbbf6e16f9b3080d5,Lack of preparation,Yes,34,No,3,5,Yes,Yes,No,No,Yes,122,2,Fail
+30a900ad939b462da645f129629c2ae3,Lack of preparation,No,28,No,4,4,No,No,No,No,Yes,190,2,Fail
+f0b5156bb82c4074afd5dea589d7fd6c,Confidence issues,Yes,14,Yes,2,5,Yes,Yes,No,Yes,No,105,6,Fail
+81d2c7de4ce14b90a6697833b841d0a0,Health challenges,Yes,16,Yes,3,5,Yes,No,Yes,No,No,208,7,Pass
+d56f03508c454ce2a7f48ad54d0b0d1a,Personal issues,No,21,No,4,2,No,No,Yes,Yes,Yes,276,6,Pass
+9b4e2c24947941e689277d9b6e0d2648,Health challenges,No,36,No,2,5,Yes,No,Yes,Yes,No,221,4,Fail
+7118e36477094749927eecfaa79ac9aa,Health challenges,Yes,35,Yes,3,5,Yes,Yes,No,Yes,No,250,9,Pass
+f5b78cc7e6b349448b323e357922bac2,Health challenges,Yes,33,No,5,4,Yes,No,Yes,No,Yes,252,5,Pass
+a8aa71582b704525bc67f831cbc84759,Confidence issues,Yes,1,Yes,1,3,No,Yes,No,No,No,331,3,Fail
+a9f2533683f449a988a639d015b52908,Difficulty understanding topics,No,23,Yes,1,4,No,Yes,Yes,Yes,Yes,386,4,Fail
+17e8392a55ce45db9e87e04ca2086977,Lack of resources,No,13,No,1,1,No,No,Yes,No,No,280,7,Pass
+3c20592fc04a46c4b3b63fe1d1843324,Confidence issues,No,1,Yes,4,4,No,Yes,Yes,No,Yes,278,5,Pass
+7496276412a44ef084bbb7a9d98868dd,Difficulty understanding topics,No,31,Yes,4,2,Yes,No,No,Yes,No,169,5,Fail
+624c69b6b24445a7b7e5848131c681ec,Health challenges,Yes,32,Yes,5,4,No,Yes,No,Yes,Yes,209,4,Fail
+e4855aa1016b4287b00805cca7f36ae9,Personal issues,Yes,24,No,3,1,Yes,Yes,Yes,Yes,No,159,9,Fail
+8eb225790cdb4ca4b6ecbdd68498e113,Difficulty understanding topics,No,19,Yes,1,1,No,Yes,No,Yes,No,340,9,Pass
+8f15ba58fce6450487f8424daae65fc1,Confidence issues,Yes,9,Yes,4,4,Yes,No,Yes,No,Yes,264,4,Fail
+d0a444329cd64852b14c7df4e4347d51,Lack of resources,No,39,No,5,4,Yes,No,Yes,No,Yes,320,5,Pass
+6d3ee1dc81394443a45b712eb8225688,Difficulty understanding topics,No,3,Yes,5,3,Yes,Yes,Yes,No,No,359,7,Pass
+dc8aee30be6043f7a8be9288e5af6e39,Personal issues,Yes,15,No,3,1,Yes,No,Yes,No,Yes,250,9,Pass
+7c0e8cd8857347938715b2b9c40c5d91,Difficulty understanding topics,No,10,Yes,1,4,No,No,Yes,No,Yes,151,6,Fail
+3c07c57449254af1b6aae05b13d5f2f7,Confidence issues,No,22,Yes,4,2,Yes,Yes,No,Yes,No,176,5,Fail
+e49d681d51d84c6495fa1ab8458f1f19,Confidence issues,Yes,20,No,5,5,Yes,No,No,No,No,293,5,Pass
+6a34c85410714d51b6c59dacb4d7e28e,Lack of preparation,Yes,9,Yes,4,1,Yes,No,Yes,No,Yes,115,8,Fail
+d5385b0e34f3493c8ff0a55c6a702e2f,Personal issues,Yes,15,Yes,1,3,No,No,Yes,Yes,Yes,114,6,Fail
+05000bc6b20d4b6eb2311f1795863a76,Difficulty understanding topics,Yes,23,Yes,1,2,No,No,Yes,No,No,303,2,Fail
+cc530e36addc4e13ab3b4d37560c95ee,Lack of preparation,No,9,No,4,2,No,Yes,No,Yes,No,250,2,Fail
+d72b61082a404f12b963f37f67814c1f,Health challenges,Yes,3,No,2,2,Yes,Yes,Yes,No,Yes,148,4,Fail
+fb10987f20ac4703ab67146a77a6e17c,Lack of resources,No,27,Yes,4,3,Yes,No,No,Yes,Yes,144,4,Fail
+2e85cb2176314e9d9de9f86322bd3388,Lack of resources,Yes,26,No,5,4,No,No,Yes,No,No,388,6,Pass
+473bd358610e4a64a1301617c2dff335,Lack of preparation,Yes,14,No,5,4,Yes,No,No,No,Yes,132,8,Fail
+7866076514f74e8d95bcb8d04094dded,Health challenges,No,17,No,1,2,No,Yes,No,No,No,297,8,Pass
+39669fa759974043b3b1025bfff9f585,Confidence issues,Yes,17,No,2,3,No,Yes,Yes,No,Yes,217,6,Pass
+f510ab53c7fe439f9190f938a66fd7f7,Personal issues,No,22,No,4,3,No,Yes,No,No,No,327,3,Fail
+07f194f9c1154d6d8a4e5b70a6d964a3,Confidence issues,Yes,37,Yes,1,2,No,Yes,No,Yes,Yes,135,7,Fail
+d6d7b3b833094d35bf4df561f319c125,Confidence issues,Yes,15,Yes,3,3,No,No,No,Yes,Yes,106,2,Fail
+4fa03f26f6f740cca9ec8e49d1bdb8c0,Confidence issues,Yes,3,No,4,4,Yes,Yes,Yes,Yes,No,217,5,Pass
+90e0f4a0fbdd49338bd58bf61efd76e9,Health challenges,Yes,17,Yes,1,5,No,No,Yes,No,No,364,5,Pass
+8861fe1858e248888a8381bec85aca46,Confidence issues,No,40,No,5,3,No,Yes,No,Yes,No,168,3,Fail
+11a726095edd4bbfa95976636daa2e68,Lack of resources,Yes,6,Yes,5,1,No,Yes,Yes,Yes,No,163,4,Fail
+7d7ddbedd284476cab88f83dd97dc9cd,Confidence issues,No,30,No,3,2,No,Yes,Yes,Yes,No,202,5,Pass
+5cb85aedf5f64c97aefb63b11b049863,Lack of resources,Yes,29,Yes,3,1,Yes,Yes,No,Yes,Yes,321,3,Fail
+75b17a55d4264982a43e4288a2b5b498,Lack of preparation,No,31,No,5,4,No,Yes,No,No,No,278,9,Pass
+2d174fc96f7c45eaa72a6d8eb5122df8,Personal issues,No,11,No,4,3,Yes,No,Yes,No,No,150,4,Fail
+97ac6aa8bb2448a3936357b66f81cf4f,Lack of resources,No,15,Yes,2,2,No,No,Yes,Yes,Yes,399,8,Pass
+7cd0129d2e8d4e87933420e6d9d80b8d,Health challenges,No,36,Yes,4,1,No,No,No,Yes,No,190,7,Fail
+989d9d4ae15c46668797b2c957207246,Lack of preparation,Yes,36,Yes,5,4,Yes,No,No,No,Yes,335,2,Fail
+30e912f2f2b44abf8441aefd0299436a,Confidence issues,No,30,No,3,1,No,No,No,Yes,No,130,5,Fail
+680bac63b8564035bdc9829015eabb27,Health challenges,Yes,13,Yes,1,3,Yes,Yes,Yes,Yes,No,253,8,Pass
+3d85de89c21744298e2007247d137018,Difficulty understanding topics,Yes,33,No,4,4,No,Yes,Yes,Yes,Yes,267,6,Pass
+6786d50638ba4abc8b5305e517d2582e,Confidence issues,No,28,Yes,1,2,No,Yes,No,No,No,224,7,Pass
+5a10412954ae4d1b8ce6424dbef59fe6,Health challenges,Yes,0,Yes,1,3,Yes,Yes,No,No,No,293,3,Fail
+5c62b3a23a3c463e8bd6cee631b1b099,Lack of resources,Yes,5,Yes,3,1,Yes,Yes,Yes,Yes,No,237,4,Fail
+0ba6eab94639447ba067bdac88bd13d1,Difficulty understanding topics,No,10,Yes,5,2,No,No,No,Yes,Yes,327,6,Pass
+4ac9778d8da84ee48df56ac6f96b648a,Lack of preparation,No,10,No,3,1,No,No,No,No,Yes,148,3,Fail
+1a432f0a7daa49f080b6fce2de53790a,Confidence issues,No,26,Yes,3,2,Yes,Yes,No,Yes,Yes,107,2,Fail
+5738811d70c2403fba8d03aa782a65e0,Personal issues,Yes,5,No,1,5,Yes,No,No,No,No,377,6,Pass
+40a26c600d274659b72ada9b2f32751e,Lack of resources,No,20,Yes,3,4,No,No,No,Yes,Yes,208,6,Pass
+c693da1139c641ca9e50aa42ca6dfda1,Personal issues,Yes,13,No,4,3,Yes,Yes,Yes,Yes,No,182,3,Fail
+e893be3d73544a6fa160745985c7504b,Personal issues,No,10,No,2,1,No,Yes,Yes,Yes,Yes,281,5,Pass
+43b9da13ec854f37bbc1a987aff8754d,Personal issues,Yes,39,Yes,1,2,Yes,No,Yes,No,Yes,131,4,Fail
+32a447b2ef04457d8dccc33aa9434aa0,Lack of preparation,No,22,No,1,5,No,No,No,Yes,Yes,396,6,Pass
+398d1ca68b6840b59d61fac36cd5e859,Difficulty understanding topics,No,11,Yes,5,2,Yes,No,No,No,No,211,4,Fail
+44007d5ae88d4719a6242b40a5cb63a2,Health challenges,No,34,No,2,5,No,Yes,Yes,Yes,No,187,3,Fail
+ebd3461691b74d8e93016989bfbbb17f,Confidence issues,Yes,40,No,3,2,No,No,Yes,Yes,Yes,226,6,Pass
+bc0a6a5d6e994e3ea3b137fc0a3450fc,Confidence issues,No,7,Yes,4,2,Yes,No,No,Yes,No,109,2,Fail
+ac9ed156f63f4e41ba9aca5e176132ed,Confidence issues,No,36,Yes,3,3,No,No,No,Yes,No,301,6,Pass
+c3c75611ffe34a49854f92fff366bad4,Personal issues,Yes,18,No,4,5,No,Yes,No,Yes,Yes,144,2,Fail
+ff37d19c2e76428b873544f9ea83bf00,Confidence issues,Yes,31,No,1,3,No,No,Yes,No,Yes,285,7,Pass
+785299f4175b498db81401027de1bdfe,Lack of resources,Yes,6,No,2,5,No,No,No,Yes,No,386,7,Pass
+668409e3f1f8443ea99f131849c8a43f,Health challenges,No,17,Yes,5,4,Yes,Yes,Yes,No,Yes,279,9,Pass
+c5c5b37af85e46a19dad09b252c21221,Personal issues,No,8,No,3,5,Yes,Yes,No,Yes,Yes,260,8,Pass
+de8ede0ba85c4e4a804b6fabfcf56188,Difficulty understanding topics,No,19,Yes,1,3,No,Yes,Yes,Yes,No,206,9,Pass
+9f64eeed5c9d427d84b871bb300568d2,Lack of preparation,Yes,25,No,3,5,No,No,No,No,No,197,8,Fail
+445dcc38341c44948d366dfcc28ebd70,Difficulty understanding topics,Yes,39,No,3,4,No,No,Yes,No,Yes,115,9,Fail
+49bc473fed7b4656a18a15368c99a894,Lack of preparation,Yes,13,No,3,5,Yes,No,Yes,Yes,No,116,5,Fail
+7c16128db2c04394a17f29e170286046,Difficulty understanding topics,Yes,8,No,5,3,Yes,Yes,No,No,No,376,6,Pass
+a14923c2f920464c8763fcd01f15c7b6,Lack of resources,Yes,34,No,1,1,No,No,No,No,Yes,152,4,Fail
+1d0bc9bde9b545cf97665cdafe049059,Lack of preparation,Yes,40,Yes,5,4,No,Yes,Yes,Yes,No,159,6,Fail
+a5d04d531e1242e3b27292b6762172ed,Personal issues,Yes,31,No,2,1,Yes,No,Yes,Yes,Yes,186,9,Fail
+74eff5453e654603b8e3654bfaf14ff0,Health challenges,Yes,39,Yes,5,1,No,Yes,No,No,Yes,102,7,Fail
+3d225c30b28f41debb140bc3304b8590,Health challenges,Yes,32,No,2,4,Yes,No,Yes,Yes,Yes,382,4,Fail
+db23aa8c3bca4f85a20a60ac9261549d,Lack of preparation,Yes,27,Yes,5,3,No,Yes,No,No,No,171,6,Fail
+517400f80b2c482aa9288e92c68a152f,Health challenges,Yes,20,No,5,5,No,Yes,Yes,Yes,No,292,7,Pass
+e9d68f23b4894070b914f8a8bea4ff31,Personal issues,No,12,Yes,3,4,Yes,Yes,No,Yes,No,369,9,Pass
+a6eab79ed21c42f88ada4f80a9e782d4,Confidence issues,No,12,No,4,2,No,Yes,Yes,Yes,Yes,373,6,Pass
+f6febc0e7ecd4bafa6f05fcffb16e5db,Lack of resources,Yes,6,No,3,5,No,Yes,Yes,Yes,No,242,5,Pass
+19b17e80dea44e1794fd9ad39716108e,Lack of resources,No,7,Yes,4,1,Yes,No,No,Yes,Yes,366,7,Pass
+541cdfcdda0d4a5f948f8b74a65bb1f2,Lack of resources,No,29,No,2,4,No,No,No,No,Yes,172,7,Fail
+889b78d5dbfd497eaca2b148da330aa1,Confidence issues,Yes,1,Yes,3,3,Yes,Yes,No,Yes,No,377,6,Pass
+9e11d2cd09304ef68a80068ddf547e50,Lack of preparation,Yes,34,Yes,4,5,No,No,No,Yes,Yes,165,6,Fail
+af34cf65a19344b2bc19e71d118405ad,Health challenges,No,18,Yes,1,2,Yes,Yes,Yes,Yes,Yes,395,5,Pass
+0769165fe7464cb98ca9cf07b1aa0f6a,Confidence issues,No,24,No,2,1,No,Yes,Yes,Yes,Yes,273,2,Fail
+0e5dd462cbd04ef2930a37df0bc61066,Health challenges,No,31,Yes,2,3,Yes,No,Yes,No,No,393,2,Fail
+697c392387fa441abe83b91f25440fe0,Lack of resources,Yes,36,No,1,4,No,No,No,No,Yes,146,3,Fail
+2e183554cae24e66ae8a781390e0a95b,Health challenges,Yes,26,No,1,4,No,Yes,Yes,Yes,No,190,7,Fail
+9549c931e9af499dbf671eec3da70577,Confidence issues,Yes,23,Yes,2,5,No,Yes,Yes,No,No,166,6,Fail
+aab612c9415d474ab5a669814104a8b5,Lack of resources,No,7,Yes,2,3,Yes,No,No,Yes,Yes,393,7,Pass
+8beddb12ad77482f89a23a89e6b5a92c,Difficulty understanding topics,No,34,Yes,1,4,No,No,No,Yes,Yes,169,6,Fail
+b0b862ef6c9f42b9b6478986a3917c99,Health challenges,No,13,No,4,4,No,Yes,Yes,Yes,No,200,6,Pass
+da743152627b41a1bfd6f23232ffe294,Health challenges,No,39,Yes,5,1,No,Yes,Yes,No,No,120,7,Fail
+4bbe4aff93264ffd9be4bf5192698698,Lack of preparation,Yes,39,Yes,1,2,No,No,Yes,No,Yes,356,9,Pass
+059dd55d4b944e30b303f438fe2110d0,Difficulty understanding topics,No,23,No,2,4,No,No,No,No,No,178,8,Fail
+6553867da8814fd3947d577bfa5a91ca,Personal issues,Yes,16,No,2,4,No,No,Yes,No,Yes,257,4,Fail
+dd750e9890e0495f8212b554464458b4,Health challenges,Yes,27,Yes,5,3,Yes,Yes,Yes,No,Yes,364,9,Pass
+3ae909fecc8248da8696f5e64944051b,Confidence issues,No,19,Yes,4,3,No,No,No,No,No,255,4,Fail
+2303f6c6d69d42f1ae4c84ffa8c01f05,Confidence issues,No,22,No,1,1,Yes,Yes,Yes,Yes,No,239,4,Fail
+ad238d36dc324c97b9c1e262f76c8ede,Health challenges,Yes,1,No,5,5,Yes,Yes,No,Yes,Yes,377,3,Fail
+65bcc272fadd4ea3aca5e2fdb966442a,Lack of resources,No,34,No,2,2,Yes,No,No,No,No,142,2,Fail
+1fa382e8895c4d9983b38eb403902c5d,Confidence issues,Yes,4,No,1,2,Yes,No,Yes,No,No,390,5,Pass
+bfbf397bac3e4b0d9e5ba13d746cdb77,Health challenges,No,15,No,4,3,No,No,Yes,Yes,Yes,234,2,Fail
+a2a9d4d8102e4de5a5cc8bf738ab854c,Health challenges,No,30,Yes,1,2,Yes,Yes,Yes,Yes,Yes,257,8,Pass
+b379cb1ee8cd40ccb6da3ca0d2e82f38,Health challenges,Yes,15,No,4,1,Yes,No,No,Yes,No,292,6,Pass
+899ca782e3234d1abc1bdacc18e19331,Confidence issues,No,24,No,1,5,Yes,No,No,No,Yes,156,6,Fail
+5efa9c5b74214f46a37e4b0122bae10e,Health challenges,Yes,36,Yes,4,1,Yes,No,Yes,Yes,Yes,374,2,Fail
+b0b63bcf08604833879d0cdaf396ea37,Personal issues,No,29,No,4,2,No,No,Yes,No,No,321,9,Pass
+0cf2b69b05774ea9b899924698de8ebb,Health challenges,Yes,16,Yes,4,1,No,No,No,Yes,Yes,248,9,Pass
+fd235def3e5a47e39560db22c96b5edb,Lack of preparation,Yes,27,Yes,5,1,No,No,Yes,Yes,Yes,253,4,Fail
+8de08fc2c3e14a85946ef10411906f50,Health challenges,Yes,8,Yes,2,5,No,No,Yes,Yes,Yes,208,7,Pass
+c63d04ee541c4a86bba5cd2fdea45c19,Lack of resources,Yes,21,Yes,3,1,Yes,Yes,Yes,Yes,Yes,320,6,Pass
+989240ace68943a989e48e8c25c61c45,Health challenges,Yes,31,No,2,2,Yes,No,Yes,Yes,No,240,2,Fail
+040a3aae52e24fd996bf10ab3ce915e7,Difficulty understanding topics,No,34,No,3,3,Yes,Yes,No,Yes,No,179,6,Fail
+97fa7f04836340079cae9610c72c1fe3,Confidence issues,Yes,16,No,4,1,Yes,No,Yes,No,Yes,314,2,Fail
+98eeac2bfe9f4caaa182f347533f5a72,Lack of preparation,Yes,24,Yes,4,5,Yes,No,No,Yes,Yes,134,7,Fail
+8d244e3ec4da4ddba0b15abaa6a27967,Health challenges,No,12,Yes,4,5,Yes,Yes,No,Yes,No,322,4,Fail
+66132e697418410993d1bf0f56c438e4,Health challenges,Yes,29,No,1,1,Yes,Yes,Yes,No,No,300,7,Pass
+50032b3518574bafbac7e2b96a7e4c36,Health challenges,No,21,No,5,5,Yes,Yes,No,No,Yes,335,8,Pass
+afd380c42713482cb41ea3ac5fd23109,Lack of resources,No,26,No,2,3,No,Yes,No,No,No,362,5,Pass
+6e8f75a117dd4d8195da705cd4ef00aa,Personal issues,Yes,17,No,2,1,No,No,Yes,Yes,Yes,278,9,Pass
+f0ede303aa53419c9fa4bb9f5a856750,Lack of preparation,No,10,No,2,2,Yes,Yes,No,No,Yes,110,6,Fail
+49a214aef7e848e58d2b91efb8976ec5,Personal issues,No,40,Yes,4,2,Yes,No,Yes,No,No,127,8,Fail
+d8e7012f39684c81bb70c3b8a81fdec3,Difficulty understanding topics,No,40,No,3,5,No,Yes,Yes,Yes,No,129,7,Fail
+6dda4f8dcea64f4cb9e58ff092f837d4,Health challenges,No,3,No,2,3,Yes,Yes,Yes,Yes,Yes,166,8,Fail
+c4767556f97b42dd8f9b72aed85c16bd,Confidence issues,Yes,25,No,4,3,Yes,No,Yes,Yes,No,271,7,Pass
+45f50c522e2f4f77876979d644777442,Confidence issues,No,25,No,2,4,No,Yes,No,No,Yes,339,7,Pass
+bdb025ff245145a491d059b26699cd99,Confidence issues,Yes,38,No,3,2,Yes,No,Yes,No,No,175,9,Fail
+604e46cb371242d187cdb6a1bf012e32,Confidence issues,Yes,22,No,3,4,No,No,Yes,No,No,318,9,Pass
+98a21f1c914d4faeb10013a7c6deb2f0,Difficulty understanding topics,No,13,Yes,3,4,No,Yes,No,Yes,Yes,337,6,Pass
+27d415b60d7745a0a222b6a615bfbe97,Personal issues,Yes,36,Yes,5,4,No,Yes,No,No,No,223,3,Fail
+0cbd3c039e2a44ac8122b5b3284c03d2,Lack of preparation,No,11,No,3,4,No,Yes,Yes,Yes,No,256,7,Pass
+372f871a45ee432daa07f2137129cec7,Difficulty understanding topics,No,34,No,2,4,Yes,Yes,No,Yes,Yes,330,7,Pass
+ad9fb00d4882473c9c6345ab6e0ed1e8,Difficulty understanding topics,Yes,35,No,1,2,No,Yes,No,Yes,Yes,283,5,Pass
+86e527537c9346cc97d7a560adb14670,Lack of preparation,Yes,37,Yes,2,4,Yes,Yes,No,Yes,Yes,261,5,Pass
+3873e57f0ba048e88ef492c1aac93316,Lack of resources,Yes,1,No,5,4,No,No,Yes,No,Yes,222,2,Fail
+f200c2614d2941abb45512f701f7c7ec,Personal issues,Yes,0,Yes,2,3,No,No,Yes,Yes,No,308,3,Fail
+75b2745504cc4edeafac16730ad45230,Lack of resources,Yes,35,No,4,4,Yes,Yes,Yes,Yes,No,391,3,Fail
+6788420992ca425aade593329364f3d0,Lack of preparation,Yes,7,Yes,2,3,Yes,No,Yes,No,No,101,4,Fail
+f758dce205564aeaa7b032831d7c0098,Personal issues,No,33,Yes,2,5,No,No,Yes,Yes,Yes,154,8,Fail
+6fcc57dd168f4e129ca260c9eb7607c9,Confidence issues,No,8,No,5,2,No,Yes,No,Yes,Yes,318,2,Fail
+6f887f283e494d099b19d8b8d8302081,Difficulty understanding topics,Yes,27,No,5,5,Yes,Yes,No,Yes,No,338,3,Fail
+1422373f862248d1a683e10796c044d0,Lack of resources,No,29,No,5,1,Yes,No,Yes,No,Yes,275,9,Pass
+a21b030782af485c938d994c2b0abedd,Lack of preparation,Yes,40,No,1,5,No,Yes,No,Yes,Yes,207,3,Fail
+31a3ac4d828c47e787d5b7be1d30d990,Confidence issues,Yes,22,Yes,3,2,Yes,Yes,No,No,No,181,4,Fail
+a53bc024d1a64d87b54e2019ba35844e,Lack of resources,No,15,Yes,2,2,No,No,No,Yes,Yes,116,4,Fail
+c257cf73c29d482ba722796e9a36d1ec,Lack of preparation,Yes,22,Yes,4,1,No,Yes,Yes,Yes,No,217,9,Pass
+76c5a0dc7e7e4419a0c14035c5d95f51,Health challenges,No,32,Yes,2,2,Yes,Yes,Yes,Yes,No,190,7,Fail
+e1cde87fec954f87ae5ec36572eb7474,Lack of preparation,No,18,No,5,1,Yes,Yes,Yes,Yes,No,264,6,Pass
+fc8d5b93a2a2491fa49b1cd99082889b,Difficulty understanding topics,No,34,Yes,4,4,No,Yes,Yes,Yes,No,164,3,Fail
+97674900465143678bdc43184d85a3d2,Personal issues,Yes,37,Yes,4,3,No,No,Yes,No,No,297,9,Pass
+12fe28bf81e044899a18e2a30e614bcd,Health challenges,No,3,Yes,4,4,No,Yes,No,No,No,300,3,Fail
+09a0a0f673b04091b634c1694f76e388,Lack of preparation,Yes,40,Yes,4,3,Yes,Yes,Yes,No,Yes,102,5,Fail
+497de16dd4ea420a9e6596540e9058b6,Personal issues,No,25,No,1,1,No,Yes,Yes,Yes,Yes,196,3,Fail
+fa34d2e8dd3f4d7ea508dc9513a4a492,Difficulty understanding topics,No,8,No,4,5,Yes,No,No,No,No,235,7,Pass
+98159d6c9d714084971dabf9daf481a7,Confidence issues,No,12,No,2,5,No,Yes,Yes,Yes,No,186,5,Fail
+e8b77f7b73214f6b8a8076ece5582e16,Personal issues,Yes,40,No,4,2,Yes,Yes,Yes,No,No,295,5,Pass
+80599b9379c242e49ae1a991524f93ff,Confidence issues,No,28,No,1,2,No,Yes,No,Yes,No,162,5,Fail
+15969802b6dd4257bb7d9f1c57eb89b1,Confidence issues,Yes,0,No,5,2,No,No,Yes,Yes,No,143,8,Fail
+9c1c351785d240a686295b5d707df251,Difficulty understanding topics,No,22,Yes,2,3,No,No,No,Yes,Yes,378,7,Pass
+4f6b58c8598d4aecaaafe5432434a678,Health challenges,No,23,Yes,3,5,Yes,No,Yes,Yes,Yes,147,5,Fail
+b576255e98544f22a102f9c964575bc4,Difficulty understanding topics,No,23,No,2,1,Yes,Yes,No,No,Yes,267,9,Pass
+8f1584494f40422f95b02530f020e992,Difficulty understanding topics,No,16,Yes,4,5,No,Yes,Yes,Yes,No,307,5,Pass
+4f11d8dc5cd3436984aac1b75ca0c428,Lack of preparation,Yes,31,Yes,3,5,No,No,Yes,No,No,388,9,Pass
+c9c23e69d82c45658bb907ec13c11754,Difficulty understanding topics,No,36,No,4,1,Yes,No,Yes,Yes,No,351,6,Pass
+e05b46c556364094a97431db09a9d1c1,Health challenges,Yes,15,No,4,5,No,No,Yes,No,No,333,7,Pass
+9feefdffc5664a81b15e54f6d4d30795,Health challenges,No,28,No,4,2,No,Yes,No,No,Yes,211,9,Pass
+5d42b9e9692e47b68b2f6d5c700b5d5f,Lack of resources,Yes,24,No,4,4,Yes,Yes,No,No,No,388,7,Pass
+f836f5713cce476cb836c448ad261ec5,Health challenges,No,35,Yes,2,1,No,Yes,Yes,No,No,210,4,Fail
+c09cb50648f1496d9c4ffb4671b701aa,Confidence issues,Yes,10,No,1,4,Yes,Yes,Yes,No,Yes,345,7,Pass
+e76adca97811480288cc7cfecf01f944,Personal issues,Yes,19,No,3,5,No,No,Yes,Yes,No,385,3,Fail
+6b2d5b0987074ad480be7e3561c2645a,Confidence issues,Yes,20,Yes,5,1,Yes,Yes,Yes,No,No,395,9,Pass
+8412a335d88c456db61e5fdb1a435206,Health challenges,Yes,7,No,1,1,Yes,Yes,Yes,Yes,Yes,234,6,Pass
+d4bf7a4b25b8442f836b15c7e7c225da,Lack of preparation,No,13,No,4,5,No,No,Yes,Yes,No,302,8,Pass
+e916da57f24843ab977a8a5f6ffe33b3,Difficulty understanding topics,Yes,1,Yes,4,3,Yes,No,No,Yes,No,148,9,Fail
+5fbbf0b1808349c8a57e01c90da23e5c,Difficulty understanding topics,Yes,23,Yes,5,2,Yes,No,No,No,Yes,281,2,Fail
+25637cc3ca974bf595d596afa663d2cd,Personal issues,No,12,No,2,4,No,No,No,No,No,329,6,Pass
+eada79a349704d9a89ce3cfb2339ba19,Health challenges,No,33,No,1,3,No,Yes,No,No,Yes,271,4,Fail
+3d0a5f0c0c394ec79f3174054d183eba,Confidence issues,No,2,Yes,2,3,No,No,No,No,No,317,5,Pass
+93364f7e83ef49f3a1c7cc8a04351b64,Personal issues,No,22,Yes,3,4,Yes,Yes,Yes,No,Yes,348,9,Pass
+2ff3cde46aa44c9f921704753d959e3f,Health challenges,Yes,32,No,4,4,Yes,No,No,Yes,No,335,3,Fail
+f412436011534e999c508720f982f4e0,Confidence issues,Yes,32,Yes,2,5,No,No,Yes,No,Yes,286,4,Fail
+0534a1018ddc471981f38dd4fd034ada,Personal issues,Yes,16,No,1,5,No,No,Yes,No,Yes,313,4,Fail
+5f90bed6fb25464da30aa767a2bb522b,Lack of preparation,No,0,Yes,3,3,No,No,No,Yes,Yes,376,4,Fail
+1a89b71ea0d542c8a837fe68bba205ca,Lack of preparation,No,19,No,2,4,No,Yes,No,No,Yes,277,6,Pass
+a48e40f1d0424dfa96ab087a8bc78e81,Confidence issues,No,29,No,3,4,No,Yes,Yes,No,Yes,196,7,Fail
+7a8104deb20547bbbb16f75776f186ab,Personal issues,Yes,22,Yes,3,4,Yes,Yes,No,No,Yes,266,3,Fail
+339b77a84b1f4d7b8977c513752a7d25,Personal issues,Yes,5,Yes,2,1,Yes,No,Yes,No,Yes,329,6,Pass
+d0be73eefd374539a5f202f983f02dc7,Personal issues,No,29,No,1,4,Yes,No,Yes,No,Yes,157,4,Fail
+095ffa8140d94bceb930ba208b040f49,Lack of preparation,No,18,No,3,2,No,Yes,Yes,Yes,No,368,5,Pass
+0c3ce284c7e54bbb9cb51c535b62a8df,Health challenges,No,8,No,4,3,Yes,Yes,Yes,Yes,Yes,184,6,Fail
+45f1861954f94429a7de02ccdda4f4a7,Health challenges,No,12,Yes,5,1,No,Yes,No,No,No,176,2,Fail
+7092947dbe4949eca667d3bbe3b56360,Lack of preparation,Yes,38,No,3,2,Yes,No,Yes,No,Yes,202,2,Fail
+b12b66807f074cb9afd340c0f945f2fd,Confidence issues,Yes,7,No,4,4,No,No,Yes,Yes,No,298,9,Pass
+cc1b4157ec9f4c549e0a72ab7f5db163,Lack of preparation,Yes,11,Yes,1,1,No,No,No,No,No,295,2,Fail
+a3b442bd46494296af5842c3ff86cc31,Lack of preparation,Yes,36,No,3,5,Yes,Yes,No,Yes,Yes,399,9,Pass
+67fd64c4a334458aabd2b5121335e5db,Lack of preparation,No,31,Yes,5,1,No,Yes,No,Yes,Yes,216,5,Pass
+20509c6208e845d7b02c1821c8040fb7,Personal issues,No,25,No,3,1,No,Yes,No,No,No,221,6,Pass
+f31046dc62024ee69cb5e69c5dc7b3e6,Health challenges,No,4,Yes,4,3,Yes,No,Yes,No,No,338,3,Fail
+5ef787b8f2e6495fb32e2016add702c9,Confidence issues,Yes,8,Yes,3,2,No,Yes,Yes,Yes,No,155,5,Fail
+5df06e8c878a4ed9a33ffc8292ec89af,Difficulty understanding topics,Yes,0,Yes,2,3,Yes,Yes,Yes,Yes,Yes,227,2,Fail
+4758367ba6494cdc907b907265e58f34,Difficulty understanding topics,Yes,24,No,2,4,No,Yes,No,No,Yes,220,3,Fail
+848af4407fc14858afa0d842bc55300b,Confidence issues,No,3,No,2,1,No,Yes,Yes,No,Yes,163,9,Fail
+b43bd27f42a249a6866412854303cbc1,Health challenges,No,24,No,3,2,Yes,No,No,Yes,No,323,6,Pass
+22bf18f51f654a87b33ee3447dbf4bc1,Lack of preparation,No,33,Yes,2,2,No,Yes,Yes,Yes,Yes,139,9,Fail
+4cc9f5f2e42e40378a552ea08acbbe09,Confidence issues,Yes,16,Yes,5,3,Yes,Yes,Yes,Yes,Yes,186,7,Fail
+b5a5f8e6b6394f04a8524385d9f2dd0d,Health challenges,No,10,Yes,2,1,No,Yes,Yes,Yes,Yes,354,8,Pass
+2c913a7ca3404f08b34191b8ed6522b4,Confidence issues,Yes,10,Yes,3,2,No,Yes,No,No,No,122,8,Fail
+9280c5aa8dd4495b9c63b6f306ba8cd3,Health challenges,No,10,No,2,4,No,No,Yes,Yes,Yes,227,2,Fail
+68d0a2a8c4e747dda929de738693fd9d,Lack of preparation,Yes,39,No,2,3,No,No,No,Yes,No,158,8,Fail
+d43cdd6de0c14f1ea0da897258321ee4,Lack of resources,No,26,No,3,4,No,No,No,No,Yes,260,3,Fail
+96792482a3c948e48d2238e6c7bf4fbc,Confidence issues,Yes,27,No,4,1,Yes,Yes,No,No,No,241,3,Fail
+de431e06e924406980bbae526ec01269,Lack of resources,Yes,14,No,3,3,No,Yes,Yes,No,No,348,2,Fail
+84a2576c1fc945f894d607350e2f8958,Confidence issues,Yes,12,No,3,4,Yes,Yes,No,No,No,244,9,Pass
+2976aab22a2647708ddb1b36272c0588,Lack of preparation,Yes,14,Yes,5,4,No,Yes,No,Yes,No,173,8,Fail
+39b86bb2b5964a7caf4afa885299e505,Lack of resources,No,30,No,5,5,No,No,Yes,No,No,269,4,Fail
+17eaec838892442f9d4b2bf94d85e9c7,Personal issues,Yes,23,No,1,3,Yes,No,No,Yes,No,296,5,Pass
+2bd3cdcd2779468594a53fdef10d27c8,Lack of resources,No,1,No,2,2,No,No,Yes,Yes,Yes,303,2,Fail
+dd20c3bfd3424f088a8bb5b490494583,Health challenges,No,0,No,5,2,No,No,No,No,No,283,7,Pass
+8baaf744a08d421ba3954cb17f7f6c0a,Lack of resources,Yes,17,Yes,5,1,Yes,Yes,Yes,Yes,No,372,6,Pass
+741b77f54c244053a7f5ae02af5b8f47,Personal issues,Yes,37,No,4,2,No,No,Yes,No,Yes,115,8,Fail
+76e5ae787bf741d3aa662fce7089fc6d,Lack of resources,Yes,35,No,2,4,No,Yes,No,Yes,No,354,9,Pass
+24c778a59b4e464b9716dc2e343ada2a,Health challenges,Yes,26,Yes,3,3,No,Yes,No,No,No,242,4,Fail
+1b2ededb8fc84fc083d5bceb5edbb8ee,Health challenges,Yes,18,Yes,3,1,Yes,Yes,Yes,Yes,Yes,243,4,Fail
+1f5d988f776a4f09bde2885951b1943c,Personal issues,No,13,No,3,5,Yes,No,Yes,Yes,Yes,122,6,Fail
+24108e9a3f774caeb318b96d44790612,Difficulty understanding topics,No,29,No,4,3,No,No,No,Yes,Yes,365,5,Pass
+f204be894a4b45638cf477ef18c8a616,Lack of resources,Yes,39,No,5,2,Yes,Yes,Yes,No,Yes,334,3,Fail
+e6fdd7afdd844accb67294643f8ea40a,Difficulty understanding topics,Yes,8,Yes,3,2,No,Yes,No,No,Yes,296,4,Fail
+170d750705ee41d4bf53a88e4efc8248,Lack of resources,No,37,No,4,5,Yes,No,Yes,Yes,No,159,2,Fail
+750d112e81644eeca4ab851bf1fac6e7,Lack of resources,Yes,32,No,4,1,No,No,Yes,Yes,No,287,2,Fail
+d7c4fe9ce1e04ffc98f6fd7f7eb162f1,Difficulty understanding topics,No,6,Yes,2,1,No,No,Yes,No,No,337,9,Pass
+5cce5ba931d44e098fd33afc91fdfa4f,Personal issues,Yes,16,No,4,2,No,Yes,No,Yes,Yes,128,8,Fail
+9f8cc29ffd354c5f93479a3b479bc637,Health challenges,Yes,11,No,5,3,Yes,Yes,Yes,Yes,Yes,240,7,Pass
+20f0156a1e6a46289c6d52d5ae2e9af9,Lack of preparation,Yes,7,No,1,3,Yes,No,No,No,Yes,318,6,Pass
+5f89ed1264d64fbf98c01e2bf99f0704,Difficulty understanding topics,Yes,34,Yes,4,2,No,No,Yes,No,No,278,6,Pass
+66c14dca82554a619a3b031932f57510,Difficulty understanding topics,Yes,34,Yes,3,2,No,No,Yes,No,No,319,7,Pass
+23c8afdb83f84f16a4a4474c9b33e3a4,Lack of preparation,Yes,14,No,2,1,No,Yes,No,Yes,No,109,8,Fail
+518b2f219cf24859ae6e2e7253f591dc,Lack of preparation,Yes,28,No,4,2,No,No,Yes,No,Yes,184,7,Fail
+9dd2f9defd984e33a498abe92999bbef,Lack of resources,No,0,No,3,2,Yes,Yes,Yes,No,No,306,6,Pass
+97fe56c54c9a4f2497b4c294bd44089d,Personal issues,Yes,10,Yes,2,5,Yes,Yes,No,No,No,370,9,Pass
+827c9f8cd40a45e981df6517561c9210,Lack of preparation,No,29,No,1,1,Yes,Yes,Yes,No,No,127,2,Fail
+a7d4cf50f79141e583f9cd6b797ebe87,Confidence issues,Yes,14,Yes,5,1,No,No,No,Yes,Yes,313,8,Pass
+c64c96479ea7417cb89f7039a107cc46,Health challenges,No,15,No,2,1,Yes,Yes,Yes,Yes,Yes,354,9,Pass
+d25864f225d440fca1542765d756ba9c,Health challenges,Yes,4,No,2,3,Yes,No,Yes,No,Yes,188,9,Fail
+9293f70508154147be00980eae441e21,Health challenges,No,16,Yes,1,4,No,No,No,No,Yes,316,2,Fail
+30d73df71c224ceab35556a5f2bd92f2,Lack of preparation,Yes,30,Yes,3,1,No,No,No,No,No,125,7,Fail
+6b352f85504e4687b0e7e75604d9145e,Lack of resources,Yes,13,No,3,4,Yes,Yes,No,Yes,Yes,197,7,Fail
+9c89d374c66445a780773e33690e7e62,Confidence issues,Yes,8,No,5,4,Yes,No,Yes,Yes,No,376,5,Pass
+7a768555a9874218bf84faef5336723b,Difficulty understanding topics,Yes,27,Yes,1,2,No,No,Yes,Yes,No,290,2,Fail
+f4e9573450524700a07796a38685abaa,Lack of resources,No,26,No,2,1,No,No,No,Yes,No,187,2,Fail
+ae455cc6b88e430f9e1e994ac5a11f5c,Lack of preparation,Yes,24,No,1,3,Yes,No,Yes,No,Yes,304,5,Pass
+f514105831384975bbf33a349c2dfa97,Confidence issues,No,9,No,1,4,Yes,Yes,Yes,No,No,215,6,Pass
+b474634949fc4cd8856bad4c4c3077c4,Lack of preparation,No,23,Yes,3,5,No,Yes,Yes,No,Yes,344,5,Pass
+8f7c1d59594b4a3abad465a15129950d,Difficulty understanding topics,Yes,34,Yes,1,2,Yes,Yes,No,No,Yes,337,8,Pass
+b8beff3dcb9f4f6daf3a6f27ef06fccb,Lack of preparation,No,10,No,5,3,No,Yes,No,No,No,204,6,Pass
+e5508ea26133434d8b0e8eb1ad371d9e,Health challenges,No,0,No,5,3,Yes,Yes,Yes,Yes,No,128,3,Fail
+585abefbd1814f77a5001423faebcd19,Lack of resources,No,15,No,3,2,Yes,No,No,No,Yes,108,9,Fail
+f48f709c49a244418ac4de854a5b1aff,Difficulty understanding topics,Yes,34,No,3,2,No,No,Yes,No,No,258,5,Pass
+ec8be53758ab4778943b45e3b6d1f6bb,Health challenges,No,9,No,5,2,No,No,Yes,Yes,No,129,4,Fail
+8fe069b6eeda48028568f42689e03e22,Confidence issues,Yes,27,Yes,4,1,No,No,Yes,No,Yes,240,2,Fail
+0f25477da55940e78910fade52380bf2,Lack of preparation,Yes,1,Yes,1,3,No,Yes,No,Yes,No,267,9,Pass
+a6fd0cb116e645c084cb294fe86e8e63,Lack of resources,Yes,38,No,4,5,No,No,Yes,No,No,303,7,Pass
+0997623ae0724d968a1a81f5ed10f004,Lack of preparation,Yes,35,No,5,5,No,No,No,No,Yes,398,9,Pass
+a42d0cd7fd354f6ab450388748d90846,Difficulty understanding topics,No,30,No,2,4,No,No,No,Yes,No,383,3,Fail
+e3a68a707e714b558639bd418b15bd94,Personal issues,No,36,Yes,5,3,Yes,No,No,Yes,Yes,192,4,Fail
+811414f8d9df4d0ea25aed6cf0458043,Lack of preparation,No,9,No,5,3,Yes,Yes,Yes,Yes,No,194,8,Fail
+564cfbd2bc924d81839b058c2faabe0b,Health challenges,No,17,No,5,1,Yes,No,No,Yes,Yes,390,5,Pass
+9c6783932ced4c0db17304b5c1dd484a,Lack of resources,Yes,13,Yes,4,5,Yes,No,No,Yes,Yes,196,8,Fail
+67ce378fe5a4483ba383889adb2c6ac8,Lack of preparation,No,5,No,2,5,No,No,Yes,Yes,Yes,295,7,Pass
+7a3a6e9623ff43d3bb4fb88a2f4dd219,Personal issues,Yes,0,Yes,3,4,No,Yes,Yes,No,Yes,211,6,Pass
+01bf9e733f804385af9240b652d78f10,Health challenges,No,29,Yes,4,2,Yes,Yes,No,No,No,181,8,Fail
+725d42593c4b4eeca231ee7342c2d2eb,Difficulty understanding topics,No,19,No,5,4,No,Yes,No,Yes,Yes,280,3,Fail
+92a81713b90e444b951c25d54d4c5280,Lack of preparation,Yes,28,No,3,5,No,No,No,Yes,Yes,400,4,Fail
+5c0b9b10a7574b1082f525b902ed73ce,Confidence issues,No,21,No,4,1,No,No,Yes,Yes,Yes,326,3,Fail
+aaf407f70fe74149bc7e5368b1594847,Health challenges,No,12,No,4,4,Yes,Yes,Yes,Yes,No,147,5,Fail
+28e333b64e8a4c4bb72420411e43fbd2,Confidence issues,No,33,No,1,4,Yes,No,No,Yes,Yes,346,3,Fail
+5e175b664b87459fb0cd7f05ea87855e,Personal issues,Yes,24,Yes,4,1,No,No,Yes,Yes,Yes,138,7,Fail
+f515949438184fd3b889936a9d5817e8,Lack of resources,Yes,12,Yes,2,3,No,No,No,Yes,Yes,340,3,Fail
+74797b6127374b52ba6a210722319050,Lack of resources,Yes,36,No,3,4,No,Yes,No,No,Yes,183,3,Fail
+98874bfec1364c65ae2ae3413f59e4f2,Confidence issues,Yes,5,No,5,4,No,No,No,Yes,Yes,360,6,Pass
+86879aa914f543d089912032df85c777,Difficulty understanding topics,No,40,Yes,1,1,No,Yes,Yes,No,Yes,169,9,Fail
+5c9deee0b42a445687365a84725e134d,Health challenges,No,29,No,5,5,No,Yes,No,Yes,No,353,2,Fail
+e723ada38c324db2942a895e0fcf601f,Lack of resources,No,0,Yes,2,2,No,Yes,No,No,No,104,8,Fail
+ae27d4321dc147ebb11c767385351a69,Lack of resources,Yes,16,No,1,3,Yes,Yes,No,No,Yes,379,3,Fail
+7d23d47995494a82b787ef8d3495311e,Personal issues,No,20,No,2,3,No,Yes,Yes,Yes,No,148,7,Fail
+720b274b82a74586a61d9cde1747f387,Difficulty understanding topics,Yes,0,No,4,2,No,No,Yes,Yes,Yes,311,5,Pass
+0f6ce9bffe7e43628a89b0f0105291d3,Health challenges,Yes,23,No,3,2,No,Yes,No,No,No,279,3,Fail
+5fdcabbf6b9c471cb6ba745ba55871e3,Lack of preparation,Yes,39,No,3,5,Yes,Yes,No,No,Yes,370,4,Fail
+f6d22a7baec74a82948b4376602a4e57,Lack of resources,Yes,18,Yes,2,3,Yes,No,Yes,No,Yes,242,8,Pass
+fa8dae42ba544920a099d18087623997,Lack of preparation,No,29,No,5,3,Yes,No,Yes,No,Yes,111,6,Fail
+76876c624c61445eba7e5d9405d1fb63,Health challenges,Yes,8,No,1,1,Yes,No,Yes,Yes,No,264,7,Pass
+083f64c31ce342f883f725feb99b2b5a,Lack of preparation,Yes,36,No,4,3,No,Yes,No,No,Yes,264,7,Pass
+9d6b9b626b534a19a902b73fcf39f648,Lack of resources,No,26,Yes,5,4,No,No,Yes,No,No,199,3,Fail
+e39836bbe23d4faaafad49e9c41c147e,Lack of resources,No,30,No,3,5,No,No,No,Yes,Yes,288,3,Fail
+df495037b40a4181ac09bdb799086e47,Confidence issues,Yes,12,Yes,1,5,No,No,No,No,Yes,193,7,Fail
+ea98fef8d0d74e37bbf2025f4a0d2b73,Personal issues,No,39,Yes,3,5,No,Yes,No,No,Yes,332,8,Pass
+d18183d1ac2b4cfc85c51060991121e7,Confidence issues,Yes,21,No,3,1,Yes,No,No,Yes,Yes,192,6,Fail
+46707cd64ced4164a9df14e9389641dd,Health challenges,No,26,No,3,3,Yes,Yes,Yes,No,Yes,208,3,Fail
+97777f10f2d2493f8e85140d0f9aeb70,Personal issues,No,3,Yes,4,3,Yes,Yes,No,No,Yes,398,7,Pass
+8e4c3ab56d5d4477adc29178a0411612,Health challenges,No,2,No,3,3,No,Yes,No,Yes,Yes,396,7,Pass
+73253aa3ec174298943df5b3a58e83dd,Health challenges,No,20,No,2,2,No,Yes,No,No,Yes,204,4,Fail
+891f691217ab48639efeef4fd8ddbbc0,Lack of resources,No,23,No,5,3,No,Yes,Yes,Yes,Yes,192,2,Fail
+12a1fe7ddfa547228a1fc9df9a591974,Health challenges,Yes,11,No,3,3,No,No,Yes,No,Yes,347,8,Pass
+966be275c2fe49548dfd9531302b7831,Personal issues,Yes,23,Yes,2,4,Yes,Yes,No,No,No,369,7,Pass
+378e65108f10433eabe42e7db96c1163,Difficulty understanding topics,No,37,No,1,1,No,Yes,No,No,Yes,118,8,Fail
+e8334da5de954695b579c1437ab99428,Lack of preparation,No,30,No,4,4,No,No,Yes,Yes,No,131,4,Fail
+bf337a151e084f20bdd151b0f64ab6ec,Confidence issues,Yes,24,Yes,5,3,Yes,No,No,Yes,No,233,5,Pass
+ea18d32c7a9a4ef5811bd1c4ffe3f366,Personal issues,No,20,Yes,1,5,Yes,Yes,No,Yes,Yes,206,4,Fail
+3d44cb2cea454a41a589ada1345af934,Lack of resources,No,10,Yes,1,2,No,No,Yes,No,Yes,369,5,Pass
+51facefad6f84f7a82fa1da878308631,Lack of preparation,No,18,Yes,4,2,Yes,Yes,Yes,No,Yes,354,5,Pass
+4b91b8cb6ae64582b852b3cd9442b5e6,Difficulty understanding topics,Yes,31,Yes,1,4,Yes,No,No,No,No,216,5,Pass
+b93b17fbf76d45fdbd1645a0d253d966,Health challenges,Yes,27,No,4,4,Yes,Yes,No,No,Yes,169,9,Fail
+75f8e3a87d974c0fbd5609c4a4461663,Personal issues,Yes,39,Yes,3,4,No,Yes,No,No,Yes,282,3,Fail
+8bea75c1b86647aaa3d4526b2b54ff7a,Lack of preparation,No,30,Yes,2,3,Yes,No,No,No,Yes,350,7,Pass
+01a25ed1c3ab45f18c6b7074ab102c9b,Personal issues,No,0,Yes,3,5,Yes,No,No,No,No,370,5,Pass
+74bd0c9381774661b7fe032c02571851,Lack of preparation,Yes,9,No,5,5,No,No,No,Yes,No,102,6,Fail
+a3422e509e2a43248f79a8a75f8a14bd,Lack of resources,No,24,Yes,5,5,Yes,Yes,Yes,No,Yes,366,2,Fail
+e9aa144b9dd44675af145064aab07015,Difficulty understanding topics,Yes,8,No,1,5,Yes,Yes,No,No,Yes,326,9,Pass
+0406ff447ce44679a8c6dbc07bb3447b,Health challenges,Yes,18,Yes,3,4,No,Yes,No,No,No,370,2,Fail
+eb053fc41b654dabade46e91e8e6e840,Personal issues,Yes,9,Yes,2,2,No,No,Yes,Yes,No,297,4,Fail
+409e7a8086c541d69ea9f50831227592,Personal issues,Yes,21,Yes,2,1,Yes,Yes,Yes,No,Yes,332,2,Fail
+a65f7b8adbb44021bdde64afa75b395a,Confidence issues,No,33,No,2,1,Yes,Yes,No,No,Yes,210,5,Pass
+f94d8fcbdba3496fba323f6990dbfad6,Health challenges,No,8,No,2,3,No,No,Yes,Yes,Yes,296,8,Pass
+3508507af622484284022b3c508211a5,Personal issues,No,31,Yes,2,4,No,No,No,Yes,Yes,381,8,Pass
+edcabf9465f64a539226a8b3b674410d,Confidence issues,No,1,No,3,4,Yes,No,No,Yes,No,355,5,Pass
+8a624cbde5824678ad5229dd639fc471,Lack of resources,Yes,34,No,4,5,Yes,Yes,No,Yes,No,135,4,Fail
+1901ef870dbf4caf988a3f87f96d40f8,Health challenges,No,32,No,1,1,No,Yes,Yes,Yes,Yes,132,4,Fail
+1375ee90d6b341e4bb6dca0d6fe5040b,Health challenges,No,24,Yes,3,1,Yes,No,No,Yes,Yes,302,4,Fail

@@ -1,0 +1,19 @@
+Class_ID,Number_of_Students,Number_of_Teachers,Weekly_Teaching_Hours,Weekly_Library_Time,Weekly_Computer_Training_Time,Weekly_Lab_Hours,Chalkboard,Basic_Textbooks,Chairs_Desks,Functional_Fans
+ A,60,8,27,2,3,0,1,0,60,1
+SS1 Class B,51,9,29,5,3,3,1,1,51,1
+SS1 Class CSS1 Class,53,9,20,5,3,1,2,3,53,2
+SS1 Class D,54,9,20,4,3,4,3,1,54,3
+SS1 Class E,52,10,23,4,3,0,2,3,52,4
+SS1 Class F,55,7,28,2,2,4,2,0,55,1
+SS2 Class A,58,6,23,3,2,3,2,4,58,1
+SS2 Class B,57,7,28,3,3,2,3,4,57,2
+SS2 Class C,52,9,33,1,3,4,3,0,52,0
+SS2 Class D,59,9,24,2,2,1,1,0,59,4
+SS2 Class E,56,7,32,3,2,1,2,1,56,1
+SS2 Class F,54,6,25,5,2,2,2,2,54,4
+SS3 Class A,60,8,25,1,2,1,1,0,60,0
+SS3 Class B,53,5,30,1,3,1,1,2,53,4
+SS3 Class C,56,9,25,3,2,0,2,0,56,0
+SS3 Class D,59,7,25,3,3,1,1,4,59,4
+SS3 Class E,60,7,33,3,3,4,2,3,60,2
+SS3 Class F,59,9,28,5,3,1,3,1,59,4
