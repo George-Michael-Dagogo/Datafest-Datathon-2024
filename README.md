@@ -27,20 +27,20 @@ The **Phoenix team (Hannah Igboke, Michael George, and Olawumi Olabode)** has be
 The solution workflow can be seen below.
 
 # Workflow
-- [Background: Problem statement]()
-  - Objectives
-- [School operations]()
-- [Data generation, and infrastructure]()
-  - About the data
-- [Model development]()
-- [Data analysis]()
+- [Background: Problem statement](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#background-problem-statement)
+  - [Objectives](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#objectives)
+- [School operations](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#school-operations)
+- [Data generation, and infrastructure](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#data-generation-and-infrastructure)
+  - [About the data](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#about-the-data)
+- [Model development](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#model-development)
+- [Data analysis](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#data-analytics)
 - [Recommendations]()
   - Solution statement
-- [Conclusion]()
-- [References]()
+- [Conclusion](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#conclusion)
+- [References](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#references)
 
 # School operations
-This refers to systems and principles by which the school - GMS- located in a typical African society follows. These systems guided our solution
+This refers to systems and principles by which the school - GMS- located in a typical African society follows. These systems guided our solution building process.
 1.	Compulsory extra-curricular activities. This includes sports and club activities.
 2.	10 subjects are being offered by students in both specializations – Art and Science, with 5 subjects common between them.
 3.	Each senior secondary school class has 6 subdivisions (A-F) and is further divided into Art and Science classes
@@ -156,6 +156,8 @@ The same reasoning for science students also applies to art students since they 
 # Data Analytics
 
 
+# Recommendations
+
 
 
 # Conclusion
@@ -179,6 +181,5 @@ The same reasoning for science students also applies to art students since they 
 13. Tabbodi, M., Rahgozar, H., Mozaffari, M., & Abadi, M. (2015). The Relationship between Happiness and Academic Achievements. In European Online Journal of Natural and Social Sciences.
 14. Techpoint Africa. (2023). How much do Nigerians earn? https://techpoint.africa/2023/11/06/how-much-do-nigerians-earn/
 15. Uzochukwu, O., & Uchechukwu Okorie, H. (2023). Impact Of Unhealthy Parenting On Schooling Of Secondary School Students In Anambra State-Nigeria: Gender As A Mediating Variable.
-
 
 
