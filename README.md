@@ -5,7 +5,7 @@
 ## Data Pipeline Architecture
 ![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/datafest_architecture.png)
 
-## Here's a breakdown of my approach:
+## Here's a breakdown of the pipeline:
 
 ### Data Generation: I'm using Python libraries like Faker, random, and numpy to generate synthetic data. This allows me to create a large volume of realistic-looking data without compromising real students' privacy.
 ### School Structure: I've modeled the school with Senior Secondary (SS) classes from SS1 to SS3, each with segments A through F. This reflects a typical Nigerian secondary school structure.
