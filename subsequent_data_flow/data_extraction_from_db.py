@@ -43,4 +43,12 @@ conn.close()
 # Access data of each table from `table_data` dictionary
 # Example: To access the 'student_table' data
 student_data = table_data['student_table']
-print(student_data.head())  # Show first few rows of the 'student_table'
+attendance_table = table_data['attendance_table']
+class_resources_table = table_data['class_resources_table']
+extracurricular_activity = table_data['extracurricular_activity']
+parent_table = table_data['parent_table']
+ss3_student_survey = table_data['ss3_student_survey']
+staff_table = table_data['staff_table']
+student_performance = table_data['student_performance']
+teachers_table = table_data['teachers_table']
+
