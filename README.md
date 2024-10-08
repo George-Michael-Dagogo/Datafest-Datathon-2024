@@ -1,4 +1,6 @@
 ## I'm attempting to create a comprehensive dataset that simulates a Nigerian secondary school environment. My goal is to generate realistic, interconnected data that can be used for various educational analytics and data science projects. 
+## Data Pipeline Architecture
+![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/datafest_architecture.png)
 
 ## Here's a breakdown of my approach:
 
