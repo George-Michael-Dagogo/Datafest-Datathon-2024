@@ -164,7 +164,21 @@ The same reasoning for science students also applies to art students since they 
 
 # References
 
-
+1. Afe Babalola University. (2024). The decline in quality education in Nigeria (2) The role of parents in a child’s education. – Afe Babalola University. Abuad.edu.ng. https://www.abuad.edu.ng/the-decline-in-quality-education-in-nigeria-2/
+2. Aiven. (2024). How to Connect to PostgreSQL Database from Power BI. Aiven Community. https://aiven.io/community/forum/t/how-to-connect-to-postgresql-database-from-power-bi/1384
+3. Azure-storage-blob. (2024). PyPI. https://pypi.org/project/azure-storage-blob/
+4. Faker 30.3.0 documentation. (n.d.). Welcome to Faker’s documentation! — Faker 5.0.1 documentation. Faker.readthedocs.io. https://faker.readthedocs.io/en/master/
+5. FreeCodeCamp. (2024). “Basic Node and Express - Use the .env File” - .env should be removed from .gitignore. The FreeCodeCamp Forum. https://forum.freecodecamp.org/t/basic-node-and-express-use-the-env-file-env-should-be-removed-from-gitignore/668556
+6. GitHub. (2024). GitHub Actions Documentation - GitHub Docs. Docs.github.com. https://docs.github.com/en/actions
+7. Microsoft. (n.d.). Azure Blob Storage | Microsoft Azure. Azure.microsoft.com. https://azure.microsoft.com/en-us/products/storage/blobs
+8. National Bureau of Statistics. (n.d.). Reports | National Bureau of Statistics. Nigerianstat.gov.ng. https://nigerianstat.gov.ng/elibrary/read/1241213?fbclid=IwAR3Wi9f-o20ZMM0v5hgIE5AmLQPV6dc25vCRE88UFmYlwVawveWfNO-c-lE
+9. Nuffic. (2023). Primary and secondary education - Nigeria | Nuffic. Nuffic.nl. https://www.nuffic.nl/en/education-systems/nigeria/primary-and-secondary-education
+10. Ogunode Niyi Jacob, & Ahaotu Godwin Ndubuisi. (2020). Challenges Facing the Implementation of Teacher-Students Ratio Policy in Nigerian Educational System and the Ways Forward. International Journal on Integrated Education, 3(9), 189–197. https://doi.org/10.31149/ijie.v3i9.619
+11. Olaitan Titilayo Akinola, Abiodun Adesope Fadiya, Ibukun Akeredolu, & Funmilola, H. (2023). Impact of Class Size on Teaching and Learning of Social Studies in Abuja Municipal Area Council, FCT-Abuja, Nigeria. Journal of Education and Practice. https://doi.org/10.7176/jep/14-19-06
+12. Streamlit. (2024). Execution flow - Streamlit Docs. Streamlit.io. https://docs.streamlit.io/develop/api-reference/execution-flow
+13. Tabbodi, M., Rahgozar, H., Mozaffari, M., & Abadi, M. (2015). The Relationship between Happiness and Academic Achievements. In European Online Journal of Natural and Social Sciences.
+14. Techpoint Africa. (2023). How much do Nigerians earn? https://techpoint.africa/2023/11/06/how-much-do-nigerians-earn/
+15. Uzochukwu, O., & Uchechukwu Okorie, H. (2023). Impact Of Unhealthy Parenting On Schooling Of Secondary School Students In Anambra State-Nigeria: Gender As A Mediating Variable.
 
 
 
