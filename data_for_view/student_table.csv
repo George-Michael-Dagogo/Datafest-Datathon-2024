@@ -1,0 +1,994 @@
+Student_ID,Class_ID,First_Name,Family_Name,Gender,Date_of_Birth,State of Origin,engagement_in_class,health_condition,Class Spec
+ccf3a17156dc4907ba6c34ab6712303a,SS3 Class C,Aliyu,Chukwuebuka,Male,2008-10-07,Ogun,Active,Dyslexia,Art
+310c0c003fa741049bf90e27dc96925e,SS1 Class E,Ifeanyi,Aliyu,Female,2007-04-10,Anambra,Slightly active,None,Science
+23e2fcb472d8467d894a05e430b187ef,SS3 Class D,Oluwaseyi,Adebola,Male,2010-03-08,Ekiti,Active,Dyslexia,Art
+766ecb15474e4c19aef912766c006f61,SS1 Class E,Adetokunbo,Abiodun,Female,2010-03-01,Akwa Ibom,Active,Asthma,Science
+134c6c92ec5b427c9fde4fbf3ff350bf,SS2 Class D,Umar,Ifeanyi,Female,2007-08-11,Gombe,Slightly active,Sickle Cell,Art
+db20a56edc814fe78eda8bbb71710434,SS1 Class C,Ejiroghene,Mamman,Male,2008-10-04,Ogun,Highly active,None,Art
+a6f2f7b80cf34b5899108be58ce21ea3,SS2 Class E,Umukoro,Akpofure,Female,2009-06-05,Sokoto,Slightly active,None,Art
+03c72ba8d60547708a63f881ffd0f9d5,SS3 Class C,Chidiebere,Chidiebube,Male,2009-08-24,Oyo,Troublesome,Dyslexia,Science
+c0e9ab30ed2642e997e011b7f8102383,SS1 Class F,Ejike,Chidubem,Male,2008-02-18,Ogun,Slightly active,None,Art
+680ac07a2a934d62bc835dc0d9441fa5,SS3 Class E,Ime,Okonkwo,Female,2009-08-17,Bayelsa,Active,None,Art
+dd59ba7136b84481bb3a4e3e7c52fa17,SS1 Class E,Okeke,Chijioke,Male,2009-03-30,FCT,Troublesome,None,Science
+2a25a8880f024ad0a7067ef466aa9385,SS1 Class F,Lawali,Chinweuba,Female,2010-04-20,Adamawa,Highly active,Dyslexia,Art
+63f2ae24fc3d4348808d4127610461e3,SS3 Class A,Okeke,Chimezie,Female,2010-10-05,Yobe,Unactive,Dyslexia,Science
+c8fe3ccdc8b849c6ad3049cf43e458fc,SS2 Class A,Usman,Chinweike,Female,2009-03-03,Kebbi,Troublesome,Asthma,Science
+b253d2186c4a47ea890617f2747b6dba,SS1 Class B,Folami,Onyeka,Female,2008-12-25,Kaduna,Unactive,None,Art
+c88a618efed4457dbb026576f512c4c3,SS1 Class C,Ifiok,Azubuike,Female,2009-08-24,Jigawa,Troublesome,None,Art
+7c967f79b7e94acaa97065e18e46d534,SS1 Class C,Ige,Chinedu,Male,2010-10-03,Borno,Active,Dyslexia,Science
+37bb3eec4bf54b52b09d258c27a0c3d7,SS2 Class E,Chijioke,Uzoma,Female,2007-05-25,Osun,Troublesome,None,Art
+bc594585944548c08ef8c2d6f7fd5646,SS2 Class B,Chikere,Uduakobong,Male,2008-02-03,Kwara,Active,Dyslexia,Art
+504867babf7b439b8f9aea4b8acd4e10,SS2 Class C,Chi,Alaba,Female,2010-02-20,Anambra,Slightly active,Asthma,Science
+7a0ecfea958c49ba8cd620c20ea2622b,SS1 Class C,Chidiegwu,Ejiro,Male,2010-06-13,Kwara,Troublesome,None,Science
+87f7e1fbda4b49caab5cf46780bacd64,SS1 Class A,Chuks,Kelechi,Female,2008-10-17,Abia,Unactive,None,Art
+82010c62f5f54b228e8fa8e0284d82e5,SS1 Class B,Iniobong,Shehu,Female,2008-07-21,Osun,Highly active,Dyslexia,Art
+118a9d292f92499699f195d014822f53,SS3 Class F,Nnamdi,Kayin,Female,2008-10-28,Kwara,Active,Dyslexia,Science
+dca02eecacda4acc9165e21098543881,SS2 Class F,Umukoro,Chidiebube,Female,2010-06-19,Anambra,Troublesome,None,Science
+f10c718b1eb0438aa75dd5af3c365296,SS3 Class D,Azubuike,Kyauta,Male,2008-05-24,Ebonyi,Slightly active,Dyslexia,Art
+94340a033f07481491d63f78e3e9de99,SS2 Class A,Ifeanyichukwu,Chidi,Female,2010-03-13,Benue,Active,None,Science
+14fcdd549e8f49658a2c827e98326856,SS1 Class E,Ikechukwu,Rabiu,Female,2009-10-09,Rivers,Troublesome,Dyslexia,Art
+90b2b633956b4c0ca8499b926b5252e3,SS3 Class F,Emem,Enyinnaya,Female,2007-01-27,Lagos,Unactive,None,Art
+42c18a62ef4848d590fd9d3f85d51695,SS3 Class F,Aliyu,Akpofure,Male,2008-05-30,Cross River,Troublesome,None,Art
+506e5a9ab758488dab73295b344a54b8,SS1 Class F,Chinweuba,Adekunle,Male,2008-10-02,Enugu,Active,None,Art
+21813d25655248a683ff50113d1a85dd,SS3 Class A,Adebowale,Temitope,Male,2008-05-12,Bauchi,Active,None,Science
+750cab754ccc4bc2a53f8a28abf3e3fc,SS3 Class C,Chinweike,Chidiebere,Male,2007-03-06,Taraba,Troublesome,None,Art
+ef8c485bc07a40f2add4253b50f0fd0a,SS2 Class F,Uduak,Efe,Female,2008-10-28,Lagos,Active,None,Art
+9f044aed7552432782627f7312922f83,SS2 Class A,Umar,Olukayode,Male,2007-04-11,FCT,Highly active,None,Art
+19985f15ff004d4d902059e4ff9ab5c2,SS1 Class F,Efe,Olukayode,Male,2009-02-12,Kano,Highly active,None,Science
+8181a8cc369147eb89a2688b12c136e0,SS1 Class E,Chike,Yaƙubu,Male,2006-11-18,Sokoto,Troublesome,Dyslexia,Science
+5958a499eeea463ea1e8ac6843e42caf,SS3 Class C,Olawale,Oluwasegun,Male,2008-05-07,Imo,Troublesome,None,Science
+3e896c64e1174ac3919c4ea3e1805081,SS1 Class C,Ese,Taiwo,Male,2007-03-29,Borno,Troublesome,None,Art
+702cdd20286248b888f4ef125e9953d2,SS1 Class E,Adewale,Bello,Male,2009-10-13,Delta,Highly active,None,Science
+4d71c366b41b41438b10550cd5704f32,SS3 Class A,Ade,Oni,Male,2007-03-17,Abia,Unactive,None,Art
+ce9e1a11fcbb4e59bbddcf7c9c96e9ec,SS1 Class F,Uche,Chiemeka,Female,2008-08-19,Bauchi,Highly active,Dyslexia,Science
+aaf91531020041f08768a84fa76afde6,SS1 Class C,Olalekan,Ɗanjuma,Male,2010-07-17,Abia,Troublesome,None,Science
+ee87905e4ca445ea8dfa6a56d12dbc9a,SS3 Class F,Chibuzo,Bitrus,Male,2007-07-14,Edo,Unactive,None,Art
+e0ccedc5f05d476e9a84a51aa9d3d7c7,SS2 Class A,Abioye,Chinwendu,Male,2007-06-07,Kebbi,Slightly active,None,Art
+e3c436571d8c4bac83b409ef2260e70f,SS1 Class F,Folami,Chinwendu,Female,2008-09-14,Kogi,Active,None,Art
+27cb6f2a8da04097be0f051b1b66b5a9,SS2 Class F,Oluwasegun,Chidike,Male,2008-04-28,Taraba,Unactive,Ulcer,Science
+35ebd32d9ad640ab88212ddb45b89cd9,SS1 Class E,Uche,Ejiroghene,Male,2010-02-13,Kwara,Active,None,Science
+afffcfd2341e440b97c700aab7b56ea7,SS2 Class D,Haruna,Lanre,Male,2007-03-27,Taraba,Highly active,None,Science
+81627cf1439442e69a587e8aa25d6b29,SS3 Class D,Hamisu,Lawali,Female,2007-02-24,Adamawa,Troublesome,None,Art
+e87d1c78e7c441c780497b717d106c60,SS1 Class E,Efemena,Balarabe,Female,2007-02-20,Yobe,Slightly active,Sickle Cell,Science
+a260772317a04f498d01280fd89a40c0,SS2 Class C,Olusegun,Olamilekan,Female,2008-06-13,Ebonyi,Slightly active,None,Art
+0b49452d46d443f39450281c6c6f7633,SS2 Class B,Chikelu,Ikenna,Male,2010-03-12,Sokoto,Highly active,None,Science
+217d65a0c56841cd9563f61600e85ece,SS1 Class C,Chinonso,Ademola,Male,2007-02-03,Osun,Slightly active,None,Art
+295d6fbf430f401dbad409e2a319dcb4,SS1 Class C,Umukoro,Ahmadu,Female,2007-10-02,Delta,Active,None,Art
+b4a69f3c8d3a4d99b11c21c9bdc14f1f,SS1 Class D,Eniola,Ayo,Female,2008-01-14,Kaduna,Unactive,None,Science
+1ca3c448027946a68f9797b06d7ce3c9,SS1 Class C,Chukwuma,Abiodun,Female,2008-10-08,Nasarawa,Slightly active,None,Art
+b0e6a969e21342b0b1eedba313432e61,SS3 Class F,Emeka,Chigozie,Female,2010-02-09,Taraba,Troublesome,Dyslexia,Art
+093923de8bab4e3ba6286bfbe767dcea,SS3 Class E,Ndubuisi,Onyeka,Male,2007-11-14,Niger,Troublesome,None,Art
+8d7248e2951f48d09e84f058d5a804eb,SS2 Class F,Ndubuisi,Chidiebube,Male,2006-11-03,Kwara,Active,None,Science
+0ab54bde20a04502ae06809725e97977,SS3 Class C,Kayin,Chukwuma,Female,2008-09-26,Enugu,Unactive,None,Art
+eededb07e62346899d59cd2a4eea04e7,SS3 Class A,Ekene,Chike,Female,2007-07-05,Ebonyi,Highly active,None,Art
+0a368ce7dc574131b8e1daa7cbceabde,SS3 Class D,Onyekachukwu,Olayinka,Female,2010-03-02,Katsina,Highly active,None,Art
+ae9bec3635c7436c9b9962c6e61fecc0,SS1 Class B,Emem,Bukar,Male,2006-12-16,Ekiti,Unactive,None,Art
+5a8aaeca1a504ec3aabc25fa3fe12e47,SS2 Class E,Ayomide,Bamidele,Female,2009-03-08,Yobe,Highly active,None,Science
+dfed2c43e25646dc8f5486b7c7b5b2bc,SS3 Class B,Kehinde,Ahmadu,Female,2008-04-20,Gombe,Unactive,Dyslexia,Art
+bfddc3d99ee34c2ab94d62046808593f,SS1 Class A,Oghenekevwe,Chizoba,Male,2010-03-27,Delta,Slightly active,Dyslexia,Science
+3c9ad14cee0c4eb5acfedb992790cebd,SS2 Class A,Oni,Ɗanladi,Female,2008-06-05,Rivers,Unactive,None,Art
+ccc56569f9e84369a999b735dd56cc94,SS3 Class E,Onyekachukwu,Amadi,Male,2009-12-28,Kogi,Active,None,Art
+698c206fe1a44e10ad534dd0cf8ebc5a,SS3 Class F,Adedayo,Ndidi,Female,2010-07-18,Kogi,Slightly active,None,Art
+ecab3301bc8f4d29adea94930658663a,SS2 Class B,Abimbola,Abidemi,Female,2009-02-14,Zamfara,Unactive,None,Art
+696608aaee494329884a7b28550a1b46,SS2 Class C,Yalwa,Olawale,Female,2010-07-15,Edo,Slightly active,Dyslexia,Art
+bc2cbb0ddd334cc7ab7f089acd5f4822,SS2 Class F,Uzochi,Chike,Female,2007-03-29,Lagos,Unactive,Ulcer,Art
+28c13091444d410bbf87e362cf8d446a,SS1 Class F,Ufuoma,Femi,Female,2006-11-06,Anambra,Unactive,None,Art
+61ee411a1bac47a7b386f7a4c991603f,SS1 Class F,Ufuoma,Haruna,Female,2008-09-27,Borno,Active,None,Science
+787f2425dbcc447789e9db0adf465290,SS1 Class A,Emem,Olabode,Male,2007-07-29,Plateau,Active,None,Art
+eb1fa9f2d10b41d0b317347038f16a81,SS1 Class D,Afolabi,Chimezie,Female,2010-02-02,Anambra,Troublesome,None,Science
+d20eac174e204d1a998336e375d66ed4,SS1 Class C,Ade,Ugochukwu,Female,2007-11-05,Benue,Troublesome,None,Science
+391184973a4342ba9f0f06cbcb9bc326,SS1 Class E,Onyeka,Ikenna,Female,2010-04-19,Bayelsa,Active,None,Art
+6601ddd031704437a8f7ef5a060edf5b,SS1 Class A,Bitrus,Ife,Male,2010-10-05,Kano,Slightly active,None,Art
+11c58ef0dd464c09875287aa5408f9ac,SS2 Class C,Ibrahim,Chidiebube,Female,2007-08-04,Benue,Highly active,None,Science
+59e4b67147744c5885f8bc16f7860b50,SS3 Class B,Akuchi,Itoro,Male,2009-05-13,Katsina,Highly active,None,Science
+adf4e62d6651429e8268690ba43825b5,SS3 Class F,Eniola,Ifeanyi,Female,2007-01-16,Bauchi,Active,None,Science
+54c63cd889454f2797fa2d8dfb2ca025,SS3 Class B,Afolabi,Olusola,Male,2010-07-20,Ondo,Slightly active,None,Art
+e08596db1d8749668710d430f071d879,SS3 Class E,Oluwaseun,Ɗanlami,Female,2007-09-02,Yobe,Unactive,None,Art
+94a1875d2db64edb82deffccf86c2ca2,SS1 Class A,Oyibo,Okechukwu,Female,2006-10-24,Plateau,Slightly active,None,Art
+09cb394243f54a85bbc9f87af668a617,SS1 Class F,Chukwuebuka,Akachi,Female,2009-09-13,Abia,Troublesome,None,Art
+587ef3446f3f420c98b8e4cc1bc044fc,SS1 Class C,Olufemi,Adewale,Female,2010-06-08,Abia,Troublesome,None,Art
+6fb78271504d481f89535b63ba81edd9,SS1 Class B,Olamilekan,Adetokunbo,Female,2009-04-10,Zamfara,Highly active,None,Art
+1d9af65982ec4f2dbbf6e16f9b3080d5,SS1 Class F,Bamidele,Emem,Male,2010-08-04,Niger,Troublesome,None,Science
+30a900ad939b462da645f129629c2ae3,SS1 Class D,Chibueze,Bukar,Male,2007-07-31,Kaduna,Active,None,Science
+6fa17735b57243d08b5cea6a41357e8c,SS2 Class E,Obi,Adebayo,Female,2007-11-14,Delta,Active,None,Science
+ce777f00ecf24e7685197ff4006ed6e3,SS2 Class F,Ademola,Sani,Female,2006-12-15,Borno,Slightly active,None,Art
+f0b5156bb82c4074afd5dea589d7fd6c,SS1 Class D,Folami,Dayo,Male,2007-01-14,Ekiti,Unactive,Dyslexia,Art
+3270e4faabae4f43bcae8081bdf070aa,SS1 Class A,Kehinde,Ige,Female,2009-08-05,Akwa Ibom,Active,Dyslexia,Science
+f2e9702d11e94daaae6981a35d3d9e56,SS1 Class C,Umar,Ekundayo,Female,2007-02-12,Rivers,Troublesome,None,Art
+9f871ce754874d4fabb7a385aa0b7b14,SS1 Class B,Olanrewaju,Olusegun,Male,2009-03-17,Zamfara,Active,Dyslexia,Science
+1fe771d6d9174793a9d3c2e6505cc686,SS2 Class F,Abioye,Ufuoma,Male,2008-01-19,Anambra,Unactive,None,Art
+81d2c7de4ce14b90a6697833b841d0a0,SS3 Class D,Kelechi,Ifeanyichukwu,Male,2009-03-11,Nasarawa,Unactive,None,Art
+5380b904688c4015aab97e494f2d4796,SS2 Class C,Abimbola,Ayomide,Female,2007-08-01,Zamfara,Active,None,Art
+8dedf9fb4bb04f20b27c40266703b636,SS1 Class E,Ife,Babajide,Male,2007-09-16,Bauchi,Slightly active,None,Art
+aa38d0a16ba24efeb11c6eb62095eef6,SS2 Class E,Adewale,Nonso,Male,2008-02-12,Kaduna,Unactive,Ulcer,Science
+bf85bf0ead64456ca10faa3ff0bbac67,SS3 Class D,Adeola,Enitan,Male,2007-02-03,Oyo,Troublesome,None,Art
+91b0e1d99d9242afac8d0e44e71e43a6,SS2 Class C,Oni,Ayokunle,Female,2010-01-24,Kebbi,Unactive,None,Science
+d56f03508c454ce2a7f48ad54d0b0d1a,SS2 Class E,Okoro,Babajide,Male,2009-12-23,Adamawa,Highly active,None,Art
+35ce884149734d6c8dcabfb7001a9a8b,SS1 Class C,Ekwueme,Ademola,Male,2009-01-20,Enugu,Troublesome,Ulcer,Art
+9b4e2c24947941e689277d9b6e0d2648,SS3 Class E,Efemena,Aminu,Male,2007-03-25,Oyo,Active,None,Art
+7118e36477094749927eecfaa79ac9aa,SS3 Class A,Chidiegwu,Oyibo,Female,2008-05-19,Niger,Active,None,Art
+82dc4c8e36b5429aacf5e81e71316269,SS2 Class F,Bitrus,Oyibo,Female,2010-10-02,Sokoto,Troublesome,None,Art
+f5b78cc7e6b349448b323e357922bac2,SS3 Class B,Oyibo,Ime,Male,2006-12-16,FCT,Troublesome,None,Science
+a8aa71582b704525bc67f831cbc84759,SS2 Class E,Nonso,Adedayo,Male,2006-12-09,Plateau,Unactive,None,Science
+a9f2533683f449a988a639d015b52908,SS2 Class F,Ade,Lanre,Female,2008-05-26,Kaduna,Highly active,Dyslexia,Science
+17e8392a55ce45db9e87e04ca2086977,SS1 Class C,Nonso,Ekundayo,Male,2008-02-16,Plateau,Unactive,None,Science
+3c20592fc04a46c4b3b63fe1d1843324,SS3 Class E,Bamidele,Chidubem,Female,2010-09-29,Nasarawa,Troublesome,Ulcer,Art
+ce7ae7f639824cff8f77a665ac3c5640,SS3 Class B,Musa,Adedayo,Male,2009-08-19,Kogi,Unactive,None,Science
+0bd4a99006404e0fa5b8fd4b32fa2de8,SS2 Class E,Onyekachukwu,Chijioke,Male,2009-02-22,Kwara,Active,None,Science
+9c7c737779a24903bbe33b243eae0032,SS3 Class F,Ufuoma,Uche,Female,2007-04-06,Kebbi,Active,None,Science
+7496276412a44ef084bbb7a9d98868dd,SS2 Class D,Aliyu,Oluwafemi,Female,2008-05-14,Kaduna,Highly active,None,Art
+935f2b0aa1384ddca2d9de5d6a18ce4c,SS2 Class A,Ademola,Ekwueme,Male,2008-06-24,Adamawa,Slightly active,None,Art
+624c69b6b24445a7b7e5848131c681ec,SS3 Class D,Enitan,Ogochukwu,Female,2009-06-11,Adamawa,Highly active,None,Art
+25c73c443e7543b4a64fa6637e8f8095,SS2 Class D,Ikechukwu,Olayinka,Female,2007-04-15,Akwa Ibom,Unactive,None,Art
+e4855aa1016b4287b00805cca7f36ae9,SS3 Class E,Okorie,Alaba,Male,2007-01-31,Akwa Ibom,Active,None,Art
+e2add909c5214f2d9c45d539c03f3538,SS2 Class E,Segun,Tunde,Male,2007-10-03,Bauchi,Highly active,None,Art
+3805f9076cd6419387468f591b494e15,SS1 Class B,Fumnanya,Ekenedilichukwu,Female,2008-10-13,Oyo,Troublesome,None,Art
+b227462cf53d43308dda24ba2d06e8cf,SS2 Class C,Chidiegwu,Efe,Male,2007-06-25,Imo,Troublesome,None,Science
+8eb225790cdb4ca4b6ecbdd68498e113,SS2 Class E,Ikechukwu,Chigozie,Female,2010-08-04,Sokoto,Unactive,Dyslexia,Science
+1f115b76d92c4227aadf50853fcb7546,SS2 Class C,Adebowale,Kyauta,Female,2008-04-14,Gombe,Unactive,None,Science
+76f2dbfecd29436fa22282e174daaebf,SS1 Class F,Olujimi,Olufemi,Male,2009-10-23,Ogun,Highly active,Dyslexia,Science
+8f15ba58fce6450487f8424daae65fc1,SS1 Class A,Chisom,Aminu,Female,2007-03-06,Adamawa,Slightly active,None,Science
+c1581092f3354ba3913a7052986f9025,SS3 Class C,Uche,Abioye,Male,2010-02-01,FCT,Troublesome,None,Science
+d0a444329cd64852b14c7df4e4347d51,SS1 Class E,Olawale,Abiola,Female,2010-01-25,Akwa Ibom,Troublesome,None,Science
+6d3ee1dc81394443a45b712eb8225688,SS3 Class B,Yaƙubu,Olusegun,Female,2010-06-21,Zamfara,Slightly active,None,Science
+722764e68c41461ba827a1b9d4a02e53,SS2 Class F,Itoro,Abiola,Female,2009-07-27,Cross River,Active,None,Art
+dc8aee30be6043f7a8be9288e5af6e39,SS1 Class B,Lekan,Adegoke,Male,2007-11-15,Bayelsa,Unactive,None,Art
+c074718e425a409fb337c59979844388,SS2 Class F,Chikelu,Ayo,Male,2006-11-30,Cross River,Troublesome,None,Science
+46fde062a33d47af9701410d3f4b1a70,SS3 Class B,Chukwuma,Lawal,Female,2010-01-12,Abia,Highly active,None,Art
+7c0e8cd8857347938715b2b9c40c5d91,SS3 Class A,Chimezie,Chima,Female,2009-09-06,Enugu,Active,None,Art
+709b7d97464c44afbd3f3799a07295e9,SS2 Class F,Chidiebere,Umaru,Female,2008-03-07,Kwara,Highly active,None,Science
+3c07c57449254af1b6aae05b13d5f2f7,SS1 Class D,Akuchi,Oluwatoyin,Female,2009-01-07,Taraba,Slightly active,None,Art
+e49d681d51d84c6495fa1ab8458f1f19,SS3 Class A,Chibuike,Olusola,Female,2010-10-04,Kogi,Highly active,None,Art
+269cd696236c4b8794a0bccb8a476a87,SS2 Class D,Uzochi,Chidi,Female,2008-05-05,Lagos,Troublesome,Dyslexia,Art
+271e3ee2b1a641f1a20e99d33b33f3d8,SS1 Class A,Olamilekan,Enitan,Female,2006-12-26,Benue,Active,None,Science
+6a34c85410714d51b6c59dacb4d7e28e,SS3 Class F,Ifiok,Enitan,Female,2009-02-24,Kano,Troublesome,None,Science
+7746d0ba8ae8405b94b4a48268586eba,SS3 Class D,Hamisu,Ayuba,Female,2007-03-12,Rivers,Unactive,None,Art
+d5385b0e34f3493c8ff0a55c6a702e2f,SS2 Class B,Onyekachukwu,Muhammadu,Female,2007-02-21,Kaduna,Active,Dyslexia,Art
+c51155ffe7a34e81a3b4c08b6b8e869f,SS3 Class E,Chidubem,Mamman,Male,2007-10-12,Adamawa,Active,None,Art
+05000bc6b20d4b6eb2311f1795863a76,SS3 Class A,Chijindum,Akpan,Female,2007-12-29,FCT,Active,None,Science
+9360715fc3fe4183a172b725db52ca58,SS1 Class E,Chi,Hamisu,Female,2009-03-14,Bayelsa,Slightly active,None,Science
+f1578470018247c4ba1b58066160a6b4,SS2 Class F,Ekene,Oghenekevwe,Male,2007-03-12,Benue,Troublesome,Dyslexia,Science
+63d62a39c0e34efd8c71e0fe5a0cdd7c,SS1 Class E,Ayomide,Ade,Female,2008-12-13,Ebonyi,Active,None,Science
+d5f25073f41442b1a4429ebbda7b9095,SS3 Class D,Oni,Udo,Female,2010-06-03,Zamfara,Highly active,None,Art
+bc10fa52bf5d4fdf89c8d2ab6b44fa8d,SS3 Class E,Chijindum,Ifeanyichukwu,Female,2008-12-08,Gombe,Unactive,None,Science
+e5d6f6e69a6e42f58cc429038bcf53a1,SS3 Class E,Chika,Rabiu,Male,2009-07-16,Edo,Troublesome,Dyslexia,Science
+45df16b6382c443fbcfc9b793875394c,SS2 Class A,Ɗanlami,Ebuka,Male,2009-08-21,Yobe,Active,Dyslexia,Art
+638c254c076e4bbabc5308bf6f92f25e,SS2 Class E,Chijindum,Ejiro,Male,2008-08-24,Jigawa,Unactive,None,Science
+cc530e36addc4e13ab3b4d37560c95ee,SS1 Class E,Abidemi,Chukwudi,Female,2007-11-14,Kaduna,Troublesome,None,Art
+d72b61082a404f12b963f37f67814c1f,SS2 Class F,Alhaji,Lawal,Male,2009-06-07,Kogi,Unactive,None,Art
+fb10987f20ac4703ab67146a77a6e17c,SS2 Class A,Adebola,Adeola,Female,2010-09-11,Imo,Slightly active,None,Art
+e82c7d7b06e745f988bc539c9f4c3b79,SS2 Class D,Uchenna,Afolabi,Male,2008-04-05,Imo,Unactive,Dyslexia,Science
+a9ba5a27907b4e36978648f864de82e6,SS3 Class E,Opeyemi,Chisom,Male,2009-02-15,Kwara,Highly active,None,Science
+6db99102a48b4dbe957d94a106f028ff,SS3 Class B,Ejike,Abdullahi,Male,2007-02-08,Bauchi,Slightly active,None,Science
+2e85cb2176314e9d9de9f86322bd3388,SS2 Class C,Azubuike,Uzochi,Male,2007-10-28,Cross River,Troublesome,None,Science
+53cd6268610c437382999aa40cdf742b,SS1 Class E,Lanre,Jatau,Female,2007-03-13,Plateau,Troublesome,Dyslexia,Science
+56666f9f53ac4ab9b4672cd9362f5e5c,SS3 Class B,Ayodele,Uche,Male,2010-06-11,Imo,Active,None,Science
+473bd358610e4a64a1301617c2dff335,SS2 Class F,Chima,Ekenedilichukwu,Female,2009-12-05,Ebonyi,Highly active,None,Art
+6bebac31d4f84d72b3821cfdc083b73a,SS2 Class C,Tunde,Ifeanyichukwu,Female,2008-01-06,Rivers,Active,None,Science
+7866076514f74e8d95bcb8d04094dded,SS3 Class A,Ikenna,Ndubuisi,Male,2010-05-12,Plateau,Unactive,Dyslexia,Art
+0d557b618a174dfebfc00dc804f64d86,SS3 Class C,Uduak,Umaru,Female,2007-12-30,Sokoto,Unactive,None,Art
+39669fa759974043b3b1025bfff9f585,SS2 Class C,Enitan,Okafor,Female,2007-03-03,Ebonyi,Troublesome,None,Science
+f510ab53c7fe439f9190f938a66fd7f7,SS2 Class C,Efe,Chinedu,Female,2010-09-17,Yobe,Active,None,Art
+07f194f9c1154d6d8a4e5b70a6d964a3,SS1 Class B,Shehu,Tochukwu,Male,2008-09-09,Yobe,Active,None,Art
+d6d7b3b833094d35bf4df561f319c125,SS2 Class D,Kehinde,Ademola,Female,2009-05-27,Sokoto,Active,None,Science
+3d1148022702478b9f0fda8d05379ff6,SS1 Class D,Okechukwu,Abiola,Female,2010-02-12,Anambra,Active,None,Science
+1d48a071ab6147b1b93b4c3220500494,SS3 Class D,Nnamdi,Ife,Female,2007-08-25,FCT,Troublesome,Sickle Cell,Science
+770c779837cc463bb2a0345990604f62,SS2 Class D,Ade,Eniola,Female,2009-12-03,Sokoto,Unactive,Sickle Cell,Science
+5e6fea07c4534f1d81992fdfb31022f0,SS1 Class F,Itoro,Okafor,Female,2008-11-14,Kogi,Highly active,None,Art
+f6b751f79b7442459b1bc8952af43ab7,SS2 Class D,Otobong,Aminu,Female,2007-07-29,Bayelsa,Slightly active,None,Art
+c71d5e601d5246abb7e6427cbf780e3f,SS2 Class B,Onyekachi,Olufemi,Male,2010-03-14,Zamfara,Active,None,Science
+4fa03f26f6f740cca9ec8e49d1bdb8c0,SS2 Class D,Kayode,Olawale,Male,2007-12-12,Anambra,Slightly active,Sickle Cell,Art
+edcb8cb606924c639424aed51bac5c15,SS2 Class E,Chinweuba,Olujimi,Female,2008-12-05,Sokoto,Active,None,Art
+e87466d7ad6641bd93676a024fdc6e1b,SS1 Class B,Ifiok,Chinweike,Male,2007-03-28,Kwara,Highly active,Dyslexia,Science
+f1043785658b4523a0141de9f54ad0a2,SS3 Class D,Aliyu,Hamisu,Male,2007-05-10,Kwara,Troublesome,None,Art
+9793b9b413744146b2c5bd89b70b3420,SS2 Class F,Chukwuma,Ayodele,Female,2010-03-07,Lagos,Active,None,Science
+3e2b6091a092452a94a057a7b0cc1b3b,SS2 Class C,Uduak,Ebuka,Male,2008-02-06,Lagos,Active,None,Art
+4d3485c5c5c14eb4b27b3d901a16342c,SS1 Class F,Inyene,Olusegun,Male,2010-05-07,Gombe,Unactive,None,Science
+ce3714af99b44350af2b99b4d9acd158,SS2 Class C,Chi,Usman,Male,2007-03-31,Niger,Highly active,None,Science
+90e0f4a0fbdd49338bd58bf61efd76e9,SS2 Class E,Chinedu,Oluwaseyi,Female,2007-03-09,Kebbi,Highly active,Dyslexia,Science
+8861fe1858e248888a8381bec85aca46,SS3 Class D,Olanrewaju,Akpan,Female,2007-02-25,Adamawa,Unactive,None,Science
+11a726095edd4bbfa95976636daa2e68,SS2 Class D,Adebowale,Ikechukwu,Female,2007-06-27,Kaduna,Troublesome,Dyslexia,Science
+033d2bce575a4d2ca5c5650c8186a576,SS1 Class E,Enyinnaya,Emem,Male,2010-07-04,Ebonyi,Troublesome,None,Art
+7d7ddbedd284476cab88f83dd97dc9cd,SS1 Class E,Eniola,Bitrus,Male,2007-07-08,Abia,Troublesome,None,Science
+5cb85aedf5f64c97aefb63b11b049863,SS3 Class C,Rabiu,Ayotunde,Female,2010-10-02,Akwa Ibom,Highly active,None,Science
+75b17a55d4264982a43e4288a2b5b498,SS1 Class D,Efe,Chukwuebuka,Male,2009-07-29,Bauchi,Highly active,None,Science
+2d174fc96f7c45eaa72a6d8eb5122df8,SS2 Class B,Oluwafemi,Uchenna,Male,2006-12-06,Ebonyi,Active,None,Art
+a6846099f7294951859131d2bbda0242,SS3 Class D,Ayodele,Aminu,Female,2009-08-08,Ekiti,Active,None,Art
+eb6c1016cee644d09dac6e8345241ea6,SS2 Class B,Ogochukwu,Ayuba,Male,2010-02-28,Kano,Active,Dyslexia,Science
+7701f7bb7bc64e1f864ee6e389c5b31a,SS1 Class B,Ayomide,Abioye,Male,2010-04-11,Nasarawa,Unactive,None,Art
+97ac6aa8bb2448a3936357b66f81cf4f,SS1 Class E,Akpan,Oyibo,Female,2008-03-16,Adamawa,Active,None,Art
+3ed8c56cda094fa092828d8044b591f7,SS2 Class D,Olumide,Aminu,Female,2007-02-02,Abia,Unactive,None,Science
+4767d76c162f4a24af43613cd4aac9a3,SS1 Class B,Chukwudi,Femi,Female,2009-11-26,Adamawa,Troublesome,None,Art
+c01f36bf3e6d458bb367c28de1b294de,SS1 Class D,Uche,Olusola,Male,2009-03-17,Delta,Troublesome,None,Science
+ab0e664e9c3e42d591e1aa9676f72255,SS2 Class D,Ufuoma,Opeyemi,Male,2010-03-20,Ogun,Slightly active,Dyslexia,Art
+7e8adee707584201961e16d16105716b,SS3 Class F,Ekene,Uche,Female,2007-07-24,Kano,Unactive,None,Art
+7cd0129d2e8d4e87933420e6d9d80b8d,SS1 Class E,Olabode,Ejike,Male,2008-11-10,Bayelsa,Active,None,Art
+4223623bcc3e4dde9ad5cf06364d7c87,SS3 Class B,Chikelu,Chibuike,Male,2007-07-23,Jigawa,Highly active,None,Art
+989d9d4ae15c46668797b2c957207246,SS3 Class D,Adekunle,Yaƙubu,Male,2007-12-26,Ekiti,Unactive,None,Science
+8e48522346b94991a14eb70db380c73a,SS3 Class B,Okonkwo,Yalwa,Female,2010-09-18,Zamfara,Unactive,None,Art
+30e912f2f2b44abf8441aefd0299436a,SS2 Class F,Efemena,Umukoro,Female,2009-04-08,Nasarawa,Active,None,Art
+680bac63b8564035bdc9829015eabb27,SS2 Class E,Ademola,Tochukwu,Male,2007-08-04,Bauchi,Slightly active,None,Art
+3d85de89c21744298e2007247d137018,SS3 Class C,Segun,Nonso,Female,2010-07-19,Anambra,Slightly active,None,Science
+b63b4dc3a5594463b9e13ceab0cbc61f,SS3 Class D,Muhammadu,Abimbola,Female,2008-06-14,Kwara,Slightly active,Dyslexia,Science
+046a0df5cafd4613b2bb912d7da67785,SS3 Class A,Uzoma,Efe,Male,2007-06-15,Yobe,Troublesome,None,Science
+6786d50638ba4abc8b5305e517d2582e,SS2 Class C,Jatau,Kyauta,Female,2008-01-18,Gombe,Highly active,None,Science
+a9f948b24e6344bbbe493f43b118f68d,SS1 Class E,Olayinka,Olukayode,Male,2009-01-28,FCT,Unactive,None,Science
+8db06746792749739e781fd794e0d3ba,SS1 Class C,Chidubem,Ayotunde,Male,2007-09-03,FCT,Unactive,None,Art
+ff233d5f6ced415d98007c0287ea7ff5,SS1 Class C,Abiodun,Ifeanyichukwu,Female,2008-05-02,Enugu,Slightly active,Dyslexia,Art
+5a10412954ae4d1b8ce6424dbef59fe6,SS1 Class B,Kehinde,Ifeanyi,Female,2007-05-11,Plateau,Slightly active,Dyslexia,Art
+4e7ed827455a4762b428a656b3ee4d3b,SS3 Class F,Kayode,Chinwendu,Male,2008-06-21,Kogi,Active,None,Science
+b8a6171f1ee34dc4bb048a8b405bfdc9,SS2 Class F,Chikere,Salisu,Male,2007-01-08,Ekiti,Active,Dyslexia,Art
+be2d740a1e9b43bc90c7c006314d3441,SS2 Class E,Adewale,Yaƙubu,Male,2007-12-27,Enugu,Highly active,None,Art
+b0ae8f08c31e4bbcb36cb62b892e6161,SS1 Class C,Ese,Efe,Male,2008-03-11,Plateau,Unactive,None,Science
+bd1531c837644bdab108d4482f65fafa,SS1 Class B,Aminu,Adedayo,Female,2008-11-29,Taraba,Highly active,None,Art
+96ef2ad6b97e470386c8adfe7bf47042,SS3 Class C,Ejiro,Uchenna,Male,2010-05-20,Ondo,Active,None,Art
+98c7472a864e4a13829cfc0cfa02eaec,SS3 Class D,Tochukwu,Olufemi,Male,2010-05-08,Nasarawa,Troublesome,None,Art
+d52721e719bc443ebb02bebb48729a4d,SS2 Class B,Oghenekaro,Olufemi,Female,2009-05-19,FCT,Troublesome,None,Science
+5c62b3a23a3c463e8bd6cee631b1b099,SS1 Class E,Ɗanjuma,Kyauta,Female,2010-09-06,FCT,Unactive,None,Art
+b540b30e039f4a258d6168bd2defe193,SS3 Class B,Chidike,Chinwendu,Male,2009-04-10,Niger,Unactive,None,Art
+0ba6eab94639447ba067bdac88bd13d1,SS1 Class B,Akpofure,Ade,Male,2009-07-11,Imo,Troublesome,None,Art
+4ac9778d8da84ee48df56ac6f96b648a,SS2 Class A,Chukwuebuka,Olukayode,Female,2010-10-02,Rivers,Troublesome,Dyslexia,Art
+a34b6cf620534a42b1afdb65b289f224,SS3 Class D,Oghenekaro,Olujimi,Female,2009-10-08,Akwa Ibom,Slightly active,None,Science
+1a432f0a7daa49f080b6fce2de53790a,SS1 Class B,Uduakobong,Inyene,Female,2008-03-30,Nasarawa,Highly active,None,Science
+48ca765192f54f7b8323d342df6a8f93,SS1 Class F,Inyene,Toyin,Male,2010-08-29,Katsina,Troublesome,None,Science
+5738811d70c2403fba8d03aa782a65e0,SS1 Class D,Ige,Ɗanjuma,Female,2009-01-28,Jigawa,Unactive,Dyslexia,Art
+40a26c600d274659b72ada9b2f32751e,SS2 Class E,Lanre,Efe,Male,2009-04-01,Borno,Highly active,Dyslexia,Science
+1d34d08e7a4c45d49c99e04cf0e98b3b,SS1 Class B,Efemena,Adewale,Female,2010-09-23,Gombe,Slightly active,None,Science
+7de31a516694434390ba58e3d2762bdc,SS1 Class C,Lawal,Ikechukwu,Male,2008-12-26,Imo,Troublesome,Dyslexia,Science
+afbb411aa1234a8c93b7a88612f70c97,SS2 Class E,Uchenna,Ahmadu,Female,2009-03-28,Kwara,Unactive,Dyslexia,Art
+cfa701cd2631400ba6d794d30db95301,SS2 Class F,Kyauta,Tochukwu,Female,2006-11-24,Delta,Highly active,None,Art
+15ce6a664dc84a1eb2f9e5fa90164161,SS1 Class D,Enyinnaya,Salisu,Female,2008-07-09,Niger,Highly active,Dyslexia,Science
+8edddfcd1e524770bf897142fe716b14,SS2 Class E,Haruna,Iniobong,Male,2007-01-03,Plateau,Highly active,None,Art
+989bc4da9b37422baa8a616fc3b290d0,SS3 Class C,Chidiegwu,Ndubuisi,Male,2008-05-09,Osun,Slightly active,None,Art
+c693da1139c641ca9e50aa42ca6dfda1,SS1 Class F,Folami,Oghenekevwe,Male,2007-06-19,Kwara,Active,None,Science
+e893be3d73544a6fa160745985c7504b,SS1 Class B,Kayode,Adewale,Female,2007-05-27,Anambra,Highly active,Ulcer,Art
+96a9954fdc3341f98c1f55ab715629ee,SS3 Class E,Ekene,Adisa,Male,2007-01-07,Jigawa,Slightly active,None,Science
+9191b3634e2d4645adc7cac7fd72b050,SS1 Class C,Afolabi,Udo,Female,2009-01-20,Lagos,Highly active,None,Science
+f5c9b0479c1045728f6b40d09efba58b,SS1 Class F,Ese,Chike,Male,2009-08-10,Kogi,Slightly active,None,Science
+c342bd2bf295456e99675f06bd767e35,SS3 Class F,Oghenekaro,Balarabe,Female,2009-08-15,Lagos,Troublesome,None,Art
+43bfd93136054f54a021c0ca3531968d,SS2 Class A,Taiwo,Ibrahim,Male,2007-06-27,Akwa Ibom,Troublesome,None,Science
+3d67cde9283444c094c8b3b4a911d192,SS1 Class C,Aminu,Olufemi,Female,2008-08-11,Ebonyi,Active,None,Science
+2812859a1337439e8d4f5d272c7f0b79,SS2 Class F,Chikelu,Itoro,Male,2008-10-04,Benue,Troublesome,None,Art
+b07aa066735445eaa8949b8d00af5b3a,SS1 Class B,Chikelu,Olujimi,Male,2006-11-06,Oyo,Active,None,Science
+085b15fb4a8f4810b84c2f29980402a2,SS2 Class A,Obinna,Shehu,Male,2008-01-16,Benue,Highly active,None,Science
+48603b32b4fb4eb989c13de73b4206c5,SS3 Class D,Eniola,Chinweike,Female,2008-09-30,Katsina,Unactive,None,Science
+1238d630743b45a29c0f2fcfb3f6fe0d,SS2 Class F,Chidiebele,Obinna,Male,2009-09-04,Niger,Slightly active,None,Art
+43b9da13ec854f37bbc1a987aff8754d,SS2 Class D,Okorie,Ayodele,Female,2008-12-16,Niger,Slightly active,Sickle Cell,Art
+96fc734da0034d288a8f3653c9af18f8,SS3 Class F,Ademola,Shehu,Male,2010-04-29,Nasarawa,Active,Asthma,Science
+32a447b2ef04457d8dccc33aa9434aa0,SS1 Class C,Fumnanya,Nnamdi,Male,2007-10-08,Ogun,Troublesome,None,Art
+398d1ca68b6840b59d61fac36cd5e859,SS3 Class A,Inyene,Bitrus,Male,2008-01-13,Bauchi,Highly active,None,Art
+44007d5ae88d4719a6242b40a5cb63a2,SS2 Class D,Abubakar,Olamide,Male,2008-01-17,Kaduna,Active,None,Science
+0f44704f12474a4ea46998e8d39e198b,SS3 Class A,Chidubem,Enitan,Male,2006-11-07,Taraba,Troublesome,None,Art
+9854ce4e4ebf45c38ae9b4a72a79ea68,SS2 Class C,Muhammadu,Olawale,Female,2008-04-20,Anambra,Troublesome,None,Art
+ebd3461691b74d8e93016989bfbbb17f,SS3 Class E,Chinonso,Chinonso,Female,2007-10-21,Kogi,Troublesome,None,Art
+77fc97031fd54423b06c5c5649e2623d,SS1 Class D,Alaba,Aminu,Male,2008-11-02,Edo,Unactive,Dyslexia,Art
+670acc5cb3214f218dd8eb85b04d3376,SS3 Class D,Bukar,Oluwaseun,Female,2008-11-28,Sokoto,Unactive,None,Art
+8a3c3b5e801e41da85b1ed25f1533ae8,SS3 Class D,Eniola,Oghenekevwe,Male,2008-11-24,Benue,Troublesome,None,Science
+9918ee4614974658b010f7197e695d0d,SS3 Class B,Adebola,Ndidi,Male,2010-04-13,Plateau,Active,None,Art
+bc0a6a5d6e994e3ea3b137fc0a3450fc,SS1 Class D,Chijindum,Ejiro,Female,2007-05-04,Rivers,Slightly active,Dyslexia,Art
+069f14f140184c6e9a8cfa3c5283aac7,SS1 Class B,Adegoke,Ndubuisi,Female,2008-08-26,Rivers,Highly active,None,Art
+ac9ed156f63f4e41ba9aca5e176132ed,SS2 Class C,Chinwendu,Oluwafemi,Female,2010-06-13,Gombe,Unactive,None,Science
+964db03f93404fad9c4ad56bd6016237,SS1 Class F,Chike,Ndidi,Female,2009-05-17,Adamawa,Unactive,None,Science
+c3c75611ffe34a49854f92fff366bad4,SS3 Class A,Rabiu,Babajide,Male,2007-05-29,Imo,Active,None,Science
+9384ec2b44fe4cae9248a9a7ac1aa554,SS3 Class E,Kayode,Enitan,Male,2007-12-20,Kogi,Unactive,Dyslexia,Science
+2cd94cbbc19a458c835b1c8c0a4c9f7f,SS2 Class B,Oluwaseyi,Chi,Male,2010-02-19,Cross River,Highly active,Asthma,Science
+7135f221a6c9437f84dad06a7872bdeb,SS2 Class B,Ademola,Adekunle,Male,2008-07-05,Oyo,Troublesome,None,Science
+ff37d19c2e76428b873544f9ea83bf00,SS2 Class F,Oni,Abioye,Male,2008-06-05,Akwa Ibom,Troublesome,None,Science
+d0725b5ca2814044af96288295d82980,SS3 Class E,Adebowale,Bitrus,Female,2008-08-12,Ondo,Slightly active,None,Science
+785299f4175b498db81401027de1bdfe,SS3 Class C,Bamidele,Muhammadu,Male,2006-12-06,Adamawa,Slightly active,None,Science
+5230dfbd555342fea889803e5913f9d3,SS3 Class A,Aliyu,Olusegun,Female,2007-09-09,Nasarawa,Unactive,None,Art
+292bd156db9445709ac70ec0ab8ddeb4,SS3 Class D,Chimezie,Lekan,Female,2009-05-08,Nasarawa,Troublesome,None,Science
+7ed70ed7b194490ba961929e546e035a,SS3 Class B,Ogochukwu,Ifeanyi,Male,2009-04-28,Benue,Highly active,None,Art
+668409e3f1f8443ea99f131849c8a43f,SS2 Class D,Chizoba,Yaƙubu,Female,2007-03-15,Bayelsa,Active,None,Art
+0964fbbf8cd341b082b01cfdd045dd1c,SS3 Class A,Abubakar,Ekenedilichukwu,Female,2010-02-22,Adamawa,Troublesome,None,Science
+409d360250844242968b1625746f7891,SS1 Class A,Bukar,Ejiro,Male,2009-12-17,Lagos,Unactive,None,Science
+c5c5b37af85e46a19dad09b252c21221,SS2 Class C,Olusola,Chikelu,Male,2006-11-22,Kwara,Troublesome,None,Science
+d32e6dcd83bc44789d6ac7b86778043b,SS3 Class E,Uduakobong,Olawale,Female,2010-04-17,Oyo,Highly active,None,Art
+de8ede0ba85c4e4a804b6fabfcf56188,SS3 Class C,Hamisu,Kehinde,Male,2009-09-11,Sokoto,Slightly active,None,Science
+0de051a669ca47d2b64414fd8ae769ed,SS3 Class C,Ige,Muhammadu,Male,2008-01-04,Ondo,Troublesome,None,Art
+9f64eeed5c9d427d84b871bb300568d2,SS1 Class B,Kayin,Uduak,Female,2008-12-10,Kaduna,Troublesome,None,Art
+71299889a01a4992bf9d3e64c1a6423b,SS1 Class F,Bello,Ademola,Male,2006-11-29,Ondo,Unactive,None,Science
+445dcc38341c44948d366dfcc28ebd70,SS1 Class A,Ekenedilichukwu,Oni,Male,2009-09-24,Borno,Highly active,None,Art
+49bc473fed7b4656a18a15368c99a894,SS3 Class B,Ndubuisi,Ndidi,Male,2009-03-12,Kwara,Troublesome,None,Science
+7c16128db2c04394a17f29e170286046,SS2 Class C,Chima,Shehu,Female,2009-03-05,Lagos,Troublesome,None,Art
+a14923c2f920464c8763fcd01f15c7b6,SS2 Class B,Ifeanyichukwu,Ahmadu,Male,2008-07-25,Akwa Ibom,Troublesome,None,Art
+b5b453ca3d42493c8c9fd3349bdf0377,SS3 Class A,Alhaji,Dada,Female,2009-06-05,Bauchi,Unactive,None,Art
+03802b708d03491e8f8d5238288b78b5,SS2 Class C,Ayomide,Enitan,Female,2007-08-20,Delta,Troublesome,None,Science
+3985fb6217dc4effa87213f98d605936,SS3 Class A,Chikelu,Bukar,Female,2008-02-13,Plateau,Active,Dyslexia,Art
+1d0bc9bde9b545cf97665cdafe049059,SS1 Class E,Onyekachukwu,Shehu,Female,2009-11-08,Rivers,Highly active,None,Science
+a5d04d531e1242e3b27292b6762172ed,SS2 Class B,Bello,Chidike,Female,2007-10-15,Bauchi,Active,None,Art
+eec259dc7f95497ca76aa6ced50755d9,SS2 Class C,Abubakar,Ese,Male,2010-02-06,Taraba,Highly active,Dyslexia,Art
+b495db4e82454fb48ab7706eb77350ca,SS2 Class B,Adedayo,Emem,Male,2008-07-31,Kano,Troublesome,None,Science
+7b85179ad5b047e0aa5d932b45ff2c83,SS2 Class D,Dayo,Eseoghene,Female,2007-04-14,Borno,Highly active,None,Science
+74eff5453e654603b8e3654bfaf14ff0,SS2 Class C,Adetokunbo,Onyekachi,Male,2009-02-10,Zamfara,Troublesome,None,Art
+30cbd7556232417aa50741818d1fb540,SS3 Class A,Muhammadu,Chibuzo,Female,2010-03-19,FCT,Highly active,None,Science
+bf0d073d821c43369970cf60ebff8d15,SS3 Class D,Olanrewaju,Lawali,Male,2010-05-31,Jigawa,Troublesome,None,Science
+11df12d7dd304e89a2f235f2e11b868d,SS1 Class A,Inyene,Ugochukwu,Male,2009-06-11,Borno,Highly active,None,Art
+dabac50dca3d485985ce099c46b82659,SS3 Class C,Oluwasegun,Olusola,Female,2006-10-19,Delta,Slightly active,None,Science
+c9a7d91fef2a4713970210496a39aaa6,SS3 Class A,Chidi,Okafor,Male,2009-11-28,Imo,Unactive,Dyslexia,Art
+00a81de9d20f47d084656d6b81fb18b3,SS3 Class D,Chinweuba,Adetokunbo,Female,2008-02-10,Kaduna,Active,None,Science
+d664d2644c6e47ffb9de7a3a486822b9,SS1 Class F,Rabiu,Ugochukwu,Female,2008-04-26,Ogun,Troublesome,None,Art
+a8f1e091ffb8402d9475dbc996418ced,SS1 Class F,Usman,Bello,Female,2008-09-03,Ondo,Slightly active,Asthma,Art
+7250ee18260a49629d81b7f57d5911c6,SS1 Class E,Fumnanya,Chinweike,Male,2009-07-12,Nasarawa,Active,None,Science
+551ac8ea585a4afabbfdcc1289e06ab3,SS3 Class D,Nonso,Ɗanjuma,Female,2010-03-17,Ebonyi,Unactive,None,Art
+6090d6978b1e4b9d834b9fbb8d4a75b8,SS3 Class D,Onyekachi,Ayomide,Female,2007-11-21,Delta,Slightly active,None,Science
+de9e37575260401eaecf67d2749176f4,SS2 Class F,Nnamdi,Okoro,Female,2007-09-28,Jigawa,Unactive,None,Art
+3d225c30b28f41debb140bc3304b8590,SS2 Class C,Chibueze,Oluwaseyi,Female,2007-08-02,Benue,Highly active,None,Science
+db23aa8c3bca4f85a20a60ac9261549d,SS3 Class F,Kyauta,Rabiu,Male,2009-03-29,Ebonyi,Unactive,Dyslexia,Art
+517400f80b2c482aa9288e92c68a152f,SS2 Class B,Onyekachi,Udo,Female,2006-11-26,Kebbi,Troublesome,None,Science
+e9d68f23b4894070b914f8a8bea4ff31,SS2 Class C,Oghenekevwe,Oghenekaro,Female,2007-04-27,Osun,Troublesome,None,Science
+fd08b32c62d64e93a1985d54cfb87e6f,SS3 Class C,Dada,Adedayo,Female,2007-11-04,Plateau,Slightly active,None,Art
+a6eab79ed21c42f88ada4f80a9e782d4,SS2 Class B,Chinonso,Emem,Male,2009-10-29,Delta,Troublesome,None,Art
+f6febc0e7ecd4bafa6f05fcffb16e5db,SS3 Class F,Chidiebele,Olayinka,Male,2008-11-06,Adamawa,Unactive,None,Science
+f72169bb80964718a051acef097a1e10,SS2 Class B,Ahmadu,Chukwuebuka,Male,2008-09-19,Ogun,Highly active,None,Science
+19b17e80dea44e1794fd9ad39716108e,SS3 Class A,Ndidi,Ekenedilichukwu,Male,2007-10-15,Abia,Troublesome,Ulcer,Art
+1986b4b270b74868985480f0dfcaf0b7,SS1 Class F,Abiola,Babatunde,Female,2008-12-04,Akwa Ibom,Troublesome,None,Science
+03edd1f874f94d17a912b4bf86a4bae4,SS2 Class C,Uduak,Efe,Male,2007-04-03,Edo,Unactive,None,Science
+def5768968f44bcea4e75e8eb8f21423,SS1 Class C,Ɗanjuma,Babatunde,Male,2008-09-07,Cross River,Slightly active,None,Science
+1327f1bc2784478fb84f16b3a79fbfaf,SS1 Class F,Okorie,Okoro,Male,2007-04-19,Bauchi,Unactive,None,Science
+43d88870f81d4aa188120a8e78308930,SS1 Class A,Chisom,Ndubuisi,Male,2008-06-08,Taraba,Highly active,None,Art
+65c17795b15546bc9f8ded9756abf2f1,SS2 Class D,Efemena,Ikechukwu,Male,2007-03-10,Taraba,Highly active,None,Science
+541cdfcdda0d4a5f948f8b74a65bb1f2,SS3 Class C,Olukayode,Shehu,Female,2007-12-19,Bayelsa,Active,None,Science
+889b78d5dbfd497eaca2b148da330aa1,SS1 Class C,Ekene,Chisom,Male,2009-07-16,Abia,Troublesome,None,Art
+a075e92751104492b4427e0b61484bb3,SS3 Class A,Ayotunde,Chibuike,Female,2008-09-08,Gombe,Troublesome,None,Science
+7cea2045c268483ea32f2e63b7fddd71,SS2 Class F,Umaru,Emeka,Male,2009-01-24,Edo,Slightly active,None,Science
+9e11d2cd09304ef68a80068ddf547e50,SS1 Class D,Oluwasegun,Chikelu,Female,2008-01-14,Sokoto,Unactive,None,Science
+af34cf65a19344b2bc19e71d118405ad,SS3 Class F,Chisom,Efemena,Male,2007-12-10,Gombe,Unactive,Dyslexia,Science
+3a3c8a71ff574e2b8991ab9bebc2026f,SS1 Class E,Iniobong,Ifiok,Male,2010-06-04,Kebbi,Highly active,None,Art
+fa7457616f1841089723199dbf2c14a0,SS3 Class C,Olukayode,Ahmadu,Male,2007-10-09,Nasarawa,Troublesome,None,Science
+b4323070a23d4c2f82a796891933918c,SS2 Class F,Nnamdi,Olamilekan,Male,2008-08-06,Plateau,Highly active,None,Science
+2a96e1e271944ae299bad7aedf615a5c,SS2 Class C,Adebowale,Nonso,Male,2008-08-09,Cross River,Troublesome,None,Science
+0769165fe7464cb98ca9cf07b1aa0f6a,SS2 Class C,Chidubem,Ayo,Male,2010-03-21,Adamawa,Troublesome,None,Art
+0e5dd462cbd04ef2930a37df0bc61066,SS2 Class B,Ɗanlami,Adekunle,Male,2008-09-30,Kwara,Active,Dyslexia,Art
+6e417d475ff545ea9bc440f14b1a269b,SS1 Class D,Oyibo,Eniola,Female,2010-09-17,Katsina,Troublesome,None,Art
+697c392387fa441abe83b91f25440fe0,SS3 Class F,Ugochukwu,Ɗanjuma,Female,2007-11-05,Plateau,Highly active,None,Science
+2e183554cae24e66ae8a781390e0a95b,SS1 Class A,Ejiroghene,Alhaji,Male,2008-08-06,Katsina,Highly active,None,Art
+9c07a75114374509acd1586a2b840c67,SS2 Class B,Adisa,Inyene,Female,2008-07-23,Oyo,Troublesome,Dyslexia,Art
+aee1e86b9ea546aaa1ee6c5bdeef580f,SS3 Class E,Ɗanlami,Chidubem,Female,2008-02-17,FCT,Active,Dyslexia,Art
+9549c931e9af499dbf671eec3da70577,SS3 Class B,Haruna,Temitope,Female,2009-04-05,Ebonyi,Active,None,Science
+a34db7c5760d4bbbbb70b3a124a35cf2,SS3 Class C,Olufemi,Chigozie,Male,2010-01-05,Gombe,Highly active,None,Art
+aab612c9415d474ab5a669814104a8b5,SS3 Class E,Lanre,Adewale,Male,2007-12-24,Adamawa,Troublesome,None,Art
+771ad655cdfc4ee0a61ede900267deb3,SS1 Class C,Chisom,Onyeka,Male,2008-07-29,Kaduna,Unactive,None,Art
+8beddb12ad77482f89a23a89e6b5a92c,SS1 Class D,Chidubem,Ndubuisi,Female,2010-09-10,Ondo,Unactive,Dyslexia,Science
+f1faf665711543f392e89d1028711733,SS2 Class A,Uzochi,Ekene,Male,2006-12-08,Katsina,Highly active,None,Art
+4c955f6a966b4964bcd6bdca5876fd09,SS2 Class E,Umukoro,Enyinnaya,Female,2009-12-08,Bauchi,Slightly active,None,Science
+b0b862ef6c9f42b9b6478986a3917c99,SS3 Class F,Kelechi,Shehu,Female,2009-06-02,Delta,Troublesome,Dyslexia,Art
+4d57d880d865469ab4f3310340066ff2,SS3 Class A,Eseoghene,Chike,Female,2007-11-05,Niger,Slightly active,Dyslexia,Science
+da743152627b41a1bfd6f23232ffe294,SS2 Class C,Uduakobong,Olumide,Female,2008-12-03,Kaduna,Unactive,Sickle Cell,Science
+61a117293cb943509b4da0fe7bb38605,SS1 Class B,Chukwuemeka,Umar,Male,2008-02-04,Rivers,Highly active,None,Art
+4bbe4aff93264ffd9be4bf5192698698,SS1 Class B,Ime,Ademola,Male,2008-01-10,Plateau,Unactive,None,Art
+059dd55d4b944e30b303f438fe2110d0,SS1 Class E,Akpofure,Aliyu,Female,2007-04-04,Enugu,Highly active,Asthma,Art
+6553867da8814fd3947d577bfa5a91ca,SS2 Class C,Dayo,Chijindum,Female,2008-07-06,Enugu,Unactive,Dyslexia,Art
+dd750e9890e0495f8212b554464458b4,SS3 Class D,Udo,Oluwasegun,Male,2009-02-04,Ebonyi,Highly active,None,Science
+f93e08d5bea24dfe873f6e1baf908e3c,SS1 Class D,Idowu,Chinweike,Male,2008-05-17,Plateau,Slightly active,None,Art
+bec39a379b3d44bda91e314e0c8e29e3,SS3 Class F,Oluwaseyi,Oluwaseyi,Female,2007-05-10,Rivers,Troublesome,Sickle Cell,Science
+e726be23e77648869534ee1d7f2984f5,SS2 Class B,Femi,Onyeka,Female,2008-10-18,Abia,Active,None,Art
+3ae909fecc8248da8696f5e64944051b,SS2 Class F,Ɗanladi,Chinonso,Male,2007-08-17,Katsina,Unactive,None,Art
+3810ae665a3144cc8d4b69a99b689c88,SS3 Class B,Ndubuisi,Ɗanjuma,Female,2010-05-14,Kebbi,Troublesome,Dyslexia,Art
+402913ec9ef2493eb0ac7d7ba2f963a3,SS1 Class F,Chidiebere,Segun,Female,2008-12-22,Ondo,Unactive,None,Science
+c478f6f1b88e4318816d83edad81f8bd,SS1 Class E,Ifiok,Usman,Female,2008-07-18,Delta,Highly active,None,Art
+2303f6c6d69d42f1ae4c84ffa8c01f05,SS3 Class A,Nonso,Femi,Male,2008-11-11,Delta,Troublesome,None,Science
+a0a11839e745470498dfbc3ca0d4de3d,SS2 Class A,Obi,Enitan,Female,2008-04-13,Benue,Active,None,Art
+c9e260744f1649a08a17991ea5769411,SS2 Class D,Folami,Olanrewaju,Female,2009-10-12,Ekiti,Troublesome,Dyslexia,Art
+5d678bb1945e42e4888a93ec70d9c9f8,SS2 Class C,Fumnanya,Babatunde,Male,2006-12-13,Niger,Active,None,Art
+e8dd5e5a17124b16a1a4344fbb7bee03,SS1 Class A,Ekwueme,Abioye,Female,2006-10-16,Gombe,Active,Dyslexia,Art
+6a5e6920bf5a47e693a3dd5a4b8c5bdc,SS2 Class B,Chidiebube,Ikenna,Male,2008-06-13,Niger,Slightly active,Dyslexia,Science
+c958e75e21d54971b36749b52cf6bf75,SS2 Class D,Alaba,Chukwuebuka,Female,2009-02-12,Katsina,Active,Dyslexia,Science
+5da8d6d2f8b34a8ba05fb8bc8a16a06c,SS3 Class D,Ifeanyi,Ugochukwu,Male,2007-12-21,Edo,Slightly active,Dyslexia,Science
+45c45a3ee9da484a80759f1f87e5f0fe,SS1 Class C,Ogochukwu,Umukoro,Male,2009-05-19,Kogi,Unactive,None,Science
+e9ff1cae41c84a8caa1f955ad499da99,SS3 Class E,Chi,Abidemi,Female,2007-11-05,Kaduna,Active,Ulcer,Art
+f7a67b947b5a411ab1b64afed31edf1a,SS3 Class A,Chikere,Chukwuebuka,Female,2008-08-05,Jigawa,Unactive,None,Art
+ded255d0bf1e43668b8e63d4ce7607ad,SS2 Class E,Efemena,Adetokunbo,Female,2009-05-14,Kebbi,Unactive,Dyslexia,Art
+77e490c71d7b43138de22f1c56b60afc,SS1 Class E,Oni,Toyin,Female,2009-07-13,Kano,Active,None,Science
+c1101266240846dc9346d1a9f6802cdb,SS2 Class D,Chike,Akuchi,Female,2008-09-15,Abia,Active,Sickle Cell,Art
+ad238d36dc324c97b9c1e262f76c8ede,SS2 Class F,Ahmadu,Balarabe,Male,2008-05-28,Jigawa,Highly active,None,Science
+65bcc272fadd4ea3aca5e2fdb966442a,SS1 Class B,Olusegun,Chukwuma,Female,2010-06-14,Ogun,Highly active,None,Science
+8eac0a33cdf944a79882b5c1f79efd70,SS2 Class A,Chidike,Jatau,Male,2007-09-21,Taraba,Active,None,Science
+6502d6a2ca6a4224971e16cc5da36f1b,SS3 Class C,Ekundayo,Abidemi,Female,2008-12-09,Gombe,Active,Ulcer,Science
+1fa382e8895c4d9983b38eb403902c5d,SS2 Class E,Dada,Chinwendu,Female,2006-12-31,FCT,Troublesome,None,Art
+bfbf397bac3e4b0d9e5ba13d746cdb77,SS3 Class F,Chidiebube,Chidiebere,Female,2007-01-03,Edo,Slightly active,None,Science
+618ae30595a54afa831d029fac1e86d8,SS2 Class C,Itoro,Rabiu,Male,2008-04-24,Bayelsa,Unactive,None,Art
+5f18e583f0b6483fa377f6f1d289f0ab,SS1 Class D,Ayuba,Eniola,Male,2008-03-16,Yobe,Troublesome,None,Art
+78b2b5493bdb409eacc216a01bbc91f7,SS3 Class F,Mamman,Oluwasegun,Female,2008-01-11,Yobe,Slightly active,None,Art
+f1738856e25d46eb9e9a9f83066803ee,SS3 Class E,Mamman,Olayinka,Female,2007-05-10,Kaduna,Highly active,None,Science
+9c2e58deea4e461793f8382b8fb864e4,SS1 Class B,Chinonso,Ɗanlami,Male,2008-08-16,Edo,Slightly active,None,Science
+a2a9d4d8102e4de5a5cc8bf738ab854c,SS1 Class B,Abdullahi,Ejiro,Female,2007-09-19,Kano,Highly active,None,Science
+b379cb1ee8cd40ccb6da3ca0d2e82f38,SS1 Class C,Olujimi,Azubuike,Male,2008-05-20,Enugu,Unactive,Sickle Cell,Art
+1dde7969688643dba6348e784d5c55c7,SS1 Class A,Lekan,Olumide,Female,2009-01-03,Akwa Ibom,Slightly active,Asthma,Science
+0986bbebf23e423d8b9bd93423c86d30,SS1 Class A,Oluwasegun,Efemena,Female,2008-12-06,Yobe,Highly active,None,Art
+1dba12677e1c45a1bef518a64dead645,SS3 Class F,Segun,Ndidi,Female,2010-06-05,Borno,Troublesome,None,Science
+899ca782e3234d1abc1bdacc18e19331,SS2 Class A,Bello,Chijindum,Female,2007-07-25,Enugu,Highly active,None,Science
+5efa9c5b74214f46a37e4b0122bae10e,SS1 Class D,Ogochukwu,Lekan,Male,2006-12-23,Gombe,Highly active,None,Art
+b24cc64fbe3e4e57b30a9e32aba4fc03,SS1 Class E,Femi,Uduakobong,Male,2010-04-22,Sokoto,Slightly active,None,Science
+965befdf6b4b44118a4a0e2df22b5b98,SS2 Class B,Chukwuebuka,Chigozie,Female,2008-01-24,Bauchi,Unactive,None,Art
+e2aa7a5d278e400dba0266efbe055787,SS2 Class B,Chidi,Ikenna,Female,2009-03-31,Delta,Slightly active,None,Art
+d56ce8ea19594b5aa7a8f6366a35df59,SS3 Class A,Aminu,Chibueze,Female,2009-03-01,Adamawa,Troublesome,Dyslexia,Science
+f065c817687a48509d9b62317d45d8ef,SS3 Class A,Idowu,Chidiebele,Female,2010-05-29,Kaduna,Highly active,Dyslexia,Art
+b0b63bcf08604833879d0cdaf396ea37,SS1 Class C,Ndubuisi,Chinwendu,Male,2007-12-14,Ogun,Troublesome,Dyslexia,Art
+71d7966571814dcfb79efc6e5edb0d3c,SS2 Class C,Dayo,Chukwuemeka,Female,2008-08-17,Bayelsa,Slightly active,None,Science
+5cd8fe1adafe48a9bc71e0bef3579560,SS1 Class E,Ife,Itoro,Male,2007-07-08,Benue,Troublesome,Dyslexia,Art
+5e09a9eeaf884decbb1e143b196f4dfa,SS1 Class E,Chike,Chinwendu,Male,2010-05-15,Cross River,Slightly active,None,Science
+a5135ea0fa53434da6d5901d8b621d41,SS3 Class C,Uche,Okoro,Female,2008-04-25,Niger,Unactive,None,Science
+46a02a9b65ec4acd8f8035f55bd20c98,SS2 Class A,Ejiro,Emeka,Female,2008-06-13,Imo,Active,None,Science
+f2f25eef1f454bfdb7dc67e030974b2b,SS3 Class B,Otobong,Efe,Male,2007-09-02,Adamawa,Unactive,None,Science
+1777e8cb74684b9892fe2fded918b3e5,SS3 Class F,Olamide,Ikechukwu,Male,2006-12-30,Plateau,Troublesome,None,Art
+a3b5cecea4464e72b64c911aa9ab364a,SS3 Class B,Chinweuba,Iniobong,Female,2010-02-03,FCT,Active,None,Art
+0cf2b69b05774ea9b899924698de8ebb,SS1 Class C,Aminu,Folami,Female,2009-04-24,FCT,Highly active,Dyslexia,Art
+fd235def3e5a47e39560db22c96b5edb,SS2 Class B,Usman,Shehu,Female,2010-09-10,Enugu,Highly active,Dyslexia,Science
+34885a4690884eaf89776598203c8c25,SS1 Class A,Uzoma,Okechukwu,Male,2009-08-10,Plateau,Highly active,None,Science
+8de08fc2c3e14a85946ef10411906f50,SS3 Class D,Enitan,Olawale,Female,2007-12-01,Cross River,Unactive,None,Art
+d0243d723748467f961d33ba350843f0,SS2 Class C,Akachi,Uduak,Male,2008-07-23,Kano,Troublesome,None,Art
+c63d04ee541c4a86bba5cd2fdea45c19,SS2 Class E,Adeola,Aliyu,Female,2006-11-17,Cross River,Unactive,None,Science
+989240ace68943a989e48e8c25c61c45,SS1 Class E,Oluwafemi,Chidike,Male,2009-04-04,Edo,Active,None,Science
+fbe94499dbc040fd86fb7bf300b9d4a3,SS1 Class B,Amadi,Iniobong,Female,2007-12-22,Ondo,Troublesome,None,Science
+8a4b8f7c21474a15bcce96f6250a4578,SS1 Class D,Mamman,Chimezie,Female,2009-04-25,Gombe,Highly active,Dyslexia,Art
+1c24220e2cab47e78c6b66e5402adf9c,SS1 Class F,Chinweuba,Uzoma,Male,2007-10-05,Edo,Active,None,Art
+21bddb41069947319dcf8766a93b12cd,SS2 Class D,Abdullahi,Ayo,Male,2007-03-29,Ogun,Highly active,Dyslexia,Science
+c9d6a63bca3c4f5f9bb5c40c03cde2e3,SS2 Class E,Rabiu,Musa,Male,2010-02-18,Kaduna,Active,None,Art
+040a3aae52e24fd996bf10ab3ce915e7,SS3 Class A,Femi,Femi,Male,2009-06-07,Ogun,Active,Dyslexia,Science
+20733f6d0d6a45b383ef20162c9b662e,SS1 Class B,Chidiegwu,Chijioke,Male,2008-11-26,Kaduna,Slightly active,None,Art
+1d181ee986ad4a8cabc4123ebde13c1b,SS3 Class B,Onyeka,Chinwendu,Male,2008-04-02,Benue,Highly active,None,Art
+72c22a1679eb4168904556e5bee3eb79,SS1 Class F,Femi,Ayotunde,Male,2009-07-19,Nasarawa,Active,None,Science
+97fa7f04836340079cae9610c72c1fe3,SS1 Class D,Onyekachukwu,Onyeka,Male,2009-08-08,Ekiti,Slightly active,Dyslexia,Science
+38b77c0780fb4296b3b6a09b1beaf6ac,SS2 Class D,Obinna,Chi,Male,2008-05-27,Oyo,Unactive,Dyslexia,Science
+ba2c98ce0b19488e9d77a45ef206c269,SS1 Class F,Akpofure,Chukwuebuka,Male,2007-10-03,Rivers,Active,None,Science
+a8addf36ddf245eba8a3f341c8819065,SS2 Class A,Uduakobong,Nnamdi,Male,2009-05-19,Katsina,Active,None,Art
+a4b1f991754246468d37a539857dd3b3,SS2 Class D,Aliyu,Haruna,Male,2008-11-04,FCT,Slightly active,None,Art
+ffa361be0f9240e187f97d05f6ca6b8b,SS3 Class F,Ibrahim,Eseoghene,Male,2008-06-28,Adamawa,Unactive,None,Art
+6d20449666d0437198e88ebb7a9e8eef,SS3 Class D,Tochukwu,Inyene,Female,2007-05-31,Nasarawa,Unactive,None,Art
+b65feea97d8242649ba362e7afa415e5,SS3 Class E,Ese,Okechukwu,Male,2010-08-25,Bayelsa,Highly active,None,Science
+e63658c912d0498db18d4d05e8e22743,SS1 Class E,Tochukwu,Lawali,Male,2008-11-02,Kano,Active,None,Art
+25f934bf9bb941559275eb9414aeaf5c,SS3 Class B,Uche,Chigozie,Male,2010-08-04,Cross River,Troublesome,None,Science
+9fd34579466742cea04e178c10d08d11,SS3 Class D,Chukwudi,Olayinka,Male,2010-07-11,Bauchi,Troublesome,None,Art
+b64fa54a8c61465495da75c1a21150f9,SS3 Class C,Oghenekevwe,Ayotunde,Female,2007-10-26,Adamawa,Unactive,None,Art
+98eeac2bfe9f4caaa182f347533f5a72,SS1 Class E,Adebola,Akuchi,Female,2007-11-01,Rivers,Active,Dyslexia,Art
+816bcb9f742641938b7e6b3c87d292a6,SS2 Class D,Olujimi,Chinedu,Female,2007-06-18,Taraba,Active,None,Art
+cb08587d1963426dae218b099afd4015,SS2 Class B,Bukar,Uche,Male,2009-08-30,Kebbi,Troublesome,None,Science
+a79b44b6da504fed9d4a3d81b3a7d0e0,SS1 Class C,Oyibo,Ikenna,Female,2010-02-17,Ogun,Active,Dyslexia,Science
+8d244e3ec4da4ddba0b15abaa6a27967,SS1 Class E,Olanrewaju,Onyekachi,Female,2007-11-13,Cross River,Slightly active,None,Art
+6e191042370b40639d90e79eb888f6ed,SS1 Class D,Balarabe,Abiodun,Female,2009-09-29,Ekiti,Unactive,None,Art
+69efafb13a7e4e14a359eee173991a47,SS1 Class F,Olufemi,Enyinnaya,Female,2008-10-06,Borno,Highly active,Dyslexia,Art
+66132e697418410993d1bf0f56c438e4,SS2 Class B,Chi,Amadi,Female,2007-01-27,Kwara,Active,None,Science
+50032b3518574bafbac7e2b96a7e4c36,SS1 Class E,Rabiu,Chisom,Male,2007-03-27,Nasarawa,Active,None,Science
+4140752caa44425990018b7b6d4067f4,SS3 Class B,Idowu,Oghenero,Female,2008-05-07,Ebonyi,Active,None,Art
+afd380c42713482cb41ea3ac5fd23109,SS1 Class D,Adegoke,Okonkwo,Male,2007-02-28,Bayelsa,Active,None,Art
+175a81ec112f4612b9699ed2ec48bf55,SS2 Class E,Uche,Okoro,Female,2008-09-22,Rivers,Slightly active,None,Science
+6e8f75a117dd4d8195da705cd4ef00aa,SS2 Class B,Ikenna,Uchenna,Female,2009-01-08,Gombe,Unactive,None,Science
+5f65c8cebd214c11be9d61ee18b87245,SS1 Class A,Chisom,Abdullahi,Female,2009-09-09,Adamawa,Active,Dyslexia,Art
+0f5ae9d38e6e4003a14f3f12cfd01cbd,SS1 Class F,Adekunle,Olukayode,Male,2010-02-07,Delta,Highly active,None,Art
+8fca7b6a8fc44092b4e559e596229348,SS3 Class A,Chuks,Amadi,Male,2009-07-14,Taraba,Unactive,None,Science
+692ac1391f4a4ca1ab85fd595463adc7,SS2 Class A,Chidike,Chukwuebuka,Male,2007-06-28,Kebbi,Unactive,Asthma,Art
+f0ede303aa53419c9fa4bb9f5a856750,SS2 Class F,Efemena,Olufemi,Female,2009-12-18,Akwa Ibom,Slightly active,Dyslexia,Science
+ea74bb18de3b496fac4596f6c012a0ff,SS2 Class A,Akpofure,Ekenedilichukwu,Male,2007-03-01,Gombe,Troublesome,None,Science
+49a214aef7e848e58d2b91efb8976ec5,SS2 Class B,Obi,Ugochukwu,Female,2009-03-18,Osun,Unactive,Dyslexia,Art
+1a85910d5a054c118ffca6b199b479d4,SS1 Class F,Abioye,Azubuike,Female,2010-01-14,Taraba,Unactive,None,Science
+279c658a36764ce581e5c9f693f277cc,SS3 Class E,Iniobong,Ola,Male,2008-04-12,Imo,Highly active,Dyslexia,Science
+d8e7012f39684c81bb70c3b8a81fdec3,SS1 Class B,Uchenna,Akachi,Male,2010-10-08,Delta,Active,None,Art
+8e676a01d86a446099a1120e1bb43332,SS1 Class B,Akpan,Ife,Male,2007-03-25,Yobe,Highly active,None,Art
+47503f1dc33a4f6c9d691fba5e187b24,SS3 Class E,Dayo,Ayotunde,Male,2009-09-18,Adamawa,Highly active,None,Science
+6dda4f8dcea64f4cb9e58ff092f837d4,SS1 Class F,Olusegun,Olamide,Female,2010-07-28,Abia,Highly active,None,Art
+c4767556f97b42dd8f9b72aed85c16bd,SS1 Class D,Chike,Oluwatoyin,Female,2007-06-02,Ogun,Slightly active,None,Art
+accb461a9d1343639f294a8bd1846c39,SS3 Class F,Adebayo,Oyibo,Female,2009-05-01,Benue,Highly active,Dyslexia,Science
+9be7173706b842318e867f3ca487eeab,SS3 Class D,Ibrahim,Okafor,Male,2010-02-20,Akwa Ibom,Unactive,None,Art
+b18753e6d4574ad9a867a096edd877c8,SS2 Class C,Olabode,Femi,Male,2008-11-30,Yobe,Troublesome,None,Art
+45f50c522e2f4f77876979d644777442,SS1 Class C,Chibuzo,Chima,Female,2007-04-22,Jigawa,Active,None,Art
+ebe9e2074f194ec0832d4526b3e4110a,SS1 Class F,Chisom,Femi,Male,2009-04-27,Enugu,Highly active,None,Art
+2e7098380190462099dcabd056febfb9,SS1 Class A,Adetokunbo,Chidi,Male,2008-12-29,Benue,Unactive,None,Art
+a847bce790fa4b57a4ac2130deaf528d,SS3 Class F,Chidiegwu,Jatau,Female,2007-05-15,Zamfara,Highly active,None,Science
+bdb025ff245145a491d059b26699cd99,SS1 Class C,Ndidi,Olukayode,Male,2008-10-03,FCT,Troublesome,None,Science
+177d6e7e07d944ceb8c88faea2178f84,SS2 Class D,Abiodun,Chizoba,Male,2008-04-30,Bauchi,Slightly active,Dyslexia,Art
+604e46cb371242d187cdb6a1bf012e32,SS3 Class E,Ese,Adebowale,Female,2010-04-09,Nasarawa,Active,None,Art
+284bf96257444596b42221676b7a2460,SS3 Class E,Akpofure,Bitrus,Female,2008-08-15,Gombe,Unactive,Dyslexia,Science
+530ac1c7b8ba43688fc777685ebbcca5,SS1 Class C,Ola,Emem,Male,2008-02-20,Delta,Active,None,Art
+98a21f1c914d4faeb10013a7c6deb2f0,SS3 Class A,Obinna,Chukwuebuka,Female,2007-04-10,Gombe,Active,None,Science
+27d415b60d7745a0a222b6a615bfbe97,SS2 Class C,Okechukwu,Lekan,Female,2009-01-24,Kano,Active,None,Science
+0cbd3c039e2a44ac8122b5b3284c03d2,SS1 Class D,Chikelu,Chibueze,Male,2008-06-26,Yobe,Active,None,Art
+716fda0a45a8482994e286e5ac8936bc,SS2 Class E,Okorie,Kayode,Female,2010-04-02,Kaduna,Active,Dyslexia,Science
+9b69554d7c54435fac8c3b6aa974d079,SS2 Class A,Haruna,Oghenekaro,Female,2009-03-21,Katsina,Highly active,None,Art
+372f871a45ee432daa07f2137129cec7,SS1 Class E,Oyibo,Ɗanjuma,Male,2008-12-13,Akwa Ibom,Slightly active,None,Science
+585d3f861d2344e6832920b7c143f426,SS1 Class D,Enyinnaya,Ife,Female,2010-09-07,Taraba,Unactive,None,Art
+ad9fb00d4882473c9c6345ab6e0ed1e8,SS3 Class B,Dayo,Ikechukwu,Male,2008-07-17,Bauchi,Slightly active,None,Science
+86e527537c9346cc97d7a560adb14670,SS3 Class B,Chukwuemeka,Lekan,Female,2008-05-25,Plateau,Highly active,None,Art
+3873e57f0ba048e88ef492c1aac93316,SS3 Class E,Chidike,Oni,Male,2008-05-06,Borno,Troublesome,None,Art
+0e0630cd996d4c50bc04a168652ffb49,SS2 Class E,Toyin,Chinonso,Male,2007-12-05,Gombe,Unactive,None,Art
+f200c2614d2941abb45512f701f7c7ec,SS1 Class D,Oluwafemi,Ayokunle,Male,2007-05-24,Katsina,Slightly active,Ulcer,Art
+c3a00c6f232141e1847104c036136e15,SS1 Class D,Oluwafemi,Aliyu,Male,2006-11-30,Kaduna,Active,Dyslexia,Art
+1eb74b5653ff43a28a1935014169b9fc,SS1 Class A,Eniola,Ugochukwu,Male,2007-07-19,Kwara,Troublesome,Dyslexia,Science
+6e3f683abf3c4140bf54a51101fa964e,SS1 Class B,Chikelu,Inyene,Female,2009-12-21,Sokoto,Unactive,None,Science
+8857511761554667a112507c2cfa55b0,SS2 Class F,Enitan,Rabiu,Female,2010-06-08,Nasarawa,Highly active,None,Art
+8f0881ee8011416bbae88926b423ccde,SS2 Class A,Olusegun,Kayode,Male,2009-04-11,Ebonyi,Highly active,None,Science
+5aaab32fce6342b6ab05347fd556b37d,SS3 Class A,Oluwasegun,Alaba,Female,2010-02-13,Imo,Unactive,Dyslexia,Art
+bdf66ba5dc9c46dea5a674c212738a23,SS3 Class A,Oluwatoyin,Onyekachukwu,Male,2008-08-22,Ekiti,Highly active,None,Science
+75b2745504cc4edeafac16730ad45230,SS2 Class D,Chinweuba,Chimezie,Female,2009-11-03,Kwara,Slightly active,Dyslexia,Art
+5024bdc6dcb34df393eecdc6ebd14d2c,SS2 Class E,Muhammadu,Opeyemi,Male,2008-07-20,Imo,Troublesome,Sickle Cell,Art
+6788420992ca425aade593329364f3d0,SS1 Class F,Oni,Musa,Male,2010-04-22,Cross River,Highly active,Dyslexia,Art
+4a1dab326aed4dc7a3e05309b5a1b949,SS3 Class C,Salisu,Chidiebube,Male,2007-09-29,Katsina,Unactive,Dyslexia,Art
+f758dce205564aeaa7b032831d7c0098,SS1 Class A,Chidubem,Uchenna,Male,2007-02-25,Jigawa,Unactive,None,Science
+f296d9f0cd2342c2abffe17b532401fc,SS2 Class F,Ekene,Abioye,Male,2010-08-06,Plateau,Slightly active,None,Art
+b08a4895d4ff4666b5c8e90d9e3d750d,SS1 Class D,Chijioke,Bitrus,Female,2006-10-14,Imo,Active,None,Science
+6fcc57dd168f4e129ca260c9eb7607c9,SS2 Class F,Ime,Olanrewaju,Female,2008-08-25,Benue,Active,Sickle Cell,Art
+6f887f283e494d099b19d8b8d8302081,SS3 Class A,Ese,Eseoghene,Male,2008-10-18,Imo,Slightly active,Asthma,Art
+1422373f862248d1a683e10796c044d0,SS1 Class D,Adedayo,Abimbola,Female,2009-04-17,Anambra,Unactive,None,Science
+beed10b64f6e474b9edab0276550f74a,SS3 Class D,Otobong,Itoro,Male,2010-01-20,Akwa Ibom,Active,None,Art
+c77444cb55434c3cb8b8f24e56ea57b3,SS3 Class B,Toyin,Muhammadu,Female,2010-01-16,Nasarawa,Unactive,None,Science
+a21b030782af485c938d994c2b0abedd,SS3 Class C,Lekan,Ayokunle,Male,2007-11-16,Kaduna,Troublesome,None,Art
+31a3ac4d828c47e787d5b7be1d30d990,SS2 Class F,Olusola,Olufemi,Female,2009-10-01,Kwara,Active,Sickle Cell,Art
+59e1ac095970485986b6e4ade7ea8d5a,SS2 Class C,Ekwueme,Ibrahim,Female,2008-10-22,Osun,Active,None,Art
+a53bc024d1a64d87b54e2019ba35844e,SS3 Class C,Rabiu,Mamman,Female,2010-03-03,Akwa Ibom,Highly active,None,Science
+1a5165ca3c7c4d85a5cf0041d0a643fe,SS1 Class E,Toyin,Umar,Male,2009-11-02,Sokoto,Active,None,Science
+2c6a6e9a328047a18187222b257d5e52,SS3 Class E,Ayomide,Toyin,Male,2010-08-29,Kebbi,Troublesome,None,Art
+c257cf73c29d482ba722796e9a36d1ec,SS1 Class C,Amadi,Ese,Female,2009-07-08,Borno,Active,None,Art
+f387e1bd2d5942c6934a5a2fa7cf705c,SS3 Class D,Olumide,Abubakar,Male,2007-09-08,Abia,Active,None,Science
+76c5a0dc7e7e4419a0c14035c5d95f51,SS3 Class E,Bukar,Chuks,Female,2009-12-02,Borno,Troublesome,None,Science
+9458054ec2874f069050f7efc1235c91,SS2 Class F,Kelechi,Olamilekan,Female,2007-06-14,Kaduna,Highly active,Dyslexia,Art
+e1cde87fec954f87ae5ec36572eb7474,SS3 Class E,Ola,Emeka,Female,2010-08-08,Sokoto,Slightly active,Dyslexia,Science
+fc8d5b93a2a2491fa49b1cd99082889b,SS3 Class F,Abidemi,Chidi,Female,2010-08-24,Akwa Ibom,Active,None,Art
+f891b0c3dd3f487e92bdc6619fe0a8c7,SS3 Class B,Kyauta,Chidiebube,Female,2009-06-10,Oyo,Slightly active,None,Art
+70944bdb26a544e390ee7a92a09151e0,SS2 Class C,Okoro,Ejiro,Male,2010-02-16,Kebbi,Troublesome,Dyslexia,Art
+a1a2748571344c2ab80b3657117b355b,SS3 Class B,Chibuzo,Ayotunde,Female,2007-05-28,Imo,Unactive,None,Art
+97674900465143678bdc43184d85a3d2,SS3 Class A,Olamilekan,Ayuba,Female,2010-01-10,Delta,Highly active,None,Science
+12fe28bf81e044899a18e2a30e614bcd,SS3 Class F,Yalwa,Oghenekaro,Female,2008-11-20,Ekiti,Troublesome,Dyslexia,Science
+09a0a0f673b04091b634c1694f76e388,SS1 Class F,Oluwatoyin,Chukwuemeka,Female,2008-07-03,Imo,Active,None,Science
+497de16dd4ea420a9e6596540e9058b6,SS3 Class B,Ifeanyi,Kyauta,Male,2010-10-08,Ebonyi,Slightly active,None,Art
+fa34d2e8dd3f4d7ea508dc9513a4a492,SS3 Class F,Uzochi,Eseoghene,Male,2008-09-23,Lagos,Troublesome,Dyslexia,Art
+98159d6c9d714084971dabf9daf481a7,SS1 Class A,Okafor,Efemena,Female,2009-09-20,Sokoto,Unactive,None,Art
+949077c27674456fa26d719d81cf3252,SS3 Class F,Lawali,Okeke,Male,2010-03-21,Jigawa,Unactive,None,Art
+bd29ede9cab4423bb44883858de7ad6c,SS1 Class B,Olamilekan,Chuks,Male,2006-11-02,Katsina,Unactive,None,Science
+e8b77f7b73214f6b8a8076ece5582e16,SS3 Class D,Chibueze,Kayode,Male,2009-07-12,Anambra,Troublesome,None,Science
+30307633a6de41d8925817b7cf501889,SS2 Class F,Ndidi,Lawali,Female,2010-08-21,Ogun,Active,None,Art
+80599b9379c242e49ae1a991524f93ff,SS2 Class E,Abimbola,Iniobong,Male,2007-09-23,Enugu,Unactive,None,Science
+73557b9d0fd6447eb52d4af2269ed4c9,SS1 Class F,Ikechukwu,Enitan,Female,2008-07-27,Imo,Slightly active,Dyslexia,Art
+d65e59dde62d4d068f9b85581a7f195b,SS1 Class C,Ayotunde,Adeola,Female,2009-01-28,Nasarawa,Troublesome,None,Art
+15969802b6dd4257bb7d9f1c57eb89b1,SS1 Class E,Chidubem,Olu,Female,2006-12-28,Benue,Slightly active,None,Science
+0a0537f02c2c422ba56895c6812a1f9b,SS3 Class C,Okeke,Shehu,Female,2008-10-07,Cross River,Highly active,None,Science
+fdb1429e70104d13b526b22d3f6c21f7,SS3 Class E,Chijindum,Balarabe,Female,2010-04-19,Niger,Active,None,Science
+9c1c351785d240a686295b5d707df251,SS3 Class F,Emem,Ɗanjuma,Male,2008-01-17,Edo,Slightly active,None,Art
+eafde7d95f734a3e9d286aa428a39779,SS2 Class C,Ebuka,Ade,Male,2008-02-07,Benue,Slightly active,None,Science
+c643530068a54c68a32dbb5e486bb6bf,SS2 Class C,Okafor,Bello,Male,2008-05-16,Zamfara,Active,None,Science
+0d67d38e990f4c5badcc3daf569f3ab3,SS1 Class F,Emem,Chibuike,Female,2007-01-17,Rivers,Active,None,Science
+55ab946da5b54dc2a181c85eca0ac6ac,SS2 Class D,Chima,Lekan,Female,2007-09-19,Ebonyi,Unactive,None,Art
+8ed6ad5e18314aa394669d1910df9974,SS2 Class B,Uduakobong,Emem,Male,2009-01-24,Borno,Slightly active,Asthma,Art
+4082cbb948bd4b3ea2f5df2badaa44ca,SS1 Class C,Oghenekaro,Adewale,Male,2009-04-28,Benue,Highly active,None,Science
+f6e39356a81445629a003f16b9469bcf,SS3 Class E,Kelechi,Efemena,Female,2009-12-03,Borno,Slightly active,None,Art
+267eddcedf8f41979a4a99b2e806133c,SS2 Class C,Abioye,Muhammadu,Female,2009-12-09,Bauchi,Active,None,Science
+a9e27ba9952e4abb94dd5061555736f8,SS3 Class D,Lawali,Ola,Female,2007-09-08,FCT,Active,None,Art
+4f6b58c8598d4aecaaafe5432434a678,SS3 Class D,Abiodun,Chikelu,Male,2006-11-18,Cross River,Troublesome,Ulcer,Art
+a981b098b2cf452da7f333b3f7baf55e,SS2 Class C,Nonso,Chukwuma,Male,2009-02-22,Cross River,Active,None,Art
+b576255e98544f22a102f9c964575bc4,SS2 Class F,Abiola,Lekan,Male,2009-07-26,Akwa Ibom,Slightly active,None,Science
+8f1584494f40422f95b02530f020e992,SS1 Class B,Chika,Ejiro,Male,2008-11-21,Abia,Active,None,Science
+54170a17caaa4bbea4bbf962606e0e1c,SS3 Class E,Ayodele,Otobong,Male,2009-10-12,Ebonyi,Active,None,Art
+b3ecb951ab8c4f97a0b71785d02ce0c1,SS1 Class C,Shehu,Oghenekevwe,Female,2009-05-26,Borno,Highly active,Dyslexia,Art
+ff4625afbd20463bb275b5f3d436a7a8,SS1 Class B,Ejiro,Chimezie,Male,2007-07-16,Enugu,Slightly active,None,Science
+17ec889c86c146cba99630f7af77520e,SS1 Class D,Sani,Alhaji,Male,2010-01-21,Nasarawa,Unactive,None,Art
+822c4d326c644c15aba301cba561e1e9,SS1 Class B,Oghenekevwe,Musa,Female,2010-07-27,Kogi,Unactive,None,Science
+4f11d8dc5cd3436984aac1b75ca0c428,SS1 Class F,Chinweike,Adewale,Male,2008-03-13,Katsina,Highly active,None,Science
+577bc55a36d54494b37fd50d2e25b5ee,SS1 Class D,Olalekan,Chidiebele,Female,2008-01-21,Osun,Unactive,None,Art
+312741487c7c404e8422d03ef29a6339,SS3 Class E,Okeke,Ogochukwu,Male,2008-02-05,Ebonyi,Unactive,None,Science
+27aa7cbc23374bbcbffe77c839feb99c,SS2 Class E,Chibuzo,Olukayode,Female,2010-02-25,Bauchi,Slightly active,None,Science
+c9c23e69d82c45658bb907ec13c11754,SS1 Class D,Emem,Uduak,Male,2008-10-29,Zamfara,Highly active,None,Science
+8a2e6a93c5584bb281f7f3fb19e45c6a,SS3 Class C,Chinweike,Oluwaseun,Male,2008-04-30,Gombe,Slightly active,None,Art
+86cac6f4e2384e93bd17c5e8d5ca69ab,SS3 Class B,Chijioke,Ayotunde,Male,2009-06-13,Zamfara,Active,None,Art
+e05b46c556364094a97431db09a9d1c1,SS3 Class A,Olanrewaju,Olumide,Female,2007-03-20,Katsina,Highly active,None,Art
+98e52499218c4e1c9e374f7ac42cbc39,SS2 Class C,Bamidele,Nonso,Female,2008-06-05,Kebbi,Active,None,Science
+2e4bebc429894880a77d1be96070b6a1,SS1 Class E,Ufuoma,Adebowale,Male,2007-07-04,Delta,Unactive,None,Science
+9feefdffc5664a81b15e54f6d4d30795,SS1 Class C,Olumide,Chika,Female,2007-12-03,Ondo,Unactive,None,Science
+b89f72f32a604652a7147668cf1d7d3a,SS3 Class D,Uche,Akachi,Female,2007-01-24,Gombe,Unactive,None,Art
+5d42b9e9692e47b68b2f6d5c700b5d5f,SS3 Class A,Olujimi,Chidiebele,Female,2009-02-01,Adamawa,Active,None,Science
+f836f5713cce476cb836c448ad261ec5,SS2 Class E,Abidemi,Kehinde,Male,2008-11-21,Katsina,Slightly active,None,Art
+c09cb50648f1496d9c4ffb4671b701aa,SS2 Class E,Chukwuebuka,Tunde,Male,2007-08-01,Imo,Troublesome,None,Science
+3be79df472ec416e88a723e9bfa016c2,SS1 Class B,Olumide,Oluwasegun,Male,2009-07-08,Ebonyi,Slightly active,Asthma,Art
+f73157494f3949a8bd3a258288b4f474,SS3 Class D,Chinweuba,Onyebuchi,Female,2006-11-13,Zamfara,Troublesome,None,Art
+e76adca97811480288cc7cfecf01f944,SS3 Class D,Ademola,Chinweuba,Female,2009-10-28,Ekiti,Troublesome,None,Science
+ada584175e2a432db1ab0b56d5c9fdc7,SS1 Class D,Balarabe,Ejiroghene,Female,2009-02-26,Borno,Troublesome,None,Art
+70cafdd8fc044f0892070158f2771f63,SS1 Class C,Chijindum,Ade,Male,2008-06-23,Benue,Slightly active,None,Science
+c73323044822412084f9eccd7630a8a7,SS1 Class A,Chijioke,Abdullahi,Female,2009-12-31,Imo,Slightly active,None,Art
+6b2d5b0987074ad480be7e3561c2645a,SS3 Class D,Adebola,Toyin,Male,2008-05-26,Benue,Highly active,Dyslexia,Science
+331f63fbd11f48c0a97ca4fff75d599f,SS3 Class C,Ayomide,Yalwa,Male,2007-10-10,Zamfara,Highly active,Dyslexia,Science
+df7d0dd7236e46089acb394acd1f5318,SS1 Class C,Chukwuma,Ndubuisi,Male,2010-09-06,Enugu,Slightly active,Dyslexia,Science
+7b07fd31a4244f238d5ba7cd400035f0,SS1 Class D,Chikere,Iniobong,Female,2009-11-26,Anambra,Slightly active,None,Art
+ef2ddcc48df641da9f07c1a5dfc620ce,SS1 Class C,Obinna,Inyene,Female,2010-07-22,Ogun,Troublesome,None,Science
+8412a335d88c456db61e5fdb1a435206,SS2 Class F,Ayomide,Chidiegwu,Female,2008-02-28,Abia,Active,None,Art
+1578d70948f943d09feae1e0d9e604b3,SS3 Class B,Amadi,Olujimi,Female,2009-12-31,Kaduna,Troublesome,None,Science
+7306958845d5468da90a3abbc35b9fea,SS1 Class A,Lawali,Chidubem,Male,2006-11-29,Akwa Ibom,Troublesome,None,Art
+d4bf7a4b25b8442f836b15c7e7c225da,SS2 Class E,Chiemeka,Ndubuisi,Male,2010-03-29,Rivers,Slightly active,None,Science
+e916da57f24843ab977a8a5f6ffe33b3,SS2 Class A,Ige,Bitrus,Female,2010-03-15,Rivers,Troublesome,None,Science
+e27718c5737d4fb6911376e038d77b9a,SS3 Class D,Chidiebele,Hamisu,Female,2008-07-22,Enugu,Active,Dyslexia,Science
+6a36af1806d34b93ae33688d597e6845,SS3 Class F,Dada,Aminu,Female,2006-11-09,Ekiti,Active,None,Art
+5fbbf0b1808349c8a57e01c90da23e5c,SS2 Class C,Ebuka,Bitrus,Male,2007-07-11,Lagos,Troublesome,None,Art
+14e4180cfe9946a3a2dbc8503c5bf3a7,SS2 Class A,Aminu,Ife,Female,2009-09-28,Borno,Active,None,Art
+519554e307374c86b97b5f515ffa46ef,SS2 Class B,Bukar,Salisu,Male,2008-09-21,Anambra,Highly active,None,Art
+b6f6dbf1d6d441cc995d82f8ee4a9b5d,SS2 Class D,Uduak,Ime,Male,2009-01-07,Ondo,Slightly active,None,Science
+25637cc3ca974bf595d596afa663d2cd,SS1 Class E,Shehu,Olusegun,Male,2007-05-07,Ekiti,Active,None,Science
+eada79a349704d9a89ce3cfb2339ba19,SS3 Class D,Sani,Ayotunde,Male,2008-09-28,Ondo,Troublesome,None,Art
+d4c3a832b231460bb8f2ce6bd46b415d,SS1 Class D,Ekenedilichukwu,Folami,Female,2007-05-06,Edo,Active,None,Science
+781799ffb49e44cc824369e72387eaf6,SS1 Class A,Oghenero,Tochukwu,Male,2009-12-03,Enugu,Active,None,Science
+e7e646c7015844639d8776a072d78bdd,SS1 Class D,Ademola,Lawal,Male,2007-06-17,Ogun,Highly active,None,Science
+3735262d41844b0384dd7054144823f7,SS1 Class A,Iniobong,Chibuike,Male,2007-07-22,Akwa Ibom,Active,Dyslexia,Science
+f0b2a5d18c7e4f42a646eaf9d5c0244d,SS2 Class B,Abiodun,Eniola,Female,2010-03-10,Bauchi,Unactive,None,Art
+6c5a6c93871c48849bdf90f2ba2c0f19,SS2 Class B,Toyin,Chidi,Male,2009-07-14,Yobe,Active,None,Art
+3cd5fd7f49c1466986b33fe61c76bdf6,SS1 Class E,Fumnanya,Chukwuma,Female,2007-10-15,Yobe,Unactive,Dyslexia,Science
+3d0a5f0c0c394ec79f3174054d183eba,SS3 Class A,Onyebuchi,Chinweike,Female,2008-10-06,Benue,Active,None,Art
+9f708368cb3c48caa39257316b79afcc,SS3 Class A,Chinwendu,Ekwueme,Female,2007-03-01,Anambra,Troublesome,None,Art
+d6312a801c614ec290142131750565f5,SS2 Class E,Lawal,Chibuike,Female,2007-09-14,Imo,Highly active,None,Science
+893ad23298c343cabff4cec6e7b7b4c6,SS1 Class A,Onyekachi,Dayo,Female,2007-08-25,Abia,Troublesome,Sickle Cell,Science
+93364f7e83ef49f3a1c7cc8a04351b64,SS3 Class C,Umukoro,Ayomide,Male,2010-05-26,Sokoto,Active,None,Science
+4a90cd0c24c143b9b7f285723defa849,SS1 Class F,Folami,Olukayode,Male,2008-11-30,Gombe,Active,Dyslexia,Science
+5a5226e69d6449328066853d6de299a1,SS2 Class B,Olawale,Adebayo,Female,2008-02-26,Ekiti,Active,None,Science
+2ff3cde46aa44c9f921704753d959e3f,SS1 Class A,Chima,Abubakar,Male,2007-07-14,Enugu,Unactive,Dyslexia,Science
+8603156a15ea4bcfab1021ceaa143cd8,SS3 Class F,Ese,Femi,Female,2009-01-26,Yobe,Active,None,Art
+f412436011534e999c508720f982f4e0,SS1 Class B,Jatau,Olayinka,Female,2007-12-03,Kwara,Highly active,None,Science
+c952518581e04a5e8b48f49686abd4e7,SS1 Class A,Udo,Ekene,Male,2007-03-12,Kano,Slightly active,Dyslexia,Art
+0534a1018ddc471981f38dd4fd034ada,SS2 Class C,Akachi,Chizoba,Female,2008-12-01,Yobe,Highly active,None,Science
+0b251279785a45d09f92a62163f4c69d,SS3 Class A,Ugochukwu,Ndubuisi,Female,2007-04-08,Bayelsa,Troublesome,None,Art
+5f90bed6fb25464da30aa767a2bb522b,SS1 Class A,Okechukwu,Abubakar,Male,2009-06-05,Akwa Ibom,Slightly active,Dyslexia,Science
+5b6a810204284378bf5023f440ef3935,SS3 Class B,Musa,Azubuike,Female,2007-10-19,Kano,Troublesome,None,Science
+3dba6da8584449fc914b9547c9dc72b8,SS3 Class B,Musa,Ifeanyichukwu,Female,2009-02-02,Niger,Slightly active,None,Art
+1a89b71ea0d542c8a837fe68bba205ca,SS2 Class A,Ɗanlami,Umar,Female,2008-02-17,Kogi,Unactive,None,Art
+c1b5b5cabc3546df94f79dbac5811d2d,SS3 Class D,Ekwueme,Oghenekaro,Female,2007-06-25,Ondo,Troublesome,Dyslexia,Science
+5a3045280b594562a227219f551ff086,SS1 Class D,Taiwo,Chike,Female,2009-03-05,Osun,Highly active,Sickle Cell,Science
+a48e40f1d0424dfa96ab087a8bc78e81,SS1 Class C,Oluwafemi,Amadi,Male,2007-06-01,Taraba,Highly active,None,Science
+af475b49c7754395949405f02cd2a404,SS1 Class A,Ayomide,Olu,Female,2010-03-02,Kogi,Unactive,None,Art
+7a8104deb20547bbbb16f75776f186ab,SS2 Class D,Abubakar,Efemena,Female,2008-11-28,Ekiti,Slightly active,None,Science
+2285b2efcfbe4fe9aea9c542a1b970d0,SS3 Class F,Opeyemi,Lawali,Female,2008-04-04,Niger,Troublesome,None,Art
+f1901b7ec6b449efb74eba9310275b53,SS3 Class B,Oluwaseun,Chizoba,Male,2009-03-12,Adamawa,Slightly active,None,Art
+339b77a84b1f4d7b8977c513752a7d25,SS3 Class F,Chi,Abiodun,Female,2007-10-24,Sokoto,Unactive,None,Science
+e2c328aa331044758a8622250b36e356,SS1 Class F,Kehinde,Oluwaseyi,Female,2008-03-29,Bayelsa,Troublesome,None,Science
+4f612217eef1469490cae32d0aba590e,SS1 Class E,Chukwuemeka,Olu,Female,2009-08-15,Kogi,Unactive,Dyslexia,Art
+d0be73eefd374539a5f202f983f02dc7,SS2 Class D,Onyekachi,Ebuka,Male,2007-01-16,Nasarawa,Slightly active,Dyslexia,Science
+095ffa8140d94bceb930ba208b040f49,SS1 Class C,Chiemeka,Oni,Female,2006-12-22,Lagos,Troublesome,None,Science
+493e904d30ec4796a59b457fc0d7ac73,SS1 Class C,Ufuoma,Chimezie,Female,2008-07-14,Edo,Highly active,None,Science
+0c3ce284c7e54bbb9cb51c535b62a8df,SS3 Class E,Salisu,Adekunle,Female,2009-05-01,Delta,Slightly active,None,Science
+45f1861954f94429a7de02ccdda4f4a7,SS3 Class D,Kelechi,Uzochi,Male,2008-10-04,Jigawa,Highly active,Dyslexia,Art
+6fdc0bad5e3641278ca1b45c1fdd980a,SS3 Class F,Adetokunbo,Okafor,Male,2009-05-22,Plateau,Troublesome,None,Science
+7092947dbe4949eca667d3bbe3b56360,SS2 Class C,Idowu,Ayotunde,Female,2007-01-13,Bauchi,Slightly active,None,Science
+56cb1ab062fb46d7b4dbca07e506f670,SS2 Class B,Obinna,Ibrahim,Male,2009-05-01,Ebonyi,Slightly active,None,Art
+b12b66807f074cb9afd340c0f945f2fd,SS2 Class D,Ibrahim,Enitan,Female,2006-12-11,Kano,Active,None,Science
+cc1b4157ec9f4c549e0a72ab7f5db163,SS2 Class E,Otobong,Mamman,Male,2009-04-12,Borno,Unactive,None,Science
+15260718cd184a828447ceab84ef4324,SS1 Class F,Yalwa,Lawali,Female,2009-07-17,Akwa Ibom,Troublesome,Dyslexia,Science
+6e3c453214344f62acac028cba220065,SS1 Class A,Adeola,Muhammadu,Male,2007-07-24,Benue,Unactive,None,Science
+2e326567d284454ebebec0db9a3a6103,SS3 Class D,Musa,Itoro,Male,2008-06-14,Niger,Unactive,None,Science
+1a43db54523a49938b3446bc8ba435cc,SS1 Class C,Olujimi,Usman,Male,2008-09-07,Delta,Troublesome,None,Art
+4baf0f5ea932409493f28f11147f6570,SS1 Class F,Emeka,Lawal,Male,2009-08-19,Plateau,Highly active,None,Art
+b7b8c1a59a45493db227890e4e76833a,SS2 Class F,Olujimi,Ime,Female,2007-04-23,Ondo,Active,None,Science
+71a3fad2b0944d2aaaa93b436d15f16f,SS1 Class E,Ɗanladi,Chibuzo,Male,2009-03-31,Taraba,Active,None,Art
+ba1082170ad749a2b27716ec59fefbbc,SS1 Class A,Olufemi,Chibuike,Male,2008-03-25,Benue,Active,None,Science
+9d66e8155a4143b3a95f176cdebac186,SS2 Class D,Opeyemi,Eseoghene,Female,2010-02-02,Edo,Active,None,Art
+a3b442bd46494296af5842c3ff86cc31,SS2 Class D,Ɗanlami,Hamisu,Male,2009-03-13,Jigawa,Troublesome,None,Art
+0eaf04b5f2a94c8a8a9e4a62fae3114b,SS2 Class E,Chidiebele,Okechukwu,Female,2007-10-05,Imo,Highly active,None,Science
+67fd64c4a334458aabd2b5121335e5db,SS3 Class C,Kehinde,Chinonso,Male,2007-03-09,Sokoto,Unactive,None,Science
+bff9507dcd14403e83599af65d01f55f,SS1 Class A,Abiodun,Udo,Male,2009-12-27,Yobe,Highly active,None,Science
+07f8d4f0f3ea4184a8f4e3ceadedda80,SS3 Class F,Bamidele,Abioye,Male,2008-08-21,Kaduna,Active,None,Science
+ad973b679b8945cb9942644c248d31ec,SS3 Class B,Haruna,Ejiro,Female,2008-01-05,Edo,Troublesome,None,Science
+20509c6208e845d7b02c1821c8040fb7,SS1 Class C,Chinedu,Ife,Female,2009-11-30,Ekiti,Active,None,Art
+a52964ffc74c4890bc6a3174113634a5,SS2 Class D,Ibrahim,Olawale,Male,2007-07-26,Oyo,Unactive,None,Science
+f31046dc62024ee69cb5e69c5dc7b3e6,SS3 Class C,Obinna,Chimezie,Female,2010-07-18,Sokoto,Highly active,None,Art
+2747b93c9ae74eab884a67809136f1f8,SS2 Class B,Uduakobong,Jatau,Female,2007-10-14,Imo,Troublesome,None,Art
+5ef787b8f2e6495fb32e2016add702c9,SS2 Class B,Ɗanlami,Abiola,Female,2007-12-25,Gombe,Highly active,None,Art
+13aec376c359410ab1a6014c5f3c44dc,SS2 Class B,Onyekachi,Ndubuisi,Female,2009-11-22,Benue,Active,None,Science
+5df06e8c878a4ed9a33ffc8292ec89af,SS1 Class B,Chinwendu,Kelechi,Female,2007-03-08,Ondo,Unactive,None,Science
+4758367ba6494cdc907b907265e58f34,SS3 Class F,Kayin,Kehinde,Male,2010-01-04,Akwa Ibom,Active,None,Art
+06a241af1d0a47f7b5e4a4713fe68c9c,SS3 Class C,Ɗanladi,Jatau,Male,2010-07-31,Taraba,Troublesome,None,Art
+848af4407fc14858afa0d842bc55300b,SS2 Class B,Chibuike,Ade,Male,2007-04-16,Enugu,Active,Ulcer,Science
+1e2595b88fc9486ba9ddebf563119aca,SS1 Class A,Ndubuisi,Adisa,Male,2007-08-02,Kaduna,Troublesome,None,Science
+b43bd27f42a249a6866412854303cbc1,SS2 Class F,Chuks,Ɗanladi,Female,2008-09-03,Imo,Troublesome,Dyslexia,Science
+9ca3fbb3ff1148bab6ee1640723ef466,SS3 Class E,Abubakar,Otobong,Female,2008-05-20,Gombe,Unactive,None,Art
+ffa623d0ea9e4c8db1a8b71f491b90e9,SS3 Class C,Chidi,Ifeanyi,Female,2009-11-11,Osun,Active,None,Science
+22bf18f51f654a87b33ee3447dbf4bc1,SS2 Class E,Chika,Usman,Female,2009-11-19,Kogi,Highly active,None,Art
+2c33350c73b941d892f5131ada52d2ee,SS2 Class E,Adisa,Okonkwo,Female,2008-06-17,Plateau,Unactive,None,Science
+ff4c96d671f24e8fb69f68c3e60fd420,SS1 Class B,Ekenedilichukwu,Babajide,Male,2010-09-04,Ogun,Unactive,Dyslexia,Science
+f7b217c7ae924a718f7dcb431679742f,SS3 Class F,Ɗanladi,Akachi,Female,2006-12-24,Ebonyi,Highly active,Dyslexia,Science
+aaf78c6751d04109bc902838d8741408,SS1 Class D,Usman,Okonkwo,Male,2010-01-01,Niger,Highly active,None,Art
+8ccc9cea109f48eeb5a4720058f0dd23,SS3 Class B,Oluwafemi,Abiola,Male,2010-07-14,Adamawa,Highly active,None,Art
+4cc9f5f2e42e40378a552ea08acbbe09,SS1 Class A,Olamilekan,Balarabe,Female,2010-05-19,Akwa Ibom,Highly active,None,Science
+b5a5f8e6b6394f04a8524385d9f2dd0d,SS2 Class C,Oghenero,Fumnanya,Male,2008-05-25,Lagos,Slightly active,None,Art
+2c913a7ca3404f08b34191b8ed6522b4,SS1 Class A,Otobong,Udo,Female,2009-06-10,Ogun,Highly active,Asthma,Science
+3967e60a823d41079c8ac066cb2fafa3,SS3 Class A,Lawal,Emeka,Male,2006-11-30,Ogun,Highly active,None,Science
+cac4d0eb3373430ebc31a5971f119c0f,SS2 Class A,Ogochukwu,Oluwasegun,Female,2009-08-18,Ogun,Active,None,Science
+7e7838c9ca55438bbc9abe10238d6f44,SS2 Class E,Abdullahi,Chinonso,Male,2010-05-25,Bauchi,Unactive,Dyslexia,Art
+9280c5aa8dd4495b9c63b6f306ba8cd3,SS2 Class D,Ɗanladi,Aminu,Female,2008-10-14,Anambra,Slightly active,None,Art
+fba6abf7cdbc4653b7a7e8b75e70f65f,SS3 Class B,Ikenna,Sani,Male,2008-02-14,Ondo,Highly active,Dyslexia,Art
+e25df9a89ca845c4a138afe08d38bbd8,SS3 Class D,Kelechi,Olukayode,Female,2007-12-07,Gombe,Highly active,Dyslexia,Art
+65edcfe34f2d4d3f90d4de39161237c9,SS2 Class C,Ikechukwu,Ɗanladi,Female,2010-05-30,Ondo,Troublesome,None,Science
+7a89cbebb807478ab788f5d1ffe575f6,SS3 Class A,Eniola,Ayomide,Female,2009-03-02,Gombe,Highly active,None,Science
+68d0a2a8c4e747dda929de738693fd9d,SS3 Class F,Efe,Obinna,Male,2010-02-12,Abia,Troublesome,Dyslexia,Art
+20156a7212e143a6932cae01d2c65ee4,SS3 Class D,Nonso,Uzoma,Female,2008-04-16,Enugu,Unactive,None,Art
+12fc7a87a4704d489128b9b1f8ede0ca,SS2 Class F,Olumide,Abimbola,Male,2006-10-26,Sokoto,Unactive,Asthma,Science
+8471b4b0ae1b4f69b740d83173318749,SS2 Class E,Femi,Olujimi,Female,2008-10-01,Akwa Ibom,Highly active,None,Science
+d43cdd6de0c14f1ea0da897258321ee4,SS2 Class E,Ɗanjuma,Onyekachukwu,Female,2007-04-12,Bauchi,Unactive,Asthma,Science
+96792482a3c948e48d2238e6c7bf4fbc,SS2 Class F,Ekene,Ifeanyi,Female,2008-10-11,Delta,Active,Dyslexia,Science
+21084dd9f75d4e3c848d56502e9522d6,SS3 Class E,Oghenekaro,Adetokunbo,Male,2007-10-06,Ondo,Slightly active,Dyslexia,Art
+de431e06e924406980bbae526ec01269,SS2 Class D,Olawale,Tochukwu,Female,2007-01-28,Anambra,Slightly active,Dyslexia,Science
+84a2576c1fc945f894d607350e2f8958,SS2 Class D,Adebowale,Oluwaseun,Female,2008-08-23,Osun,Active,None,Science
+2976aab22a2647708ddb1b36272c0588,SS1 Class E,Tunde,Chibuzo,Male,2008-04-12,Osun,Unactive,None,Art
+39b86bb2b5964a7caf4afa885299e505,SS3 Class B,Dayo,Enitan,Male,2009-02-26,Anambra,Active,None,Art
+84d67c4ff0df4684b28e41225894f7f1,SS2 Class B,Chibuzo,Oghenekevwe,Male,2010-06-03,Plateau,Troublesome,None,Science
+143029a9d88f4c9488b763d5e519dd7e,SS2 Class C,Efemena,Segun,Female,2006-11-19,Kano,Active,None,Science
+f4d375c1a29349fab240d7a14027ab7d,SS3 Class D,Ayotunde,Ige,Female,2008-11-29,Adamawa,Slightly active,None,Science
+a0017720200b490386426c458d03f17a,SS1 Class A,Abubakar,Hamisu,Male,2007-02-06,Zamfara,Active,Dyslexia,Science
+17eaec838892442f9d4b2bf94d85e9c7,SS3 Class E,Jatau,Olufemi,Male,2009-11-02,Kwara,Highly active,None,Art
+9780c2152b2b48e9a417c09380a8a23d,SS1 Class C,Ayotunde,Usman,Female,2008-11-05,Taraba,Unactive,Dyslexia,Art
+2bd3cdcd2779468594a53fdef10d27c8,SS3 Class C,Ifeanyichukwu,Ayotunde,Female,2008-07-15,Edo,Troublesome,Ulcer,Art
+e6e987cab87b43849fddde2ea8a2b7ad,SS2 Class B,Salisu,Chinonso,Female,2009-06-20,Enugu,Highly active,None,Science
+ec86a890d7b04bdc966e3cbe9aea622f,SS1 Class C,Olu,Oluwasegun,Female,2009-12-22,Enugu,Unactive,None,Science
+dd20c3bfd3424f088a8bb5b490494583,SS1 Class B,Shehu,Idowu,Female,2009-09-30,Bayelsa,Troublesome,None,Science
+f2d3f7610ba3427994cb056407437c3b,SS1 Class E,Olamide,Abiola,Male,2010-09-03,Lagos,Slightly active,None,Art
+43c07d4393a747928561b8dca4364fcd,SS2 Class F,Ejiro,Chukwuebuka,Female,2009-05-05,Katsina,Active,Dyslexia,Science
+92779574c4574cc3b5f789bca6b07458,SS1 Class F,Ɗanlami,Fumnanya,Female,2007-01-25,Lagos,Troublesome,None,Art
+07c0d116a3944d549e3c5a886aa56e6d,SS3 Class A,Chukwuebuka,Segun,Male,2008-09-09,Jigawa,Troublesome,None,Art
+8baaf744a08d421ba3954cb17f7f6c0a,SS1 Class E,Chibueze,Ikenna,Male,2010-05-24,Plateau,Highly active,None,Art
+4d560a3df4e7469aa45409374a27ebf2,SS2 Class D,Enitan,Adisa,Male,2008-11-19,Rivers,Highly active,None,Art
+ceae71cfce004af0beb051817ba24588,SS1 Class A,Olukayode,Balarabe,Male,2006-10-27,Gombe,Slightly active,None,Science
+741b77f54c244053a7f5ae02af5b8f47,SS2 Class F,Ime,Chinwendu,Female,2009-12-11,Kebbi,Highly active,None,Art
+2877f5d90f5645f8b048faa112ae5c22,SS2 Class A,Adisa,Onyebuchi,Female,2006-12-09,Niger,Troublesome,None,Art
+76e5ae787bf741d3aa662fce7089fc6d,SS3 Class B,Azubuike,Oghenero,Female,2007-11-21,Kaduna,Active,None,Art
+24c778a59b4e464b9716dc2e343ada2a,SS2 Class D,Chidiebere,Babajide,Male,2009-08-07,Abia,Troublesome,Ulcer,Art
+51beb80eb7e6414c9c8a49225005680f,SS1 Class E,Olayinka,Obi,Female,2010-09-12,Kogi,Highly active,Sickle Cell,Science
+586a346adc5b47d1bcef1972bbf483ce,SS1 Class B,Inyene,Okoro,Female,2008-11-02,Jigawa,Unactive,None,Science
+c2baf0e0217943f0a6124ab4f9b21e6e,SS2 Class E,Oyibo,Dayo,Female,2007-09-21,Taraba,Slightly active,Sickle Cell,Art
+1b2ededb8fc84fc083d5bceb5edbb8ee,SS2 Class C,Ekene,Chidubem,Female,2010-01-17,Gombe,Troublesome,Dyslexia,Science
+1f5d988f776a4f09bde2885951b1943c,SS3 Class C,Okoro,Toyin,Female,2006-11-15,Akwa Ibom,Unactive,Dyslexia,Science
+24108e9a3f774caeb318b96d44790612,SS2 Class F,Dada,Okechukwu,Male,2010-07-16,Oyo,Troublesome,Ulcer,Science
+f204be894a4b45638cf477ef18c8a616,SS2 Class C,Ekenedilichukwu,Olayinka,Male,2007-09-20,Benue,Unactive,None,Science
+6b0ae0e39d8940479d39d7936257a4a2,SS1 Class B,Chinwendu,Efe,Female,2009-08-25,Nasarawa,Slightly active,None,Art
+e6fdd7afdd844accb67294643f8ea40a,SS3 Class E,Uduakobong,Ese,Male,2006-12-10,Ondo,Highly active,None,Art
+ef0a573d53d2456d9040158728e213bc,SS2 Class B,Amadi,Ime,Female,2008-03-15,Borno,Troublesome,None,Science
+3098f7b2500e45c0b89bdf7f93e34c35,SS2 Class B,Oluwafemi,Ikenna,Female,2009-11-13,Kogi,Active,Sickle Cell,Science
+fef7d9ea7f8e4483a8caaa1dc35bec2c,SS1 Class A,Ayuba,Oluwasegun,Male,2006-11-05,Lagos,Slightly active,Dyslexia,Art
+e10b1a477fae4748b781321e83c501cb,SS2 Class A,Haruna,Adedayo,Male,2009-04-27,Edo,Slightly active,None,Art
+170d750705ee41d4bf53a88e4efc8248,SS2 Class E,Umukoro,Balarabe,Female,2008-07-31,Kogi,Active,None,Science
+750d112e81644eeca4ab851bf1fac6e7,SS2 Class F,Ikenna,Chidiebube,Female,2006-11-01,Taraba,Slightly active,None,Science
+95560a2d37134466bda06476f778c676,SS1 Class F,Adebowale,Ade,Female,2008-08-03,Anambra,Active,None,Science
+4806f8040cf0474c8c74dc0f5a575539,SS2 Class A,Jatau,Olawale,Female,2008-12-28,Ebonyi,Highly active,Dyslexia,Art
+d7c4fe9ce1e04ffc98f6fd7f7eb162f1,SS2 Class A,Ogochukwu,Musa,Male,2008-12-04,Taraba,Active,None,Art
+4926ce5f78784140ac2a4f71a77d95f1,SS1 Class F,Babatunde,Chibuike,Male,2010-04-15,Kogi,Highly active,None,Art
+1b84edc3d8e049de8217ea0e896490ab,SS2 Class B,Chinweuba,Ejiroghene,Female,2007-03-28,Zamfara,Active,None,Science
+43b47ee5e1e84e7ea2498f666e51484d,SS1 Class D,Ekene,Chi,Female,2008-10-06,Yobe,Active,Dyslexia,Science
+673ba8bdc38c4dec9da39a73ba3df7ff,SS1 Class F,Chinedu,Ɗanjuma,Male,2008-07-17,Edo,Unactive,None,Science
+0d18ab95668c44778b95017c5dae1201,SS1 Class D,Efe,Adedayo,Female,2007-12-22,Kogi,Troublesome,None,Science
+5cce5ba931d44e098fd33afc91fdfa4f,SS1 Class A,Kayode,Okorie,Male,2007-05-22,Taraba,Highly active,Dyslexia,Science
+62e7c1a612d24a0689e1cd138da00495,SS1 Class E,Abiola,Ekundayo,Female,2008-07-04,Kwara,Unactive,None,Science
+8cc36f3bc3af4cfeb34a6ca38116e3fc,SS1 Class A,Tochukwu,Chidi,Female,2009-11-17,Akwa Ibom,Highly active,Dyslexia,Art
+9f8cc29ffd354c5f93479a3b479bc637,SS3 Class D,Oluwafemi,Folami,Female,2008-11-04,Kano,Highly active,None,Science
+20f0156a1e6a46289c6d52d5ae2e9af9,SS3 Class B,Olusegun,Okeke,Female,2007-10-04,Kwara,Slightly active,None,Science
+5f89ed1264d64fbf98c01e2bf99f0704,SS2 Class A,Emem,Yalwa,Male,2007-05-22,Kebbi,Highly active,None,Science
+8ece112856ce4b42bc9e1dcbcb7e6268,SS3 Class A,Ekene,Chibueze,Female,2009-08-26,FCT,Highly active,Sickle Cell,Science
+24eeb4a6c14545c79d986115f05eeefe,SS1 Class D,Okonkwo,Akpan,Male,2007-08-25,Niger,Unactive,None,Art
+66c14dca82554a619a3b031932f57510,SS1 Class A,Oluwasegun,Ola,Male,2007-12-28,Ebonyi,Slightly active,None,Art
+09f644050b9940348a4e255280051b10,SS3 Class D,Chidiebere,Ige,Male,2008-08-21,Plateau,Slightly active,None,Science
+cdd0b4d4554247deb6adf48b2314d0c8,SS3 Class C,Ɗanjuma,Ifeanyi,Male,2008-12-08,Rivers,Troublesome,None,Art
+2620f9a974fd43d184f2fd0f79474bfa,SS3 Class F,Musa,Uche,Male,2009-11-30,Nasarawa,Troublesome,None,Science
+23c8afdb83f84f16a4a4474c9b33e3a4,SS2 Class A,Ayodele,Oluwaseun,Male,2010-04-16,Enugu,Troublesome,None,Art
+518b2f219cf24859ae6e2e7253f591dc,SS2 Class D,Eseoghene,Ahmadu,Female,2010-10-10,Kebbi,Highly active,None,Science
+9dd2f9defd984e33a498abe92999bbef,SS3 Class C,Olu,Uduak,Female,2007-11-28,Niger,Active,Asthma,Art
+97fe56c54c9a4f2497b4c294bd44089d,SS3 Class C,Aliyu,Ikechukwu,Female,2008-04-16,Abia,Troublesome,None,Art
+827c9f8cd40a45e981df6517561c9210,SS1 Class C,Ifiok,Olumide,Male,2006-10-30,Enugu,Unactive,Sickle Cell,Art
+901bcdefb56f48cebd66971e88476c56,SS1 Class E,Ɗanlami,Chimezie,Female,2010-05-02,Borno,Unactive,None,Art
+044251dbd0d44a67b9928faa4cbf131d,SS2 Class A,Hamisu,Muhammadu,Male,2009-12-26,Zamfara,Slightly active,None,Science
+1c0f0bdcac7e437c94cc1e2a5e4cb287,SS1 Class B,Chinwendu,Ifeanyichukwu,Male,2009-10-11,Niger,Slightly active,None,Art
+4ec3f970956d40e4aaa26216fada98f5,SS3 Class C,Adegoke,Chikere,Female,2009-09-27,Zamfara,Active,Dyslexia,Art
+df41e335b9ae48e4a61599c8cbf81f86,SS3 Class E,Enitan,Dada,Female,2009-09-14,Imo,Slightly active,Ulcer,Art
+98cf118806d24913a1173719b023a0ea,SS1 Class A,Ekundayo,Oyibo,Male,2009-09-13,Ondo,Troublesome,Dyslexia,Art
+a7d4cf50f79141e583f9cd6b797ebe87,SS2 Class A,Uzochi,Inyene,Female,2010-03-12,Osun,Slightly active,Dyslexia,Science
+9416e4dcc6b24defb8d8b7f1c86c6544,SS2 Class D,Okafor,Sani,Female,2009-10-08,Bayelsa,Unactive,None,Art
+0d259caab8ad4d87ba4045dd93dfd907,SS3 Class F,Rabiu,Ebuka,Male,2006-10-20,Oyo,Troublesome,Dyslexia,Art
+863417182ba64db3bafeb1149561c813,SS1 Class D,Idowu,Lawali,Male,2006-11-30,Yobe,Unactive,None,Art
+c64c96479ea7417cb89f7039a107cc46,SS3 Class F,Ɗanladi,Umukoro,Female,2008-01-14,Ekiti,Slightly active,None,Art
+d25864f225d440fca1542765d756ba9c,SS3 Class A,Emeka,Idowu,Female,2010-03-05,Imo,Active,Dyslexia,Art
+9293f70508154147be00980eae441e21,SS3 Class B,Chidiegwu,Oluwatoyin,Female,2007-07-15,Sokoto,Unactive,None,Science
+30d73df71c224ceab35556a5f2bd92f2,SS2 Class D,Inyene,Idowu,Female,2009-02-04,Yobe,Highly active,None,Art
+6b352f85504e4687b0e7e75604d9145e,SS1 Class B,Adekunle,Lanre,Female,2007-09-10,Ondo,Troublesome,None,Art
+34323ec6b0c4401ca9b7c0fa26c432f6,SS1 Class F,Ejiroghene,Okafor,Male,2007-07-28,Kwara,Highly active,None,Science
+9c89d374c66445a780773e33690e7e62,SS3 Class B,Chima,Akpan,Female,2009-11-12,Cross River,Troublesome,None,Art
+d92f3c1edf704b2ab8bb22a5eba742d2,SS2 Class C,Ekenedilichukwu,Chikere,Male,2006-11-07,Kaduna,Troublesome,None,Art
+b4adaf890ff14a9fba370623bc5fd4dd,SS3 Class A,Ɗanladi,Dayo,Male,2007-11-15,Osun,Slightly active,None,Art
+8f9646853514489084c86c4623595fa4,SS3 Class C,Afolabi,Ola,Male,2007-05-31,Enugu,Highly active,None,Science
+7a768555a9874218bf84faef5336723b,SS3 Class B,Salisu,Chidiebere,Female,2007-08-13,Taraba,Highly active,None,Science
+f4e9573450524700a07796a38685abaa,SS3 Class D,Olamilekan,Chukwuemeka,Male,2010-08-09,Taraba,Active,None,Science
+887b03e5e9804808b5ac824c2c55aef7,SS3 Class A,Chinweuba,Okeke,Female,2008-07-31,Kogi,Unactive,Dyslexia,Art
+ad05b9125ab24d4a8bd88fcd57a2be4e,SS1 Class C,Uche,Eseoghene,Female,2010-04-09,Zamfara,Slightly active,None,Science
+ae455cc6b88e430f9e1e994ac5a11f5c,SS3 Class D,Ndidi,Iniobong,Female,2007-11-04,Ondo,Slightly active,None,Science
+43ad3d62b17c4b218dbc2c1ca4afe7bd,SS1 Class A,Ifeanyi,Muhammadu,Female,2008-10-13,Adamawa,Slightly active,Dyslexia,Science
+f514105831384975bbf33a349c2dfa97,SS3 Class C,Chuks,Ikechukwu,Male,2010-03-13,Zamfara,Slightly active,None,Art
+4c6a70f48ede444d876cf68c3f1be0d0,SS3 Class C,Olumide,Eniola,Male,2007-03-06,Kogi,Unactive,None,Art
+fb756923f9104bb3b10532523990e2c9,SS2 Class B,Yalwa,Chukwuma,Male,2009-07-15,Jigawa,Slightly active,None,Science
+b474634949fc4cd8856bad4c4c3077c4,SS2 Class F,Enitan,Adedayo,Female,2009-05-12,Ebonyi,Highly active,None,Science
+7d2f4e58b47a4c5bb0b3901535102852,SS1 Class C,Olufemi,Yalwa,Female,2007-01-09,Kano,Slightly active,Dyslexia,Science
+8f7c1d59594b4a3abad465a15129950d,SS3 Class C,Adedayo,Umar,Female,2009-05-07,Akwa Ibom,Slightly active,Dyslexia,Art
+b8beff3dcb9f4f6daf3a6f27ef06fccb,SS3 Class E,Kayode,Ugochukwu,Female,2008-05-11,Kano,Unactive,None,Science
+92cf60211f33442d89ac908746015028,SS2 Class B,Ayotunde,Nonso,Male,2010-08-22,Oyo,Highly active,None,Science
+e5508ea26133434d8b0e8eb1ad371d9e,SS2 Class C,Ɗanladi,Oluwaseun,Male,2009-06-12,Ogun,Troublesome,Dyslexia,Science
+585abefbd1814f77a5001423faebcd19,SS1 Class B,Ayokunle,Adedayo,Male,2008-08-04,Sokoto,Slightly active,None,Art
+257f7595cdfb4db985e78b23f4613f09,SS1 Class A,Oluwasegun,Obinna,Female,2008-05-05,Jigawa,Troublesome,None,Science
+f48f709c49a244418ac4de854a5b1aff,SS2 Class F,Olalekan,Oni,Female,2008-02-07,Ondo,Highly active,None,Science
+ec8be53758ab4778943b45e3b6d1f6bb,SS2 Class B,Emem,Chidike,Female,2010-10-04,Kwara,Slightly active,None,Science
+bf51936241a64feda7edc8d8713f8f8c,SS3 Class B,Chigozie,Ese,Female,2008-02-08,Nasarawa,Slightly active,None,Science
+d3f4a49b33ba4a88b6c7d6fa7aa4f052,SS2 Class D,Ese,Okechukwu,Male,2007-01-17,Yobe,Active,None,Art
+8fe069b6eeda48028568f42689e03e22,SS1 Class D,Obinna,Ekwueme,Male,2010-08-09,Niger,Highly active,None,Science
+1bf645f6232442118588fc1bb2384849,SS1 Class F,Oluwafemi,Umar,Male,2008-04-28,Lagos,Troublesome,None,Art
+3d4196fe963a4617bdab07e79d9d028e,SS1 Class F,Ime,Folami,Male,2009-05-21,Oyo,Active,None,Art
+e7ba26acab7a4d1c8cfef6833e11bafe,SS2 Class A,Ogochukwu,Emem,Male,2008-08-17,Yobe,Active,None,Science
+3b9b2d45a35045e4b9c59df987f255d6,SS2 Class D,Afolabi,Chibuike,Male,2008-05-11,Edo,Unactive,None,Science
+548e1f6b69ce4e4e99a692c90d700ea4,SS3 Class C,Uzochi,Ejiroghene,Female,2008-07-08,Niger,Unactive,Dyslexia,Art
+ae62990c19bd4f93b8ef7666b7a4c719,SS2 Class F,Olamilekan,Chukwuemeka,Male,2010-04-28,Abia,Highly active,Dyslexia,Science
+f6eab3a001534221a3310a28c550eca8,SS3 Class C,Ifiok,Ige,Male,2008-04-11,Anambra,Troublesome,Dyslexia,Science
+286ed390edd94a1aba585b278ce3e7c3,SS1 Class E,Adisa,Adegoke,Female,2008-12-02,Ebonyi,Active,None,Science
+e1721c83ef5e4376a723fb72682b163a,SS2 Class C,Olukayode,Ekenedilichukwu,Male,2008-04-10,Kwara,Highly active,None,Art
+a689b4247a3a40e1b9c773a0e0decc3d,SS1 Class E,Yalwa,Olusegun,Female,2010-08-04,Taraba,Troublesome,None,Science
+4988e418f6c3421881836315330f8be1,SS3 Class F,Shehu,Ebuka,Male,2010-03-15,Zamfara,Slightly active,None,Science
+0f25477da55940e78910fade52380bf2,SS2 Class E,Chukwuemeka,Oluwaseun,Female,2009-05-30,Kano,Slightly active,None,Science
+a6fd0cb116e645c084cb294fe86e8e63,SS3 Class B,Uduak,Tochukwu,Male,2010-04-03,Anambra,Slightly active,Dyslexia,Science
+bd1a8f4b88ff4d40bb72c86d92fa675f,SS3 Class C,Olamide,Amadi,Male,2010-08-09,Gombe,Highly active,Dyslexia,Science
+098c60b3efc9409e99af6e09b91e3d6e,SS3 Class F,Udo,Taiwo,Female,2010-06-19,Abia,Highly active,None,Art
+6afa828c2cd14b9fabe5841fe9c96c52,SS2 Class C,Otobong,Chigozie,Male,2008-12-20,Bayelsa,Slightly active,None,Science
+ef158d5b2d004d05966d4627e1dace6a,SS2 Class A,Bitrus,Chidiebube,Female,2010-01-30,Kwara,Slightly active,None,Art
+d61169a1ff4646bf894d916deb6d2fed,SS3 Class F,Oghenero,Ndubuisi,Male,2008-07-25,FCT,Unactive,Dyslexia,Science
+2fb21e667ed14aab89b7c9bc65a16fa9,SS1 Class B,Olawale,Ikenna,Female,2007-11-19,Ebonyi,Troublesome,None,Science
+df4e713ef64e4dfcbfbeac7aefc59738,SS1 Class E,Kyauta,Ayotunde,Female,2009-09-06,Delta,Active,None,Art
+0997623ae0724d968a1a81f5ed10f004,SS2 Class E,Ifeanyi,Chidike,Female,2010-05-17,Bauchi,Troublesome,Ulcer,Science
+9a4ffc0c916542ed8c636e95025f5543,SS3 Class B,Iniobong,Olujimi,Male,2009-05-06,Nasarawa,Active,Sickle Cell,Art
+55c551fcfba54cc8adaf37661b780ede,SS1 Class E,Otobong,Segun,Female,2007-11-13,Delta,Highly active,None,Art
+a42d0cd7fd354f6ab450388748d90846,SS1 Class B,Chibuzo,Chinweike,Male,2010-07-17,Adamawa,Unactive,Ulcer,Science
+e3a68a707e714b558639bd418b15bd94,SS3 Class F,Olamide,Ikenna,Male,2010-03-03,Zamfara,Highly active,None,Art
+811414f8d9df4d0ea25aed6cf0458043,SS2 Class D,Olusola,Mamman,Female,2008-05-23,Plateau,Troublesome,None,Art
+cf0e6d2b315c467a85d8a6ad77d0359e,SS2 Class C,Ayokunle,Chinonso,Male,2009-08-07,Gombe,Active,None,Art
+bb2aa1462999494c94a7b69b1cd66b09,SS1 Class A,Onyeka,Onyeka,Female,2008-05-27,Gombe,Troublesome,None,Art
+b7f60cdf41dc4c60a5f60735757b6b29,SS2 Class A,Ademola,Okechukwu,Female,2007-04-11,Edo,Highly active,None,Art
+564cfbd2bc924d81839b058c2faabe0b,SS3 Class F,Adewale,Idowu,Male,2008-03-07,FCT,Active,None,Science
+aca58d95915a4c308b86b5a1ca6fbff8,SS3 Class F,Ifiok,Tochukwu,Female,2007-06-07,Kaduna,Slightly active,None,Science
+9c6783932ced4c0db17304b5c1dd484a,SS2 Class E,Femi,Babatunde,Male,2007-12-13,Plateau,Troublesome,None,Art
+67ce378fe5a4483ba383889adb2c6ac8,SS3 Class A,Femi,Ade,Female,2008-10-01,Adamawa,Unactive,Sickle Cell,Art
+53f3007383e94ef4ad7df5d0d3b59af7,SS1 Class A,Emem,Adewale,Male,2009-10-06,Osun,Active,Dyslexia,Art
+186b2880ab544a15a69d01ff1634725b,SS3 Class E,Chidike,Rabiu,Male,2008-02-21,Ogun,Unactive,Dyslexia,Art
+7a3a6e9623ff43d3bb4fb88a2f4dd219,SS2 Class B,Ade,Akachi,Female,2010-07-05,Delta,Troublesome,None,Science
+01bf9e733f804385af9240b652d78f10,SS2 Class B,Ekenedilichukwu,Aminu,Male,2009-01-09,Rivers,Active,None,Science
+725d42593c4b4eeca231ee7342c2d2eb,SS2 Class A,Oluwatoyin,Ejiro,Male,2009-01-22,Anambra,Unactive,Sickle Cell,Science
+546252e7f43b40528459bd6ec0f63229,SS3 Class A,Ayo,Uduakobong,Male,2008-11-12,Akwa Ibom,Highly active,Asthma,Art
+92a81713b90e444b951c25d54d4c5280,SS3 Class F,Ebuka,Chukwudi,Male,2009-11-16,Kogi,Slightly active,None,Art
+5c0b9b10a7574b1082f525b902ed73ce,SS2 Class A,Femi,Ekwueme,Male,2008-02-18,Bauchi,Highly active,None,Science
+aaf407f70fe74149bc7e5368b1594847,SS3 Class F,Umukoro,Abiola,Male,2009-06-19,Oyo,Active,None,Art
+28e333b64e8a4c4bb72420411e43fbd2,SS1 Class A,Eniola,Mamman,Male,2008-11-21,FCT,Active,None,Art
+ec50ace480a54e65afa2855967c96204,SS2 Class F,Ayotunde,Uzochi,Female,2007-05-06,Ondo,Troublesome,None,Science
+c5144d98b41c404fa346f415e5267a2b,SS2 Class C,Uche,Oluwatoyin,Male,2006-12-16,Plateau,Unactive,None,Science
+a38295d31e0e4546b0b6dedf4f9c4027,SS2 Class B,Bello,Lawali,Female,2009-04-08,Delta,Troublesome,Sickle Cell,Science
+5e175b664b87459fb0cd7f05ea87855e,SS3 Class B,Akpan,Chidiebele,Female,2007-03-01,Bauchi,Troublesome,None,Art
+f515949438184fd3b889936a9d5817e8,SS1 Class A,Abubakar,Temitope,Male,2010-05-02,Kogi,Troublesome,None,Science
+74797b6127374b52ba6a210722319050,SS3 Class A,Yaƙubu,Chinweuba,Female,2009-05-21,Kaduna,Active,Dyslexia,Art
+5fa5e0aa9b114530bd247c11bf6b8cdf,SS2 Class C,Adebowale,Aminu,Male,2006-11-08,Plateau,Unactive,Dyslexia,Art
+e9ad0e9b8c9a41e9b3b263376a74dbb7,SS1 Class F,Tochukwu,Chidiebere,Male,2008-09-03,Adamawa,Unactive,None,Science
+cd4f8b2b899a425281e1b94a78883058,SS1 Class C,Tunde,Adedayo,Male,2008-09-05,Borno,Active,None,Art
+c3093b6e37e942e2935ac07aaa0217d0,SS1 Class A,Olamide,Haruna,Female,2008-06-21,Cross River,Highly active,Dyslexia,Science
+98874bfec1364c65ae2ae3413f59e4f2,SS1 Class C,Afolabi,Babajide,Female,2009-06-21,Katsina,Troublesome,None,Art
+86879aa914f543d089912032df85c777,SS3 Class A,Uduak,Chidiegwu,Female,2009-05-28,Taraba,Unactive,None,Science
+5c9deee0b42a445687365a84725e134d,SS2 Class A,Okonkwo,Ime,Male,2006-11-08,Osun,Unactive,None,Science
+1cb9b73a906d4c8caad08c8913fe8a29,SS1 Class F,Oghenekaro,Olusegun,Male,2009-05-31,FCT,Troublesome,None,Science
+e723ada38c324db2942a895e0fcf601f,SS2 Class A,Chisom,Ife,Male,2010-02-05,Kogi,Unactive,None,Art
+89628f6e929c43b3b3c08bf18167999f,SS1 Class D,Bello,Okonkwo,Male,2008-12-16,Kano,Troublesome,None,Art
+dabf984e53ff4461aa1f1b61265cb9d9,SS2 Class C,Kyauta,Uche,Male,2009-01-28,Rivers,Troublesome,None,Science
+ae27d4321dc147ebb11c767385351a69,SS1 Class A,Uchenna,Mamman,Male,2009-12-16,Imo,Active,None,Science
+7d23d47995494a82b787ef8d3495311e,SS3 Class C,Ahmadu,Emeka,Female,2007-10-03,Kaduna,Unactive,None,Science
+720b274b82a74586a61d9cde1747f387,SS2 Class E,Afolabi,Uduakobong,Female,2008-08-04,Edo,Active,Sickle Cell,Art
+21c71aa3741443b58e3e25f2cf0671c7,SS1 Class A,Kayin,Abiola,Male,2010-09-14,Imo,Unactive,None,Art
+905c7bdd74f04eaeaa5943ce836435e3,SS3 Class F,Nonso,Olabode,Female,2008-02-01,Delta,Unactive,None,Art
+ac3a812f765e4cb58f0d55400ec7d662,SS1 Class C,Tochukwu,Taiwo,Female,2007-02-23,Benue,Slightly active,None,Science
+0592bfa5b928423f8ee4334ece920136,SS2 Class D,Afolabi,Lawali,Male,2007-04-11,Osun,Troublesome,Dyslexia,Science
+00c59f30d103442481241bb4655ce508,SS2 Class F,Ife,Okechukwu,Female,2007-10-18,Rivers,Unactive,None,Art
+12b2102d940c4503b7c86152beed0af9,SS1 Class E,Chinwendu,Bitrus,Male,2008-03-14,Oyo,Unactive,None,Art
+b34c6c7358334b30ac776e950b981ccd,SS1 Class D,Ayotunde,Lanre,Male,2009-08-12,Ebonyi,Unactive,None,Art
+0f6ce9bffe7e43628a89b0f0105291d3,SS2 Class E,Musa,Ayuba,Female,2009-01-09,Zamfara,Highly active,None,Art
+fc737d9211ab4d11a4eb8000ef40d162,SS3 Class D,Kayin,Chijioke,Male,2007-11-30,Bauchi,Highly active,Ulcer,Art
+497ec6d1081f46dcb8d9a88aef0bea4f,SS2 Class B,Adegoke,Eseoghene,Male,2007-07-21,Nasarawa,Troublesome,Dyslexia,Art
+22ab7752c4db4a62ae13418d68ab80ea,SS1 Class F,Iniobong,Okonkwo,Female,2008-05-08,Benue,Active,None,Science
+bab2b77dfa744cc8a43afb7ac40d4874,SS2 Class A,Chidi,Chidiebele,Female,2007-05-07,Katsina,Active,None,Science
+5fdcabbf6b9c471cb6ba745ba55871e3,SS2 Class A,Olukayode,Chizoba,Male,2007-01-04,Jigawa,Unactive,None,Art
+72d3545861ea4f30a42e707afe2bd987,SS2 Class D,Kehinde,Olufemi,Female,2010-03-26,Delta,Active,None,Science
+60a399d4e8214716aac80da1de9f6f5b,SS2 Class D,Musa,Chima,Female,2009-09-21,Delta,Highly active,None,Science
+f6d22a7baec74a82948b4376602a4e57,SS1 Class F,Chidike,Olu,Male,2007-07-10,Kwara,Unactive,None,Science
+220b9ea98a0f45089fe2c0a0a96b3c42,SS1 Class C,Abimbola,Chinweuba,Male,2010-04-25,Akwa Ibom,Troublesome,Ulcer,Art
+1e5ebe54590742999c3bbdd8a74e02a9,SS1 Class E,Balarabe,Chuks,Female,2007-07-23,Katsina,Highly active,Dyslexia,Art
+649f7d88898945abbe2b34d82db0728d,SS3 Class F,Femi,Ibrahim,Male,2008-01-03,Kano,Highly active,Dyslexia,Science
+fa8dae42ba544920a099d18087623997,SS2 Class C,Oluwasegun,Fumnanya,Male,2009-01-03,Delta,Unactive,None,Science
+c194f97f00e3402695b6de85390239d9,SS2 Class F,Ekwueme,Abdullahi,Male,2006-11-03,FCT,Highly active,None,Science
+76876c624c61445eba7e5d9405d1fb63,SS1 Class E,Ndubuisi,Femi,Male,2009-08-26,Enugu,Slightly active,None,Science
+6c93a7918b604511b8168aebac6a7c85,SS1 Class B,Ayotunde,Olawale,Male,2009-05-23,Edo,Active,None,Art
+3acb43a3d2c74ffba118433b882ccd1e,SS1 Class E,Chuks,Musa,Male,2010-06-28,Cross River,Unactive,Dyslexia,Art
+27b608dc589d4cb0b5eb89c23f5cf2f3,SS3 Class A,Enyinnaya,Chidiebele,Male,2007-03-21,Benue,Slightly active,Dyslexia,Science
+e00da49deffa4002b040413c4690fb15,SS1 Class C,Onyekachukwu,Uche,Female,2009-11-10,Kogi,Troublesome,None,Art
+083f64c31ce342f883f725feb99b2b5a,SS2 Class B,Ademola,Ejiroghene,Female,2008-04-16,Benue,Active,None,Art
+9d6b9b626b534a19a902b73fcf39f648,SS1 Class B,Olukayode,Inyene,Female,2007-01-31,Plateau,Highly active,Sickle Cell,Science
+e39836bbe23d4faaafad49e9c41c147e,SS3 Class A,Chukwuebuka,Idowu,Male,2007-05-06,Benue,Troublesome,None,Art
+1139fa1234c143eabd9c4e6404015ced,SS1 Class C,Chidiebele,Chinweuba,Male,2009-11-05,Taraba,Active,Dyslexia,Art
+7249f62c08984462980cb95c19d45deb,SS1 Class F,Eseoghene,Olamilekan,Male,2009-05-16,Niger,Highly active,Dyslexia,Art
+df495037b40a4181ac09bdb799086e47,SS1 Class E,Ugochukwu,Ugochukwu,Female,2007-03-04,Sokoto,Unactive,None,Science
+0b531932bd9449aabea6e5b20c760d28,SS1 Class A,Babajide,Chidiebube,Male,2009-12-29,Taraba,Troublesome,None,Science
+8a2db2e63bfd48a6b05fddf566fadca0,SS2 Class A,Oluwaseyi,Ekundayo,Female,2008-02-26,Plateau,Troublesome,Dyslexia,Art
+c6ac1b04dd1d4cd1811f6bf5379ef467,SS1 Class F,Fumnanya,Sani,Female,2008-07-14,Plateau,Highly active,None,Art
+fe54ee4b80ff4173a3dfecd70e731dd7,SS1 Class F,Uduakobong,Ekenedilichukwu,Female,2007-02-20,Abia,Highly active,None,Science
+ea98fef8d0d74e37bbf2025f4a0d2b73,SS3 Class B,Oni,Ifeanyi,Female,2007-04-29,Nasarawa,Active,None,Art
+93d563ae51a34c26937bf79bbb44badc,SS3 Class D,Ayokunle,Abiola,Female,2008-09-07,Oyo,Slightly active,None,Art
+d18183d1ac2b4cfc85c51060991121e7,SS1 Class A,Emeka,Otobong,Male,2008-10-10,Oyo,Active,None,Science
+e05277394d404f1bbca5be2952171bf3,SS2 Class D,Ifeanyichukwu,Olanrewaju,Male,2009-03-28,Akwa Ibom,Slightly active,None,Art
+8570b59fa9034e67bc568b5324acb722,SS1 Class C,Rabiu,Chikere,Female,2007-01-04,Akwa Ibom,Unactive,None,Science
+46707cd64ced4164a9df14e9389641dd,SS3 Class C,Oyibo,Chika,Male,2010-03-22,Delta,Slightly active,None,Science
+97777f10f2d2493f8e85140d0f9aeb70,SS3 Class A,Kyauta,Femi,Male,2008-08-24,Anambra,Unactive,Dyslexia,Science
+2cd58759e95d4761bc36dc59e134edfc,SS3 Class C,Adebola,Chijindum,Male,2008-05-21,Rivers,Unactive,Sickle Cell,Science
+8e4c3ab56d5d4477adc29178a0411612,SS1 Class B,Kayode,Enyinnaya,Male,2009-05-26,Kebbi,Slightly active,None,Science
+582b91eef8e8435b8c00988a7ee1011a,SS2 Class D,Uduak,Ekundayo,Male,2010-09-07,Taraba,Troublesome,None,Science
+61935990abdd4a8fa4b05c89f10bce9c,SS2 Class A,Uduakobong,Nnamdi,Female,2006-10-22,Yobe,Active,None,Science
+b2414482519844d886433603c92a7d7c,SS2 Class E,Okafor,Shehu,Male,2007-09-01,Delta,Slightly active,None,Science
+4cc57e0d26334018a883ac6e6a944054,SS3 Class B,Usman,Kehinde,Male,2008-06-14,Kogi,Unactive,None,Art
+89b5aab0c12149dbaf12b150605fb1eb,SS2 Class A,Uduak,Efe,Male,2008-02-20,Enugu,Slightly active,None,Science
+39b02e2ad96e484fbdb0174e7938878a,SS3 Class F,Abimbola,Chibuzo,Female,2010-01-05,Yobe,Troublesome,None,Art
+24f43c62b52340de9b87d29c4cfd0fc1,SS1 Class B,Uduak,Onyekachi,Female,2009-12-28,Nasarawa,Highly active,None,Science
+0ec0713dea2c4a51b688d11fce4758be,SS2 Class C,Adeola,Tochukwu,Female,2008-01-25,Ekiti,Troublesome,Dyslexia,Science
+6aa0426df7c045f7a9a53b4f8ff8869d,SS1 Class C,Chi,Okeke,Male,2010-05-27,Imo,Highly active,None,Art
+636f6e5c2253470687ad8b268eaa5841,SS3 Class B,Chibuzo,Ejiro,Female,2007-03-13,Adamawa,Troublesome,None,Science
+548c1d84340d4049814765063e2bf9c9,SS2 Class D,Ifeanyichukwu,Olusegun,Female,2010-01-26,FCT,Slightly active,Dyslexia,Science
+73253aa3ec174298943df5b3a58e83dd,SS3 Class C,Olufemi,Babajide,Female,2007-08-17,Imo,Highly active,None,Art
+891f691217ab48639efeef4fd8ddbbc0,SS1 Class F,Adebola,Sani,Male,2008-09-11,Adamawa,Troublesome,None,Science
+0d31812e30c347569453f867b97e6224,SS2 Class B,Abubakar,Chinedu,Male,2010-05-11,FCT,Active,None,Science
+9adf4709ac754344a08e149e44b9e602,SS2 Class E,Ɗanladi,Chukwuemeka,Male,2008-11-20,Adamawa,Slightly active,None,Science
+12a1fe7ddfa547228a1fc9df9a591974,SS1 Class B,Onyebuchi,Okafor,Female,2007-01-04,Zamfara,Active,None,Science
+966be275c2fe49548dfd9531302b7831,SS1 Class C,Chinwendu,Chizoba,Female,2010-09-30,Delta,Troublesome,None,Science
+378e65108f10433eabe42e7db96c1163,SS1 Class E,Abiodun,Bamidele,Male,2009-04-01,Sokoto,Active,None,Science
+e8334da5de954695b579c1437ab99428,SS2 Class D,Olusola,Uzoma,Male,2010-06-03,Bayelsa,Troublesome,None,Art
+e8b3d763f4ff4f3a8d9dbaeb553d2625,SS1 Class C,Inyene,Efe,Female,2009-11-19,Delta,Highly active,None,Science
+30a5648eefe943d0b63908bf03ece8ff,SS2 Class C,Segun,Ɗanlami,Male,2010-04-29,Zamfara,Highly active,None,Science
+bf337a151e084f20bdd151b0f64ab6ec,SS1 Class D,Chidi,Kelechi,Male,2009-01-17,Borno,Active,None,Science
+ea18d32c7a9a4ef5811bd1c4ffe3f366,SS3 Class E,Kyauta,Chi,Male,2006-11-25,Bayelsa,Active,None,Science
+b42a2d939aba4f15b21490623e1a963e,SS2 Class C,Haruna,Rabiu,Male,2010-02-11,Oyo,Active,None,Science
+3d44cb2cea454a41a589ada1345af934,SS2 Class E,Emeka,Akuchi,Male,2007-01-01,Nasarawa,Slightly active,Dyslexia,Science
+48769153c68843fe92555c758d55119e,SS3 Class A,Umukoro,Chikere,Male,2010-06-06,FCT,Unactive,Ulcer,Art
+a6129a1c889d4b76b75c30b561730c48,SS2 Class B,Olabode,Uche,Female,2007-02-19,Jigawa,Active,None,Art
+5c11ab6d42f543f58ef4c34d5bf86f3c,SS2 Class F,Ige,Chizoba,Female,2009-12-28,Kano,Highly active,None,Science
+774c0afa7f4d408ca1fff6c08347f1da,SS3 Class F,Ikenna,Akpan,Female,2007-04-26,Abia,Unactive,None,Art
+b8f0188efb374fae8d8563ca193e638d,SS2 Class F,Chukwudi,Chukwuma,Female,2008-01-10,FCT,Troublesome,None,Art
+51facefad6f84f7a82fa1da878308631,SS1 Class D,Olayinka,Chinweike,Female,2010-03-09,FCT,Unactive,Dyslexia,Science
+501ba8515ee64495b40029c3ea11905b,SS1 Class A,Jatau,Chibueze,Female,2008-04-10,Akwa Ibom,Highly active,None,Science
+dd34aa1890014ed48bb401e769f753f1,SS2 Class F,Nnamdi,Olusegun,Female,2008-08-14,Abia,Slightly active,None,Art
+0426fcc9255b40e2bdc2b74b38a56b49,SS1 Class D,Kayode,Salisu,Male,2009-05-30,Ekiti,Highly active,None,Art
+95831d58ef4c41198da5d39b42c21797,SS1 Class E,Okonkwo,Eseoghene,Male,2007-07-24,Nasarawa,Active,None,Art
+4b91b8cb6ae64582b852b3cd9442b5e6,SS3 Class E,Haruna,Olayinka,Male,2008-12-02,Ebonyi,Slightly active,None,Science
+3ae2802354724d2db2399ffb27046f25,SS2 Class B,Onyekachukwu,Lanre,Female,2008-05-05,Nasarawa,Troublesome,Dyslexia,Art
+3ee82983d557424191ddb9bf613d2de9,SS3 Class B,Ife,Chidubem,Female,2007-07-31,Bayelsa,Troublesome,None,Art
+f186e47aa79443208cf6e8b87fd238c3,SS1 Class D,Adekunle,Abiola,Male,2010-06-14,Ebonyi,Troublesome,None,Science
+c36b9a0a41e04a89966a9ce7af521b94,SS1 Class A,Oghenero,Nnamdi,Male,2009-12-02,Lagos,Active,None,Art
+b93b17fbf76d45fdbd1645a0d253d966,SS1 Class D,Uchenna,Chidubem,Male,2007-12-08,Edo,Slightly active,Dyslexia,Art
+75f8e3a87d974c0fbd5609c4a4461663,SS2 Class C,Oghenekaro,Okechukwu,Male,2010-06-15,Yobe,Highly active,None,Art
+5a2837b2cb8343f2bb96f6022b115c36,SS3 Class B,Abiola,Emem,Female,2007-05-19,Ondo,Unactive,Sickle Cell,Art
+8bea75c1b86647aaa3d4526b2b54ff7a,SS2 Class D,Umukoro,Olalekan,Female,2007-03-10,Nasarawa,Active,None,Science
+e3ad64d4eab94b02af1dc1217d024c6d,SS3 Class D,Uduakobong,Chike,Male,2010-02-26,Cross River,Troublesome,None,Science
+f50d7a37a44d4fecbd85d7fa8ac97b01,SS3 Class E,Olukayode,Ifeanyi,Male,2007-08-04,Imo,Troublesome,Dyslexia,Art
+d6cd315508a84c7f862138ad0f09105c,SS3 Class D,Umaru,Olufemi,Male,2009-11-11,Kaduna,Active,None,Science
+d1682e09f1f7490493075157d8c128e7,SS2 Class E,Nonso,Uduak,Male,2010-09-29,Zamfara,Slightly active,Ulcer,Science
+01a25ed1c3ab45f18c6b7074ab102c9b,SS1 Class C,Ifiok,Oluwasegun,Female,2010-07-18,Anambra,Highly active,None,Science
+a175a9c3d7b142a9a332a50e6992896e,SS3 Class B,Chidi,Yaƙubu,Female,2010-10-02,Sokoto,Slightly active,None,Science
+26a9e100b509409b916658ce3b3f3800,SS3 Class C,Olayinka,Onyebuchi,Female,2010-01-13,Anambra,Unactive,Asthma,Science
+74bd0c9381774661b7fe032c02571851,SS3 Class D,Obi,Nnamdi,Female,2007-12-16,Bayelsa,Active,None,Science
+a3422e509e2a43248f79a8a75f8a14bd,SS3 Class C,Abidemi,Oyibo,Female,2010-08-10,Bayelsa,Slightly active,None,Art
+e9aa144b9dd44675af145064aab07015,SS1 Class D,Segun,Idowu,Male,2007-05-03,Delta,Troublesome,Dyslexia,Art
+0406ff447ce44679a8c6dbc07bb3447b,SS2 Class F,Toyin,Efe,Male,2010-07-22,Kebbi,Unactive,None,Science
+694d7b008d384327883f13c601b158e9,SS3 Class E,Chinweike,Abioye,Male,2009-04-15,Osun,Active,Dyslexia,Science
+b8e19f5687874a2184482a220308aa5e,SS3 Class A,Onyeka,Olalekan,Male,2008-05-27,Akwa Ibom,Slightly active,None,Art
+49646b96fa3c4628892621df465568b7,SS2 Class D,Ayo,Bitrus,Female,2009-06-29,Kaduna,Unactive,None,Art
+b2a6e468d02b424380913ac10463750e,SS2 Class D,Onyeka,Azubuike,Male,2008-07-18,Niger,Unactive,None,Science
+f090f5a0ce614199ae3a0ba8ac8d6c7d,SS2 Class E,Olufemi,Ife,Female,2006-11-13,FCT,Unactive,None,Science
+eb053fc41b654dabade46e91e8e6e840,SS1 Class A,Temitope,Obinna,Female,2009-05-10,Abia,Highly active,None,Art
+3db02235261e4555863e1f2a18a806ef,SS2 Class B,Enitan,Okechukwu,Male,2010-08-03,Katsina,Highly active,None,Science
+409e7a8086c541d69ea9f50831227592,SS1 Class D,Ɗanjuma,Temitope,Female,2010-04-27,Jigawa,Slightly active,None,Science
+cb80f288446f44dd9abca6e5d0b1e3eb,SS1 Class F,Chika,Adisa,Male,2008-12-04,Cross River,Troublesome,None,Science
+f5948a545f804eeb943a9aff659b0105,SS2 Class D,Akpofure,Chibueze,Male,2010-09-30,Kogi,Unactive,None,Science
+3e42df5b90a34bbfb580e05067f1698c,SS1 Class D,Adebola,Onyekachi,Female,2008-04-05,Enugu,Troublesome,Asthma,Science
+4ccb235539d147ffb27e1442fd7fe973,SS3 Class E,Abubakar,Bukar,Female,2010-06-14,Ogun,Slightly active,None,Art
+14a34f7fd90d419b93fbe043af1d5a1a,SS1 Class F,Babajide,Olusegun,Female,2009-03-09,Anambra,Troublesome,Dyslexia,Art
+a65f7b8adbb44021bdde64afa75b395a,SS3 Class C,Sani,Ayotunde,Male,2010-05-04,Edo,Active,None,Art
+67c0518b17ef4621881c79d4c27437eb,SS1 Class E,Chuks,Nonso,Female,2007-01-21,Rivers,Highly active,None,Science
+79db78628d7d4772a08e2f5c61177270,SS3 Class C,Ayotunde,Onyekachi,Male,2009-01-25,Cross River,Unactive,None,Science
+b3eda8f1026b4383a301ec030e5d8c6a,SS2 Class A,Taiwo,Adisa,Male,2007-10-10,Bayelsa,Active,Dyslexia,Science
+d867888b7ff64824952aeaec2bdfcb41,SS3 Class C,Udo,Chikelu,Female,2010-02-25,Kano,Highly active,None,Science
+54ce26bec8cc42c2a518a4186f14b3f6,SS3 Class A,Mamman,Uzoma,Female,2009-04-29,Ekiti,Troublesome,None,Art
+f94d8fcbdba3496fba323f6990dbfad6,SS3 Class E,Ifeanyi,Chimezie,Female,2008-07-06,Borno,Unactive,Epilepsy,Art
+eb4d8f42873540a2a51109611869a217,SS3 Class A,Chidiebele,Adebola,Male,2009-04-24,Yobe,Highly active,None,Science
+e6b9d31a361f4d90bad1fa330ae4ac11,SS1 Class A,Iniobong,Adebayo,Female,2010-04-11,Kano,Troublesome,None,Science
+9118c400e3364243b139c476de3ce88b,SS1 Class F,Abubakar,Haruna,Female,2009-04-23,Akwa Ibom,Troublesome,Dyslexia,Science
+ec95b3ac0beb4c3485667c4879ba630a,SS2 Class A,Opeyemi,Chukwuma,Male,2008-12-07,Katsina,Slightly active,None,Science
+47c68688ecf34053af36b8cc13087974,SS3 Class A,Olamide,Olayinka,Male,2007-05-28,Kogi,Unactive,None,Science

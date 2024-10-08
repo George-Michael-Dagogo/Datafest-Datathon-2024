@@ -1,5 +1,5 @@
 import pandas as pd
-from data_collection import * 
+from data_generation_collection import * 
 # Load the data
 attendance_df = fact_attendance
 student_df = dim_student
@@ -183,7 +183,7 @@ def parent_data_quality_checks():
 
     # 4. Check if Annual_Household_Income(NGN) is valid
     valid_income_ranges = ['Below 200,000', '200,000-400,000', '400,000-600,000', 'Above 600,000']
-    if not parent_df['Annual_Household_Income(NGN)'].isin(valid_income_ranges).all():
+    if not parent_df['Annual_Household_Income_NGN'].isin(valid_income_ranges).all():
         print("Invalid values found in Annual_Household_Income(NGN).")
     else:
         print("Annual_Household_Income(NGN) has valid values.")
@@ -198,7 +198,7 @@ def parent_data_quality_checks():
         duplicate_student_ids == 0 and
         missing_students.empty and
         parent_df['Household_Size'].between(1, 15).all() and
-        parent_df['Annual_Household_Income(NGN)'].isin(valid_income_ranges).all()):
+        parent_df['Annual_Household_Income_NGN'].isin(valid_income_ranges).all()):
         
         parent_df.to_parquet('./passed_basic_quality_checks/parent_table.parquet')
         print("All data quality checks passed. Data saved as Parquet.")
@@ -286,28 +286,28 @@ def staff_data_quality():
         print("All Staff_IDs are unique.")
 
     # 3. Verify Monthly Pay and Years of Experience are non-negative
-    if (staff_df[['Monthly Pay', 'Years of Experience']] < 0).any().any():
+    if (staff_df[['Monthly_Pay', 'Years_of_Experience']] < 0).any().any():
         print("Monthly Pay or Years of Experience contains negative values.")
     else:
         print("Monthly Pay and Years of Experience are non-negative.")
 
     # 4. Check if Date of Hire is in a consistent date format and not in the future
-    staff_df['Date of Hire'] = pd.to_datetime(staff_df['Date of Hire'], errors='coerce')
-    future_dates = staff_df[staff_df['Date of Hire'] > pd.Timestamp.now()]
+    staff_df['Date_of_Hire'] = pd.to_datetime(staff_df['Date_of_Hire'], errors='coerce')
+    future_dates = staff_df[staff_df['Date_of_Hire'] > pd.Timestamp.now()]
     if not future_dates.empty:
-        print("Future Date of Hire values found:\n", future_dates['Date of Hire'])
+        print("Future Date of Hire values found:\n", future_dates['Date_of_Hire'])
     else:
         print("All Date of Hire values are valid.")
 
     # 5. Ensure Gender, Position, and Education Level have consistent categories
     print("Unique values in Gender:", staff_df['Gender'].unique())
     print("Unique values in Position:", staff_df['Position'].unique())
-    print("Unique values in Education Level:", staff_df['Education Level'].unique())
+    print("Unique values in Education Level:", staff_df['Education_Level'].unique())
 
     # Save to parquet if all checks pass
     if (staff_df.isnull().values.any() == False and
         not staff_df['Staff_ID'].duplicated().any() and
-        not (staff_df[['Monthly Pay', 'Years of Experience']] < 0).any().any() and
+        not (staff_df[['Monthly_Pay', 'Years_of_Experience']] < 0).any().any() and
         future_dates.empty):
         
         staff_df.to_parquet('./passed_basic_quality_checks/staff_table.parquet')
@@ -320,8 +320,8 @@ def staff_data_quality():
 def performance_data_quality():
 
     # 1. Check for null values in relevant columns
-    if performance_df[['Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS/Islam']].isnull().any().any():
-        print("Null values found in key columns:\n", performance_df[['Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS/Islam']].isnull().sum())
+    if performance_df[['Mathematics', 'English_Language', 'Civic_Education', 'Economics', 'CRS_Islam']].isnull().any().any():
+        print("Null values found in key columns:\n", performance_df[['Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS_Islam']].isnull().sum())
     else:
         print("No null values found in the relevant columns.")
 
@@ -338,8 +338,8 @@ def performance_data_quality():
     else:
         print("All Student_IDs exist in student_table.")
 
-    # 3. Verify that scores for 'Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS/Islam' are within the expected range (0-100)
-    columns_to_check = ['Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS/Islam']
+    # 3. Verify that scores for 'Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS_Islam' are within the expected range (0-100)
+    columns_to_check = ['Mathematics', 'English_Language', 'Civic_Education', 'Economics', 'CRS_Islam']
     valid_scores = performance_df[columns_to_check].apply(lambda x: x.between(0, 100) | x.isna()).all()
     if not valid_scores.all():
         print("Some scores are outside the expected range (0-100) in these columns:", valid_scores[~valid_scores].index.tolist())
@@ -362,7 +362,7 @@ def performance_data_quality():
         print("Decimal places are consistent in float64 columns.")
 
     # Save to parquet if all checks pass
-    if (performance_df[['Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS/Islam']].isnull().any().any() == False and
+    if (performance_df[['Mathematics', 'English_Language', 'Civic_Education', 'Economics', 'CRS_Islam']].isnull().any().any() == False and
         not performance_df['Student_ID'].duplicated().any() and
         missing_students_perf.empty and
         valid_scores.all() and
@@ -421,13 +421,13 @@ def student_data_quality_checks():
 
     if not student_df['Gender'].isin(gender_categories).all():
         print("Inconsistent categories found in Gender column.")
-    if not student_df['State of Origin'].isin(state_origin_categories).all():
+    if not student_df['State_of_Origin'].isin(state_origin_categories).all():
         print("Inconsistent categories found in State of Origin column.")
     if not student_df['engagement_in_class'].isin(engagement_categories).all():
         print("Inconsistent categories found in engagement_in_class column.")
     if not student_df['health_condition'].isin(health_condition_categories).all():
         print("Inconsistent categories found in health_condition column.")
-    if not student_df['Class Spec'].isin(class_spec_categories).all():
+    if not student_df['Class_Spec'].isin(class_spec_categories).all():
         print("Inconsistent categories found in Class Spec column.")
 
     # Save to parquet if all checks pass
@@ -465,12 +465,12 @@ def teacher_data_quality_checks():
 
     # 4. Ensure Teacher Type and Subject specialization have consistent categories
     # Example categories
-    teacher_type_categories = ['Full-Time', 'Part-Time', 'Substitute']  # Update as per your data
-    subject_specialization_categories = ['Math', 'Science', 'English', 'History']  # Update as per your data
+    teacher_type_categories = teacher_type  # Update as per your data
+    subject_specialization_categories =subjects  # Update as per your data
 
-    if not teachers_df['Teacher Type'].isin(teacher_type_categories).all():
+    if not teachers_df['Teacher_Type'].isin(teacher_type_categories).all():
         print("Inconsistent categories found in Teacher Type column.")
-    if not teachers_df['Subject specialization'].isin(subject_specialization_categories).all():
+    if not teachers_df['Subject_specialization'].isin(subject_specialization_categories).all():
         print("Inconsistent categories found in Subject specialization column.")
 
     # Save to parquet if all checks pass
@@ -498,3 +498,5 @@ extracurricular_activities_data_checks()
 class_resources_quality_checks()
 
 attendance_quality_checks()
+
+teacher_data_quality_checks()

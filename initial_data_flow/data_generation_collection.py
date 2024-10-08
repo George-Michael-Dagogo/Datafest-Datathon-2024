@@ -87,8 +87,8 @@ nigeria_states = [
 education_levels = ['None', 'Primary', 'Secondary', 'Tertiary']
 occupations = ['Farmer', 'Trader', 'Teacher', 'Civil Servant', 'Engineer', 'Unemployed', 'Doctor', 'Nurse']
 extracurricular_activities = ['Sports', 'Drama', 'Debate Club', 'Art','Jet club','Press club','Literature club']
-common_subjects = ['Mathematics', 'English Language', 'Civic Education', 'Economics', 'CRS/Islam']
-science_subjects = ['Physics', 'Chemistry', 'Biology', 'Geography', 'Computer Science']
+common_subjects = ['Mathematics', 'English_Language', 'Civic_Education', 'Economics', 'CRS_Islam']
+science_subjects = ['Physics', 'Chemistry', 'Biology', 'Geography', 'Computer_Science']
 art_subjects = ['Government', 'Commerce', 'Literature','History', 'Accounting']
 subjects = common_subjects + science_subjects + art_subjects
 health_condition = ['Asthma'] * 3 + ['Sickle Cell'] * 2 + ['Ulcer'] * 3 + ['Epilepsy']*1 + ['Dyslexia']*20 + ['None']*91
@@ -157,11 +157,11 @@ def generate_staff_data():
                 "Name": ', '.join(random.sample(list(name_ethnic_male.keys()), 2)),
                 'Gender': random.choice(['Male', 'Female']),
                 "Position": position,
-                "Monthly Pay": details["pay_grade"],
-                "Years of Experience": random.randint(0, 30),
-                "Education Level": fake.random_element(elements=("High School", "Associate's", "Bachelor's", "Master's", "PhD")),
-                "Date of Hire": fake.date_between(start_date="-30y", end_date="today"),
-                "Full-time": fake.boolean(chance_of_getting_true=80)
+                "Monthly_Pay": details["pay_grade"],
+                "Years_of_Experience": random.randint(0, 30),
+                "Education_Level": fake.random_element(elements=("High School", "Associate's", "Bachelor's", "Master's", "PhD")),
+                "Date_of_Hire": fake.date_between(start_date="-30y", end_date="today"),
+                "Full_time": fake.boolean(chance_of_getting_true=80)
             }
             data.append(staff_member)
     return data
@@ -175,9 +175,9 @@ def generate_teacher_table():
     teachers_table = staff_table[staff_table['Position'] == 'Teacher'][['Staff_ID', 'Name']].copy()
     teachers_table['Teacher_ID'] = [fake.unique.uuid4() for i in range(len(teachers_table))]
     teachers_table['Teacher_ID'] = teachers_table['Teacher_ID'].str.replace('-', '', regex=False)
-    teachers_table['Teacher Type'] = random.choices(teacher_type, weights=weights, k=len(teachers_table))
-    teachers_table['Subject specialization'] = subjects
-    teachers_table = teachers_table[['Teacher_ID', 'Staff_ID', 'Name', 'Teacher Type', 'Subject specialization']]
+    teachers_table['Teacher_Type'] = random.choices(teacher_type, weights=weights, k=len(teachers_table))
+    teachers_table['Subject_specialization'] = subjects
+    teachers_table = teachers_table[['Teacher_ID', 'Staff_ID', 'Name', 'Teacher_Type', 'Subject_specialization']]
     return teachers_table
 
 teachers_table = generate_teacher_table()
@@ -198,10 +198,10 @@ def generate_dim_student(num_students, dim_class):
             'Family_Name': ', '.join(random.sample(list(name_ethnic_male.keys()), 1)),
             'Gender': gender,
             'Date_of_Birth': DOB,
-            'State of Origin': random.choice(nigeria_states),
+            'State_of_Origin': random.choice(nigeria_states),
             'engagement_in_class': random.choice(['Troublesome','Unactive','Slightly active','Active','Highly active']),
             'health_condition': random.choice(health_condition),
-            'Class Spec': random.choice(['Art','Science'])
+            'Class_Spec': random.choice(['Art','Science'])
         })
     return pd.DataFrame(data)
 
@@ -214,14 +214,14 @@ def generate_dim_parent_demographics(dim_student):
     for _, student in dim_student.iterrows():
         data.append({
             'Student_ID': student['Student_ID'],
-            'Fathers Name': ', '.join(random.sample(list(name_ethnic_male.keys()), 1)),
-            'Mothers Name': ', '.join(random.sample(list(name_ethnic_female.keys()), 1)),
-            'Family Name' : ', '.join(random.sample(list(name_ethnic_male.keys()), 1)),
+            'Fathers_Name': ', '.join(random.sample(list(name_ethnic_male.keys()), 1)),
+            'Mothers_Name': ', '.join(random.sample(list(name_ethnic_female.keys()), 1)),
+            'Family_Name' : ', '.join(random.sample(list(name_ethnic_male.keys()), 1)),
             'Father_Education': random.choice(education_levels),
             'Mother_Education': random.choice(education_levels),
             'Father_Occupation': random.choice(occupations),
             'Mother_Occupation': random.choice(occupations),
-            'Annual_Household_Income(NGN)': random.choice(['Below 200,000', '200,000-400,000', '400,000-600,000', 'Above 600,000']),
+            'Annual_Household_Income_NGN': random.choice(['Below 200,000', '200,000-400,000', '400,000-600,000', 'Above 600,000']),
             'Household_Size': random.choice(np.arange(2, 7)),
             'Involvement_in_Kids_Education': random.choice(['Always busy', 'Slightly involved', 'Involved', 'Very Involved'])
         })
@@ -272,12 +272,12 @@ fact_attendance = generate_fact_attendance(dim_student)
 
 # Generate student performance data
 def generate_student_performance(dim_student):
-    dim_student_copy = dim_student[['Student_ID', 'Class Spec']].copy()
+    dim_student_copy = dim_student[['Student_ID', 'Class_Spec']].copy()
     data = []
     
     for _, row in dim_student_copy.iterrows():
         student_id = row['Student_ID']
-        class_spec = row['Class Spec']
+        class_spec = row['Class_Spec']
         
         performance = assign_scores(common_subjects)
         

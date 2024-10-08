@@ -1,0 +1,994 @@
+Student_ID,Fathers Name,Mothers Name,Family Name,Father_Education,Mother_Education,Father_Occupation,Mother_Occupation,Annual_Household_Income(NGN),Household_Size,Involvement_in_Kids_Education
+ccf3a17156dc4907ba6c34ab6712303a,Oghenero,Emem,Haruna,Tertiary,Secondary,Farmer,Civil Servant,"200,000-400,000",4,Involved
+310c0c003fa741049bf90e27dc96925e,Kayin,Hauwa,Olukayode,Tertiary,Primary,Engineer,Civil Servant,"400,000-600,000",2,Slightly involved
+23e2fcb472d8467d894a05e430b187ef,Akpan,Ekene,Ebuka,None,Secondary,Teacher,Engineer,"Above 600,000",5,Involved
+766ecb15474e4c19aef912766c006f61,Chidi,Bukola,Adebayo,Primary,None,Doctor,Trader,"Below 200,000",2,Very Involved
+134c6c92ec5b427c9fde4fbf3ff350bf,Chuks,Ebele,Idowu,Tertiary,None,Nurse,Nurse,"200,000-400,000",4,Slightly involved
+db20a56edc814fe78eda8bbb71710434,Azubuike,Chinonso,Okorie,None,None,Doctor,Nurse,"200,000-400,000",4,Always busy
+a6f2f7b80cf34b5899108be58ce21ea3,Ayuba,Ijeoma,Aliyu,Tertiary,Tertiary,Teacher,Farmer,"200,000-400,000",2,Very Involved
+03c72ba8d60547708a63f881ffd0f9d5,Chidiebele,Uchenna,Abimbola,Secondary,Secondary,Nurse,Civil Servant,"Below 200,000",4,Slightly involved
+c0e9ab30ed2642e997e011b7f8102383,Ejike,Oghenekevwe,Nnamdi,Secondary,Tertiary,Doctor,Nurse,"Above 600,000",4,Involved
+680ac07a2a934d62bc835dc0d9441fa5,Umaru,Onyinyechi,Enyinnaya,Secondary,Tertiary,Unemployed,Trader,"Below 200,000",4,Involved
+dd59ba7136b84481bb3a4e3e7c52fa17,Umukoro,Maryamu,Ime,Secondary,None,Civil Servant,Nurse,"200,000-400,000",4,Always busy
+2a25a8880f024ad0a7067ef466aa9385,Ayokunle,Nkechi,Alaba,Tertiary,Secondary,Teacher,Farmer,"Below 200,000",2,Involved
+63f2ae24fc3d4348808d4127610461e3,Chinwendu,Anuli,Oluwatoyin,Tertiary,None,Nurse,Engineer,"Below 200,000",6,Always busy
+c8fe3ccdc8b849c6ad3049cf43e458fc,Uduak,Emem,Nnamdi,None,Tertiary,Nurse,Doctor,"200,000-400,000",4,Slightly involved
+b253d2186c4a47ea890617f2747b6dba,Olalekan,Onyinyechi,Olukayode,Primary,Tertiary,Trader,Nurse,"Above 600,000",2,Always busy
+c88a618efed4457dbb026576f512c4c3,Emem,Onyeka,Onyekachukwu,None,Primary,Nurse,Civil Servant,"400,000-600,000",5,Very Involved
+7c967f79b7e94acaa97065e18e46d534,Chukwuebuka,Ebele,Olujimi,None,Tertiary,Doctor,Engineer,"400,000-600,000",2,Always busy
+37bb3eec4bf54b52b09d258c27a0c3d7,Abiodun,Inyene,Dada,None,None,Farmer,Doctor,"200,000-400,000",5,Always busy
+bc594585944548c08ef8c2d6f7fd5646,Chimezie,Ifeoma,Balarabe,None,Primary,Civil Servant,Civil Servant,"200,000-400,000",3,Involved
+504867babf7b439b8f9aea4b8acd4e10,Tunde,Jummai,Haruna,Tertiary,None,Farmer,Teacher,"400,000-600,000",5,Always busy
+7a0ecfea958c49ba8cd620c20ea2622b,Haruna,Chidubem,Segun,Tertiary,None,Trader,Teacher,"Below 200,000",6,Very Involved
+87f7e1fbda4b49caab5cf46780bacd64,Idowu,Ekundayo,Oluwaseyi,Tertiary,Primary,Unemployed,Farmer,"200,000-400,000",6,Very Involved
+82010c62f5f54b228e8fa8e0284d82e5,Ɗanjuma,Kayin,Chigozie,None,None,Doctor,Doctor,"Below 200,000",5,Involved
+118a9d292f92499699f195d014822f53,Ejike,Ayo,Babajide,Secondary,Tertiary,Farmer,Doctor,"400,000-600,000",5,Slightly involved
+dca02eecacda4acc9165e21098543881,Chidike,Oluchi,Ademola,Secondary,Primary,Civil Servant,Trader,"400,000-600,000",6,Always busy
+f10c718b1eb0438aa75dd5af3c365296,Abubakar,Ejiroghene,Chukwuemeka,Primary,Tertiary,Doctor,Nurse,"200,000-400,000",5,Always busy
+94340a033f07481491d63f78e3e9de99,Bello,Ade,Ekenedilichukwu,None,None,Nurse,Nurse,"400,000-600,000",6,Slightly involved
+14fcdd549e8f49658a2c827e98326856,Abubakar,Chisom,Olu,Secondary,None,Farmer,Civil Servant,"200,000-400,000",5,Very Involved
+90b2b633956b4c0ca8499b926b5252e3,Yaƙubu,Obi,Chidiebere,Tertiary,None,Nurse,Teacher,"400,000-600,000",4,Involved
+42c18a62ef4848d590fd9d3f85d51695,Ogochukwu,Kehinde,Ɗanlami,None,Tertiary,Trader,Trader,"Above 600,000",2,Involved
+506e5a9ab758488dab73295b344a54b8,Bitrus,Ekenedilichukwu,Ime,Secondary,Secondary,Nurse,Engineer,"Below 200,000",2,Always busy
+21813d25655248a683ff50113d1a85dd,Chisom,Adisa,Olanrewaju,Primary,Primary,Unemployed,Nurse,"Below 200,000",4,Always busy
+750cab754ccc4bc2a53f8a28abf3e3fc,Taiwo,Omolara,Akpofure,Secondary,Secondary,Civil Servant,Doctor,"Above 600,000",5,Slightly involved
+ef8c485bc07a40f2add4253b50f0fd0a,Olukayode,Chiemeka,Ese,Secondary,None,Doctor,Doctor,"Above 600,000",3,Involved
+9f044aed7552432782627f7312922f83,Abioye,Omobolanle,Bukar,Secondary,Tertiary,Civil Servant,Trader,"Below 200,000",2,Very Involved
+19985f15ff004d4d902059e4ff9ab5c2,Abidemi,Ejiroghene,Temitope,Primary,Secondary,Trader,Doctor,"200,000-400,000",2,Always busy
+8181a8cc369147eb89a2688b12c136e0,Abimbola,Chidiebere,Olusegun,Primary,None,Teacher,Unemployed,"Below 200,000",6,Very Involved
+5958a499eeea463ea1e8ac6843e42caf,Olumide,Ladi,Rabiu,Primary,None,Farmer,Engineer,"Below 200,000",6,Slightly involved
+3e896c64e1174ac3919c4ea3e1805081,Adebayo,Abiola,Ekenedilichukwu,None,Secondary,Nurse,Nurse,"Below 200,000",6,Involved
+702cdd20286248b888f4ef125e9953d2,Ese,Efe,Chukwudi,None,None,Doctor,Trader,"200,000-400,000",3,Involved
+4d71c366b41b41438b10550cd5704f32,Ime,Uche,Ejiroghene,Tertiary,None,Engineer,Engineer,"Above 600,000",3,Always busy
+ce9e1a11fcbb4e59bbddcf7c9c96e9ec,Akpan,Adebola,Toyin,Tertiary,Primary,Civil Servant,Civil Servant,"400,000-600,000",5,Involved
+aaf91531020041f08768a84fa76afde6,Olamide,Ebele,Olufemi,Secondary,None,Trader,Teacher,"Below 200,000",3,Slightly involved
+ee87905e4ca445ea8dfa6a56d12dbc9a,Rabiu,Chioma,Ime,Tertiary,Primary,Civil Servant,Unemployed,"200,000-400,000",5,Always busy
+e0ccedc5f05d476e9a84a51aa9d3d7c7,Uzoma,Titilayo,Olanrewaju,Secondary,Primary,Unemployed,Doctor,"Above 600,000",3,Always busy
+e3c436571d8c4bac83b409ef2260e70f,Tochukwu,Amaka,Olamide,None,Primary,Farmer,Farmer,"Below 200,000",5,Very Involved
+27cb6f2a8da04097be0f051b1b66b5a9,Ugochukwu,Itoro,Ogochukwu,None,Tertiary,Engineer,Nurse,"Above 600,000",5,Very Involved
+35ebd32d9ad640ab88212ddb45b89cd9,Obinna,Itoro,Chidiebere,Secondary,Secondary,Engineer,Farmer,"400,000-600,000",5,Slightly involved
+afffcfd2341e440b97c700aab7b56ea7,Kayode,Olayinka,Adeola,None,Secondary,Doctor,Engineer,"400,000-600,000",3,Slightly involved
+81627cf1439442e69a587e8aa25d6b29,Ndubuisi,Folami,Adekunle,None,Secondary,Farmer,Doctor,"400,000-600,000",5,Always busy
+e87d1c78e7c441c780497b717d106c60,Chidiebere,Yejide,Toyin,Primary,Primary,Unemployed,Doctor,"400,000-600,000",4,Slightly involved
+a260772317a04f498d01280fd89a40c0,Kayin,Taiwo,Abiola,Tertiary,Primary,Engineer,Doctor,"Above 600,000",4,Involved
+0b49452d46d443f39450281c6c6f7633,Oluwafemi,Ifeoma,Uchenna,Tertiary,Tertiary,Unemployed,Farmer,"Below 200,000",5,Always busy
+217d65a0c56841cd9563f61600e85ece,Ime,Chibuzo,Idowu,Secondary,Secondary,Teacher,Unemployed,"200,000-400,000",3,Always busy
+295d6fbf430f401dbad409e2a319dcb4,Rabiu,Itoro,Ejike,None,Primary,Nurse,Doctor,"Below 200,000",6,Very Involved
+b4a69f3c8d3a4d99b11c21c9bdc14f1f,Chidiebube,Bamidele,Otobong,None,None,Farmer,Teacher,"200,000-400,000",4,Always busy
+1ca3c448027946a68f9797b06d7ce3c9,Ese,Abidemi,Akachi,Secondary,None,Unemployed,Civil Servant,"200,000-400,000",4,Slightly involved
+b0e6a969e21342b0b1eedba313432e61,Olu,Oluchi,Olanrewaju,Tertiary,None,Teacher,Doctor,"200,000-400,000",5,Very Involved
+093923de8bab4e3ba6286bfbe767dcea,Sani,Chidiebube,Inyene,Primary,None,Engineer,Trader,"400,000-600,000",4,Involved
+8d7248e2951f48d09e84f058d5a804eb,Oluwatoyin,Chikelu,Oghenekaro,Tertiary,Secondary,Unemployed,Doctor,"200,000-400,000",4,Slightly involved
+0ab54bde20a04502ae06809725e97977,Emem,Chigozie,Adedayo,None,Tertiary,Trader,Teacher,"400,000-600,000",6,Slightly involved
+eededb07e62346899d59cd2a4eea04e7,Tochukwu,Zainabu,Otobong,Secondary,Primary,Teacher,Teacher,"200,000-400,000",3,Very Involved
+0a368ce7dc574131b8e1daa7cbceabde,Chinweuba,Halimatu,Chijioke,None,None,Engineer,Farmer,"200,000-400,000",4,Always busy
+ae9bec3635c7436c9b9962c6e61fecc0,Oluwaseun,Uzochi,Oghenekevwe,Secondary,None,Teacher,Farmer,"Below 200,000",6,Very Involved
+5a8aaeca1a504ec3aabc25fa3fe12e47,Ejike,Oluwafunmilayo,Uzoma,Primary,Primary,Unemployed,Teacher,"400,000-600,000",2,Always busy
+dfed2c43e25646dc8f5486b7c7b5b2bc,Olalekan,Chisom,Jatau,Tertiary,Tertiary,Doctor,Farmer,"400,000-600,000",5,Involved
+bfddc3d99ee34c2ab94d62046808593f,Adeola,Fumnanya,Olayinka,Primary,Primary,Nurse,Trader,"Below 200,000",5,Involved
+3c9ad14cee0c4eb5acfedb992790cebd,Oghenekevwe,Olusola,Yalwa,Tertiary,Primary,Teacher,Teacher,"400,000-600,000",5,Very Involved
+ccc56569f9e84369a999b735dd56cc94,Okonkwo,Ladi,Efemena,Tertiary,Tertiary,Nurse,Nurse,"200,000-400,000",5,Slightly involved
+698c206fe1a44e10ad534dd0cf8ebc5a,Olufemi,Adenike,Ogochukwu,Tertiary,None,Teacher,Trader,"200,000-400,000",6,Very Involved
+ecab3301bc8f4d29adea94930658663a,Ikechukwu,Aishatu,Yaƙubu,Tertiary,Primary,Nurse,Unemployed,"200,000-400,000",2,Very Involved
+696608aaee494329884a7b28550a1b46,Adetokunbo,Chibuzo,Abiodun,None,Secondary,Civil Servant,Trader,"Below 200,000",2,Always busy
+bc2cbb0ddd334cc7ab7f089acd5f4822,Onyekachi,Amarachi,Akpan,None,Primary,Engineer,Engineer,"Below 200,000",5,Very Involved
+28c13091444d410bbf87e362cf8d446a,Nnamdi,Onyeka,Chidubem,Tertiary,Secondary,Nurse,Nurse,"Below 200,000",2,Slightly involved
+61ee411a1bac47a7b386f7a4c991603f,Ugochukwu,Ugochi,Akpan,Secondary,Secondary,Engineer,Unemployed,"200,000-400,000",6,Involved
+787f2425dbcc447789e9db0adf465290,Ifeanyi,Ese,Kayin,Secondary,Secondary,Farmer,Civil Servant,"Below 200,000",3,Involved
+eb1fa9f2d10b41d0b317347038f16a81,Lekan,Bilƙisu,Adetokunbo,Tertiary,Primary,Doctor,Doctor,"Below 200,000",4,Always busy
+d20eac174e204d1a998336e375d66ed4,Chidiegwu,Hafsat,Chikere,Primary,Secondary,Unemployed,Unemployed,"200,000-400,000",3,Always busy
+391184973a4342ba9f0f06cbcb9bc326,Chidiebube,Hafsat,Adegoke,Primary,Tertiary,Trader,Engineer,"Above 600,000",3,Very Involved
+6601ddd031704437a8f7ef5a060edf5b,Ɗanladi,Chinwe,Shehu,Secondary,Tertiary,Teacher,Doctor,"400,000-600,000",5,Very Involved
+11c58ef0dd464c09875287aa5408f9ac,Chidubem,Chidinma,Bitrus,Secondary,None,Nurse,Unemployed,"400,000-600,000",3,Always busy
+59e4b67147744c5885f8bc16f7860b50,Chukwuma,Chinasa,Adebowale,Primary,Secondary,Farmer,Unemployed,"400,000-600,000",3,Very Involved
+adf4e62d6651429e8268690ba43825b5,Umukoro,Oluchi,Opeyemi,None,Tertiary,Teacher,Engineer,"Above 600,000",3,Very Involved
+54c63cd889454f2797fa2d8dfb2ca025,Chukwuemeka,Chidiebele,Chijindum,Tertiary,Secondary,Engineer,Doctor,"400,000-600,000",4,Involved
+e08596db1d8749668710d430f071d879,Oghenekaro,Abidemi,Rabiu,Secondary,Secondary,Doctor,Trader,"400,000-600,000",2,Very Involved
+94a1875d2db64edb82deffccf86c2ca2,Olumide,Ayodele,Onyebuchi,Primary,Tertiary,Teacher,Civil Servant,"Below 200,000",4,Always busy
+09cb394243f54a85bbc9f87af668a617,Chukwuemeka,Bolanle,Obinna,None,Tertiary,Doctor,Engineer,"Above 600,000",4,Involved
+587ef3446f3f420c98b8e4cc1bc044fc,Chikere,Adannaya,Uduakobong,Tertiary,Tertiary,Civil Servant,Nurse,"Below 200,000",6,Involved
+6fb78271504d481f89535b63ba81edd9,Oluwatoyin,Inyene,Chidi,Primary,Primary,Farmer,Teacher,"200,000-400,000",5,Slightly involved
+1d9af65982ec4f2dbbf6e16f9b3080d5,Uchenna,Chika,Temitope,None,Secondary,Farmer,Farmer,"Above 600,000",4,Always busy
+30a900ad939b462da645f129629c2ae3,Olamilekan,Chimezie,Ejiroghene,None,Secondary,Unemployed,Engineer,"Below 200,000",4,Very Involved
+6fa17735b57243d08b5cea6a41357e8c,Bukar,Anuli,Chinedu,Secondary,None,Teacher,Civil Servant,"400,000-600,000",6,Slightly involved
+ce777f00ecf24e7685197ff4006ed6e3,Abiola,Ekenedilichukwu,Ejike,Primary,Tertiary,Teacher,Trader,"400,000-600,000",6,Very Involved
+f0b5156bb82c4074afd5dea589d7fd6c,Oluwafemi,Olufunmilayo,Iniobong,None,None,Trader,Trader,"400,000-600,000",2,Very Involved
+3270e4faabae4f43bcae8081bdf070aa,Chinweike,Mojisola,Chika,Tertiary,Primary,Trader,Farmer,"Above 600,000",2,Very Involved
+f2e9702d11e94daaae6981a35d3d9e56,Emeka,Titilayo,Olukayode,Primary,Tertiary,Doctor,Engineer,"Above 600,000",6,Very Involved
+9f871ce754874d4fabb7a385aa0b7b14,Chisom,Amina,Ayodele,Primary,None,Teacher,Trader,"Above 600,000",4,Very Involved
+1fe771d6d9174793a9d3c2e6505cc686,Inyene,Simisola,Segun,Secondary,Primary,Unemployed,Engineer,"400,000-600,000",3,Involved
+81d2c7de4ce14b90a6697833b841d0a0,Adebola,Ifeoma,Ekenedilichukwu,Tertiary,None,Nurse,Civil Servant,"Below 200,000",2,Very Involved
+5380b904688c4015aab97e494f2d4796,Adewale,Hadiza,Akpofure,Secondary,Tertiary,Unemployed,Engineer,"Below 200,000",2,Very Involved
+8dedf9fb4bb04f20b27c40266703b636,Adebola,Efe,Efemena,Primary,None,Doctor,Unemployed,"400,000-600,000",5,Involved
+aa38d0a16ba24efeb11c6eb62095eef6,Chinedu,Oluwaseyi,Eniola,Tertiary,None,Doctor,Engineer,"Below 200,000",5,Always busy
+bf85bf0ead64456ca10faa3ff0bbac67,Emem,Uduakobong,Abimbola,Secondary,Tertiary,Trader,Trader,"Above 600,000",5,Slightly involved
+91b0e1d99d9242afac8d0e44e71e43a6,Chi,Ufuoma,Akpofure,Secondary,None,Teacher,Engineer,"Below 200,000",4,Slightly involved
+d56f03508c454ce2a7f48ad54d0b0d1a,Uzochi,Ige,Abioye,Tertiary,Secondary,Trader,Civil Servant,"Above 600,000",4,Slightly involved
+35ce884149734d6c8dcabfb7001a9a8b,Oghenekevwe,Oluchi,Chibuike,None,None,Farmer,Farmer,"400,000-600,000",2,Involved
+9b4e2c24947941e689277d9b6e0d2648,Okorie,Taiwo,Chinwendu,Primary,Tertiary,Unemployed,Engineer,"200,000-400,000",6,Always busy
+7118e36477094749927eecfaa79ac9aa,Adebowale,Ayodele,Chidiegwu,Secondary,None,Farmer,Nurse,"200,000-400,000",3,Involved
+82dc4c8e36b5429aacf5e81e71316269,Bamidele,Hafsat,Mamman,Secondary,Secondary,Unemployed,Trader,"200,000-400,000",4,Slightly involved
+f5b78cc7e6b349448b323e357922bac2,Toyin,Enitan,Ikechukwu,Tertiary,Tertiary,Nurse,Nurse,"400,000-600,000",5,Involved
+a8aa71582b704525bc67f831cbc84759,Lekan,Oghenero,Uchenna,Tertiary,Tertiary,Unemployed,Unemployed,"Below 200,000",4,Involved
+a9f2533683f449a988a639d015b52908,Chinedu,Ebele,Ekene,Primary,Tertiary,Engineer,Engineer,"Below 200,000",5,Very Involved
+17e8392a55ce45db9e87e04ca2086977,Alaba,Hadiza,Okonkwo,None,Tertiary,Farmer,Engineer,"Above 600,000",5,Always busy
+3c20592fc04a46c4b3b63fe1d1843324,Salisu,Chinwendu,Otobong,Tertiary,Tertiary,Farmer,Unemployed,"Above 600,000",4,Very Involved
+ce7ae7f639824cff8f77a665ac3c5640,Onyekachi,Ejiro,Akpofure,Tertiary,Secondary,Farmer,Trader,"Below 200,000",6,Involved
+0bd4a99006404e0fa5b8fd4b32fa2de8,Adebowale,Eniola,Okoro,None,Secondary,Doctor,Engineer,"200,000-400,000",6,Very Involved
+9c7c737779a24903bbe33b243eae0032,Obi,Asma'u,Olufemi,None,None,Unemployed,Farmer,"Below 200,000",2,Very Involved
+7496276412a44ef084bbb7a9d98868dd,Abdullahi,Adebola,Chukwuma,None,Tertiary,Nurse,Teacher,"200,000-400,000",5,Slightly involved
+935f2b0aa1384ddca2d9de5d6a18ce4c,Kehinde,Onyekachukwu,Mamman,Primary,None,Unemployed,Civil Servant,"Above 600,000",5,Involved
+624c69b6b24445a7b7e5848131c681ec,Chuks,Olufunmilayo,Chidiebere,Tertiary,None,Nurse,Doctor,"200,000-400,000",4,Very Involved
+25c73c443e7543b4a64fa6637e8f8095,Chidike,Olusola,Chizoba,None,Primary,Engineer,Doctor,"Above 600,000",3,Involved
+e4855aa1016b4287b00805cca7f36ae9,Ejiro,Chi,Yaƙubu,Primary,Primary,Engineer,Teacher,"200,000-400,000",4,Slightly involved
+e2add909c5214f2d9c45d539c03f3538,Efemena,Chidinma,Ifiok,Primary,Tertiary,Doctor,Trader,"400,000-600,000",4,Involved
+3805f9076cd6419387468f591b494e15,Adebowale,Aisha,Onyeka,Secondary,Tertiary,Farmer,Trader,"400,000-600,000",2,Very Involved
+b227462cf53d43308dda24ba2d06e8cf,Bitrus,Efemena,Chikere,Primary,None,Doctor,Teacher,"Above 600,000",4,Slightly involved
+8eb225790cdb4ca4b6ecbdd68498e113,Adebola,Bilƙisu,Adebayo,Tertiary,Secondary,Trader,Trader,"Above 600,000",4,Very Involved
+1f115b76d92c4227aadf50853fcb7546,Efemena,Kyauta,Kelechi,Tertiary,None,Trader,Engineer,"400,000-600,000",3,Involved
+76f2dbfecd29436fa22282e174daaebf,Umaru,Ebere,Okechukwu,Secondary,Primary,Civil Servant,Farmer,"Above 600,000",4,Slightly involved
+8f15ba58fce6450487f8424daae65fc1,Chidiebere,Oluwaseyi,Onyekachukwu,None,None,Nurse,Unemployed,"200,000-400,000",2,Involved
+c1581092f3354ba3913a7052986f9025,Aliyu,Abiola,Ɗanjuma,Primary,None,Trader,Trader,"Above 600,000",2,Involved
+d0a444329cd64852b14c7df4e4347d51,Muhammadu,Oluwafunmilayo,Olanrewaju,Primary,Tertiary,Teacher,Civil Servant,"200,000-400,000",6,Always busy
+6d3ee1dc81394443a45b712eb8225688,Chidiegwu,Udo,Ekundayo,Primary,Tertiary,Farmer,Civil Servant,"Below 200,000",5,Slightly involved
+722764e68c41461ba827a1b9d4a02e53,Abioye,Fumnanya,Yaƙubu,None,Primary,Farmer,Engineer,"Below 200,000",4,Slightly involved
+dc8aee30be6043f7a8be9288e5af6e39,Oghenero,Idowu,Olanrewaju,Secondary,Secondary,Teacher,Farmer,"Below 200,000",3,Slightly involved
+c074718e425a409fb337c59979844388,Akachi,Ade,Umar,Secondary,Tertiary,Civil Servant,Unemployed,"400,000-600,000",5,Slightly involved
+46fde062a33d47af9701410d3f4b1a70,Lawal,Abiodun,Adebola,Tertiary,None,Doctor,Civil Servant,"Below 200,000",2,Involved
+7c0e8cd8857347938715b2b9c40c5d91,Lanre,Chigozie,Abubakar,None,None,Teacher,Farmer,"Above 600,000",4,Very Involved
+709b7d97464c44afbd3f3799a07295e9,Adegoke,Oghenekevwe,Balarabe,Secondary,Primary,Engineer,Civil Servant,"200,000-400,000",5,Slightly involved
+3c07c57449254af1b6aae05b13d5f2f7,Ndubuisi,Ogechi,Ifeanyi,Primary,Primary,Engineer,Engineer,"200,000-400,000",5,Always busy
+e49d681d51d84c6495fa1ab8458f1f19,Toyin,Ngozi,Olusegun,Secondary,Primary,Farmer,Unemployed,"Below 200,000",6,Always busy
+269cd696236c4b8794a0bccb8a476a87,Olufemi,Nnenne,Lekan,Primary,Secondary,Trader,Farmer,"Below 200,000",4,Slightly involved
+271e3ee2b1a641f1a20e99d33b33f3d8,Ige,Ebere,Uchenna,None,Primary,Engineer,Teacher,"200,000-400,000",6,Always busy
+6a34c85410714d51b6c59dacb4d7e28e,Oluwasegun,Zainabu,Ndubuisi,Secondary,Secondary,Teacher,Doctor,"Below 200,000",5,Always busy
+7746d0ba8ae8405b94b4a48268586eba,Bamidele,Halimat,Adebayo,Secondary,Primary,Doctor,Trader,"400,000-600,000",2,Very Involved
+d5385b0e34f3493c8ff0a55c6a702e2f,Alhaji,Olufunke,Ese,Primary,Tertiary,Trader,Engineer,"200,000-400,000",4,Involved
+c51155ffe7a34e81a3b4c08b6b8e869f,Ayuba,Hadizatu,Aliyu,Primary,Tertiary,Trader,Nurse,"200,000-400,000",4,Very Involved
+05000bc6b20d4b6eb2311f1795863a76,Otobong,Oluchi,Emem,Primary,None,Farmer,Farmer,"400,000-600,000",5,Involved
+9360715fc3fe4183a172b725db52ca58,Ikenna,Talatu,Taiwo,Secondary,Primary,Nurse,Trader,"Below 200,000",2,Involved
+f1578470018247c4ba1b58066160a6b4,Hamisu,Iyabo,Segun,Primary,Secondary,Doctor,Farmer,"Below 200,000",6,Slightly involved
+63d62a39c0e34efd8c71e0fe5a0cdd7c,Umaru,Hauwa,Olusola,Tertiary,Tertiary,Teacher,Civil Servant,"400,000-600,000",4,Very Involved
+d5f25073f41442b1a4429ebbda7b9095,Ikechukwu,Hafsatu,Ayokunle,None,Primary,Civil Servant,Civil Servant,"400,000-600,000",4,Slightly involved
+bc10fa52bf5d4fdf89c8d2ab6b44fa8d,Uchenna,Fumnanya,Temitope,Primary,Tertiary,Trader,Nurse,"Above 600,000",5,Always busy
+e5d6f6e69a6e42f58cc429038bcf53a1,Ɗanladi,Ime,Babatunde,Primary,Secondary,Nurse,Nurse,"Above 600,000",4,Slightly involved
+45df16b6382c443fbcfc9b793875394c,Ɗanjuma,Adannaya,Olamilekan,None,Primary,Trader,Engineer,"Above 600,000",4,Always busy
+638c254c076e4bbabc5308bf6f92f25e,Oghenero,Abosede,Efe,Tertiary,Primary,Trader,Farmer,"400,000-600,000",6,Slightly involved
+cc530e36addc4e13ab3b4d37560c95ee,Kayode,Opeyemi,Chijioke,Tertiary,None,Doctor,Trader,"200,000-400,000",2,Always busy
+d72b61082a404f12b963f37f67814c1f,Ogochukwu,Zainabu,Azubuike,Secondary,Secondary,Teacher,Engineer,"Below 200,000",3,Always busy
+fb10987f20ac4703ab67146a77a6e17c,Rabiu,Chigozie,Kehinde,Tertiary,Tertiary,Doctor,Unemployed,"400,000-600,000",2,Slightly involved
+e82c7d7b06e745f988bc539c9f4c3b79,Uduakobong,Abosede,Oluwaseyi,Secondary,None,Teacher,Farmer,"Above 600,000",3,Slightly involved
+a9ba5a27907b4e36978648f864de82e6,Afolabi,Ola,Babajide,Secondary,Tertiary,Trader,Doctor,"400,000-600,000",5,Involved
+6db99102a48b4dbe957d94a106f028ff,Okechukwu,Nnenna,Babatunde,Primary,None,Teacher,Farmer,"Above 600,000",5,Always busy
+2e85cb2176314e9d9de9f86322bd3388,Uzochi,Olamide,Olusola,None,None,Engineer,Teacher,"Above 600,000",3,Slightly involved
+53cd6268610c437382999aa40cdf742b,Olumide,Chibuzo,Afolabi,None,Primary,Unemployed,Civil Servant,"400,000-600,000",5,Always busy
+56666f9f53ac4ab9b4672cd9362f5e5c,Chidubem,Nkemdilim,Abdullahi,Tertiary,Tertiary,Nurse,Doctor,"200,000-400,000",4,Involved
+473bd358610e4a64a1301617c2dff335,Oghenekevwe,Olufunmilola,Olabode,Tertiary,Secondary,Nurse,Farmer,"400,000-600,000",4,Very Involved
+6bebac31d4f84d72b3821cfdc083b73a,Oluwaseun,Kehinde,Chukwudi,Tertiary,Primary,Farmer,Teacher,"Below 200,000",6,Involved
+7866076514f74e8d95bcb8d04094dded,Olusola,Chika,Chukwudi,None,Primary,Trader,Civil Servant,"Below 200,000",3,Very Involved
+0d557b618a174dfebfc00dc804f64d86,Salisu,Abioye,Chijindum,Secondary,None,Unemployed,Civil Servant,"400,000-600,000",2,Involved
+39669fa759974043b3b1025bfff9f585,Akachi,Ngozi,Umaru,Tertiary,Primary,Nurse,Engineer,"400,000-600,000",4,Always busy
+f510ab53c7fe439f9190f938a66fd7f7,Ibrahim,Oluwafunmilayo,Sani,Secondary,Tertiary,Engineer,Doctor,"200,000-400,000",2,Always busy
+07f194f9c1154d6d8a4e5b70a6d964a3,Chuks,Nwanneka,Lawali,Secondary,Tertiary,Trader,Teacher,"Above 600,000",2,Always busy
+d6d7b3b833094d35bf4df561f319c125,Ayokunle,Chidimma,Ogochukwu,Primary,Primary,Teacher,Trader,"Above 600,000",3,Slightly involved
+3d1148022702478b9f0fda8d05379ff6,Ogochukwu,Ngozi,Bello,None,Secondary,Trader,Engineer,"400,000-600,000",5,Very Involved
+1d48a071ab6147b1b93b4c3220500494,Chidiebele,Talatu,Ogochukwu,Secondary,Tertiary,Teacher,Teacher,"200,000-400,000",4,Slightly involved
+770c779837cc463bb2a0345990604f62,Abubakar,Chichi,Babajide,Primary,Primary,Farmer,Doctor,"Below 200,000",2,Very Involved
+5e6fea07c4534f1d81992fdfb31022f0,Umar,Abeni,Okonkwo,Primary,Primary,Engineer,Farmer,"Above 600,000",2,Involved
+f6b751f79b7442459b1bc8952af43ab7,Oghenekevwe,Ebele,Chike,None,None,Unemployed,Trader,"Below 200,000",3,Very Involved
+c71d5e601d5246abb7e6427cbf780e3f,Chidubem,Chinwendu,Ade,Primary,None,Teacher,Teacher,"Below 200,000",3,Involved
+4fa03f26f6f740cca9ec8e49d1bdb8c0,Okechukwu,Jummai,Adekunle,Tertiary,None,Doctor,Trader,"200,000-400,000",3,Slightly involved
+edcb8cb606924c639424aed51bac5c15,Chijindum,Olufunmilayo,Chukwuebuka,Tertiary,Tertiary,Civil Servant,Trader,"Below 200,000",3,Very Involved
+e87466d7ad6641bd93676a024fdc6e1b,Olujimi,Uzochi,Olayinka,Tertiary,Primary,Teacher,Doctor,"Below 200,000",3,Involved
+f1043785658b4523a0141de9f54ad0a2,Uzochi,Nkiru,Bitrus,Primary,Secondary,Trader,Trader,"200,000-400,000",6,Very Involved
+9793b9b413744146b2c5bd89b70b3420,Chinwendu,Onyinyechi,Lawal,Primary,Secondary,Unemployed,Nurse,"200,000-400,000",4,Involved
+3e2b6091a092452a94a057a7b0cc1b3b,Rabiu,Oluwaseun,Chukwuemeka,Tertiary,None,Unemployed,Engineer,"400,000-600,000",2,Very Involved
+4d3485c5c5c14eb4b27b3d901a16342c,Emeka,Olayinka,Chibuike,Secondary,Primary,Doctor,Trader,"400,000-600,000",6,Slightly involved
+ce3714af99b44350af2b99b4d9acd158,Bitrus,Abimbola,Ayotunde,Tertiary,Secondary,Trader,Farmer,"Above 600,000",6,Always busy
+90e0f4a0fbdd49338bd58bf61efd76e9,Adetokunbo,Nneka,Olufemi,Primary,Primary,Farmer,Unemployed,"Above 600,000",4,Very Involved
+8861fe1858e248888a8381bec85aca46,Ayokunle,Eniola,Afolabi,Tertiary,Tertiary,Unemployed,Engineer,"Above 600,000",2,Involved
+11a726095edd4bbfa95976636daa2e68,Kyauta,Olamide,Chidiebele,Secondary,Primary,Civil Servant,Nurse,"400,000-600,000",3,Involved
+033d2bce575a4d2ca5c5650c8186a576,Ɗanladi,Funmilayo,Ife,None,Primary,Nurse,Teacher,"400,000-600,000",5,Slightly involved
+7d7ddbedd284476cab88f83dd97dc9cd,Chigozie,Chinwendu,Oluwasegun,Secondary,Tertiary,Farmer,Civil Servant,"Above 600,000",3,Always busy
+5cb85aedf5f64c97aefb63b11b049863,Chuks,Efemena,Chibuike,Secondary,Primary,Teacher,Unemployed,"Below 200,000",2,Slightly involved
+75b17a55d4264982a43e4288a2b5b498,Adebowale,Adisa,Adetokunbo,Secondary,None,Doctor,Farmer,"Below 200,000",2,Involved
+2d174fc96f7c45eaa72a6d8eb5122df8,Alhaji,Chidiebele,Ufuoma,Secondary,None,Engineer,Doctor,"Above 600,000",6,Slightly involved
+a6846099f7294951859131d2bbda0242,Okafor,Nkiruka,Chinweike,Secondary,Primary,Farmer,Unemployed,"400,000-600,000",6,Very Involved
+eb6c1016cee644d09dac6e8345241ea6,Yalwa,Opeyemi,Oghenekevwe,None,Primary,Doctor,Trader,"Below 200,000",3,Always busy
+7701f7bb7bc64e1f864ee6e389c5b31a,Itoro,Ifunanya,Olu,Primary,Tertiary,Trader,Nurse,"Above 600,000",2,Involved
+97ac6aa8bb2448a3936357b66f81cf4f,Dayo,Emem,Musa,None,None,Teacher,Teacher,"Above 600,000",3,Slightly involved
+3ed8c56cda094fa092828d8044b591f7,Tochukwu,Jamila,Taiwo,Secondary,Primary,Unemployed,Doctor,"Below 200,000",3,Always busy
+4767d76c162f4a24af43613cd4aac9a3,Ayotunde,Ekundayo,Umaru,Secondary,Tertiary,Civil Servant,Civil Servant,"Above 600,000",3,Involved
+c01f36bf3e6d458bb367c28de1b294de,Emem,Ayotunde,Ayo,Secondary,Tertiary,Civil Servant,Teacher,"200,000-400,000",3,Always busy
+ab0e664e9c3e42d591e1aa9676f72255,Adekunle,Onyekachi,Otobong,Primary,None,Farmer,Trader,"400,000-600,000",4,Very Involved
+7e8adee707584201961e16d16105716b,Chukwuebuka,Ogechukwu,Oghenero,None,Tertiary,Nurse,Farmer,"400,000-600,000",6,Slightly involved
+7cd0129d2e8d4e87933420e6d9d80b8d,Ekenedilichukwu,Adebowale,Ikechukwu,None,Secondary,Farmer,Engineer,"Above 600,000",4,Slightly involved
+4223623bcc3e4dde9ad5cf06364d7c87,Okoro,Dada,Chukwuebuka,Primary,Tertiary,Engineer,Civil Servant,"Above 600,000",2,Involved
+989d9d4ae15c46668797b2c957207246,Adedayo,Yewande,Emem,Secondary,Primary,Unemployed,Trader,"Below 200,000",4,Very Involved
+8e48522346b94991a14eb70db380c73a,Lekan,Adenike,Chika,Primary,Primary,Unemployed,Nurse,"Above 600,000",2,Very Involved
+30e912f2f2b44abf8441aefd0299436a,Uzoma,Chijindum,Uzochi,Secondary,Tertiary,Nurse,Trader,"Below 200,000",2,Very Involved
+680bac63b8564035bdc9829015eabb27,Adekunle,Ebere,Chuks,Tertiary,Primary,Engineer,Doctor,"200,000-400,000",4,Always busy
+3d85de89c21744298e2007247d137018,Ayokunle,Onyekachi,Ola,None,Secondary,Farmer,Civil Servant,"Above 600,000",2,Very Involved
+b63b4dc3a5594463b9e13ceab0cbc61f,Chigozie,Hadiza,Jatau,None,Secondary,Teacher,Unemployed,"200,000-400,000",4,Involved
+046a0df5cafd4613b2bb912d7da67785,Oghenekaro,Chimezie,Amadi,Primary,Primary,Civil Servant,Unemployed,"400,000-600,000",2,Involved
+6786d50638ba4abc8b5305e517d2582e,Ogochukwu,Chidi,Ademola,Secondary,Secondary,Nurse,Nurse,"Above 600,000",3,Very Involved
+a9f948b24e6344bbbe493f43b118f68d,Adeola,Adisa,Obi,Secondary,Primary,Doctor,Engineer,"400,000-600,000",5,Slightly involved
+8db06746792749739e781fd794e0d3ba,Uzochi,Ebere,Uzoma,None,None,Teacher,Doctor,"Above 600,000",5,Involved
+ff233d5f6ced415d98007c0287ea7ff5,Aliyu,Ola,Chinwendu,None,None,Doctor,Civil Servant,"Below 200,000",5,Slightly involved
+5a10412954ae4d1b8ce6424dbef59fe6,Olusegun,Hafsat,Chinweuba,Tertiary,Secondary,Trader,Teacher,"Below 200,000",4,Involved
+4e7ed827455a4762b428a656b3ee4d3b,Ifeanyichukwu,Ifiok,Chizoba,Primary,Primary,Nurse,Engineer,"200,000-400,000",2,Slightly involved
+b8a6171f1ee34dc4bb048a8b405bfdc9,Oluwaseun,Yalwa,Opeyemi,Tertiary,None,Unemployed,Trader,"400,000-600,000",4,Involved
+be2d740a1e9b43bc90c7c006314d3441,Ademola,Olufunmilayo,Abimbola,None,Tertiary,Engineer,Trader,"200,000-400,000",2,Involved
+b0ae8f08c31e4bbcb36cb62b892e6161,Dada,Uduakobong,Usman,Tertiary,Tertiary,Nurse,Trader,"Above 600,000",6,Slightly involved
+bd1531c837644bdab108d4482f65fafa,Ifeanyi,Rakiya,Umukoro,Secondary,Secondary,Nurse,Doctor,"Above 600,000",2,Involved
+96ef2ad6b97e470386c8adfe7bf47042,Iniobong,Adanna,Chinweuba,Secondary,Primary,Engineer,Unemployed,"Above 600,000",5,Involved
+98c7472a864e4a13829cfc0cfa02eaec,Kehinde,Chidiebele,Oluwaseyi,Secondary,Tertiary,Unemployed,Nurse,"400,000-600,000",2,Very Involved
+d52721e719bc443ebb02bebb48729a4d,Chigozie,Ola,Aliyu,Primary,None,Civil Servant,Engineer,"Above 600,000",3,Always busy
+5c62b3a23a3c463e8bd6cee631b1b099,Ebuka,Ekenedilichukwu,Efe,Tertiary,Secondary,Unemployed,Engineer,"Above 600,000",4,Always busy
+b540b30e039f4a258d6168bd2defe193,Adisa,Kehinde,Chinedu,Tertiary,Tertiary,Engineer,Unemployed,"400,000-600,000",2,Involved
+0ba6eab94639447ba067bdac88bd13d1,Idowu,Chigozie,Ejike,None,Tertiary,Farmer,Nurse,"Above 600,000",6,Slightly involved
+4ac9778d8da84ee48df56ac6f96b648a,Folami,Aishatu,Kayin,Primary,Primary,Nurse,Farmer,"Below 200,000",4,Very Involved
+a34b6cf620534a42b1afdb65b289f224,Ufuoma,Oluwatoyin,Olumide,Secondary,Secondary,Civil Servant,Civil Servant,"Below 200,000",5,Very Involved
+1a432f0a7daa49f080b6fce2de53790a,Chijindum,Adaeze,Chimezie,Secondary,None,Engineer,Nurse,"200,000-400,000",4,Slightly involved
+48ca765192f54f7b8323d342df6a8f93,Oluwaseyi,Hauwa,Olamide,Secondary,Tertiary,Nurse,Nurse,"Below 200,000",4,Involved
+5738811d70c2403fba8d03aa782a65e0,Kehinde,Adebola,Oyibo,None,None,Civil Servant,Nurse,"400,000-600,000",3,Involved
+40a26c600d274659b72ada9b2f32751e,Akpofure,Ejiroghene,Azubuike,Tertiary,Tertiary,Trader,Civil Servant,"400,000-600,000",2,Slightly involved
+1d34d08e7a4c45d49c99e04cf0e98b3b,Ademola,Adannaya,Okorie,Secondary,Tertiary,Engineer,Teacher,"200,000-400,000",6,Involved
+7de31a516694434390ba58e3d2762bdc,Adedayo,Anuli,Ola,None,Tertiary,Engineer,Trader,"400,000-600,000",5,Always busy
+afbb411aa1234a8c93b7a88612f70c97,Ekundayo,Obi,Otobong,None,None,Teacher,Trader,"400,000-600,000",2,Slightly involved
+cfa701cd2631400ba6d794d30db95301,Olayinka,Ekundayo,Idowu,None,None,Unemployed,Trader,"200,000-400,000",3,Involved
+15ce6a664dc84a1eb2f9e5fa90164161,Oluwaseun,Chinwendu,Ayuba,None,Tertiary,Trader,Unemployed,"Below 200,000",6,Slightly involved
+8edddfcd1e524770bf897142fe716b14,Ugochukwu,Bilƙisu,Oluwaseyi,Primary,Tertiary,Teacher,Engineer,"Below 200,000",5,Involved
+989bc4da9b37422baa8a616fc3b290d0,Chidiebube,Adetokunbo,Iniobong,Primary,Secondary,Trader,Trader,"200,000-400,000",5,Involved
+c693da1139c641ca9e50aa42ca6dfda1,Chima,Chinasa,Salisu,Secondary,Tertiary,Unemployed,Engineer,"200,000-400,000",2,Very Involved
+e893be3d73544a6fa160745985c7504b,Bitrus,Tochukwu,Alhaji,Tertiary,Tertiary,Farmer,Teacher,"Below 200,000",5,Involved
+96a9954fdc3341f98c1f55ab715629ee,Olujimi,Amaka,Oluwaseyi,Tertiary,None,Unemployed,Trader,"200,000-400,000",5,Very Involved
+9191b3634e2d4645adc7cac7fd72b050,Abidemi,Adetokunbo,Akpofure,Primary,None,Nurse,Engineer,"200,000-400,000",3,Always busy
+f5c9b0479c1045728f6b40d09efba58b,Oni,Ekundayo,Obi,Tertiary,Tertiary,Teacher,Trader,"Above 600,000",4,Very Involved
+c342bd2bf295456e99675f06bd767e35,Kayode,Chidiebele,Adisa,Primary,None,Doctor,Civil Servant,"Below 200,000",2,Slightly involved
+43bfd93136054f54a021c0ca3531968d,Ayotunde,Mojisola,Ɗanlami,Tertiary,None,Unemployed,Nurse,"Above 600,000",4,Slightly involved
+3d67cde9283444c094c8b3b4a911d192,Ifeanyi,Chima,Nnamdi,Secondary,Secondary,Trader,Engineer,"200,000-400,000",6,Involved
+2812859a1337439e8d4f5d272c7f0b79,Ayo,Chidiebere,Ebuka,Tertiary,Primary,Teacher,Civil Servant,"400,000-600,000",2,Always busy
+b07aa066735445eaa8949b8d00af5b3a,Alaba,Halimat,Ndidi,Primary,Tertiary,Farmer,Trader,"Below 200,000",6,Very Involved
+085b15fb4a8f4810b84c2f29980402a2,Udo,Otobong,Olu,Secondary,None,Nurse,Civil Servant,"400,000-600,000",2,Involved
+48603b32b4fb4eb989c13de73b4206c5,Adebola,Hafsat,Olayinka,Secondary,Tertiary,Engineer,Nurse,"200,000-400,000",6,Very Involved
+1238d630743b45a29c0f2fcfb3f6fe0d,Dada,Olayinka,Haruna,None,Tertiary,Engineer,Doctor,"Above 600,000",3,Slightly involved
+43b9da13ec854f37bbc1a987aff8754d,Oghenero,Yejide,Abimbola,None,Tertiary,Doctor,Trader,"400,000-600,000",5,Slightly involved
+96fc734da0034d288a8f3653c9af18f8,Adekunle,Ngozi,Muhammadu,Primary,Secondary,Teacher,Trader,"Above 600,000",2,Slightly involved
+32a447b2ef04457d8dccc33aa9434aa0,Onyekachi,Chiamaka,Alhaji,Tertiary,Tertiary,Nurse,Trader,"200,000-400,000",3,Very Involved
+398d1ca68b6840b59d61fac36cd5e859,Uchenna,Mojisola,Ese,Secondary,None,Teacher,Unemployed,"400,000-600,000",4,Very Involved
+44007d5ae88d4719a6242b40a5cb63a2,Muhammadu,Oghenero,Olawale,Secondary,None,Civil Servant,Unemployed,"200,000-400,000",4,Slightly involved
+0f44704f12474a4ea46998e8d39e198b,Ayokunle,Ifeoma,Lawal,Tertiary,Primary,Teacher,Engineer,"200,000-400,000",2,Slightly involved
+9854ce4e4ebf45c38ae9b4a72a79ea68,Ime,Rakiya,Ayokunle,Primary,None,Teacher,Farmer,"Above 600,000",5,Involved
+ebd3461691b74d8e93016989bfbbb17f,Ibrahim,Ife,Chima,Secondary,Secondary,Farmer,Nurse,"400,000-600,000",4,Very Involved
+77fc97031fd54423b06c5c5649e2623d,Olusegun,Nkemdilim,Chidiebere,Tertiary,Tertiary,Doctor,Teacher,"200,000-400,000",3,Involved
+670acc5cb3214f218dd8eb85b04d3376,Uduakobong,Iniobong,Olabode,Primary,Tertiary,Farmer,Unemployed,"400,000-600,000",2,Always busy
+8a3c3b5e801e41da85b1ed25f1533ae8,Ufuoma,Adaeze,Chukwudi,Tertiary,Tertiary,Civil Servant,Teacher,"400,000-600,000",4,Slightly involved
+9918ee4614974658b010f7197e695d0d,Olukayode,Zainabu,Chisom,Primary,Tertiary,Unemployed,Nurse,"Below 200,000",4,Involved
+bc0a6a5d6e994e3ea3b137fc0a3450fc,Usman,Taiwo,Femi,Primary,Primary,Engineer,Trader,"200,000-400,000",5,Slightly involved
+069f14f140184c6e9a8cfa3c5283aac7,Uduakobong,Oluwayemisi,Adetokunbo,Secondary,Primary,Farmer,Farmer,"Above 600,000",4,Involved
+ac9ed156f63f4e41ba9aca5e176132ed,Chikelu,Abioye,Ekwueme,Primary,Tertiary,Trader,Unemployed,"Above 600,000",5,Involved
+964db03f93404fad9c4ad56bd6016237,Umar,Ogechukwu,Chukwuma,Primary,Tertiary,Engineer,Unemployed,"Above 600,000",2,Always busy
+c3c75611ffe34a49854f92fff366bad4,Akuchi,Bose,Aliyu,Tertiary,Tertiary,Teacher,Farmer,"400,000-600,000",6,Slightly involved
+9384ec2b44fe4cae9248a9a7ac1aa554,Akpofure,Chi,Chinweuba,Primary,Tertiary,Civil Servant,Farmer,"Below 200,000",5,Involved
+2cd94cbbc19a458c835b1c8c0a4c9f7f,Uche,Alheri,Adisa,None,Secondary,Trader,Civil Servant,"200,000-400,000",4,Involved
+7135f221a6c9437f84dad06a7872bdeb,Chijioke,Folami,Abimbola,None,None,Farmer,Unemployed,"200,000-400,000",4,Very Involved
+ff37d19c2e76428b873544f9ea83bf00,Chukwuemeka,Chisom,Abioye,Tertiary,None,Nurse,Civil Servant,"400,000-600,000",4,Slightly involved
+d0725b5ca2814044af96288295d82980,Chidiebube,Udo,Olujimi,Primary,Secondary,Nurse,Civil Servant,"Above 600,000",6,Slightly involved
+785299f4175b498db81401027de1bdfe,Ifeanyichukwu,Iniobong,Bamidele,Secondary,Primary,Nurse,Trader,"400,000-600,000",2,Very Involved
+5230dfbd555342fea889803e5913f9d3,Kehinde,Onyekachi,Tochukwu,Tertiary,None,Engineer,Teacher,"400,000-600,000",6,Always busy
+292bd156db9445709ac70ec0ab8ddeb4,Muhammadu,Mojisola,Enitan,Primary,Secondary,Trader,Engineer,"400,000-600,000",2,Slightly involved
+7ed70ed7b194490ba961929e546e035a,Chukwuebuka,Asma'u,Alhaji,Primary,None,Trader,Engineer,"400,000-600,000",6,Very Involved
+668409e3f1f8443ea99f131849c8a43f,Ugochukwu,Akuchi,Adedayo,Tertiary,Primary,Civil Servant,Farmer,"Above 600,000",4,Involved
+0964fbbf8cd341b082b01cfdd045dd1c,Chukwudi,Ogechi,Oyibo,Tertiary,None,Civil Servant,Trader,"400,000-600,000",5,Slightly involved
+409d360250844242968b1625746f7891,Segun,Chizoba,Akpofure,None,Tertiary,Trader,Engineer,"Above 600,000",2,Always busy
+c5c5b37af85e46a19dad09b252c21221,Lawali,Yetunde,Chinweike,Primary,None,Nurse,Engineer,"Below 200,000",2,Always busy
+d32e6dcd83bc44789d6ac7b86778043b,Chibuike,Adisa,Chizoba,None,None,Farmer,Teacher,"200,000-400,000",5,Slightly involved
+de8ede0ba85c4e4a804b6fabfcf56188,Olawale,Bilƙisu,Chinweuba,Tertiary,Secondary,Teacher,Trader,"400,000-600,000",5,Very Involved
+0de051a669ca47d2b64414fd8ae769ed,Olamide,Hafsat,Uduak,Primary,Tertiary,Farmer,Teacher,"Below 200,000",5,Always busy
+9f64eeed5c9d427d84b871bb300568d2,Olujimi,Nnenne,Adeola,Secondary,Secondary,Teacher,Doctor,"Above 600,000",4,Involved
+71299889a01a4992bf9d3e64c1a6423b,Ufuoma,Chigozie,Ekundayo,Tertiary,Secondary,Teacher,Trader,"Above 600,000",5,Very Involved
+445dcc38341c44948d366dfcc28ebd70,Sani,Chijindum,Akpofure,Secondary,Secondary,Teacher,Nurse,"400,000-600,000",6,Slightly involved
+49bc473fed7b4656a18a15368c99a894,Ayomide,Chinasa,Chike,Tertiary,Tertiary,Engineer,Farmer,"Above 600,000",2,Involved
+7c16128db2c04394a17f29e170286046,Dayo,Abiola,Ese,Primary,None,Doctor,Trader,"200,000-400,000",5,Very Involved
+a14923c2f920464c8763fcd01f15c7b6,Adewale,Adedayo,Olufemi,Primary,Tertiary,Unemployed,Doctor,"400,000-600,000",2,Always busy
+b5b453ca3d42493c8c9fd3349bdf0377,Chidike,Olufunke,Onyeka,Tertiary,Secondary,Teacher,Teacher,"Above 600,000",6,Always busy
+03802b708d03491e8f8d5238288b78b5,Chijindum,Temitope,Olumide,Secondary,None,Civil Servant,Engineer,"200,000-400,000",6,Slightly involved
+3985fb6217dc4effa87213f98d605936,Efemena,Kelechi,Tochukwu,None,Secondary,Engineer,Trader,"400,000-600,000",5,Very Involved
+1d0bc9bde9b545cf97665cdafe049059,Chibuike,Jummai,Onyebuchi,Tertiary,Primary,Doctor,Unemployed,"400,000-600,000",5,Slightly involved
+a5d04d531e1242e3b27292b6762172ed,Abimbola,Chinyelu,Chima,None,Secondary,Engineer,Teacher,"Above 600,000",6,Involved
+eec259dc7f95497ca76aa6ced50755d9,Yaƙubu,Olusola,Hamisu,Secondary,Tertiary,Teacher,Teacher,"Above 600,000",6,Always busy
+b495db4e82454fb48ab7706eb77350ca,Fumnanya,Ifiok,Ayo,None,Primary,Teacher,Civil Servant,"Above 600,000",5,Slightly involved
+7b85179ad5b047e0aa5d932b45ff2c83,Ikenna,Amina,Ufuoma,Primary,None,Unemployed,Civil Servant,"Below 200,000",3,Very Involved
+74eff5453e654603b8e3654bfaf14ff0,Ayomide,Asabe,Ademola,None,Primary,Trader,Trader,"200,000-400,000",5,Always busy
+30cbd7556232417aa50741818d1fb540,Obi,Faɗimatu,Olujimi,Secondary,None,Teacher,Teacher,"200,000-400,000",6,Very Involved
+bf0d073d821c43369970cf60ebff8d15,Adekunle,Ejiroghene,Olayinka,Tertiary,None,Engineer,Trader,"200,000-400,000",5,Slightly involved
+11df12d7dd304e89a2f235f2e11b868d,Tochukwu,Akachi,Ese,Secondary,Primary,Teacher,Doctor,"200,000-400,000",5,Involved
+dabac50dca3d485985ce099c46b82659,Azubuike,Akachi,Umar,Tertiary,Secondary,Civil Servant,Farmer,"Above 600,000",4,Involved
+c9a7d91fef2a4713970210496a39aaa6,Bukar,Iniobong,Bello,Tertiary,None,Engineer,Farmer,"Below 200,000",2,Very Involved
+00a81de9d20f47d084656d6b81fb18b3,Ifiok,Abeni,Balarabe,Secondary,Primary,Unemployed,Doctor,"Above 600,000",3,Always busy
+d664d2644c6e47ffb9de7a3a486822b9,Salisu,Adaeze,Chijioke,None,Secondary,Unemployed,Civil Servant,"Below 200,000",6,Always busy
+a8f1e091ffb8402d9475dbc996418ced,Mamman,Nnenna,Chibuike,None,None,Engineer,Unemployed,"Below 200,000",2,Slightly involved
+7250ee18260a49629d81b7f57d5911c6,Okonkwo,Ejiroghene,Chukwuemeka,None,Tertiary,Teacher,Unemployed,"400,000-600,000",2,Very Involved
+551ac8ea585a4afabbfdcc1289e06ab3,Chikelu,Olufunke,Rabiu,Secondary,Tertiary,Civil Servant,Teacher,"400,000-600,000",2,Very Involved
+6090d6978b1e4b9d834b9fbb8d4a75b8,Oghenekevwe,Onyeka,Ayomide,Secondary,Tertiary,Doctor,Doctor,"200,000-400,000",5,Always busy
+de9e37575260401eaecf67d2749176f4,Uduakobong,Akachi,Onyekachi,None,Primary,Teacher,Engineer,"400,000-600,000",5,Involved
+3d225c30b28f41debb140bc3304b8590,Ikenna,Chima,Nonso,Secondary,Secondary,Unemployed,Engineer,"Above 600,000",6,Very Involved
+db23aa8c3bca4f85a20a60ac9261549d,Taiwo,Oluwaseun,Chimezie,Tertiary,Primary,Trader,Unemployed,"Above 600,000",4,Always busy
+517400f80b2c482aa9288e92c68a152f,Uchenna,Aishatu,Nnamdi,None,Secondary,Doctor,Engineer,"400,000-600,000",5,Always busy
+e9d68f23b4894070b914f8a8bea4ff31,Onyeka,Chikelu,Chukwudi,Primary,None,Doctor,Doctor,"Below 200,000",5,Very Involved
+fd08b32c62d64e93a1985d54cfb87e6f,Chidiebube,Halimat,Taiwo,Primary,None,Teacher,Nurse,"200,000-400,000",5,Slightly involved
+a6eab79ed21c42f88ada4f80a9e782d4,Chidike,Amina,Toyin,None,Tertiary,Farmer,Civil Servant,"Above 600,000",5,Slightly involved
+f6febc0e7ecd4bafa6f05fcffb16e5db,Abiodun,Olufunmilayo,Olamide,Secondary,None,Trader,Trader,"400,000-600,000",5,Involved
+f72169bb80964718a051acef097a1e10,Abubakar,Eseoghene,Ekwueme,Tertiary,Primary,Unemployed,Farmer,"Below 200,000",6,Involved
+19b17e80dea44e1794fd9ad39716108e,Olu,Uduak,Oluwaseun,Primary,Secondary,Farmer,Teacher,"Above 600,000",2,Always busy
+1986b4b270b74868985480f0dfcaf0b7,Adeola,Chinwe,Olayinka,Tertiary,None,Doctor,Civil Servant,"200,000-400,000",6,Involved
+03edd1f874f94d17a912b4bf86a4bae4,Nonso,Bilƙisu,Akuchi,Secondary,None,Nurse,Farmer,"400,000-600,000",3,Always busy
+def5768968f44bcea4e75e8eb8f21423,Amadi,Akpofure,Bukar,None,Tertiary,Farmer,Teacher,"Above 600,000",5,Involved
+1327f1bc2784478fb84f16b3a79fbfaf,Ikenna,Idowu,Ekundayo,Secondary,Secondary,Nurse,Nurse,"400,000-600,000",4,Slightly involved
+43d88870f81d4aa188120a8e78308930,Toyin,Ejiro,Yaƙubu,Primary,Secondary,Doctor,Trader,"200,000-400,000",5,Slightly involved
+65c17795b15546bc9f8ded9756abf2f1,Okoro,Omobolanle,Olusola,Tertiary,Tertiary,Farmer,Doctor,"200,000-400,000",4,Very Involved
+541cdfcdda0d4a5f948f8b74a65bb1f2,Chikere,Ayomide,Okonkwo,Secondary,Primary,Nurse,Farmer,"400,000-600,000",4,Very Involved
+889b78d5dbfd497eaca2b148da330aa1,Salisu,Titilayo,Chizoba,Primary,Primary,Teacher,Doctor,"Below 200,000",5,Always busy
+a075e92751104492b4427e0b61484bb3,Oghenekevwe,Uche,Abioye,Secondary,Tertiary,Unemployed,Doctor,"400,000-600,000",2,Very Involved
+7cea2045c268483ea32f2e63b7fddd71,Akpan,Kyauta,Ekundayo,Secondary,Tertiary,Trader,Trader,"400,000-600,000",6,Involved
+9e11d2cd09304ef68a80068ddf547e50,Enyinnaya,Abioye,Efemena,Primary,None,Engineer,Farmer,"Above 600,000",4,Always busy
+af34cf65a19344b2bc19e71d118405ad,Chidubem,Amina,Umaru,Primary,Secondary,Nurse,Teacher,"Above 600,000",4,Very Involved
+3a3c8a71ff574e2b8991ab9bebc2026f,Olusegun,Chidinma,Alhaji,None,Tertiary,Unemployed,Trader,"200,000-400,000",3,Involved
+fa7457616f1841089723199dbf2c14a0,Oluwatoyin,Emem,Aliyu,Primary,None,Teacher,Unemployed,"Below 200,000",6,Slightly involved
+b4323070a23d4c2f82a796891933918c,Chukwudi,Ogochukwu,Bello,None,Tertiary,Trader,Doctor,"Above 600,000",4,Involved
+2a96e1e271944ae299bad7aedf615a5c,Uchenna,Temitope,Ige,None,Secondary,Farmer,Farmer,"Below 200,000",5,Always busy
+0769165fe7464cb98ca9cf07b1aa0f6a,Ifiok,Zainab,Chidiebere,Secondary,Secondary,Engineer,Farmer,"Above 600,000",5,Always busy
+0e5dd462cbd04ef2930a37df0bc61066,Umaru,Abosede,Olayinka,Primary,Secondary,Farmer,Nurse,"200,000-400,000",5,Slightly involved
+6e417d475ff545ea9bc440f14b1a269b,Ola,Adannaya,Abioye,Primary,Tertiary,Doctor,Civil Servant,"400,000-600,000",6,Always busy
+697c392387fa441abe83b91f25440fe0,Chibuike,Uduak,Ikenna,Primary,Primary,Trader,Farmer,"Above 600,000",5,Involved
+2e183554cae24e66ae8a781390e0a95b,Chinweuba,Chichi,Olumide,Primary,Secondary,Unemployed,Nurse,"Below 200,000",2,Always busy
+9c07a75114374509acd1586a2b840c67,Adewale,Itoro,Jatau,Secondary,Tertiary,Doctor,Teacher,"400,000-600,000",2,Involved
+aee1e86b9ea546aaa1ee6c5bdeef580f,Chisom,Chikere,Ɗanjuma,Primary,None,Unemployed,Civil Servant,"400,000-600,000",6,Always busy
+9549c931e9af499dbf671eec3da70577,Muhammadu,Ese,Chimezie,Primary,Tertiary,Unemployed,Unemployed,"400,000-600,000",6,Slightly involved
+a34db7c5760d4bbbbb70b3a124a35cf2,Abimbola,Oluchi,Olalekan,Secondary,Primary,Trader,Nurse,"200,000-400,000",3,Slightly involved
+aab612c9415d474ab5a669814104a8b5,Folami,Adaeze,Chidiegwu,Primary,Secondary,Civil Servant,Trader,"200,000-400,000",6,Involved
+771ad655cdfc4ee0a61ede900267deb3,Efe,Iniobong,Aminu,None,Tertiary,Teacher,Civil Servant,"200,000-400,000",5,Always busy
+8beddb12ad77482f89a23a89e6b5a92c,Chidiebere,Mojisola,Adebayo,Secondary,Tertiary,Unemployed,Unemployed,"Below 200,000",2,Involved
+f1faf665711543f392e89d1028711733,Balarabe,Idowu,Afolabi,Tertiary,Tertiary,Farmer,Engineer,"Below 200,000",4,Very Involved
+4c955f6a966b4964bcd6bdca5876fd09,Olabode,Ebele,Eseoghene,Secondary,Secondary,Unemployed,Farmer,"400,000-600,000",5,Slightly involved
+b0b862ef6c9f42b9b6478986a3917c99,Ejiroghene,Nnenna,Lawal,None,None,Teacher,Teacher,"Above 600,000",6,Always busy
+4d57d880d865469ab4f3310340066ff2,Ogochukwu,Talatu,Nonso,Primary,Tertiary,Teacher,Engineer,"200,000-400,000",3,Very Involved
+da743152627b41a1bfd6f23232ffe294,Chukwuma,Ugochi,Enitan,Tertiary,Tertiary,Civil Servant,Trader,"400,000-600,000",4,Always busy
+61a117293cb943509b4da0fe7bb38605,Aliyu,Chinonso,Fumnanya,None,Secondary,Teacher,Farmer,"400,000-600,000",2,Very Involved
+4bbe4aff93264ffd9be4bf5192698698,Abiola,Ekundayo,Ejiro,None,Secondary,Doctor,Trader,"400,000-600,000",4,Involved
+059dd55d4b944e30b303f438fe2110d0,Dayo,Ebere,Uduak,None,None,Engineer,Engineer,"200,000-400,000",6,Always busy
+6553867da8814fd3947d577bfa5a91ca,Iniobong,Amara,Chidi,Secondary,Primary,Engineer,Nurse,"400,000-600,000",5,Involved
+dd750e9890e0495f8212b554464458b4,Ekenedilichukwu,Uzoma,Usman,Secondary,Secondary,Farmer,Civil Servant,"Above 600,000",2,Slightly involved
+f93e08d5bea24dfe873f6e1baf908e3c,Chibueze,Ayo,Ɗanladi,Primary,None,Teacher,Farmer,"Below 200,000",5,Very Involved
+bec39a379b3d44bda91e314e0c8e29e3,Yaƙubu,Ayotunde,Aliyu,Tertiary,Tertiary,Farmer,Farmer,"200,000-400,000",3,Involved
+e726be23e77648869534ee1d7f2984f5,Sani,Kehinde,Uzochi,Primary,Tertiary,Trader,Nurse,"Below 200,000",6,Slightly involved
+3ae909fecc8248da8696f5e64944051b,Balarabe,Onyinyechi,Oghenekaro,Tertiary,Tertiary,Unemployed,Doctor,"400,000-600,000",5,Slightly involved
+3810ae665a3144cc8d4b69a99b689c88,Onyeka,Yetunde,Iniobong,Primary,Tertiary,Unemployed,Trader,"200,000-400,000",2,Always busy
+402913ec9ef2493eb0ac7d7ba2f963a3,Obi,Chisom,Enyinnaya,None,None,Trader,Teacher,"Above 600,000",3,Involved
+c478f6f1b88e4318816d83edad81f8bd,Kayode,Folami,Emem,None,Secondary,Farmer,Civil Servant,"Above 600,000",5,Involved
+2303f6c6d69d42f1ae4c84ffa8c01f05,Babatunde,Ogechukwukamma,Ese,Primary,Secondary,Trader,Doctor,"Below 200,000",3,Involved
+a0a11839e745470498dfbc3ca0d4de3d,Chima,Chikelu,Olusegun,Tertiary,Secondary,Doctor,Doctor,"400,000-600,000",4,Always busy
+c9e260744f1649a08a17991ea5769411,Uzoma,Anuli,Oghenekaro,None,None,Doctor,Farmer,"Below 200,000",6,Involved
+5d678bb1945e42e4888a93ec70d9c9f8,Okorie,Amarachi,Onyebuchi,None,None,Unemployed,Civil Servant,"400,000-600,000",6,Very Involved
+e8dd5e5a17124b16a1a4344fbb7bee03,Umaru,Ifunanya,Amadi,Tertiary,Secondary,Nurse,Doctor,"Above 600,000",5,Involved
+6a5e6920bf5a47e693a3dd5a4b8c5bdc,Kayode,Yejide,Adebowale,Secondary,Tertiary,Engineer,Unemployed,"200,000-400,000",6,Involved
+c958e75e21d54971b36749b52cf6bf75,Olujimi,Adaeze,Chika,Primary,None,Unemployed,Engineer,"400,000-600,000",6,Very Involved
+5da8d6d2f8b34a8ba05fb8bc8a16a06c,Alhaji,Alaba,Umaru,Secondary,Secondary,Civil Servant,Unemployed,"400,000-600,000",4,Always busy
+45c45a3ee9da484a80759f1f87e5f0fe,Chigozie,Hafsat,Ɗanlami,None,Primary,Civil Servant,Doctor,"Below 200,000",4,Always busy
+e9ff1cae41c84a8caa1f955ad499da99,Chisom,Aisha,Chikere,Tertiary,Tertiary,Farmer,Farmer,"Above 600,000",3,Very Involved
+f7a67b947b5a411ab1b64afed31edf1a,Akpofure,Dada,Chinonso,Tertiary,None,Nurse,Trader,"Below 200,000",3,Slightly involved
+ded255d0bf1e43668b8e63d4ce7607ad,Idowu,Adetokunbo,Enitan,Secondary,Primary,Civil Servant,Civil Servant,"Below 200,000",2,Slightly involved
+77e490c71d7b43138de22f1c56b60afc,Enitan,Nkiru,Ifeanyichukwu,Primary,Primary,Trader,Farmer,"Above 600,000",3,Very Involved
+c1101266240846dc9346d1a9f6802cdb,Haruna,Nneka,Akachi,Secondary,Secondary,Engineer,Unemployed,"Above 600,000",6,Slightly involved
+ad238d36dc324c97b9c1e262f76c8ede,Inyene,Bolanle,Oluwatoyin,Tertiary,Secondary,Doctor,Teacher,"400,000-600,000",4,Involved
+65bcc272fadd4ea3aca5e2fdb966442a,Onyebuchi,Ade,Okeke,Tertiary,Primary,Teacher,Unemployed,"Below 200,000",2,Slightly involved
+8eac0a33cdf944a79882b5c1f79efd70,Adebola,Oluwafunmilayo,Umaru,Secondary,Primary,Doctor,Doctor,"200,000-400,000",5,Slightly involved
+6502d6a2ca6a4224971e16cc5da36f1b,Olanrewaju,Ejiro,Oluwaseun,Tertiary,None,Teacher,Farmer,"Below 200,000",2,Slightly involved
+1fa382e8895c4d9983b38eb403902c5d,Okechukwu,Akachi,Ɗanlami,Primary,None,Trader,Doctor,"200,000-400,000",5,Very Involved
+bfbf397bac3e4b0d9e5ba13d746cdb77,Femi,Anuli,Adebayo,Primary,Primary,Trader,Unemployed,"200,000-400,000",3,Very Involved
+618ae30595a54afa831d029fac1e86d8,Efemena,Olubunmi,Eseoghene,Secondary,Tertiary,Teacher,Nurse,"400,000-600,000",2,Involved
+5f18e583f0b6483fa377f6f1d289f0ab,Oni,Chinonso,Olu,None,None,Nurse,Nurse,"Below 200,000",6,Very Involved
+78b2b5493bdb409eacc216a01bbc91f7,Enitan,Chiemeka,Adebola,Tertiary,Primary,Nurse,Engineer,"400,000-600,000",3,Involved
+f1738856e25d46eb9e9a9f83066803ee,Chinonso,Anuli,Okafor,Primary,Primary,Civil Servant,Farmer,"Above 600,000",6,Very Involved
+9c2e58deea4e461793f8382b8fb864e4,Oluwatoyin,Oluwayemisi,Enyinnaya,Tertiary,Secondary,Trader,Civil Servant,"200,000-400,000",2,Slightly involved
+a2a9d4d8102e4de5a5cc8bf738ab854c,Jatau,Eniola,Adedayo,None,Secondary,Trader,Unemployed,"Below 200,000",4,Slightly involved
+b379cb1ee8cd40ccb6da3ca0d2e82f38,Dada,Oghenekevwe,Chibueze,Tertiary,Primary,Unemployed,Nurse,"Above 600,000",6,Slightly involved
+1dde7969688643dba6348e784d5c55c7,Ikechukwu,Oni,Olufemi,Tertiary,Tertiary,Farmer,Unemployed,"200,000-400,000",6,Always busy
+0986bbebf23e423d8b9bd93423c86d30,Abioye,Inyene,Umar,Tertiary,Tertiary,Unemployed,Engineer,"Below 200,000",5,Involved
+1dba12677e1c45a1bef518a64dead645,Oghenekaro,Adebowale,Olusola,Secondary,None,Unemployed,Doctor,"200,000-400,000",3,Very Involved
+899ca782e3234d1abc1bdacc18e19331,Adebayo,Hadiza,Okechukwu,Tertiary,Primary,Doctor,Nurse,"400,000-600,000",6,Always busy
+5efa9c5b74214f46a37e4b0122bae10e,Lawali,Mojisola,Ekundayo,None,Tertiary,Civil Servant,Farmer,"200,000-400,000",2,Slightly involved
+b24cc64fbe3e4e57b30a9e32aba4fc03,Olusegun,Yalwa,Olalekan,None,Secondary,Nurse,Engineer,"400,000-600,000",4,Slightly involved
+965befdf6b4b44118a4a0e2df22b5b98,Ekenedilichukwu,Chinenye,Ejike,Secondary,Tertiary,Engineer,Trader,"Above 600,000",5,Always busy
+e2aa7a5d278e400dba0266efbe055787,Obi,Ogochukwu,Eniola,Secondary,Secondary,Teacher,Teacher,"200,000-400,000",2,Very Involved
+d56ce8ea19594b5aa7a8f6366a35df59,Bello,Aisha,Olukayode,None,Tertiary,Teacher,Trader,"200,000-400,000",2,Involved
+f065c817687a48509d9b62317d45d8ef,Ndidi,Alaba,Chukwuebuka,Primary,None,Civil Servant,Unemployed,"400,000-600,000",3,Very Involved
+b0b63bcf08604833879d0cdaf396ea37,Chi,Yejide,Chijioke,Tertiary,Secondary,Farmer,Nurse,"200,000-400,000",2,Very Involved
+71d7966571814dcfb79efc6e5edb0d3c,Babatunde,Ige,Chijindum,Tertiary,Secondary,Engineer,Teacher,"200,000-400,000",2,Involved
+5cd8fe1adafe48a9bc71e0bef3579560,Adebayo,Kyauta,Bamidele,Tertiary,Secondary,Nurse,Teacher,"Above 600,000",5,Slightly involved
+5e09a9eeaf884decbb1e143b196f4dfa,Chikere,Faɗimatu,Olayinka,Secondary,Primary,Farmer,Doctor,"Below 200,000",6,Always busy
+a5135ea0fa53434da6d5901d8b621d41,Chinedu,Ogochukwu,Chisom,Tertiary,Secondary,Trader,Nurse,"Above 600,000",3,Always busy
+46a02a9b65ec4acd8f8035f55bd20c98,Abidemi,Chisom,Kyauta,Secondary,Primary,Engineer,Nurse,"Below 200,000",3,Always busy
+f2f25eef1f454bfdb7dc67e030974b2b,Chibuike,Ebere,Enyinnaya,Primary,Tertiary,Unemployed,Unemployed,"400,000-600,000",3,Involved
+1777e8cb74684b9892fe2fded918b3e5,Olusegun,Uju,Olawale,None,Primary,Nurse,Engineer,"Below 200,000",5,Involved
+a3b5cecea4464e72b64c911aa9ab364a,Uzochi,Omobolanle,Adegoke,Primary,Primary,Teacher,Teacher,"400,000-600,000",4,Slightly involved
+0cf2b69b05774ea9b899924698de8ebb,Ekenedilichukwu,Eniola,Enitan,Primary,Secondary,Engineer,Teacher,"Below 200,000",4,Involved
+fd235def3e5a47e39560db22c96b5edb,Otobong,Amarachi,Ekene,Tertiary,None,Teacher,Civil Servant,"400,000-600,000",4,Slightly involved
+34885a4690884eaf89776598203c8c25,Abioye,Abosede,Chika,None,Secondary,Trader,Farmer,"400,000-600,000",4,Always busy
+8de08fc2c3e14a85946ef10411906f50,Eseoghene,Ifunanya,Haruna,None,Secondary,Trader,Farmer,"400,000-600,000",4,Slightly involved
+d0243d723748467f961d33ba350843f0,Chibuzo,Ogochukwu,Ekene,Tertiary,Tertiary,Engineer,Trader,"Above 600,000",3,Always busy
+c63d04ee541c4a86bba5cd2fdea45c19,Chidiebere,Hadiza,Bello,Secondary,Secondary,Nurse,Farmer,"Above 600,000",4,Always busy
+989240ace68943a989e48e8c25c61c45,Olayinka,Ese,Ejiro,None,Secondary,Unemployed,Civil Servant,"200,000-400,000",5,Involved
+fbe94499dbc040fd86fb7bf300b9d4a3,Femi,Kayin,Onyekachi,Secondary,Primary,Doctor,Unemployed,"200,000-400,000",5,Slightly involved
+8a4b8f7c21474a15bcce96f6250a4578,Chisom,Obi,Olusegun,Tertiary,Tertiary,Trader,Trader,"Above 600,000",4,Very Involved
+1c24220e2cab47e78c6b66e5402adf9c,Otobong,Amara,Obinna,Secondary,Tertiary,Doctor,Engineer,"200,000-400,000",4,Always busy
+21bddb41069947319dcf8766a93b12cd,Abioye,Halimat,Chinonso,Tertiary,Tertiary,Unemployed,Trader,"400,000-600,000",6,Very Involved
+c9d6a63bca3c4f5f9bb5c40c03cde2e3,Ugochukwu,Adeola,Chukwuma,None,None,Doctor,Farmer,"400,000-600,000",2,Very Involved
+040a3aae52e24fd996bf10ab3ce915e7,Olabode,Onyekachukwu,Olawale,Primary,Tertiary,Teacher,Civil Servant,"Above 600,000",3,Slightly involved
+20733f6d0d6a45b383ef20162c9b662e,Azubuike,Dada,Ola,None,Secondary,Trader,Teacher,"Above 600,000",5,Slightly involved
+1d181ee986ad4a8cabc4123ebde13c1b,Onyekachi,Adetokunbo,Segun,Primary,Primary,Trader,Teacher,"Below 200,000",6,Always busy
+72c22a1679eb4168904556e5bee3eb79,Ikenna,Abiodun,Oghenekaro,Tertiary,Secondary,Farmer,Civil Servant,"Above 600,000",3,Always busy
+97fa7f04836340079cae9610c72c1fe3,Olufemi,Olufunke,Abdullahi,None,None,Engineer,Engineer,"200,000-400,000",3,Involved
+38b77c0780fb4296b3b6a09b1beaf6ac,Nonso,Abioye,Ahmadu,None,Tertiary,Doctor,Farmer,"400,000-600,000",5,Always busy
+ba2c98ce0b19488e9d77a45ef206c269,Chibuzo,Kelechi,Chukwuebuka,Secondary,Primary,Doctor,Farmer,"Above 600,000",2,Always busy
+a8addf36ddf245eba8a3f341c8819065,Ifiok,Bose,Taiwo,Tertiary,Tertiary,Engineer,Farmer,"Above 600,000",6,Involved
+a4b1f991754246468d37a539857dd3b3,Uche,Alheri,Musa,Secondary,Secondary,Civil Servant,Nurse,"200,000-400,000",5,Very Involved
+ffa361be0f9240e187f97d05f6ca6b8b,Idowu,Iyabo,Chiemeka,Tertiary,Primary,Trader,Unemployed,"400,000-600,000",2,Involved
+6d20449666d0437198e88ebb7a9e8eef,Ogochukwu,Uzoma,Ese,Secondary,Tertiary,Nurse,Trader,"400,000-600,000",5,Involved
+b65feea97d8242649ba362e7afa415e5,Uchenna,Ejiroghene,Olalekan,Tertiary,Secondary,Teacher,Teacher,"200,000-400,000",5,Always busy
+e63658c912d0498db18d4d05e8e22743,Dayo,Nkemdilim,Abioye,Tertiary,Secondary,Unemployed,Doctor,"200,000-400,000",2,Involved
+25f934bf9bb941559275eb9414aeaf5c,Chike,Nkiru,Bitrus,Primary,Secondary,Civil Servant,Unemployed,"400,000-600,000",3,Slightly involved
+9fd34579466742cea04e178c10d08d11,Obi,Anuli,Chijioke,Tertiary,Primary,Civil Servant,Engineer,"Above 600,000",2,Very Involved
+b64fa54a8c61465495da75c1a21150f9,Ugochukwu,Yejide,Chibueze,Primary,Primary,Teacher,Nurse,"200,000-400,000",3,Slightly involved
+98eeac2bfe9f4caaa182f347533f5a72,Akachi,Folami,Sani,Tertiary,Secondary,Nurse,Trader,"Below 200,000",4,Very Involved
+816bcb9f742641938b7e6b3c87d292a6,Ayodele,Ebere,Adegoke,Primary,None,Civil Servant,Farmer,"400,000-600,000",2,Slightly involved
+cb08587d1963426dae218b099afd4015,Iniobong,Asabe,Bukar,Tertiary,None,Doctor,Teacher,"200,000-400,000",6,Very Involved
+a79b44b6da504fed9d4a3d81b3a7d0e0,Chuks,Ogechukwu,Ife,Tertiary,Secondary,Farmer,Teacher,"Above 600,000",2,Slightly involved
+8d244e3ec4da4ddba0b15abaa6a27967,Adebowale,Yalwa,Adisa,Secondary,Primary,Nurse,Farmer,"200,000-400,000",5,Very Involved
+6e191042370b40639d90e79eb888f6ed,Bukar,Chijindum,Otobong,Tertiary,None,Engineer,Civil Servant,"400,000-600,000",6,Very Involved
+69efafb13a7e4e14a359eee173991a47,Chukwuemeka,Kehinde,Tochukwu,None,Primary,Nurse,Civil Servant,"200,000-400,000",2,Involved
+66132e697418410993d1bf0f56c438e4,Abiola,Taiwo,Uche,Secondary,None,Civil Servant,Nurse,"200,000-400,000",4,Slightly involved
+50032b3518574bafbac7e2b96a7e4c36,Chidi,Nnenna,Chiemeka,Tertiary,None,Civil Servant,Doctor,"400,000-600,000",3,Involved
+4140752caa44425990018b7b6d4067f4,Oluwasegun,Eniola,Ifeanyichukwu,Primary,Tertiary,Nurse,Engineer,"400,000-600,000",2,Always busy
+afd380c42713482cb41ea3ac5fd23109,Olusegun,Kyauta,Adegoke,Tertiary,None,Teacher,Trader,"Below 200,000",6,Slightly involved
+175a81ec112f4612b9699ed2ec48bf55,Adisa,Omobolanle,Musa,Primary,Secondary,Doctor,Unemployed,"200,000-400,000",3,Slightly involved
+6e8f75a117dd4d8195da705cd4ef00aa,Eseoghene,Ekenedilichukwu,Nonso,Tertiary,Primary,Civil Servant,Teacher,"400,000-600,000",2,Always busy
+5f65c8cebd214c11be9d61ee18b87245,Ifiok,Akachi,Uzoma,Primary,Primary,Nurse,Unemployed,"400,000-600,000",4,Slightly involved
+0f5ae9d38e6e4003a14f3f12cfd01cbd,Ɗanjuma,Emem,Ufuoma,None,None,Nurse,Farmer,"Below 200,000",4,Always busy
+8fca7b6a8fc44092b4e559e596229348,Chibuike,Abioye,Oluwafemi,Secondary,Tertiary,Engineer,Nurse,"200,000-400,000",4,Very Involved
+692ac1391f4a4ca1ab85fd595463adc7,Oghenekaro,Faɗimatu,Abiodun,Tertiary,Primary,Trader,Doctor,"200,000-400,000",4,Always busy
+f0ede303aa53419c9fa4bb9f5a856750,Onyekachi,Adaeze,Okechukwu,None,Secondary,Trader,Farmer,"200,000-400,000",3,Always busy
+ea74bb18de3b496fac4596f6c012a0ff,Chinwendu,Onyinyechi,Abdullahi,Primary,Primary,Farmer,Doctor,"400,000-600,000",6,Involved
+49a214aef7e848e58d2b91efb8976ec5,Olujimi,Onyinye,Akuchi,Secondary,Primary,Engineer,Civil Servant,"200,000-400,000",6,Always busy
+1a85910d5a054c118ffca6b199b479d4,Oluwaseun,Aishatu,Obinna,Primary,Secondary,Teacher,Civil Servant,"Below 200,000",4,Involved
+279c658a36764ce581e5c9f693f277cc,Olusegun,Tochukwu,Okechukwu,Tertiary,Secondary,Unemployed,Farmer,"400,000-600,000",5,Slightly involved
+d8e7012f39684c81bb70c3b8a81fdec3,Chi,Uchenna,Kayode,Secondary,None,Unemployed,Nurse,"400,000-600,000",2,Very Involved
+8e676a01d86a446099a1120e1bb43332,Toyin,Bosede,Adewale,Tertiary,Primary,Nurse,Engineer,"400,000-600,000",2,Involved
+47503f1dc33a4f6c9d691fba5e187b24,Abubakar,Faɗimatu,Udo,Secondary,Tertiary,Unemployed,Trader,"200,000-400,000",5,Always busy
+6dda4f8dcea64f4cb9e58ff092f837d4,Efemena,Onyekachi,Olu,Primary,Primary,Doctor,Civil Servant,"Below 200,000",5,Very Involved
+c4767556f97b42dd8f9b72aed85c16bd,Chizoba,Bose,Chima,None,Primary,Farmer,Doctor,"200,000-400,000",2,Always busy
+accb461a9d1343639f294a8bd1846c39,Adebowale,Oluwayemisi,Ola,None,None,Doctor,Farmer,"Below 200,000",6,Always busy
+9be7173706b842318e867f3ca487eeab,Abiola,Ade,Lawal,Secondary,Primary,Teacher,Farmer,"400,000-600,000",6,Slightly involved
+b18753e6d4574ad9a867a096edd877c8,Umar,Funke,Amadi,None,Tertiary,Farmer,Engineer,"Below 200,000",4,Always busy
+45f50c522e2f4f77876979d644777442,Olukayode,Halimatu,Okechukwu,Primary,None,Trader,Unemployed,"Above 600,000",6,Slightly involved
+ebe9e2074f194ec0832d4526b3e4110a,Udo,Hadizatu,Kelechi,None,None,Unemployed,Teacher,"Below 200,000",4,Involved
+2e7098380190462099dcabd056febfb9,Oluwaseyi,Adenike,Chijindum,Primary,None,Engineer,Engineer,"Below 200,000",4,Always busy
+a847bce790fa4b57a4ac2130deaf528d,Taiwo,Efe,Itoro,Tertiary,Secondary,Trader,Teacher,"200,000-400,000",3,Always busy
+bdb025ff245145a491d059b26699cd99,Afolabi,Yewande,Ɗanladi,Tertiary,Tertiary,Nurse,Doctor,"200,000-400,000",6,Slightly involved
+177d6e7e07d944ceb8c88faea2178f84,Chidiebere,Hauwa,Udo,Primary,Secondary,Nurse,Unemployed,"200,000-400,000",4,Slightly involved
+604e46cb371242d187cdb6a1bf012e32,Kayode,Chidiebere,Obi,Tertiary,Tertiary,Civil Servant,Engineer,"200,000-400,000",2,Slightly involved
+284bf96257444596b42221676b7a2460,Onyekachukwu,Nkechinyere,Adebowale,None,Secondary,Nurse,Teacher,"Below 200,000",4,Always busy
+530ac1c7b8ba43688fc777685ebbcca5,Ademola,Funke,Bello,None,Primary,Farmer,Trader,"200,000-400,000",4,Very Involved
+98a21f1c914d4faeb10013a7c6deb2f0,Ade,Alaba,Uduakobong,Tertiary,Primary,Engineer,Teacher,"Above 600,000",3,Always busy
+27d415b60d7745a0a222b6a615bfbe97,Oluwasegun,Abeni,Ibrahim,Primary,Secondary,Trader,Civil Servant,"Above 600,000",6,Involved
+0cbd3c039e2a44ac8122b5b3284c03d2,Balarabe,Oluwaseun,Emeka,Secondary,Primary,Teacher,Doctor,"Above 600,000",6,Slightly involved
+716fda0a45a8482994e286e5ac8936bc,Olufemi,Ese,Kayin,Secondary,Primary,Civil Servant,Teacher,"Above 600,000",5,Very Involved
+9b69554d7c54435fac8c3b6aa974d079,Efemena,Ijeoma,Ejiroghene,None,Secondary,Teacher,Civil Servant,"Below 200,000",2,Involved
+372f871a45ee432daa07f2137129cec7,Ebuka,Chibuzo,Bukar,Secondary,None,Nurse,Engineer,"400,000-600,000",3,Always busy
+585d3f861d2344e6832920b7c143f426,Aliyu,Adebowale,Oghenekaro,Primary,None,Engineer,Unemployed,"200,000-400,000",5,Involved
+ad9fb00d4882473c9c6345ab6e0ed1e8,Ayuba,Chioma,Ife,Primary,None,Farmer,Civil Servant,"200,000-400,000",3,Involved
+86e527537c9346cc97d7a560adb14670,Chinonso,Chidimma,Emem,Secondary,Primary,Nurse,Civil Servant,"400,000-600,000",4,Very Involved
+3873e57f0ba048e88ef492c1aac93316,Olalekan,Adannaya,Shehu,Tertiary,Primary,Unemployed,Doctor,"Below 200,000",4,Very Involved
+0e0630cd996d4c50bc04a168652ffb49,Lanre,Bukola,Olamilekan,Primary,Primary,Doctor,Teacher,"Below 200,000",2,Very Involved
+f200c2614d2941abb45512f701f7c7ec,Haruna,Funmilayo,Itoro,Primary,Primary,Engineer,Civil Servant,"200,000-400,000",3,Always busy
+c3a00c6f232141e1847104c036136e15,Onyebuchi,Nnenna,Ejike,Secondary,Tertiary,Unemployed,Unemployed,"200,000-400,000",2,Involved
+1eb74b5653ff43a28a1935014169b9fc,Ejiro,Chinyelu,Akpan,Tertiary,None,Engineer,Trader,"Above 600,000",3,Slightly involved
+6e3f683abf3c4140bf54a51101fa964e,Olawale,Chioma,Babajide,Tertiary,Primary,Trader,Trader,"200,000-400,000",4,Slightly involved
+8857511761554667a112507c2cfa55b0,Taiwo,Oluchi,Okechukwu,Primary,None,Teacher,Unemployed,"Below 200,000",2,Slightly involved
+8f0881ee8011416bbae88926b423ccde,Ademola,Oluwafunmilayo,Opeyemi,Secondary,None,Nurse,Civil Servant,"400,000-600,000",5,Involved
+5aaab32fce6342b6ab05347fd556b37d,Nonso,Jummai,Uzochi,Primary,Secondary,Teacher,Unemployed,"Below 200,000",3,Very Involved
+bdf66ba5dc9c46dea5a674c212738a23,Azubuike,Oluchi,Onyeka,Primary,None,Teacher,Doctor,"200,000-400,000",5,Involved
+75b2745504cc4edeafac16730ad45230,Lekan,Chizoba,Chinonso,Tertiary,Secondary,Teacher,Farmer,"Above 600,000",2,Slightly involved
+5024bdc6dcb34df393eecdc6ebd14d2c,Umaru,Toyin,Okafor,Tertiary,None,Nurse,Farmer,"400,000-600,000",3,Very Involved
+6788420992ca425aade593329364f3d0,Ugochukwu,Udo,Ufuoma,Secondary,Tertiary,Unemployed,Engineer,"200,000-400,000",4,Slightly involved
+4a1dab326aed4dc7a3e05309b5a1b949,Chiemeka,Bosede,Ɗanjuma,Tertiary,Secondary,Farmer,Nurse,"Above 600,000",5,Involved
+f758dce205564aeaa7b032831d7c0098,Bukar,Dada,Ikechukwu,Secondary,Primary,Engineer,Teacher,"200,000-400,000",4,Very Involved
+f296d9f0cd2342c2abffe17b532401fc,Nnamdi,Onyekachukwu,Onyekachukwu,None,Tertiary,Engineer,Unemployed,"Above 600,000",5,Very Involved
+b08a4895d4ff4666b5c8e90d9e3d750d,Yalwa,Ekene,Olabode,None,Tertiary,Doctor,Unemployed,"400,000-600,000",6,Very Involved
+6fcc57dd168f4e129ca260c9eb7607c9,Bitrus,Ese,Chima,None,Secondary,Nurse,Doctor,"Above 600,000",4,Always busy
+6f887f283e494d099b19d8b8d8302081,Ese,Adenike,Lawal,Tertiary,Tertiary,Nurse,Trader,"200,000-400,000",6,Slightly involved
+1422373f862248d1a683e10796c044d0,Aliyu,Chisom,Udo,Secondary,Secondary,Doctor,Unemployed,"Above 600,000",3,Very Involved
+beed10b64f6e474b9edab0276550f74a,Uzoma,Yejide,Adegoke,Tertiary,Tertiary,Nurse,Farmer,"400,000-600,000",5,Always busy
+c77444cb55434c3cb8b8f24e56ea57b3,Azubuike,Ekene,Yalwa,Tertiary,Primary,Nurse,Teacher,"200,000-400,000",3,Always busy
+a21b030782af485c938d994c2b0abedd,Uduak,Enitan,Chinweuba,Secondary,Tertiary,Civil Servant,Civil Servant,"Above 600,000",6,Involved
+31a3ac4d828c47e787d5b7be1d30d990,Kyauta,Omobolanle,Abiola,None,Secondary,Engineer,Unemployed,"Below 200,000",2,Very Involved
+59e1ac095970485986b6e4ade7ea8d5a,Chidi,Chisom,Aliyu,Secondary,Primary,Farmer,Unemployed,"400,000-600,000",2,Involved
+a53bc024d1a64d87b54e2019ba35844e,Musa,Oghenekevwe,Chukwuma,None,Primary,Unemployed,Trader,"Above 600,000",2,Very Involved
+1a5165ca3c7c4d85a5cf0041d0a643fe,Olabode,Itoro,Ɗanjuma,None,None,Farmer,Civil Servant,"200,000-400,000",6,Very Involved
+2c6a6e9a328047a18187222b257d5e52,Tunde,Adisa,Chika,Primary,Tertiary,Nurse,Nurse,"400,000-600,000",3,Always busy
+c257cf73c29d482ba722796e9a36d1ec,Onyeka,Oluwaseyi,Bamidele,Secondary,Secondary,Trader,Nurse,"Below 200,000",3,Slightly involved
+f387e1bd2d5942c6934a5a2fa7cf705c,Chukwudi,Chimezie,Efemena,None,None,Trader,Teacher,"Below 200,000",3,Involved
+76c5a0dc7e7e4419a0c14035c5d95f51,Aminu,Kehinde,Rabiu,None,Tertiary,Unemployed,Trader,"Below 200,000",3,Always busy
+9458054ec2874f069050f7efc1235c91,Balarabe,Ekene,Abiodun,Tertiary,Tertiary,Teacher,Farmer,"Above 600,000",3,Involved
+e1cde87fec954f87ae5ec36572eb7474,Onyekachi,Hadizatu,Chinweuba,Secondary,Primary,Civil Servant,Unemployed,"400,000-600,000",4,Involved
+fc8d5b93a2a2491fa49b1cd99082889b,Amadi,Folami,Ikenna,None,Secondary,Farmer,Civil Servant,"Above 600,000",4,Always busy
+f891b0c3dd3f487e92bdc6619fe0a8c7,Shehu,Dayo,Emeka,Primary,Secondary,Unemployed,Teacher,"Below 200,000",5,Always busy
+70944bdb26a544e390ee7a92a09151e0,Chinwendu,Oyibo,Uduak,None,None,Nurse,Trader,"Below 200,000",5,Very Involved
+a1a2748571344c2ab80b3657117b355b,Okoro,Chidiebube,Amadi,Secondary,None,Nurse,Engineer,"Above 600,000",3,Slightly involved
+97674900465143678bdc43184d85a3d2,Chukwuma,Nwanneka,Ebuka,Secondary,None,Doctor,Nurse,"200,000-400,000",2,Always busy
+12fe28bf81e044899a18e2a30e614bcd,Chukwudi,Adebola,Umar,Primary,None,Farmer,Civil Servant,"Above 600,000",4,Involved
+09a0a0f673b04091b634c1694f76e388,Chibuike,Bose,Rabiu,Primary,Secondary,Engineer,Nurse,"Below 200,000",6,Involved
+497de16dd4ea420a9e6596540e9058b6,Ola,Onyekachi,Chikelu,Primary,Tertiary,Doctor,Farmer,"Above 600,000",6,Very Involved
+fa34d2e8dd3f4d7ea508dc9513a4a492,Jatau,Iniobong,Femi,None,Primary,Civil Servant,Trader,"Below 200,000",2,Always busy
+98159d6c9d714084971dabf9daf481a7,Chibuzo,Oluwatoyin,Nnamdi,Primary,Tertiary,Unemployed,Farmer,"400,000-600,000",5,Involved
+949077c27674456fa26d719d81cf3252,Tochukwu,Hafsat,Chisom,Primary,Secondary,Civil Servant,Unemployed,"200,000-400,000",4,Always busy
+bd29ede9cab4423bb44883858de7ad6c,Usman,Oluwayemisi,Eniola,Secondary,Secondary,Teacher,Civil Servant,"400,000-600,000",3,Involved
+e8b77f7b73214f6b8a8076ece5582e16,Ola,Eseoghene,Udo,Primary,Tertiary,Farmer,Civil Servant,"Below 200,000",6,Always busy
+30307633a6de41d8925817b7cf501889,Chibuike,Adetokunbo,Lanre,None,Secondary,Civil Servant,Civil Servant,"Below 200,000",4,Involved
+80599b9379c242e49ae1a991524f93ff,Bitrus,Adanna,Olujimi,Tertiary,Secondary,Engineer,Nurse,"200,000-400,000",3,Very Involved
+73557b9d0fd6447eb52d4af2269ed4c9,Abiola,Yetunde,Ifeanyichukwu,Secondary,None,Trader,Unemployed,"200,000-400,000",5,Always busy
+d65e59dde62d4d068f9b85581a7f195b,Udo,Chibuzo,Chikere,Tertiary,None,Farmer,Doctor,"400,000-600,000",3,Involved
+15969802b6dd4257bb7d9f1c57eb89b1,Onyekachukwu,Temitope,Ayokunle,Primary,Tertiary,Farmer,Civil Servant,"400,000-600,000",5,Always busy
+0a0537f02c2c422ba56895c6812a1f9b,Uchenna,Bosede,Abiodun,Primary,Secondary,Farmer,Nurse,"Below 200,000",4,Involved
+fdb1429e70104d13b526b22d3f6c21f7,Yaƙubu,Oghenero,Abiola,Secondary,Tertiary,Unemployed,Nurse,"400,000-600,000",6,Very Involved
+9c1c351785d240a686295b5d707df251,Shehu,Oni,Ibrahim,Primary,Secondary,Civil Servant,Nurse,"Above 600,000",5,Always busy
+eafde7d95f734a3e9d286aa428a39779,Oni,Udo,Oghenekevwe,None,Primary,Civil Servant,Nurse,"Above 600,000",2,Very Involved
+c643530068a54c68a32dbb5e486bb6bf,Adewale,Chiemeka,Abiola,None,Primary,Engineer,Doctor,"Below 200,000",5,Involved
+0d67d38e990f4c5badcc3daf569f3ab3,Olawale,Iyabo,Olanrewaju,None,None,Teacher,Nurse,"Above 600,000",5,Involved
+55ab946da5b54dc2a181c85eca0ac6ac,Chizoba,Simisola,Jatau,Tertiary,Secondary,Teacher,Nurse,"Above 600,000",4,Very Involved
+8ed6ad5e18314aa394669d1910df9974,Lawal,Nkechinyere,Ɗanjuma,Tertiary,Primary,Civil Servant,Trader,"Above 600,000",4,Slightly involved
+4082cbb948bd4b3ea2f5df2badaa44ca,Uchenna,Hauwa'u,Oghenero,Primary,Tertiary,Nurse,Teacher,"Below 200,000",5,Always busy
+f6e39356a81445629a003f16b9469bcf,Efemena,Chidi,Adegoke,Primary,None,Doctor,Farmer,"Above 600,000",4,Always busy
+267eddcedf8f41979a4a99b2e806133c,Lawal,Oluwaseun,Uzochi,Secondary,Tertiary,Trader,Teacher,"200,000-400,000",5,Involved
+a9e27ba9952e4abb94dd5061555736f8,Onyekachi,Udo,Okoro,Secondary,Tertiary,Farmer,Farmer,"Below 200,000",6,Involved
+4f6b58c8598d4aecaaafe5432434a678,Chijioke,Ade,Yaƙubu,Secondary,Secondary,Doctor,Farmer,"Below 200,000",6,Slightly involved
+a981b098b2cf452da7f333b3f7baf55e,Chukwuemeka,Oluwayemisi,Ime,Primary,Primary,Engineer,Engineer,"Below 200,000",4,Always busy
+b576255e98544f22a102f9c964575bc4,Emem,Adetokunbo,Olamide,None,Tertiary,Doctor,Teacher,"200,000-400,000",3,Very Involved
+8f1584494f40422f95b02530f020e992,Lawali,Ogechukwukamma,Segun,Primary,Secondary,Unemployed,Civil Servant,"400,000-600,000",2,Slightly involved
+54170a17caaa4bbea4bbf962606e0e1c,Ifiok,Zainabu,Abiola,Tertiary,Secondary,Doctor,Engineer,"200,000-400,000",3,Very Involved
+b3ecb951ab8c4f97a0b71785d02ce0c1,Okafor,Oluwatoyin,Otobong,Secondary,None,Teacher,Unemployed,"200,000-400,000",4,Slightly involved
+ff4625afbd20463bb275b5f3d436a7a8,Temitope,Bosede,Bello,Secondary,Primary,Trader,Civil Servant,"200,000-400,000",6,Always busy
+17ec889c86c146cba99630f7af77520e,Chidiebere,Onyinyechi,Taiwo,None,Secondary,Doctor,Nurse,"200,000-400,000",4,Slightly involved
+822c4d326c644c15aba301cba561e1e9,Oghenero,Amarachi,Oluwasegun,Secondary,Tertiary,Teacher,Trader,"Above 600,000",2,Slightly involved
+4f11d8dc5cd3436984aac1b75ca0c428,Oghenero,Chizoba,Chidubem,Secondary,Primary,Farmer,Doctor,"400,000-600,000",5,Slightly involved
+577bc55a36d54494b37fd50d2e25b5ee,Uzoma,Ebele,Obinna,Secondary,Primary,Civil Servant,Nurse,"200,000-400,000",2,Always busy
+312741487c7c404e8422d03ef29a6339,Okoro,Abimbola,Olalekan,Primary,Secondary,Doctor,Farmer,"400,000-600,000",4,Always busy
+27aa7cbc23374bbcbffe77c839feb99c,Olalekan,Mojisola,Olufemi,Tertiary,None,Teacher,Trader,"400,000-600,000",2,Involved
+c9c23e69d82c45658bb907ec13c11754,Chinwendu,Olamide,Oluwatoyin,Tertiary,Secondary,Trader,Engineer,"Above 600,000",4,Involved
+8a2e6a93c5584bb281f7f3fb19e45c6a,Ayokunle,Onyinyechi,Chizoba,Tertiary,Tertiary,Engineer,Unemployed,"Below 200,000",3,Slightly involved
+86cac6f4e2384e93bd17c5e8d5ca69ab,Ekwueme,Ayo,Chisom,Tertiary,Secondary,Farmer,Doctor,"200,000-400,000",2,Very Involved
+e05b46c556364094a97431db09a9d1c1,Adeola,Omolara,Folami,Primary,Tertiary,Doctor,Trader,"Above 600,000",6,Very Involved
+98e52499218c4e1c9e374f7ac42cbc39,Ife,Ayo,Ayotunde,Primary,Primary,Trader,Doctor,"400,000-600,000",4,Very Involved
+2e4bebc429894880a77d1be96070b6a1,Temitope,Funke,Olu,None,None,Farmer,Trader,"Above 600,000",2,Slightly involved
+9feefdffc5664a81b15e54f6d4d30795,Ayomide,Alaba,Itoro,None,Primary,Trader,Nurse,"Below 200,000",4,Always busy
+b89f72f32a604652a7147668cf1d7d3a,Chisom,Safiya,Oyibo,None,Secondary,Engineer,Civil Servant,"200,000-400,000",6,Always busy
+5d42b9e9692e47b68b2f6d5c700b5d5f,Haruna,Ebele,Chidi,None,Primary,Engineer,Trader,"400,000-600,000",2,Slightly involved
+f836f5713cce476cb836c448ad261ec5,Emem,Chinasa,Ife,None,Primary,Unemployed,Nurse,"Above 600,000",3,Always busy
+c09cb50648f1496d9c4ffb4671b701aa,Chike,Alaba,Ebuka,None,Primary,Doctor,Trader,"400,000-600,000",6,Slightly involved
+3be79df472ec416e88a723e9bfa016c2,Emeka,Onyinyechi,Ndidi,None,Secondary,Engineer,Nurse,"Above 600,000",6,Slightly involved
+f73157494f3949a8bd3a258288b4f474,Chukwuma,Hafsatu,Sani,Secondary,None,Civil Servant,Unemployed,"400,000-600,000",6,Slightly involved
+e76adca97811480288cc7cfecf01f944,Ayo,Yejide,Olufemi,None,None,Trader,Trader,"Below 200,000",3,Involved
+ada584175e2a432db1ab0b56d5c9fdc7,Udo,Zainabu,Onyekachi,Secondary,None,Trader,Doctor,"Below 200,000",4,Always busy
+70cafdd8fc044f0892070158f2771f63,Adebowale,Safiya,Nonso,Primary,Primary,Teacher,Unemployed,"Above 600,000",6,Very Involved
+c73323044822412084f9eccd7630a8a7,Olusegun,Adetokunbo,Chigozie,Secondary,None,Engineer,Doctor,"200,000-400,000",3,Always busy
+6b2d5b0987074ad480be7e3561c2645a,Ejiro,Hadizatu,Chijindum,Tertiary,Tertiary,Doctor,Nurse,"400,000-600,000",2,Involved
+331f63fbd11f48c0a97ca4fff75d599f,Kayode,Abidemi,Chinweuba,Secondary,Secondary,Trader,Engineer,"400,000-600,000",4,Slightly involved
+df7d0dd7236e46089acb394acd1f5318,Iniobong,Olayinka,Chidiegwu,Primary,Tertiary,Doctor,Farmer,"Above 600,000",4,Involved
+7b07fd31a4244f238d5ba7cd400035f0,Chima,Efemena,Okeke,None,Tertiary,Trader,Civil Servant,"200,000-400,000",6,Very Involved
+ef2ddcc48df641da9f07c1a5dfc620ce,Alaba,Ndidi,Olusegun,None,Tertiary,Trader,Civil Servant,"Above 600,000",2,Slightly involved
+8412a335d88c456db61e5fdb1a435206,Chikelu,Aishatu,Ikechukwu,Primary,None,Nurse,Engineer,"Above 600,000",4,Very Involved
+1578d70948f943d09feae1e0d9e604b3,Ejiroghene,Asabe,Rabiu,Tertiary,Secondary,Nurse,Doctor,"200,000-400,000",6,Always busy
+7306958845d5468da90a3abbc35b9fea,Chibuike,Ekundayo,Kehinde,Primary,Primary,Trader,Trader,"Below 200,000",4,Involved
+d4bf7a4b25b8442f836b15c7e7c225da,Chukwuma,Folami,Oluwaseyi,Tertiary,None,Nurse,Civil Servant,"Above 600,000",4,Always busy
+e916da57f24843ab977a8a5f6ffe33b3,Olanrewaju,Nkemdilim,Lanre,Primary,Tertiary,Doctor,Civil Servant,"Above 600,000",4,Very Involved
+e27718c5737d4fb6911376e038d77b9a,Adebayo,Akpofure,Oluwasegun,None,Tertiary,Nurse,Engineer,"400,000-600,000",3,Always busy
+6a36af1806d34b93ae33688d597e6845,Ola,Hafsat,Ade,None,Primary,Unemployed,Doctor,"200,000-400,000",5,Involved
+5fbbf0b1808349c8a57e01c90da23e5c,Dada,Ifeoma,Oghenero,Primary,Primary,Nurse,Civil Servant,"400,000-600,000",6,Involved
+14e4180cfe9946a3a2dbc8503c5bf3a7,Abidemi,Chinwe,Obi,Primary,None,Farmer,Teacher,"Below 200,000",4,Slightly involved
+519554e307374c86b97b5f515ffa46ef,Emem,Hauwa,Temitope,Tertiary,None,Trader,Engineer,"400,000-600,000",6,Slightly involved
+b6f6dbf1d6d441cc995d82f8ee4a9b5d,Olawale,Nneka,Okeke,Primary,Primary,Civil Servant,Trader,"400,000-600,000",2,Slightly involved
+25637cc3ca974bf595d596afa663d2cd,Kayode,Onyinyechi,Akpofure,Secondary,Primary,Teacher,Farmer,"Below 200,000",2,Slightly involved
+eada79a349704d9a89ce3cfb2339ba19,Oghenero,Abiodun,Emeka,None,Secondary,Doctor,Engineer,"200,000-400,000",4,Always busy
+d4c3a832b231460bb8f2ce6bd46b415d,Oghenekaro,Oghenekevwe,Chukwudi,Tertiary,Primary,Teacher,Nurse,"200,000-400,000",4,Very Involved
+781799ffb49e44cc824369e72387eaf6,Olamide,Omobolanle,Akpan,Secondary,Tertiary,Trader,Trader,"Above 600,000",4,Very Involved
+e7e646c7015844639d8776a072d78bdd,Ejike,Adedayo,Ayodele,Tertiary,Tertiary,Trader,Trader,"Below 200,000",4,Always busy
+3735262d41844b0384dd7054144823f7,Okechukwu,Olubunmi,Olamide,None,Tertiary,Unemployed,Farmer,"200,000-400,000",5,Very Involved
+f0b2a5d18c7e4f42a646eaf9d5c0244d,Idowu,Asabe,Bamidele,Secondary,Secondary,Unemployed,Engineer,"Above 600,000",2,Slightly involved
+6c5a6c93871c48849bdf90f2ba2c0f19,Enyinnaya,Olufunmilayo,Chike,Primary,None,Civil Servant,Doctor,"200,000-400,000",6,Involved
+3cd5fd7f49c1466986b33fe61c76bdf6,Chisom,Chibuzo,Olumide,Secondary,Primary,Nurse,Engineer,"200,000-400,000",4,Slightly involved
+3d0a5f0c0c394ec79f3174054d183eba,Chiemeka,Chibuzo,Babajide,Tertiary,Tertiary,Engineer,Teacher,"400,000-600,000",4,Very Involved
+9f708368cb3c48caa39257316b79afcc,Bukar,Ifiok,Akpan,Secondary,None,Doctor,Civil Servant,"200,000-400,000",4,Slightly involved
+d6312a801c614ec290142131750565f5,Taiwo,Obi,Adebowale,Tertiary,Tertiary,Civil Servant,Trader,"400,000-600,000",3,Very Involved
+893ad23298c343cabff4cec6e7b7b4c6,Bukar,Akachi,Abdullahi,None,Primary,Unemployed,Engineer,"Below 200,000",3,Very Involved
+93364f7e83ef49f3a1c7cc8a04351b64,Tochukwu,Chinasa,Ebuka,Secondary,Secondary,Engineer,Unemployed,"400,000-600,000",5,Very Involved
+4a90cd0c24c143b9b7f285723defa849,Uche,Adanna,Onyekachukwu,Primary,None,Trader,Civil Servant,"Above 600,000",3,Very Involved
+5a5226e69d6449328066853d6de299a1,Dayo,Taiwo,Chiemeka,Primary,None,Unemployed,Unemployed,"Above 600,000",3,Involved
+2ff3cde46aa44c9f921704753d959e3f,Chima,Ime,Rabiu,Primary,Secondary,Teacher,Unemployed,"200,000-400,000",6,Very Involved
+8603156a15ea4bcfab1021ceaa143cd8,Oluwasegun,Inyene,Olawale,Tertiary,Secondary,Engineer,Farmer,"200,000-400,000",4,Always busy
+f412436011534e999c508720f982f4e0,Chima,Yewande,Ayuba,Secondary,Primary,Farmer,Teacher,"Above 600,000",2,Always busy
+c952518581e04a5e8b48f49686abd4e7,Amadi,Ogechukwu,Ɗanjuma,Primary,Primary,Farmer,Engineer,"400,000-600,000",3,Very Involved
+0534a1018ddc471981f38dd4fd034ada,Ejiro,Olubunmi,Amadi,None,Secondary,Farmer,Unemployed,"200,000-400,000",2,Involved
+0b251279785a45d09f92a62163f4c69d,Ɗanlami,Zainab,Chijindum,None,None,Unemployed,Engineer,"200,000-400,000",6,Slightly involved
+5f90bed6fb25464da30aa767a2bb522b,Yalwa,Abosede,Chinonso,Primary,Secondary,Unemployed,Unemployed,"Above 600,000",2,Slightly involved
+5b6a810204284378bf5023f440ef3935,Chukwuma,Dada,Rabiu,Tertiary,Secondary,Trader,Unemployed,"200,000-400,000",2,Very Involved
+3dba6da8584449fc914b9547c9dc72b8,Ese,Oghenekevwe,Ifeanyi,Tertiary,Secondary,Unemployed,Trader,"400,000-600,000",4,Involved
+1a89b71ea0d542c8a837fe68bba205ca,Ayuba,Jummai,Chizoba,Tertiary,Primary,Civil Servant,Farmer,"Below 200,000",2,Slightly involved
+c1b5b5cabc3546df94f79dbac5811d2d,Uzoma,Efe,Olamide,Primary,Secondary,Unemployed,Farmer,"Above 600,000",2,Slightly involved
+5a3045280b594562a227219f551ff086,Temitope,Zainabu,Efemena,None,Secondary,Doctor,Nurse,"400,000-600,000",2,Involved
+a48e40f1d0424dfa96ab087a8bc78e81,Onyebuchi,Oluwakanyinsola,Aminu,None,Primary,Nurse,Unemployed,"200,000-400,000",4,Involved
+af475b49c7754395949405f02cd2a404,Adetokunbo,Chinwe,Segun,None,None,Trader,Farmer,"Above 600,000",6,Involved
+7a8104deb20547bbbb16f75776f186ab,Fumnanya,Hauwa,Olalekan,Secondary,Primary,Trader,Nurse,"200,000-400,000",6,Always busy
+2285b2efcfbe4fe9aea9c542a1b970d0,Ife,Uche,Efemena,Secondary,Secondary,Doctor,Nurse,"400,000-600,000",4,Very Involved
+f1901b7ec6b449efb74eba9310275b53,Toyin,Oluchi,Onyeka,None,None,Teacher,Teacher,"400,000-600,000",5,Slightly involved
+339b77a84b1f4d7b8977c513752a7d25,Oluwafemi,Amaka,Okeke,None,Primary,Teacher,Teacher,"200,000-400,000",2,Very Involved
+e2c328aa331044758a8622250b36e356,Adeola,Abiola,Ifeanyichukwu,Secondary,Primary,Doctor,Farmer,"200,000-400,000",4,Very Involved
+4f612217eef1469490cae32d0aba590e,Eseoghene,Onyekachukwu,Chukwudi,None,Tertiary,Engineer,Unemployed,"400,000-600,000",2,Very Involved
+d0be73eefd374539a5f202f983f02dc7,Efe,Ifiok,Adekunle,None,Primary,Teacher,Unemployed,"200,000-400,000",4,Very Involved
+095ffa8140d94bceb930ba208b040f49,Ayuba,Udo,Toyin,Secondary,None,Unemployed,Civil Servant,"400,000-600,000",3,Always busy
+493e904d30ec4796a59b457fc0d7ac73,Ebuka,Abosede,Lekan,Secondary,None,Civil Servant,Engineer,"Above 600,000",5,Very Involved
+0c3ce284c7e54bbb9cb51c535b62a8df,Chibueze,Amarachi,Muhammadu,Primary,None,Doctor,Nurse,"400,000-600,000",5,Involved
+45f1861954f94429a7de02ccdda4f4a7,Shehu,Chioma,Ekene,Tertiary,None,Unemployed,Teacher,"Above 600,000",4,Very Involved
+6fdc0bad5e3641278ca1b45c1fdd980a,Adebayo,Abeni,Olu,Tertiary,Secondary,Doctor,Teacher,"200,000-400,000",5,Very Involved
+7092947dbe4949eca667d3bbe3b56360,Dayo,Olamide,Kehinde,Secondary,Tertiary,Doctor,Engineer,"Below 200,000",2,Slightly involved
+56cb1ab062fb46d7b4dbca07e506f670,Lanre,Chidubem,Abubakar,None,Primary,Civil Servant,Unemployed,"400,000-600,000",6,Involved
+b12b66807f074cb9afd340c0f945f2fd,Adebayo,Onyekachukwu,Kayin,Primary,Primary,Doctor,Trader,"200,000-400,000",6,Involved
+cc1b4157ec9f4c549e0a72ab7f5db163,Enitan,Chi,Oluwafemi,Tertiary,None,Trader,Doctor,"Above 600,000",4,Always busy
+15260718cd184a828447ceab84ef4324,Onyekachukwu,Olayinka,Jatau,Secondary,None,Trader,Engineer,"Below 200,000",6,Always busy
+6e3c453214344f62acac028cba220065,Ndubuisi,Oluwafunmilayo,Ayomide,Secondary,Primary,Civil Servant,Unemployed,"200,000-400,000",5,Always busy
+2e326567d284454ebebec0db9a3a6103,Itoro,Dayo,Olu,Secondary,Secondary,Engineer,Trader,"200,000-400,000",4,Always busy
+1a43db54523a49938b3446bc8ba435cc,Emem,Nnenne,Alhaji,Tertiary,Secondary,Teacher,Nurse,"200,000-400,000",6,Involved
+4baf0f5ea932409493f28f11147f6570,Ime,Bamidele,Kayin,None,Primary,Unemployed,Teacher,"Below 200,000",2,Slightly involved
+b7b8c1a59a45493db227890e4e76833a,Olayinka,Ebere,Abiola,None,Primary,Unemployed,Doctor,"Above 600,000",3,Very Involved
+71a3fad2b0944d2aaaa93b436d15f16f,Oghenekaro,Oghenero,Amadi,Tertiary,Tertiary,Doctor,Doctor,"400,000-600,000",6,Slightly involved
+ba1082170ad749a2b27716ec59fefbbc,Adegoke,Ekene,Oyibo,Secondary,Primary,Farmer,Civil Servant,"400,000-600,000",5,Slightly involved
+9d66e8155a4143b3a95f176cdebac186,Folami,Chikelu,Chikere,Secondary,Primary,Nurse,Trader,"400,000-600,000",3,Involved
+a3b442bd46494296af5842c3ff86cc31,Ekenedilichukwu,Halimatu,Chidubem,Secondary,Primary,Trader,Farmer,"Above 600,000",2,Slightly involved
+0eaf04b5f2a94c8a8a9e4a62fae3114b,Balarabe,Asma'u,Adeola,None,Primary,Teacher,Engineer,"Below 200,000",6,Slightly involved
+67fd64c4a334458aabd2b5121335e5db,Adebola,Ola,Rabiu,Primary,None,Farmer,Civil Servant,"200,000-400,000",4,Slightly involved
+bff9507dcd14403e83599af65d01f55f,Chika,Ogechukwu,Chibueze,Secondary,None,Trader,Engineer,"200,000-400,000",6,Always busy
+07f8d4f0f3ea4184a8f4e3ceadedda80,Bello,Asabe,Olanrewaju,None,Primary,Engineer,Civil Servant,"Above 600,000",4,Slightly involved
+ad973b679b8945cb9942644c248d31ec,Olawale,Ola,Femi,Tertiary,Primary,Civil Servant,Doctor,"200,000-400,000",3,Always busy
+20509c6208e845d7b02c1821c8040fb7,Toyin,Simisola,Chinwendu,Primary,None,Nurse,Teacher,"Above 600,000",6,Slightly involved
+a52964ffc74c4890bc6a3174113634a5,Kyauta,Ifunanya,Alaba,Primary,Secondary,Teacher,Unemployed,"400,000-600,000",6,Slightly involved
+f31046dc62024ee69cb5e69c5dc7b3e6,Inyene,Iniobong,Oluwaseun,Secondary,None,Engineer,Doctor,"200,000-400,000",4,Always busy
+2747b93c9ae74eab884a67809136f1f8,Obinna,Mojisola,Oluwafemi,Secondary,Tertiary,Farmer,Civil Servant,"400,000-600,000",3,Very Involved
+5ef787b8f2e6495fb32e2016add702c9,Chukwudi,Titilayo,Chisom,Primary,None,Unemployed,Unemployed,"Below 200,000",6,Involved
+13aec376c359410ab1a6014c5f3c44dc,Kelechi,Ogechi,Onyeka,Tertiary,Primary,Nurse,Unemployed,"400,000-600,000",2,Always busy
+5df06e8c878a4ed9a33ffc8292ec89af,Olalekan,Kyauta,Abimbola,None,Primary,Unemployed,Unemployed,"Above 600,000",2,Always busy
+4758367ba6494cdc907b907265e58f34,Ade,Oghenekaro,Ayo,None,Primary,Engineer,Nurse,"Below 200,000",6,Very Involved
+06a241af1d0a47f7b5e4a4713fe68c9c,Abubakar,Oni,Okonkwo,None,Primary,Nurse,Trader,"Above 600,000",2,Involved
+848af4407fc14858afa0d842bc55300b,Ola,Chinenye,Ɗanlami,Secondary,Secondary,Doctor,Teacher,"400,000-600,000",4,Always busy
+1e2595b88fc9486ba9ddebf563119aca,Otobong,Hadiza,Oluwaseun,Secondary,Tertiary,Farmer,Civil Servant,"200,000-400,000",6,Very Involved
+b43bd27f42a249a6866412854303cbc1,Folami,Oluchi,Umar,Primary,Tertiary,Doctor,Nurse,"Above 600,000",4,Always busy
+9ca3fbb3ff1148bab6ee1640723ef466,Ejiroghene,Oluwaseun,Lawali,Primary,None,Farmer,Doctor,"200,000-400,000",4,Always busy
+ffa623d0ea9e4c8db1a8b71f491b90e9,Toyin,Yewande,Babatunde,Tertiary,Secondary,Unemployed,Farmer,"400,000-600,000",3,Involved
+22bf18f51f654a87b33ee3447dbf4bc1,Oni,Dayo,Oni,None,Secondary,Unemployed,Nurse,"Above 600,000",5,Slightly involved
+2c33350c73b941d892f5131ada52d2ee,Onyekachi,Ayotunde,Ayotunde,Tertiary,Secondary,Farmer,Doctor,"Below 200,000",5,Very Involved
+ff4c96d671f24e8fb69f68c3e60fd420,Oluwaseun,Bolanle,Kyauta,None,None,Civil Servant,Civil Servant,"Below 200,000",6,Slightly involved
+f7b217c7ae924a718f7dcb431679742f,Ɗanjuma,Itoro,Bitrus,None,None,Engineer,Engineer,"200,000-400,000",4,Involved
+aaf78c6751d04109bc902838d8741408,Chijindum,Zainabu,Ikechukwu,Primary,Tertiary,Civil Servant,Teacher,"Below 200,000",3,Always busy
+8ccc9cea109f48eeb5a4720058f0dd23,Alaba,Nwanneka,Chima,None,Secondary,Farmer,Unemployed,"Above 600,000",2,Always busy
+4cc9f5f2e42e40378a552ea08acbbe09,Chinedu,Ekundayo,Mamman,Secondary,Primary,Nurse,Doctor,"Below 200,000",5,Always busy
+b5a5f8e6b6394f04a8524385d9f2dd0d,Okonkwo,Enitan,Ndubuisi,Tertiary,Secondary,Doctor,Engineer,"Above 600,000",6,Involved
+2c913a7ca3404f08b34191b8ed6522b4,Ayotunde,Ogechukwukamma,Hamisu,Primary,Primary,Civil Servant,Unemployed,"Below 200,000",6,Slightly involved
+3967e60a823d41079c8ac066cb2fafa3,Ekene,Maryamu,Ebuka,Secondary,Tertiary,Engineer,Trader,"200,000-400,000",5,Slightly involved
+cac4d0eb3373430ebc31a5971f119c0f,Salisu,Chisom,Chidubem,None,Tertiary,Unemployed,Nurse,"400,000-600,000",4,Slightly involved
+7e7838c9ca55438bbc9abe10238d6f44,Oghenekevwe,Efemena,Chizoba,None,Secondary,Farmer,Engineer,"400,000-600,000",2,Very Involved
+9280c5aa8dd4495b9c63b6f306ba8cd3,Olusegun,Ekundayo,Oghenero,Tertiary,Tertiary,Nurse,Trader,"Above 600,000",2,Slightly involved
+fba6abf7cdbc4653b7a7e8b75e70f65f,Dayo,Faɗimatu,Tunde,Tertiary,Tertiary,Civil Servant,Trader,"Below 200,000",2,Very Involved
+e25df9a89ca845c4a138afe08d38bbd8,Segun,Ime,Chizoba,Secondary,Primary,Trader,Teacher,"Above 600,000",5,Involved
+65edcfe34f2d4d3f90d4de39161237c9,Oluwatoyin,Hauwa,Ikechukwu,Tertiary,Tertiary,Teacher,Trader,"Above 600,000",4,Always busy
+7a89cbebb807478ab788f5d1ffe575f6,Olufemi,Ogechukwu,Chibueze,Tertiary,Tertiary,Unemployed,Teacher,"200,000-400,000",6,Very Involved
+68d0a2a8c4e747dda929de738693fd9d,Olusegun,Oluwayemisi,Emeka,Tertiary,Secondary,Trader,Trader,"Above 600,000",5,Slightly involved
+20156a7212e143a6932cae01d2c65ee4,Bitrus,Adannaya,Lekan,Secondary,None,Farmer,Engineer,"Above 600,000",6,Involved
+12fc7a87a4704d489128b9b1f8ede0ca,Inyene,Ejiro,Umaru,None,None,Civil Servant,Unemployed,"200,000-400,000",5,Slightly involved
+8471b4b0ae1b4f69b740d83173318749,Chinonso,Chidi,Onyebuchi,Secondary,Primary,Civil Servant,Trader,"Above 600,000",4,Very Involved
+d43cdd6de0c14f1ea0da897258321ee4,Nonso,Dada,Olamilekan,None,Secondary,Unemployed,Unemployed,"Above 600,000",2,Always busy
+96792482a3c948e48d2238e6c7bf4fbc,Ayokunle,Ejiroghene,Oni,Tertiary,Primary,Engineer,Doctor,"400,000-600,000",3,Always busy
+21084dd9f75d4e3c848d56502e9522d6,Chidubem,Chimezie,Olamide,Tertiary,Primary,Trader,Civil Servant,"Above 600,000",3,Involved
+de431e06e924406980bbae526ec01269,Adekunle,Chichi,Adetokunbo,Secondary,None,Teacher,Engineer,"Below 200,000",2,Always busy
+84a2576c1fc945f894d607350e2f8958,Aliyu,Temitope,Chi,Tertiary,Secondary,Nurse,Civil Servant,"Below 200,000",2,Very Involved
+2976aab22a2647708ddb1b36272c0588,Kyauta,Ife,Emeka,Primary,None,Farmer,Nurse,"200,000-400,000",4,Always busy
+39b86bb2b5964a7caf4afa885299e505,Okafor,Uduak,Ifeanyichukwu,Secondary,Secondary,Teacher,Civil Servant,"Above 600,000",2,Slightly involved
+84d67c4ff0df4684b28e41225894f7f1,Muhammadu,Uduak,Ugochukwu,Primary,Primary,Engineer,Nurse,"Above 600,000",3,Involved
+143029a9d88f4c9488b763d5e519dd7e,Chidubem,Chibuzo,Olumide,Secondary,None,Trader,Farmer,"Below 200,000",5,Very Involved
+f4d375c1a29349fab240d7a14027ab7d,Ejiroghene,Nnenne,Oyibo,Secondary,Secondary,Doctor,Trader,"Above 600,000",5,Very Involved
+a0017720200b490386426c458d03f17a,Tochukwu,Omolara,Chukwuma,None,Primary,Civil Servant,Unemployed,"200,000-400,000",6,Always busy
+17eaec838892442f9d4b2bf94d85e9c7,Ola,Uduakobong,Ɗanlami,Tertiary,None,Engineer,Farmer,"400,000-600,000",5,Involved
+9780c2152b2b48e9a417c09380a8a23d,Chidike,Amina,Olukayode,None,Secondary,Engineer,Civil Servant,"200,000-400,000",2,Very Involved
+2bd3cdcd2779468594a53fdef10d27c8,Dayo,Gbemisola,Oghenekevwe,Tertiary,Tertiary,Unemployed,Trader,"400,000-600,000",6,Always busy
+e6e987cab87b43849fddde2ea8a2b7ad,Olumide,Hadizatu,Azubuike,None,Tertiary,Nurse,Engineer,"Above 600,000",4,Involved
+ec86a890d7b04bdc966e3cbe9aea622f,Musa,Abeni,Chidiegwu,Primary,Secondary,Teacher,Unemployed,"Above 600,000",3,Slightly involved
+dd20c3bfd3424f088a8bb5b490494583,Bukar,Chima,Nnamdi,None,Primary,Farmer,Farmer,"Above 600,000",2,Always busy
+f2d3f7610ba3427994cb056407437c3b,Oyibo,Mojisola,Ayotunde,Tertiary,None,Teacher,Nurse,"200,000-400,000",2,Very Involved
+43c07d4393a747928561b8dca4364fcd,Ɗanladi,Amaka,Chikere,Secondary,Tertiary,Teacher,Teacher,"Above 600,000",2,Very Involved
+92779574c4574cc3b5f789bca6b07458,Chika,Faɗimatu,Udo,Tertiary,Primary,Unemployed,Doctor,"Below 200,000",6,Involved
+07c0d116a3944d549e3c5a886aa56e6d,Abdullahi,Ejiro,Akachi,Secondary,Secondary,Farmer,Unemployed,"400,000-600,000",2,Always busy
+8baaf744a08d421ba3954cb17f7f6c0a,Bukar,Folami,Ugochukwu,Primary,Primary,Engineer,Teacher,"200,000-400,000",3,Involved
+4d560a3df4e7469aa45409374a27ebf2,Ife,Obi,Chinonso,Secondary,None,Doctor,Farmer,"Above 600,000",4,Slightly involved
+ceae71cfce004af0beb051817ba24588,Adekunle,Olufunmilola,Adebayo,None,Primary,Engineer,Unemployed,"Above 600,000",5,Always busy
+741b77f54c244053a7f5ae02af5b8f47,Adebayo,Yalwa,Okonkwo,None,Secondary,Unemployed,Doctor,"Above 600,000",6,Slightly involved
+2877f5d90f5645f8b048faa112ae5c22,Abidemi,Itoro,Ade,None,Secondary,Trader,Civil Servant,"400,000-600,000",6,Always busy
+76e5ae787bf741d3aa662fce7089fc6d,Opeyemi,Mojisola,Ekenedilichukwu,Tertiary,Tertiary,Trader,Nurse,"Above 600,000",2,Very Involved
+24c778a59b4e464b9716dc2e343ada2a,Enyinnaya,Chikere,Ɗanjuma,Tertiary,None,Farmer,Teacher,"400,000-600,000",5,Very Involved
+51beb80eb7e6414c9c8a49225005680f,Onyekachi,Oluwakanyinsola,Ejiroghene,Tertiary,Primary,Trader,Farmer,"Above 600,000",4,Involved
+586a346adc5b47d1bcef1972bbf483ce,Ayodele,Chizoba,Ekene,None,Tertiary,Doctor,Teacher,"Below 200,000",5,Slightly involved
+c2baf0e0217943f0a6124ab4f9b21e6e,Balarabe,Olamide,Adeola,Secondary,Secondary,Trader,Farmer,"200,000-400,000",6,Always busy
+1b2ededb8fc84fc083d5bceb5edbb8ee,Oni,Chizoba,Bitrus,Secondary,Secondary,Doctor,Nurse,"200,000-400,000",5,Always busy
+1f5d988f776a4f09bde2885951b1943c,Ekenedilichukwu,Titilayo,Kayin,Primary,Tertiary,Doctor,Trader,"200,000-400,000",5,Slightly involved
+24108e9a3f774caeb318b96d44790612,Olabode,Kyauta,Onyeka,Tertiary,Primary,Doctor,Nurse,"Below 200,000",4,Involved
+f204be894a4b45638cf477ef18c8a616,Chidiebere,Onyekachi,Okorie,Secondary,Tertiary,Engineer,Doctor,"400,000-600,000",2,Slightly involved
+6b0ae0e39d8940479d39d7936257a4a2,Tunde,Uduakobong,Uzoma,Tertiary,Secondary,Teacher,Trader,"Above 600,000",3,Very Involved
+e6fdd7afdd844accb67294643f8ea40a,Akachi,Abioye,Chiemeka,Primary,Secondary,Teacher,Farmer,"Below 200,000",4,Always busy
+ef0a573d53d2456d9040158728e213bc,Akachi,Chinwe,Opeyemi,Primary,Primary,Trader,Civil Servant,"400,000-600,000",4,Involved
+3098f7b2500e45c0b89bdf7f93e34c35,Chidiebele,Yetunde,Ekundayo,None,None,Farmer,Unemployed,"Below 200,000",6,Always busy
+fef7d9ea7f8e4483a8caaa1dc35bec2c,Okafor,Safiya,Tunde,Secondary,Primary,Teacher,Teacher,"200,000-400,000",2,Involved
+e10b1a477fae4748b781321e83c501cb,Chukwudi,Bukola,Ifeanyi,Primary,Tertiary,Teacher,Teacher,"Above 600,000",2,Always busy
+170d750705ee41d4bf53a88e4efc8248,Amadi,Amaka,Nonso,Primary,None,Engineer,Nurse,"Below 200,000",6,Always busy
+750d112e81644eeca4ab851bf1fac6e7,Chiemeka,Rakiya,Ɗanlami,None,Primary,Unemployed,Trader,"400,000-600,000",2,Always busy
+95560a2d37134466bda06476f778c676,Uche,Chinyelu,Chinweuba,Primary,None,Teacher,Doctor,"Below 200,000",5,Very Involved
+4806f8040cf0474c8c74dc0f5a575539,Kehinde,Bukola,Okonkwo,None,Secondary,Trader,Teacher,"400,000-600,000",4,Very Involved
+d7c4fe9ce1e04ffc98f6fd7f7eb162f1,Ekenedilichukwu,Dada,Ayuba,Tertiary,None,Teacher,Nurse,"Below 200,000",5,Slightly involved
+4926ce5f78784140ac2a4f71a77d95f1,Abimbola,Bose,Oghenero,Secondary,Tertiary,Civil Servant,Unemployed,"200,000-400,000",5,Involved
+1b84edc3d8e049de8217ea0e896490ab,Chizoba,Alheri,Uduak,None,Secondary,Civil Servant,Trader,"400,000-600,000",5,Slightly involved
+43b47ee5e1e84e7ea2498f666e51484d,Abioye,Chinonso,Adeola,Tertiary,Primary,Teacher,Teacher,"Above 600,000",6,Slightly involved
+673ba8bdc38c4dec9da39a73ba3df7ff,Lekan,Anuli,Chike,Tertiary,Primary,Engineer,Doctor,"200,000-400,000",6,Always busy
+0d18ab95668c44778b95017c5dae1201,Oluwasegun,Onyinyechi,Taiwo,Secondary,Tertiary,Engineer,Farmer,"200,000-400,000",5,Very Involved
+5cce5ba931d44e098fd33afc91fdfa4f,Muhammadu,Bolanle,Ekenedilichukwu,Secondary,None,Civil Servant,Farmer,"Below 200,000",4,Involved
+62e7c1a612d24a0689e1cd138da00495,Uche,Halima,Umar,Primary,None,Farmer,Teacher,"Below 200,000",6,Very Involved
+8cc36f3bc3af4cfeb34a6ca38116e3fc,Ugochukwu,Adanna,Chizoba,None,Primary,Nurse,Civil Servant,"200,000-400,000",2,Slightly involved
+9f8cc29ffd354c5f93479a3b479bc637,Emeka,Adenike,Ɗanjuma,None,Tertiary,Civil Servant,Nurse,"Above 600,000",2,Always busy
+20f0156a1e6a46289c6d52d5ae2e9af9,Adewale,Idowu,Nnamdi,None,None,Doctor,Farmer,"Above 600,000",6,Very Involved
+5f89ed1264d64fbf98c01e2bf99f0704,Ikechukwu,Oluwaseyi,Olamilekan,Secondary,Tertiary,Trader,Nurse,"200,000-400,000",6,Always busy
+8ece112856ce4b42bc9e1dcbcb7e6268,Onyeka,Chika,Ayo,Primary,None,Teacher,Teacher,"Above 600,000",2,Slightly involved
+24eeb4a6c14545c79d986115f05eeefe,Kayin,Ejiroghene,Chinonso,None,Secondary,Trader,Civil Servant,"200,000-400,000",3,Slightly involved
+66c14dca82554a619a3b031932f57510,Chi,Chiemeka,Ayokunle,Tertiary,Tertiary,Trader,Trader,"200,000-400,000",5,Very Involved
+09f644050b9940348a4e255280051b10,Onyeka,Ayodele,Efe,Secondary,Tertiary,Teacher,Engineer,"400,000-600,000",4,Very Involved
+cdd0b4d4554247deb6adf48b2314d0c8,Okoro,Yalwa,Abidemi,None,Secondary,Doctor,Farmer,"Above 600,000",2,Involved
+2620f9a974fd43d184f2fd0f79474bfa,Azubuike,Olamide,Abubakar,Primary,Tertiary,Nurse,Nurse,"Above 600,000",4,Slightly involved
+23c8afdb83f84f16a4a4474c9b33e3a4,Akpan,Olufunmilola,Chizoba,Tertiary,None,Teacher,Doctor,"Below 200,000",5,Very Involved
+518b2f219cf24859ae6e2e7253f591dc,Lawali,Efe,Oluwasegun,Secondary,Primary,Farmer,Engineer,"Below 200,000",5,Always busy
+9dd2f9defd984e33a498abe92999bbef,Onyeka,Yalwa,Oluwaseyi,None,Tertiary,Farmer,Nurse,"200,000-400,000",5,Slightly involved
+97fe56c54c9a4f2497b4c294bd44089d,Olujimi,Ejiro,Chiemeka,Primary,None,Doctor,Farmer,"400,000-600,000",2,Involved
+827c9f8cd40a45e981df6517561c9210,Oghenekevwe,Dada,Kehinde,Tertiary,None,Doctor,Nurse,"200,000-400,000",6,Slightly involved
+901bcdefb56f48cebd66971e88476c56,Abimbola,Bukola,Mamman,Secondary,Tertiary,Doctor,Farmer,"400,000-600,000",5,Involved
+044251dbd0d44a67b9928faa4cbf131d,Uzoma,Akpofure,Ufuoma,Primary,Secondary,Teacher,Unemployed,"Above 600,000",4,Involved
+1c0f0bdcac7e437c94cc1e2a5e4cb287,Chinonso,Onyekachi,Toyin,Tertiary,Primary,Trader,Farmer,"Below 200,000",3,Always busy
+4ec3f970956d40e4aaa26216fada98f5,Ayuba,Onyinyechi,Olayinka,Secondary,None,Unemployed,Doctor,"Below 200,000",3,Involved
+df41e335b9ae48e4a61599c8cbf81f86,Oghenekevwe,Ogechukwu,Shehu,Primary,Secondary,Unemployed,Unemployed,"Below 200,000",6,Very Involved
+98cf118806d24913a1173719b023a0ea,Ufuoma,Eseoghene,Yalwa,Primary,Primary,Unemployed,Farmer,"Below 200,000",3,Very Involved
+a7d4cf50f79141e583f9cd6b797ebe87,Alhaji,Chidiebube,Ade,Secondary,Secondary,Unemployed,Nurse,"400,000-600,000",4,Always busy
+9416e4dcc6b24defb8d8b7f1c86c6544,Ayodele,Chinwe,Chukwudi,None,Secondary,Doctor,Doctor,"Below 200,000",6,Involved
+0d259caab8ad4d87ba4045dd93dfd907,Olusegun,Chibuzo,Ayotunde,Secondary,None,Engineer,Unemployed,"400,000-600,000",3,Very Involved
+863417182ba64db3bafeb1149561c813,Sani,Onyeka,Olamide,Secondary,Tertiary,Doctor,Engineer,"Below 200,000",2,Always busy
+c64c96479ea7417cb89f7039a107cc46,Ogochukwu,Kayin,Ɗanlami,Tertiary,Primary,Civil Servant,Farmer,"Above 600,000",2,Slightly involved
+d25864f225d440fca1542765d756ba9c,Adisa,Chigozie,Ige,Secondary,None,Doctor,Trader,"Below 200,000",6,Always busy
+9293f70508154147be00980eae441e21,Oluwatoyin,Alaba,Mamman,Tertiary,Secondary,Farmer,Civil Servant,"Below 200,000",3,Slightly involved
+30d73df71c224ceab35556a5f2bd92f2,Enyinnaya,Hadizatu,Hamisu,Tertiary,Secondary,Unemployed,Engineer,"Below 200,000",3,Always busy
+6b352f85504e4687b0e7e75604d9145e,Ejiroghene,Ndidi,Toyin,Secondary,Primary,Farmer,Engineer,"Below 200,000",3,Very Involved
+34323ec6b0c4401ca9b7c0fa26c432f6,Okeke,Yejide,Afolabi,None,Secondary,Unemployed,Engineer,"200,000-400,000",2,Always busy
+9c89d374c66445a780773e33690e7e62,Bitrus,Uduakobong,Umar,Primary,Primary,Engineer,Doctor,"400,000-600,000",5,Involved
+d92f3c1edf704b2ab8bb22a5eba742d2,Olamilekan,Chibuzo,Ayodele,None,None,Farmer,Nurse,"400,000-600,000",4,Involved
+b4adaf890ff14a9fba370623bc5fd4dd,Jatau,Chichi,Chiemeka,Primary,None,Nurse,Unemployed,"400,000-600,000",2,Always busy
+8f9646853514489084c86c4623595fa4,Folami,Temitope,Afolabi,Tertiary,Secondary,Doctor,Farmer,"200,000-400,000",4,Always busy
+7a768555a9874218bf84faef5336723b,Chibueze,Ayomide,Babajide,None,Primary,Doctor,Unemployed,"400,000-600,000",5,Always busy
+f4e9573450524700a07796a38685abaa,Chinedu,Ufuoma,Chuks,None,None,Farmer,Engineer,"200,000-400,000",3,Involved
+887b03e5e9804808b5ac824c2c55aef7,Chijioke,Inyene,Ime,Tertiary,Primary,Unemployed,Doctor,"Below 200,000",4,Very Involved
+ad05b9125ab24d4a8bd88fcd57a2be4e,Onyekachi,Adebowale,Akpan,Primary,Secondary,Teacher,Unemployed,"Below 200,000",3,Slightly involved
+ae455cc6b88e430f9e1e994ac5a11f5c,Ige,Eniola,Bukar,Tertiary,Secondary,Doctor,Engineer,"400,000-600,000",3,Involved
+43ad3d62b17c4b218dbc2c1ca4afe7bd,Akpan,Dada,Hamisu,Tertiary,Primary,Doctor,Doctor,"Above 600,000",5,Involved
+f514105831384975bbf33a349c2dfa97,Ekundayo,Oluwayemisi,Ndidi,None,Secondary,Teacher,Doctor,"400,000-600,000",2,Very Involved
+4c6a70f48ede444d876cf68c3f1be0d0,Ikenna,Olufunmilayo,Afolabi,Secondary,Secondary,Civil Servant,Trader,"Above 600,000",2,Slightly involved
+fb756923f9104bb3b10532523990e2c9,Balarabe,Chima,Bamidele,Primary,Tertiary,Unemployed,Doctor,"Below 200,000",5,Slightly involved
+b474634949fc4cd8856bad4c4c3077c4,Chuks,Rakiya,Olusola,Tertiary,Tertiary,Farmer,Teacher,"400,000-600,000",6,Involved
+7d2f4e58b47a4c5bb0b3901535102852,Abioye,Ufuoma,Bamidele,Tertiary,None,Unemployed,Doctor,"400,000-600,000",6,Very Involved
+8f7c1d59594b4a3abad465a15129950d,Babajide,Adedayo,Chi,Primary,Tertiary,Nurse,Trader,"400,000-600,000",2,Always busy
+b8beff3dcb9f4f6daf3a6f27ef06fccb,Bamidele,Fumnanya,Chi,None,Primary,Engineer,Teacher,"Below 200,000",3,Very Involved
+92cf60211f33442d89ac908746015028,Haruna,Adaeze,Ifeanyi,Tertiary,None,Doctor,Trader,"Above 600,000",3,Involved
+e5508ea26133434d8b0e8eb1ad371d9e,Okorie,Onyinyechi,Chika,None,Tertiary,Doctor,Farmer,"200,000-400,000",3,Very Involved
+585abefbd1814f77a5001423faebcd19,Efe,Folami,Ade,Secondary,Secondary,Trader,Unemployed,"Below 200,000",6,Involved
+257f7595cdfb4db985e78b23f4613f09,Rabiu,Adaeze,Ige,Primary,None,Teacher,Engineer,"Above 600,000",2,Always busy
+f48f709c49a244418ac4de854a5b1aff,Ifeanyichukwu,Olayinka,Ola,Secondary,Secondary,Farmer,Farmer,"Above 600,000",6,Always busy
+ec8be53758ab4778943b45e3b6d1f6bb,Babatunde,Uduak,Taiwo,None,Primary,Trader,Trader,"Below 200,000",4,Very Involved
+bf51936241a64feda7edc8d8713f8f8c,Oluwatoyin,Abioye,Oluwaseyi,Tertiary,Tertiary,Engineer,Civil Servant,"400,000-600,000",6,Always busy
+d3f4a49b33ba4a88b6c7d6fa7aa4f052,Chike,Chinonso,Ɗanlami,None,None,Unemployed,Doctor,"Below 200,000",6,Involved
+8fe069b6eeda48028568f42689e03e22,Itoro,Jummai,Olu,Secondary,Secondary,Farmer,Engineer,"400,000-600,000",5,Very Involved
+1bf645f6232442118588fc1bb2384849,Chiemeka,Uzochi,Olamilekan,Secondary,None,Doctor,Engineer,"Below 200,000",6,Involved
+3d4196fe963a4617bdab07e79d9d028e,Adebowale,Uzochi,Efe,Primary,Secondary,Teacher,Trader,"400,000-600,000",3,Slightly involved
+e7ba26acab7a4d1c8cfef6833e11bafe,Musa,Kelechi,Ebuka,Primary,Tertiary,Engineer,Nurse,"400,000-600,000",5,Slightly involved
+3b9b2d45a35045e4b9c59df987f255d6,Aminu,Nkechinyere,Oni,Primary,Primary,Farmer,Unemployed,"200,000-400,000",6,Slightly involved
+548e1f6b69ce4e4e99a692c90d700ea4,Efemena,Akpofure,Chiemeka,Tertiary,Primary,Farmer,Farmer,"Above 600,000",3,Very Involved
+ae62990c19bd4f93b8ef7666b7a4c719,Segun,Oghenero,Abimbola,Tertiary,None,Trader,Civil Servant,"Above 600,000",3,Involved
+f6eab3a001534221a3310a28c550eca8,Olanrewaju,Hafsat,Alaba,None,Tertiary,Civil Servant,Nurse,"Below 200,000",4,Always busy
+286ed390edd94a1aba585b278ce3e7c3,Oghenekaro,Aisha,Obi,Primary,Primary,Unemployed,Teacher,"Above 600,000",5,Involved
+e1721c83ef5e4376a723fb72682b163a,Oluwatoyin,Eniola,Adekunle,None,None,Engineer,Trader,"Above 600,000",6,Always busy
+a689b4247a3a40e1b9c773a0e0decc3d,Olalekan,Zainabu,Umar,Secondary,Tertiary,Doctor,Doctor,"400,000-600,000",5,Always busy
+4988e418f6c3421881836315330f8be1,Ese,Uzoma,Ebuka,Secondary,Tertiary,Civil Servant,Farmer,"400,000-600,000",4,Involved
+0f25477da55940e78910fade52380bf2,Chidubem,Nkiruka,Adebayo,None,None,Farmer,Engineer,"400,000-600,000",6,Slightly involved
+a6fd0cb116e645c084cb294fe86e8e63,Abiola,Folami,Ayodele,Tertiary,Secondary,Trader,Engineer,"Above 600,000",2,Involved
+bd1a8f4b88ff4d40bb72c86d92fa675f,Onyeka,Uche,Adegoke,None,Primary,Engineer,Civil Servant,"400,000-600,000",5,Involved
+098c60b3efc9409e99af6e09b91e3d6e,Chibuike,Olufunmilola,Musa,Tertiary,None,Nurse,Doctor,"Above 600,000",6,Involved
+6afa828c2cd14b9fabe5841fe9c96c52,Adedayo,Olamide,Eniola,Primary,Tertiary,Engineer,Teacher,"400,000-600,000",3,Involved
+ef158d5b2d004d05966d4627e1dace6a,Uzoma,Yejide,Eseoghene,None,Secondary,Engineer,Doctor,"Above 600,000",5,Slightly involved
+d61169a1ff4646bf894d916deb6d2fed,Adegoke,Oghenero,Abiola,None,Secondary,Teacher,Civil Servant,"400,000-600,000",6,Slightly involved
+2fb21e667ed14aab89b7c9bc65a16fa9,Ikenna,Abidemi,Bukar,Secondary,Secondary,Trader,Teacher,"Below 200,000",3,Involved
+df4e713ef64e4dfcbfbeac7aefc59738,Nonso,Ade,Lawal,Primary,None,Engineer,Civil Servant,"Below 200,000",5,Always busy
+0997623ae0724d968a1a81f5ed10f004,Ifiok,Ebere,Femi,Primary,Secondary,Trader,Trader,"400,000-600,000",2,Involved
+9a4ffc0c916542ed8c636e95025f5543,Ayokunle,Olufunke,Chukwuebuka,Tertiary,Primary,Unemployed,Trader,"200,000-400,000",2,Slightly involved
+55c551fcfba54cc8adaf37661b780ede,Chibuzo,Alheri,Tochukwu,Secondary,Secondary,Nurse,Trader,"400,000-600,000",2,Very Involved
+a42d0cd7fd354f6ab450388748d90846,Chika,Mojisola,Olayinka,None,Tertiary,Engineer,Unemployed,"Above 600,000",2,Very Involved
+e3a68a707e714b558639bd418b15bd94,Ayomide,Iyabo,Chinedu,Tertiary,Secondary,Civil Servant,Farmer,"Above 600,000",4,Always busy
+811414f8d9df4d0ea25aed6cf0458043,Ikenna,Uzoma,Chisom,Primary,Primary,Nurse,Farmer,"Below 200,000",3,Always busy
+cf0e6d2b315c467a85d8a6ad77d0359e,Abiodun,Chinonso,Yalwa,Primary,Tertiary,Trader,Farmer,"400,000-600,000",2,Involved
+bb2aa1462999494c94a7b69b1cd66b09,Abimbola,Eseoghene,Kayin,Secondary,Secondary,Trader,Civil Servant,"Below 200,000",3,Slightly involved
+b7f60cdf41dc4c60a5f60735757b6b29,Okonkwo,Chidiebere,Amadi,Tertiary,Primary,Civil Servant,Engineer,"Below 200,000",3,Involved
+564cfbd2bc924d81839b058c2faabe0b,Ayomide,Chichi,Chinweike,Secondary,None,Nurse,Trader,"Below 200,000",4,Involved
+aca58d95915a4c308b86b5a1ca6fbff8,Ademola,Bose,Abidemi,Tertiary,Secondary,Trader,Civil Servant,"400,000-600,000",5,Always busy
+9c6783932ced4c0db17304b5c1dd484a,Olusegun,Oluwaseun,Chukwuebuka,Secondary,Tertiary,Farmer,Engineer,"Below 200,000",2,Involved
+67ce378fe5a4483ba383889adb2c6ac8,Ade,Akuchi,Chibuike,Primary,None,Farmer,Nurse,"400,000-600,000",3,Very Involved
+53f3007383e94ef4ad7df5d0d3b59af7,Kehinde,Ejiro,Uche,Tertiary,Secondary,Civil Servant,Farmer,"Below 200,000",6,Involved
+186b2880ab544a15a69d01ff1634725b,Emeka,Uduakobong,Chukwuemeka,Primary,Secondary,Civil Servant,Trader,"Below 200,000",3,Very Involved
+7a3a6e9623ff43d3bb4fb88a2f4dd219,Emeka,Oghenekevwe,Chuks,None,Primary,Nurse,Nurse,"200,000-400,000",3,Involved
+01bf9e733f804385af9240b652d78f10,Toyin,Halima,Chigozie,None,None,Trader,Unemployed,"200,000-400,000",6,Very Involved
+725d42593c4b4eeca231ee7342c2d2eb,Abimbola,Abioye,Abioye,None,None,Farmer,Doctor,"Above 600,000",5,Always busy
+546252e7f43b40528459bd6ec0f63229,Chinwendu,Ifiok,Ife,Tertiary,Secondary,Engineer,Unemployed,"Above 600,000",3,Very Involved
+92a81713b90e444b951c25d54d4c5280,Obi,Amaka,Adisa,Secondary,None,Civil Servant,Farmer,"200,000-400,000",5,Involved
+5c0b9b10a7574b1082f525b902ed73ce,Dada,Oyibo,Eniola,Primary,Tertiary,Trader,Civil Servant,"Below 200,000",2,Very Involved
+aaf407f70fe74149bc7e5368b1594847,Kehinde,Ijeoma,Chigozie,Tertiary,Primary,Civil Servant,Doctor,"Below 200,000",4,Involved
+28e333b64e8a4c4bb72420411e43fbd2,Chigozie,Ejiro,Ademola,Secondary,None,Teacher,Trader,"200,000-400,000",3,Very Involved
+ec50ace480a54e65afa2855967c96204,Segun,Amara,Tunde,None,Primary,Doctor,Unemployed,"400,000-600,000",4,Involved
+c5144d98b41c404fa346f415e5267a2b,Ayuba,Nkiru,Tunde,None,Secondary,Unemployed,Nurse,"200,000-400,000",4,Always busy
+a38295d31e0e4546b0b6dedf4f9c4027,Enitan,Akpofure,Chinedu,Tertiary,None,Civil Servant,Teacher,"Below 200,000",3,Involved
+5e175b664b87459fb0cd7f05ea87855e,Akpan,Chisom,Yalwa,None,Secondary,Unemployed,Trader,"Below 200,000",6,Always busy
+f515949438184fd3b889936a9d5817e8,Oluwatoyin,Chizoba,Ikenna,Tertiary,None,Nurse,Doctor,"Above 600,000",5,Involved
+74797b6127374b52ba6a210722319050,Chikelu,Rakiya,Nnamdi,Secondary,Secondary,Farmer,Engineer,"Below 200,000",6,Slightly involved
+5fa5e0aa9b114530bd247c11bf6b8cdf,Balarabe,Bilƙisu,Oluwatoyin,Tertiary,None,Engineer,Trader,"Above 600,000",4,Slightly involved
+e9ad0e9b8c9a41e9b3b263376a74dbb7,Opeyemi,Amarachi,Ndubuisi,None,None,Doctor,Unemployed,"Below 200,000",6,Involved
+cd4f8b2b899a425281e1b94a78883058,Chukwudi,Opeyemi,Kyauta,Secondary,Primary,Doctor,Teacher,"Below 200,000",2,Involved
+c3093b6e37e942e2935ac07aaa0217d0,Oluwatoyin,Chidubem,Kayode,Secondary,Primary,Trader,Engineer,"Below 200,000",2,Involved
+98874bfec1364c65ae2ae3413f59e4f2,Ebuka,Kelechi,Bamidele,Primary,Tertiary,Civil Servant,Unemployed,"400,000-600,000",3,Always busy
+86879aa914f543d089912032df85c777,Uzochi,Adannaya,Abdullahi,Primary,Primary,Civil Servant,Unemployed,"400,000-600,000",3,Slightly involved
+5c9deee0b42a445687365a84725e134d,Adebola,Fumnanya,Olumide,None,Secondary,Doctor,Trader,"400,000-600,000",3,Slightly involved
+1cb9b73a906d4c8caad08c8913fe8a29,Abubakar,Chichi,Muhammadu,Primary,Primary,Unemployed,Farmer,"Below 200,000",5,Involved
+e723ada38c324db2942a895e0fcf601f,Chidiegwu,Olayinka,Olukayode,Primary,Primary,Unemployed,Civil Servant,"Below 200,000",6,Always busy
+89628f6e929c43b3b3c08bf18167999f,Okeke,Dayo,Chijioke,Primary,Primary,Farmer,Unemployed,"200,000-400,000",5,Always busy
+dabf984e53ff4461aa1f1b61265cb9d9,Eseoghene,Kayin,Ebuka,Primary,Tertiary,Farmer,Civil Servant,"400,000-600,000",6,Involved
+ae27d4321dc147ebb11c767385351a69,Salisu,Onyeka,Tunde,Secondary,None,Unemployed,Nurse,"Below 200,000",5,Very Involved
+7d23d47995494a82b787ef8d3495311e,Oni,Jamila,Olamilekan,None,Primary,Farmer,Doctor,"Below 200,000",3,Always busy
+720b274b82a74586a61d9cde1747f387,Umaru,Ufuoma,Ndidi,Secondary,Tertiary,Unemployed,Engineer,"200,000-400,000",5,Slightly involved
+21c71aa3741443b58e3e25f2cf0671c7,Ikechukwu,Bolanle,Oni,None,Tertiary,Farmer,Teacher,"200,000-400,000",6,Always busy
+905c7bdd74f04eaeaa5943ce836435e3,Oluwatoyin,Simisola,Ademola,Secondary,Primary,Engineer,Teacher,"400,000-600,000",4,Very Involved
+ac3a812f765e4cb58f0d55400ec7d662,Kayode,Oluwayemisi,Olamilekan,None,Primary,Unemployed,Teacher,"200,000-400,000",6,Slightly involved
+0592bfa5b928423f8ee4334ece920136,Ufuoma,Folami,Ogochukwu,Tertiary,Tertiary,Farmer,Unemployed,"Below 200,000",3,Very Involved
+00c59f30d103442481241bb4655ce508,Chibuike,Talatu,Chukwuemeka,None,Secondary,Teacher,Civil Servant,"Below 200,000",4,Very Involved
+12b2102d940c4503b7c86152beed0af9,Chi,Onyeka,Eseoghene,Tertiary,Secondary,Farmer,Farmer,"400,000-600,000",3,Involved
+b34c6c7358334b30ac776e950b981ccd,Chidike,Oyibo,Azubuike,Secondary,Primary,Doctor,Civil Servant,"Above 600,000",3,Always busy
+0f6ce9bffe7e43628a89b0f0105291d3,Ugochukwu,Ime,Adebola,None,None,Doctor,Teacher,"Above 600,000",3,Slightly involved
+fc737d9211ab4d11a4eb8000ef40d162,Oghenekevwe,Adannaya,Ejiro,Secondary,Secondary,Engineer,Teacher,"200,000-400,000",2,Slightly involved
+497ec6d1081f46dcb8d9a88aef0bea4f,Chinweuba,Hafsatu,Chukwuemeka,None,None,Engineer,Engineer,"400,000-600,000",6,Slightly involved
+22ab7752c4db4a62ae13418d68ab80ea,Bamidele,Halimatu,Oghenekevwe,None,None,Teacher,Engineer,"200,000-400,000",4,Slightly involved
+bab2b77dfa744cc8a43afb7ac40d4874,Ndubuisi,Amaka,Aminu,Tertiary,Secondary,Doctor,Unemployed,"Above 600,000",5,Involved
+5fdcabbf6b9c471cb6ba745ba55871e3,Uzoma,Akuchi,Yalwa,Secondary,Tertiary,Doctor,Teacher,"400,000-600,000",3,Very Involved
+72d3545861ea4f30a42e707afe2bd987,Okoro,Opeyemi,Uzochi,Secondary,Tertiary,Doctor,Nurse,"Above 600,000",3,Always busy
+60a399d4e8214716aac80da1de9f6f5b,Ife,Bamidele,Ife,Tertiary,Secondary,Nurse,Civil Servant,"200,000-400,000",2,Slightly involved
+f6d22a7baec74a82948b4376602a4e57,Chikere,Omolara,Bamidele,Secondary,None,Unemployed,Engineer,"200,000-400,000",5,Always busy
+220b9ea98a0f45089fe2c0a0a96b3c42,Ayodele,Ese,Ɗanladi,Tertiary,Primary,Trader,Trader,"Above 600,000",4,Always busy
+1e5ebe54590742999c3bbdd8a74e02a9,Chibuzo,Akuchi,Lekan,Primary,Tertiary,Unemployed,Engineer,"400,000-600,000",6,Always busy
+649f7d88898945abbe2b34d82db0728d,Idowu,Ige,Olujimi,Tertiary,Tertiary,Farmer,Engineer,"400,000-600,000",2,Slightly involved
+fa8dae42ba544920a099d18087623997,Chiemeka,Ugochi,Ejike,Primary,Secondary,Doctor,Unemployed,"400,000-600,000",4,Slightly involved
+c194f97f00e3402695b6de85390239d9,Oluwatoyin,Oluwafunmilayo,Chidiebere,Secondary,None,Doctor,Teacher,"Below 200,000",3,Involved
+76876c624c61445eba7e5d9405d1fb63,Chibuzo,Chioma,Inyene,None,Tertiary,Teacher,Trader,"400,000-600,000",2,Involved
+6c93a7918b604511b8168aebac6a7c85,Oghenekevwe,Nnenna,Babatunde,Tertiary,Secondary,Teacher,Teacher,"400,000-600,000",5,Always busy
+3acb43a3d2c74ffba118433b882ccd1e,Eniola,Safiya,Olamide,Tertiary,Primary,Nurse,Nurse,"400,000-600,000",3,Very Involved
+27b608dc589d4cb0b5eb89c23f5cf2f3,Ejiroghene,Nkiru,Oluwaseyi,Primary,Secondary,Nurse,Nurse,"400,000-600,000",4,Always busy
+e00da49deffa4002b040413c4690fb15,Ekene,Funke,Amadi,Secondary,Primary,Nurse,Doctor,"200,000-400,000",3,Always busy
+083f64c31ce342f883f725feb99b2b5a,Olabode,Abiola,Chike,Tertiary,Primary,Trader,Engineer,"200,000-400,000",2,Always busy
+9d6b9b626b534a19a902b73fcf39f648,Chinwendu,Iyabo,Chidiebube,Secondary,Primary,Teacher,Engineer,"Below 200,000",2,Always busy
+e39836bbe23d4faaafad49e9c41c147e,Chizoba,Adannaya,Oluwasegun,Tertiary,Secondary,Teacher,Civil Servant,"Below 200,000",2,Involved
+1139fa1234c143eabd9c4e6404015ced,Ayokunle,Abiola,Ifiok,None,Secondary,Unemployed,Unemployed,"400,000-600,000",2,Involved
+7249f62c08984462980cb95c19d45deb,Lawal,Ayotunde,Itoro,Primary,Secondary,Unemployed,Doctor,"200,000-400,000",2,Slightly involved
+df495037b40a4181ac09bdb799086e47,Chikelu,Chinwendu,Eseoghene,Tertiary,Primary,Trader,Farmer,"200,000-400,000",6,Involved
+0b531932bd9449aabea6e5b20c760d28,Uzochi,Chioma,Abubakar,Tertiary,None,Civil Servant,Farmer,"200,000-400,000",5,Always busy
+8a2db2e63bfd48a6b05fddf566fadca0,Okeke,Nkemdilim,Olusola,Primary,Secondary,Unemployed,Civil Servant,"Below 200,000",5,Involved
+c6ac1b04dd1d4cd1811f6bf5379ef467,Efe,Eniola,Ibrahim,Secondary,Primary,Unemployed,Nurse,"Below 200,000",6,Slightly involved
+fe54ee4b80ff4173a3dfecd70e731dd7,Ola,Chiemeka,Ndidi,Secondary,Primary,Nurse,Trader,"200,000-400,000",3,Involved
+ea98fef8d0d74e37bbf2025f4a0d2b73,Abiola,Chinasa,Ese,None,Secondary,Teacher,Teacher,"Below 200,000",5,Slightly involved
+93d563ae51a34c26937bf79bbb44badc,Okafor,Simisola,Chidiegwu,None,None,Nurse,Farmer,"200,000-400,000",6,Slightly involved
+d18183d1ac2b4cfc85c51060991121e7,Ndidi,Amina,Jatau,Primary,Secondary,Civil Servant,Nurse,"Above 600,000",3,Involved
+e05277394d404f1bbca5be2952171bf3,Chukwuemeka,Chidi,Ndubuisi,Tertiary,None,Farmer,Doctor,"Above 600,000",2,Always busy
+8570b59fa9034e67bc568b5324acb722,Olusegun,Kyauta,Ejiroghene,Tertiary,None,Farmer,Civil Servant,"200,000-400,000",2,Slightly involved
+46707cd64ced4164a9df14e9389641dd,Chidiebere,Temitope,Chike,Tertiary,None,Teacher,Engineer,"400,000-600,000",6,Very Involved
+97777f10f2d2493f8e85140d0f9aeb70,Rabiu,Olufunmilola,Kayin,None,Tertiary,Teacher,Unemployed,"400,000-600,000",3,Very Involved
+2cd58759e95d4761bc36dc59e134edfc,Chi,Jamila,Oluwafemi,Tertiary,Primary,Engineer,Civil Servant,"400,000-600,000",5,Involved
+8e4c3ab56d5d4477adc29178a0411612,Olusegun,Halimat,Onyebuchi,Tertiary,Primary,Farmer,Engineer,"400,000-600,000",3,Involved
+582b91eef8e8435b8c00988a7ee1011a,Lawali,Efemena,Ɗanjuma,Primary,None,Doctor,Doctor,"400,000-600,000",4,Involved
+61935990abdd4a8fa4b05c89f10bce9c,Toyin,Uzoma,Sani,None,Secondary,Engineer,Farmer,"400,000-600,000",2,Involved
+b2414482519844d886433603c92a7d7c,Fumnanya,Adisa,Oluwafemi,Secondary,Secondary,Unemployed,Civil Servant,"Above 600,000",2,Involved
+4cc57e0d26334018a883ac6e6a944054,Okorie,Hafsatu,Abiola,Tertiary,Tertiary,Nurse,Nurse,"Above 600,000",5,Involved
+89b5aab0c12149dbaf12b150605fb1eb,Chinweike,Chinyelu,Ade,Secondary,Secondary,Unemployed,Unemployed,"Above 600,000",6,Always busy
+39b02e2ad96e484fbdb0174e7938878a,Hamisu,Chisom,Segun,None,Primary,Farmer,Unemployed,"400,000-600,000",2,Involved
+24f43c62b52340de9b87d29c4cfd0fc1,Ese,Ayo,Fumnanya,Secondary,Primary,Civil Servant,Nurse,"200,000-400,000",4,Slightly involved
+0ec0713dea2c4a51b688d11fce4758be,Ɗanjuma,Olusola,Obinna,Tertiary,Secondary,Farmer,Civil Servant,"200,000-400,000",2,Slightly involved
+6aa0426df7c045f7a9a53b4f8ff8869d,Ɗanjuma,Safiya,Efemena,Secondary,Secondary,Teacher,Civil Servant,"Below 200,000",4,Always busy
+636f6e5c2253470687ad8b268eaa5841,Emeka,Talatu,Emeka,Primary,None,Teacher,Civil Servant,"400,000-600,000",5,Always busy
+548c1d84340d4049814765063e2bf9c9,Oyibo,Bolanle,Uche,Secondary,None,Civil Servant,Teacher,"400,000-600,000",6,Slightly involved
+73253aa3ec174298943df5b3a58e83dd,Chimezie,Adeola,Akpan,None,Primary,Teacher,Nurse,"400,000-600,000",2,Very Involved
+891f691217ab48639efeef4fd8ddbbc0,Abdullahi,Amaka,Oluwafemi,Primary,Primary,Teacher,Farmer,"Below 200,000",2,Very Involved
+0d31812e30c347569453f867b97e6224,Ɗanladi,Chi,Chukwudi,Secondary,Primary,Teacher,Doctor,"400,000-600,000",2,Involved
+9adf4709ac754344a08e149e44b9e602,Ayodele,Kelechi,Musa,Tertiary,Secondary,Farmer,Engineer,"Below 200,000",4,Always busy
+12a1fe7ddfa547228a1fc9df9a591974,Chika,Ese,Olumide,Secondary,Tertiary,Farmer,Teacher,"200,000-400,000",5,Involved
+966be275c2fe49548dfd9531302b7831,Ebuka,Onyekachukwu,Chibueze,Secondary,Tertiary,Teacher,Unemployed,"Above 600,000",6,Always busy
+378e65108f10433eabe42e7db96c1163,Chinweike,Oghenekaro,Olanrewaju,None,Secondary,Trader,Engineer,"200,000-400,000",4,Very Involved
+e8334da5de954695b579c1437ab99428,Abdullahi,Yalwa,Obi,None,Primary,Trader,Doctor,"Above 600,000",6,Involved
+e8b3d763f4ff4f3a8d9dbaeb553d2625,Olanrewaju,Chikelu,Ebuka,Tertiary,Secondary,Civil Servant,Trader,"Below 200,000",5,Slightly involved
+30a5648eefe943d0b63908bf03ece8ff,Kayode,Aishatu,Ebuka,None,Primary,Doctor,Farmer,"400,000-600,000",6,Very Involved
+bf337a151e084f20bdd151b0f64ab6ec,Lawal,Amaka,Dada,Primary,Primary,Farmer,Trader,"Below 200,000",5,Slightly involved
+ea18d32c7a9a4ef5811bd1c4ffe3f366,Udo,Chinwe,Abiola,None,Primary,Trader,Engineer,"200,000-400,000",3,Involved
+b42a2d939aba4f15b21490623e1a963e,Ola,Yejide,Lawali,Secondary,Secondary,Civil Servant,Trader,"400,000-600,000",5,Very Involved
+3d44cb2cea454a41a589ada1345af934,Adegoke,Chidiebere,Chimezie,Tertiary,Primary,Trader,Teacher,"400,000-600,000",2,Involved
+48769153c68843fe92555c758d55119e,Adewale,Nkechi,Yalwa,Tertiary,Secondary,Farmer,Engineer,"Above 600,000",2,Very Involved
+a6129a1c889d4b76b75c30b561730c48,Olamilekan,Itoro,Sani,Primary,Tertiary,Doctor,Civil Servant,"Below 200,000",3,Very Involved
+5c11ab6d42f543f58ef4c34d5bf86f3c,Afolabi,Ugochi,Ahmadu,Tertiary,None,Trader,Civil Servant,"200,000-400,000",5,Involved
+774c0afa7f4d408ca1fff6c08347f1da,Oluwatoyin,Oghenekevwe,Chidiebele,Tertiary,None,Engineer,Unemployed,"400,000-600,000",2,Involved
+b8f0188efb374fae8d8563ca193e638d,Abdullahi,Halimat,Ademola,Tertiary,Tertiary,Unemployed,Engineer,"Below 200,000",3,Very Involved
+51facefad6f84f7a82fa1da878308631,Ufuoma,Ifeoma,Oyibo,Secondary,Secondary,Engineer,Nurse,"Below 200,000",2,Very Involved
+501ba8515ee64495b40029c3ea11905b,Eseoghene,Nkiruka,Dayo,Secondary,None,Unemployed,Civil Servant,"200,000-400,000",2,Always busy
+dd34aa1890014ed48bb401e769f753f1,Abidemi,Uzoma,Chijioke,Primary,None,Farmer,Farmer,"Below 200,000",4,Involved
+0426fcc9255b40e2bdc2b74b38a56b49,Ekwueme,Abimbola,Chibuzo,Primary,Secondary,Teacher,Teacher,"200,000-400,000",4,Very Involved
+95831d58ef4c41198da5d39b42c21797,Olayinka,Ugochi,Ekwueme,Primary,Primary,Farmer,Nurse,"200,000-400,000",5,Involved
+4b91b8cb6ae64582b852b3cd9442b5e6,Olusola,Itoro,Ɗanjuma,Secondary,None,Teacher,Farmer,"400,000-600,000",4,Very Involved
+3ae2802354724d2db2399ffb27046f25,Lawali,Ige,Adewale,Tertiary,None,Civil Servant,Unemployed,"Below 200,000",2,Very Involved
+3ee82983d557424191ddb9bf613d2de9,Ifiok,Chioma,Ola,None,Tertiary,Nurse,Civil Servant,"200,000-400,000",3,Always busy
+f186e47aa79443208cf6e8b87fd238c3,Udo,Adeola,Azubuike,None,Secondary,Farmer,Civil Servant,"Below 200,000",4,Always busy
+c36b9a0a41e04a89966a9ce7af521b94,Ayotunde,Abeni,Tochukwu,None,Secondary,Trader,Farmer,"Above 600,000",5,Slightly involved
+b93b17fbf76d45fdbd1645a0d253d966,Aminu,Ufuoma,Yalwa,None,None,Trader,Doctor,"Above 600,000",6,Always busy
+75f8e3a87d974c0fbd5609c4a4461663,Amadi,Ngozi,Opeyemi,Secondary,None,Unemployed,Teacher,"400,000-600,000",4,Very Involved
+5a2837b2cb8343f2bb96f6022b115c36,Akpofure,Idowu,Chinonso,Secondary,Secondary,Nurse,Engineer,"Below 200,000",5,Very Involved
+8bea75c1b86647aaa3d4526b2b54ff7a,Ese,Dayo,Opeyemi,None,None,Doctor,Nurse,"Below 200,000",4,Always busy
+e3ad64d4eab94b02af1dc1217d024c6d,Ejiroghene,Kyauta,Ifeanyi,Tertiary,Tertiary,Unemployed,Trader,"Below 200,000",5,Slightly involved
+f50d7a37a44d4fecbd85d7fa8ac97b01,Oluwatoyin,Simisola,Chinweuba,Tertiary,None,Civil Servant,Engineer,"Below 200,000",3,Involved
+d6cd315508a84c7f862138ad0f09105c,Akpan,Kehinde,Ayomide,Secondary,Tertiary,Unemployed,Unemployed,"Below 200,000",5,Involved
+d1682e09f1f7490493075157d8c128e7,Olujimi,Asma'u,Bitrus,None,Secondary,Teacher,Trader,"400,000-600,000",3,Slightly involved
+01a25ed1c3ab45f18c6b7074ab102c9b,Dada,Oluwayemisi,Lawal,Secondary,Secondary,Trader,Nurse,"Above 600,000",3,Very Involved
+a175a9c3d7b142a9a332a50e6992896e,Taiwo,Omolara,Olabode,Tertiary,Tertiary,Trader,Engineer,"Below 200,000",3,Very Involved
+26a9e100b509409b916658ce3b3f3800,Ekene,Chima,Emeka,None,Primary,Civil Servant,Engineer,"Below 200,000",3,Involved
+74bd0c9381774661b7fe032c02571851,Chidiebere,Ime,Abimbola,Secondary,Secondary,Engineer,Teacher,"400,000-600,000",2,Always busy
+a3422e509e2a43248f79a8a75f8a14bd,Adeola,Bose,Lekan,Primary,Primary,Nurse,Farmer,"200,000-400,000",5,Slightly involved
+e9aa144b9dd44675af145064aab07015,Usman,Talatu,Chi,Primary,Primary,Teacher,Farmer,"Above 600,000",5,Always busy
+0406ff447ce44679a8c6dbc07bb3447b,Musa,Chidinma,Okeke,None,Primary,Teacher,Farmer,"Below 200,000",5,Very Involved
+694d7b008d384327883f13c601b158e9,Olu,Oluwaseyi,Lawali,None,Tertiary,Trader,Trader,"400,000-600,000",4,Slightly involved
+b8e19f5687874a2184482a220308aa5e,Ejiroghene,Ekene,Oghenero,None,None,Engineer,Teacher,"Below 200,000",6,Involved
+49646b96fa3c4628892621df465568b7,Adedayo,Adannaya,Chidike,Secondary,Secondary,Doctor,Teacher,"400,000-600,000",5,Involved
+b2a6e468d02b424380913ac10463750e,Adewale,Ogochukwu,Akpofure,Primary,Primary,Engineer,Teacher,"200,000-400,000",6,Involved
+f090f5a0ce614199ae3a0ba8ac8d6c7d,Akpan,Ayodele,Chinedu,Secondary,None,Teacher,Teacher,"Above 600,000",5,Involved
+eb053fc41b654dabade46e91e8e6e840,Okafor,Asabe,Oluwaseun,Secondary,Secondary,Civil Servant,Trader,"Below 200,000",4,Slightly involved
+3db02235261e4555863e1f2a18a806ef,Lawal,Chi,Adekunle,Tertiary,Secondary,Unemployed,Civil Servant,"200,000-400,000",6,Always busy
+409e7a8086c541d69ea9f50831227592,Lawali,Ifiok,Efe,Primary,None,Engineer,Teacher,"400,000-600,000",2,Very Involved
+cb80f288446f44dd9abca6e5d0b1e3eb,Idowu,Inyene,Segun,Secondary,None,Engineer,Engineer,"400,000-600,000",2,Very Involved
+f5948a545f804eeb943a9aff659b0105,Olabode,Uzoma,Afolabi,Secondary,None,Unemployed,Farmer,"200,000-400,000",5,Involved
+3e42df5b90a34bbfb580e05067f1698c,Oghenekevwe,Nkiru,Chidiebere,Tertiary,None,Farmer,Trader,"Below 200,000",3,Always busy
+4ccb235539d147ffb27e1442fd7fe973,Femi,Ngozi,Chizoba,Primary,Tertiary,Engineer,Unemployed,"400,000-600,000",2,Involved
+14a34f7fd90d419b93fbe043af1d5a1a,Okeke,Itoro,Iniobong,Tertiary,Secondary,Doctor,Engineer,"200,000-400,000",2,Involved
+a65f7b8adbb44021bdde64afa75b395a,Uche,Oyibo,Ikechukwu,Primary,Secondary,Engineer,Engineer,"200,000-400,000",4,Very Involved
+67c0518b17ef4621881c79d4c27437eb,Olumide,Aisha,Akachi,Tertiary,Secondary,Unemployed,Nurse,"200,000-400,000",2,Very Involved
+79db78628d7d4772a08e2f5c61177270,Chinonso,Iyabo,Oni,Secondary,Tertiary,Teacher,Farmer,"200,000-400,000",5,Involved
+b3eda8f1026b4383a301ec030e5d8c6a,Chuks,Ogochukwu,Olanrewaju,Primary,Secondary,Doctor,Nurse,"200,000-400,000",5,Slightly involved
+d867888b7ff64824952aeaec2bdfcb41,Nnamdi,Chinasa,Uchenna,Tertiary,Primary,Trader,Nurse,"Below 200,000",5,Very Involved
+54ce26bec8cc42c2a518a4186f14b3f6,Ayo,Abidemi,Adisa,Secondary,Tertiary,Engineer,Teacher,"400,000-600,000",4,Always busy
+f94d8fcbdba3496fba323f6990dbfad6,Olujimi,Oluwatoyin,Aminu,Primary,Tertiary,Doctor,Unemployed,"Above 600,000",6,Always busy
+eb4d8f42873540a2a51109611869a217,Kehinde,Aishatu,Olanrewaju,None,Secondary,Farmer,Civil Servant,"Below 200,000",2,Slightly involved
+e6b9d31a361f4d90bad1fa330ae4ac11,Akachi,Adannaya,Olukayode,Secondary,Tertiary,Doctor,Nurse,"200,000-400,000",5,Always busy
+9118c400e3364243b139c476de3ce88b,Yalwa,Oni,Abidemi,None,Tertiary,Doctor,Nurse,"200,000-400,000",3,Slightly involved
+ec95b3ac0beb4c3485667c4879ba630a,Okoro,Chizoba,Otobong,None,Tertiary,Trader,Doctor,"Above 600,000",3,Involved
+47c68688ecf34053af36b8cc13087974,Musa,Emem,Adekunle,Tertiary,None,Teacher,Civil Servant,"Below 200,000",3,Involved

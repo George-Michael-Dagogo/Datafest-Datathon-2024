@@ -1,0 +1,36 @@
+Staff_ID,Name,Gender,Position,Monthly Pay,Years of Experience,Education Level,Date of Hire,Full-time
+bdd640fb06674ad19c80317fa3b1799d,"Ige, Chibuike",Male,Teacher,100000,1,Bachelor's,2002-02-11,True
+bd9c66b3ad3c4d6d9a3d1fa7bc8960a9,"Aminu, Olufemi",Female,Teacher,100000,28,PhD,1997-05-17,True
+37f8a88b17fc495a87a0ca6e0822e8f3,"Adedayo, Ayuba",Female,Teacher,100000,6,Associate's,2009-12-05,True
+a65ed389b74d4fb1b2e706298fadc1a6,"Obinna, Ade",Male,Teacher,100000,11,PhD,2007-05-10,True
+de8a774bcf36458b8737819096da1dac,"Kayin, Abiodun",Female,Teacher,100000,10,High School,2017-07-14,True
+47229389571a4876ac307511b2b9437a,"Abdullahi, Chukwuma",Male,Teacher,100000,13,Associate's,2001-03-24,False
+6142ea7d17be41119a2a73ed562b0f79,"Chikelu, Umar",Female,Teacher,100000,27,High School,2005-07-15,True
+0b1f9163ce9f457f83b7a3a69a8dca03,"Hamisu, Ikenna",Female,Teacher,100000,27,Master's,2010-11-08,True
+d453dd324b0d4b418d5288f1142c3fe8,"Ibrahim, Yalwa",Female,Teacher,100000,16,PhD,2021-05-01,True
+11ce5dd2b45e41f0b139d32c93cd59bf,"Okonkwo, Ekwueme",Female,Teacher,100000,5,High School,2014-08-10,False
+daf61a26146d4f31bc377a4c4a15544d,"Oghenekaro, Babatunde",Male,Teacher,100000,9,Associate's,2020-10-05,True
+d58842dea2bc472fb412b29347294739,"Chinweike, Adebayo",Male,Teacher,100000,11,Bachelor's,1999-08-25,True
+b3aa7efe44584885ab9099a435a240ae,"Olanrewaju, Akpan",Female,Teacher,100000,14,High School,2013-01-15,True
+29d4beef3eab4dcbbaa80dd488bd6407,"Udo, Opeyemi",Female,Teacher,100000,16,Master's,2006-02-25,False
+af42e12f383843268e944239b02b61c4,"Bello, Chibueze",Male,Teacher,100000,11,Bachelor's,2020-01-20,False
+0837b8a3d26147abbaa2e4f90e51f30d,"Ahmadu, Abiodun",Male,Principal,170000,3,Bachelor's,2006-10-20,True
+9132b63ef16247e4a9c349e03602f8ac,"Onyekachi, Idowu",Male,Vice Principal,150000,16,Bachelor's,2001-02-22,True
+a491f0b2ea1f4a65a27a984d654821d0,"Inyene, Olu",Female,Librarian,80000,0,Master's,1999-01-20,True
+89fa6a688fb5427bbeb799193f22faf8,"Umaru, Ekene",Female,Librarian,80000,12,Bachelor's,2017-03-06,True
+5cabcc97663f4c97956269f0e5d7b875,"Chigozie, Ime",Male,School Nurse,120000,15,Associate's,2024-09-08,True
+c17af08a174546d8be570ddf827050a8,"Onyekachi, Ndidi",Male,School Nurse,120000,21,High School,2020-08-07,True
+ae340454cac5468ca8f49481a0a04dc4,"Okechukwu, Taiwo",Female,Administrative Assistant,80000,12,Master's,2012-08-29,True
+77d21e02ff014f99988c24c961b1cd22,"Ndubuisi, Babajide",Female,Administrative Assistant,80000,0,PhD,2002-04-23,True
+ae270da702f04b90b143262fdc5c0eed,"Bamidele, Sani",Female,Administrative Assistant,80000,22,High School,2015-03-22,True
+a4161293c4c242e3844ea7c8c0398710,"Chibuike, Chidubem",Female,Cleaner,30000,1,Bachelor's,1998-02-11,True
+f42d47cc00d44f59b4273ca3287d06ca,"Olumide, Ejiro",Female,Cleaner,30000,14,Bachelor's,2023-12-04,False
+1b3dbd5ce9a14a6f81f76d1c2dbc2134,"Olanrewaju, Chidiebube",Male,Cleaner,30000,2,Bachelor's,2020-01-08,True
+5fb8d16c2720497db2ebd6899be578c7,"Uchenna, Kyauta",Male,Vendor,40000,10,Associate's,2010-12-13,False
+00257ad1eb2243dd87c5421eec24a3c5,"Chinweuba, Chikelu",Female,Vendor,40000,8,PhD,2004-06-29,True
+e0f3eab05cec4eb5add968311ca35cfb,"Uchenna, Ekwueme",Male,Bus Driver,70000,6,Bachelor's,2001-12-13,True
+14296c07f26b4776913e4de2e0c53cb8,"Okafor, Ejike",Male,Bus Driver,70000,24,High School,2016-09-22,True
+c40db9b4885f4e6682b6d2c5fa5d3100,"Ifeanyi, Aliyu",Male,Lab attendant,90000,0,Associate's,1998-08-14,True
+43dac0432a4542ab8cbfedb0f264accc,"Mamman, Abimbola",Male,Lab attendant,90000,12,PhD,2020-12-10,True
+8a0f4efbedcd465eb6386821f6e07cc0,"Umukoro, Okechukwu",Male,Security Guard,70000,20,Associate's,2016-02-27,True
+5f987c71a65e488eabf3ad39fec21bbe,"Amadi, Ekenedilichukwu",Female,Security Guard,70000,29,Master's,2021-10-03,True
