@@ -149,3 +149,78 @@
 | Name | TEXT | Variable | Name of the teacher | "Alice Johnson" |
 | Teacher_Type | TEXT | Variable | Type or category of teacher | "Senior Teacher" |
 | Subject_specialization | TEXT | Variable | Subject area of specialization for the teacher | "Mathematics" |
+
+
+
+## Data Quality Checks for School Database
+### 1. Attendance Table
+
+- Check for null values in all columns
+- Ensure Student_ID is unique and matches with student_table
+- Verify Days_Attended and Days_Missed are non-negative
+- Check if Days_Attended + Days_Missed equals the total number of school days
+- Ensure Absence_Reason is filled for all records where Days_Missed > 0
+
+### 2. Class Resources Table.csv
+
+- Check for null values in all columns
+- Ensure Class_ID is unique
+- Verify all numeric columns have non-negative values
+- Check if Number_of_Students and Number_of_Teachers are reasonable (e.g., not too high or low)
+- Ensure Weekly_Teaching_Hours is within a realistic range (e.g., 20-50 hours)
+
+### 3. Extracurricular Activity Table
+
+- Check for null values in all columns
+- Ensure Student_ID exists in student_table
+- Verify Weekly_Hours is non-negative and within a realistic range (e.g., 0-20 hours)
+
+### 4. Parent Table
+
+- Check for null values in all columns
+- Ensure Student_ID is unique and matches with student_table
+- Verify Household_Size is positive and within a realistic range
+- Check if Annual_Household_Income(NGN) is numeric and in these ranges ['Below 200,000', '200,000-400,000', '400,000-600,000', 'Above 600,000']
+- Ensure Father_Education, Mother_Education, Father_Occupation, Mother_Occupation, and Involvement_in_Kids_Education have consistent categories
+
+### 5. Student Survey Table
+
+- Check for null values in all columns
+- Ensure Student_ID is unique and matches with student_table
+- Verify Study_Hours_Per_Week is non-negative and within a realistic range
+- Check if Teacher_Support and Parental_Support are within a specific range (e.g., 1-5)
+- Ensure Stress_Level has consistent categories
+- Verify Jamb_Scores and Num_Credit_Passes_WAEC are within expected ranges
+- Check if verdict has consistent categories
+
+### 6. Staff Table
+
+- Check for null values in all columns
+- Ensure Staff_ID is unique
+- Verify Monthly Pay and Years of Experience are non-negative
+- Check if Date of Hire is in a consistent date format and not in the future
+- Ensure Gender, Position, and Education Level have consistent categories
+
+### 7. Student Performance Table
+
+- Check for null values in all columns
+- Ensure Student_ID is unique and matches with student_table
+- Verify all subject scores are within the expected range (e.g., 0-100)
+- Check for any outliers in the scores
+- Ensure consistency in the number of decimal places for float64 columns
+
+### 8. Student Table
+
+- Check for null values in all columns
+- Ensure Student_ID is unique
+- Verify Class_ID exists in class_resources_table
+- Check if Date_of_Birth is in a consistent date format and makes sense for a student
+- Ensure Gender, State of Origin, engagement_in_class, health_condition, and Class Spec have consistent categories
+
+### 9. Teachers Table
+
+- Check for null values in all columns
+- Ensure Teacher_ID is unique
+- Verify Staff_ID exists in staff_table
+- Ensure Teacher Type and Subject specialization have consistent categories
+
