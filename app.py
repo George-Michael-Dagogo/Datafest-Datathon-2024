@@ -90,15 +90,15 @@ def update_student_data(student_id, first_name, family_name, gender, date_of_bir
             cursor.close()
             connection.close()
 
-def insert_student_data(first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_spec):
+def insert_student_data(first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_id,class_spec):
 
     try:
         connection = psycopg2.connect(database_url)
         cursor = connection.cursor()
         student_id = generate_student_id()
-        insert_query = """INSERT INTO student_table (student_id, First_Name, Family_Name, Gender, Date_of_Birth, State_of_Origin, engagement_in_class, health_condition, Class_Spec) 
-                        VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"""
-        cursor.execute(insert_query, (student_id,first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_spec))
+        insert_query = """INSERT INTO student_table (student_id, first_name, family_name, Gender, Date_of_Birth, State_of_Origin, engagement_in_class, health_condition,class_id, Class_Spec) 
+                        VALUES (%s,%s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+        cursor.execute(insert_query, (student_id,first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_id,class_spec))
         connection.commit()
         st.success("Student data successfully inserted into the PostgreSQL database")
 
@@ -197,11 +197,11 @@ def main():
             state_of_origin = st.text_input("State of Origin")
             engagement_in_class = st.text_input("Engagement in Class")
             health_condition = st.text_input("Health Condition")
-            class_spec = st.selectbox("Class Spec", options=['SS1 Class D', 'SS1 Class C', 'SS3 Class F', 'SS1 Class E','SS2 Class E', 'SS2 Class A', 'SS2 Class B', 'SS3 Class A','SS1 Class B', 'SS2 Class D', 'SS3 Class C', 'SS1 Class F','SS3 Class D', 'SS3 Class B', 'SS3 Class E', 'SS2 Class C','SS1 Class A', 'SS2 Class F'])
-
+            class_id = st.selectbox("Class_ID", options=['SS1 Class D', 'SS1 Class C', 'SS3 Class F', 'SS1 Class E','SS2 Class E', 'SS2 Class A', 'SS2 Class B', 'SS3 Class A','SS1 Class B', 'SS2 Class D', 'SS3 Class C', 'SS1 Class F','SS3 Class D', 'SS3 Class B', 'SS3 Class E', 'SS2 Class C','SS1 Class A', 'SS2 Class F'])
+            class_spec = st.selectbox("Class Spec", options=['Science', 'Art'])
             if st.button("Submit Student Data"):
-                if first_name and family_name and gender and date_of_birth and state_of_origin and engagement_in_class and health_condition and class_spec:
-                    insert_student_data(student_id,first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_spec)
+                if first_name and family_name and gender and date_of_birth and state_of_origin and engagement_in_class and health_condition and class_id and class_spec:
+                    insert_student_data(first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_id,class_spec)
                 else:
                     st.error("Please fill in all fields")
 
