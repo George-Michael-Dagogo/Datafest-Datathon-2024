@@ -1,3 +1,43 @@
+# Improving  Academic Outcome For Secondary Education in Nigeria 
+
+<p align="center">
+    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/Images/Secondary%20school%20kids.jpg" alt="Secondary school kids">
+</p>
+
+
+# Background
+
+Goodness and Mercy School (GMS) is a mid-level private primary and secondary school in Kaduna South local government of Kaduna state, Nigeria. A hypothetical situation featured a stakeholders meeting which highlighted the lack of an infrastructure for digital data collection as the majority of data collected were on paper and kept in cabinets. Also, the recent results from last year’s JAMB and WAEC were poor as noted by JAMB and they have begun to wonder how they can tell students who could fail or pass the exams beforehand and further identify factors and useful trends or patterns that can improve the quality of education in the school and ensure that an overwhelming majority of the students passed not just their final exams but the external exams as well.
+
+The Phoenix team has been called in as consultants by the stakeholders at GMS and this is a detailed documentation of the solution and steps to ensure implementation and scalability of the solution. The solution is divided into the following parts:
+1.	Data collection and generation
+2.	Data infrastructure
+3.	Model development and deployment
+4.	Data analysis
+5.	Recommendations
+
+# Assumptions
+This refers to some assumptions made during building this solution. These assumptions in the real world translate to guiding principles the school operates by such as:
+1.	Compulsory extra-curricular activities
+2.	10 subjects are being offered by students in both specializations – Art and Science, with 5 subjects common between them.
+
+# Workflow
+- [Data Collection]()
+- [Data preparation]()
+  - [Missing data treatment]()
+  - [Feature engineering]()
+- [Exploratory data analysis]()
+- [Impact of features]()
+- [Prediction of global sales]()
+- [Classifier for sales category]()
+- [Model deployment and hosting]()
+- [Recommendations]()
+- [Future work]()
+
+
+
+
+
 ## I'm attempting to create a comprehensive dataset that simulates a Nigerian secondary school environment. My goal is to generate realistic, interconnected data that can be used for various educational analytics and data science projects. 
 
 ## Here's a breakdown of my approach:
