@@ -19,6 +19,8 @@
 #### The reason I took this approach is to create a rich, realistic dataset that can be used for educational data mining, predictive analytics, and decision support systems in the context of Nigerian secondary education. By simulating a complete school ecosystem, I'm providing a sandbox for testing various hypotheses about factors influencing student performance, resource allocation, and overall school management.
 #### This dataset could be valuable for researchers, data scientists, or education policymakers looking to develop insights or predictive models without the need for sensitive, real-world student data. It also serves as a great teaching tool for data science students learning about educational data analysis.
 
+![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/school_data_model.png)
+
 ## School Database Data Dictionary (Updated)
 
 ### class_resources_table
