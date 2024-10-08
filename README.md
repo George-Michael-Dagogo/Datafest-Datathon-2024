@@ -28,8 +28,9 @@ The solution workflow can be seen below.
 # Workflow
 - [Background]()
   - Objectives
-- [Assumptions]()
+- [School operation]()
 - [Data collection/generation]()
+  - About the data
 - [Data infrastructure]()
 - [Model development and deployment]()
 - [Data analysis]()
@@ -38,19 +39,29 @@ The solution workflow can be seen below.
 - [Conclusion]()
 - [References]()
 
-
-# Assumptions
-This refers to some assumptions made during building this solution. These assumptions in the real world translate to guiding principles the school operates by such as:
+# School operations
+This refers to systems and principles by which the school - GMS- loacted in a typical african society follows. These systems guided our solution
 1.	Compulsory extra-curricular activities
 2.	10 subjects are being offered by students in both specializations – Art and Science, with 5 subjects common between them.
+3.	Each senior secondary school class has 6 subdivisions (A-F) and is further divided into Art and Science classes
+4.	An academic session in senior secondary school - GMS- is made up of three terms, each term comprising 3 months of dedicated studies
+
+
+## About the data
+
+Based on the data generated:
+1. students table: shows the bio-data for all different students in senior secondary schools
+2. student_performance table: contains aggregate records of students in the last academic session (2023/2024) in their respective subjects. P.S. The next academic session is 2024/2025.
+
 
 
 # Model development and deployment
 
-The task here
-Here, we have the aggregate scores for the SS3 students for their academic year in SS3 that is first, second, and third terms.
+The task here involves creating a forecasting model that can adequately inform the stakeholders at GMS of the likelihood of a student passing or failing their upcoming exams. In this scenario, the upcoming exams refer to their mock exams written to prepare students for their JAMB and WASSCE exams. At GMS, if a student can do well in the mock exams, then they can do well in the JAMB and WASSCE exams. Furthermore, GMS is concerned about other factors that can affect a student's upcoming results aside from their previous exam scores in class.
 
-Now, their upcoming exams here refer to the mock exams to prepare them for JAMB and WAEC. Their performance in the just concluded academic year as well as other factors that might have affected their academic performance during the past session is used to predict students' performance in their upcoming exams. Also, the model being built is divided into two for art and for science students.
+## Solution
+
+The optimized model built is divided into two for art and for science students. 
 
 
 
