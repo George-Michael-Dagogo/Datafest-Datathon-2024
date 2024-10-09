@@ -67,26 +67,20 @@ def get_connection():
     # Replace these with your actual database credentials
     return psycopg2.connect(database_url)
 
-def get_tables(conn):
+def fetch_data(conn, table):
+    query = sql.SQL("SELECT * FROM {}").format(sql.Identifier(table))
     with conn.cursor() as cur:
-        cur.execute("""
-            SELECT table_name 
-            FROM information_schema.tables 
-            WHERE table_schema = 'public'
-        """)
-        return [table[0] for table in cur.fetchall()]
+        cur.execute(query)
+        columns = [desc[0] for desc in cur.description]
+        data = cur.fetchall()
+    return pd.DataFrame(data, columns=columns)
 
-def get_column_types(conn, table):
-    with conn.cursor() as cur:
-        cur.execute(sql.SQL("""
-            SELECT column_name, data_type 
-            FROM information_schema.columns 
-            WHERE table_name = {}
-        """).format(sql.Literal(table)))
-        return {col: dtype for col, dtype in cur.fetchall()}
+def calculate_age(born):
+    today = datetime.today()
+    return today.year - born.year - ((today.month, today.day) < (born.month, born.day))
 
-def visualize_database():
-    st.title("Database Visualization")
+def visualize_student_data():
+    st.title("Student Data Visualization")
 
     try:
         conn = get_connection()
@@ -94,62 +88,62 @@ def visualize_database():
         st.error(f"Unable to connect to the database: {e}")
         return
 
-    table_names = get_tables(conn)
+    # Fetch student data
+    students_df = fetch_data(conn, 'student_table')
 
-    if not table_names:
-        st.error("No tables found in the database.")
-        return
+    # Preprocess data
+    students_df['date_of_birth'] = pd.to_datetime(students_df['date_of_birth'])
+    students_df['Age'] = students_df['date_of_birth'].apply(calculate_age)
 
-    selected_table = st.selectbox("Select a table to visualize", table_names)
+    # 1. Gender Distribution
+    st.subheader("Gender Distribution")
+    gender_dist = students_df['gender'].value_counts()
+    fig1 = px.pie(values=gender_dist.values, names=gender_dist.index, title='Gender Distribution')
+    st.plotly_chart(fig1)
 
-    # Fetch data from the selected table
-    query = sql.SQL("SELECT * FROM {}").format(sql.Identifier(selected_table))
-    with conn.cursor() as cur:
-        cur.execute(query)
-        columns = [desc[0] for desc in cur.description]
-        data = cur.fetchall()
-    
-    df = pd.DataFrame(data, columns=columns)
+    # 2. Age Distribution
+    st.subheader("Age Distribution")
+    fig2 = px.histogram(students_df, x='Age', nbins=20, labels={'Age': 'Age', 'count': 'Number of Students'})
+    st.plotly_chart(fig2)
 
-    if df.empty:
-        st.warning(f"The table '{selected_table}' is empty.")
-        return
+    # 3. state_of_origin Distribution
+    st.subheader("state_of_origin Distribution")
+    state_dist = students_df['state_of_origin'].value_counts().nlargest(10)  # Top 10 states
+    fig3 = px.bar(x=state_dist.index, y=state_dist.values, labels={'x': 'State', 'y': 'Number of Students'})
+    fig3.update_layout(xaxis_tickangle=-45)
+    st.plotly_chart(fig3)
 
-    # Display raw data
-    st.subheader("Raw Data")
-    st.dataframe(df)
+    # 4. Engagement in class Distribution
+    st.subheader("Engagement in class Distribution")
+    engagement_dist = students_df['engagement_in_class'].value_counts().sort_index()
+    fig4 = px.bar(x=engagement_dist.index, y=engagement_dist.values, labels={'x': 'Engagement Level', 'y': 'Number of Students'})
+    st.plotly_chart(fig4)
 
-    # Visualizations
-    st.subheader("Visualizations")
+    # 5. Health Condition Distribution
+    st.subheader("Health Condition Distribution")
+    health_dist = students_df['health_condition'].value_counts()
+    fig5 = px.pie(values=health_dist.values, names=health_dist.index, title='Health Condition Distribution')
+    st.plotly_chart(fig5)
 
-    column_types = get_column_types(conn, selected_table)
-    numeric_columns = [col for col, dtype in column_types.items() if dtype in ('integer', 'bigint', 'double precision', 'numeric')]
-    categorical_columns = [col for col, dtype in column_types.items() if dtype in ('character varying', 'text', 'character')]
+    # 6. class Distribution
+    st.subheader("class Distribution")
+    class_dist = students_df['class_spec'].value_counts().sort_index()
+    fig6 = px.bar(x=class_dist.index, y=class_dist.values, labels={'x': 'class', 'y': 'Number of Students'})
+    st.plotly_chart(fig6)
 
-    if numeric_columns and categorical_columns:
-        # 1. Bar chart
-        x_axis = st.selectbox("Select X-axis (categorical)", categorical_columns)
-        y_axis = st.selectbox("Select Y-axis (numeric)", numeric_columns)
-        fig1 = px.bar(df, x=x_axis, y=y_axis, title=f'{y_axis} by {x_axis}')
-        st.plotly_chart(fig1)
+    # 7. Spec Distribution
+    st.subheader("Spec Distribution")
+    spec_dist = students_df['class_spec'].value_counts()
+    fig7 = px.pie(values=spec_dist.values, names=spec_dist.index, title='Spec Distribution')
+    st.plotly_chart(fig7)
 
-        # 2. Pie chart
-        pie_column = st.selectbox("Select column for pie chart", categorical_columns)
-        pie_counts = df[pie_column].value_counts()
-        fig2 = px.pie(values=pie_counts.values, names=pie_counts.index, title=f'Distribution of {pie_column}')
-        st.plotly_chart(fig2)
-
-        # 3. Scatter plot
-        x_scatter = st.selectbox("Select X-axis for scatter plot", numeric_columns)
-        y_scatter = st.selectbox("Select Y-axis for scatter plot", [col for col in numeric_columns if col != x_scatter])
-        color_scatter = st.selectbox("Select color category for scatter plot", categorical_columns)
-        fig3 = px.scatter(df, x=x_scatter, y=y_scatter, color=color_scatter, title=f'{y_scatter} vs {x_scatter} colored by {color_scatter}')
-        st.plotly_chart(fig3)
-    else:
-        st.warning("Not enough variety in column types to create all visualizations. Please ensure you have both numeric and categorical data.")
+    # 8. Engagement vs Health Condition
+    st.subheader("Engagement vs Health Condition")
+    fig8 = px.scatter(students_df, x='engagement_in_class', y='health_condition', color='class_spec',
+                      labels={'engagement_in_class': 'Engagement in class', 'health_condition': 'Health Condition'})
+    st.plotly_chart(fig8)
 
     conn.close()
-
 
 # Function to fetch a student record
 def fetch_student_data(student_id):
@@ -177,8 +171,8 @@ def update_student_data(student_id, first_name, family_name, gender, date_of_bir
         cursor = connection.cursor()
 
         update_query = """UPDATE student_table 
-                          SET First_Name = %s, Family_Name = %s, Gender = %s, Date_of_Birth = %s, 
-                              State_of_Origin = %s, engagement_in_class = %s, health_condition = %s, Class_Spec = %s
+                          SET First_Name = %s, Family_Name = %s, Gender = %s, date_of_birth = %s, 
+                              State_of_Origin = %s, engagement_in_class = %s, health_condition = %s, class_Spec = %s
                           WHERE Student_ID = %s"""
         cursor.execute(update_query, (first_name, family_name, gender, date_of_birth, state_of_origin, 
                                       engagement_in_class, health_condition, class_spec, student_id))
@@ -198,7 +192,7 @@ def insert_student_data(first_name, family_name, gender, date_of_birth, state_of
         connection = psycopg2.connect(database_url)
         cursor = connection.cursor()
         student_id = generate_student_id()
-        insert_query = """INSERT INTO student_table (student_id, first_name, family_name, Gender, Date_of_Birth, State_of_Origin, engagement_in_class, health_condition,class_id, Class_Spec) 
+        insert_query = """INSERT INTO student_table (student_id, first_name, family_name, Gender, date_of_birth, State_of_Origin, engagement_in_class, health_condition,class_id, class_Spec) 
                         VALUES (%s,%s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         cursor.execute(insert_query, (student_id,first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_id,class_spec))
         connection.commit()
@@ -296,11 +290,11 @@ def main():
             family_name = st.text_input("Family Name")
             gender = st.selectbox("Gender", options=["Male", "Female", "Other"])
             date_of_birth = st.date_input("Date of Birth")
-            state_of_origin = st.text_input("State of Origin")
-            engagement_in_class = st.text_input("Engagement in Class")
+            state_of_origin = st.text_input("state_of_origin")
+            engagement_in_class = st.text_input("Engagement in class")
             health_condition = st.text_input("Health Condition")
-            class_id = st.selectbox("Class_ID", options=['SS1 Class D', 'SS1 Class C', 'SS3 Class F', 'SS1 Class E','SS2 Class E', 'SS2 Class A', 'SS2 Class B', 'SS3 Class A','SS1 Class B', 'SS2 Class D', 'SS3 Class C', 'SS1 Class F','SS3 Class D', 'SS3 Class B', 'SS3 Class E', 'SS2 Class C','SS1 Class A', 'SS2 Class F'])
-            class_spec = st.selectbox("Class Spec", options=['Science', 'Art'])
+            class_id = st.selectbox("class_ID", options=['SS1 class D', 'SS1 class C', 'SS3 class F', 'SS1 class E','SS2 class E', 'SS2 class A', 'SS2 class B', 'SS3 class A','SS1 class B', 'SS2 class D', 'SS3 class C', 'SS1 class F','SS3 class D', 'SS3 class B', 'SS3 class E', 'SS2 class C','SS1 class A', 'SS2 class F'])
+            class_spec = st.selectbox("class Spec", options=['Science', 'Art'])
             if st.button("Submit Student Data"):
                 if first_name and family_name and gender and date_of_birth and state_of_origin and engagement_in_class and health_condition and class_id and class_spec:
                     insert_student_data(first_name, family_name, gender, date_of_birth, state_of_origin, engagement_in_class, health_condition, class_id,class_spec)
@@ -362,15 +356,15 @@ def main():
 
             if 'student_data' in st.session_state:
                 student = st.session_state['student_data']
-                class_id = st.text_input("Class ID", value=student[1])
+                class_id = st.text_input("class ID", value=student[1])
                 first_name = st.text_input("First Name", value=student[2])
                 family_name = st.text_input("Family Name", value=student[3])
                 gender = st.selectbox("Gender", options=["Male", "Female", "Other"], index=["Male", "Female", "Other"].index(student[4]))
                 date_of_birth = st.date_input("Date of Birth", value=student[5])
-                state_of_origin = st.text_input("State of Origin", value=student[6])
-                engagement_in_class = st.text_input("Engagement in Class", value=student[7])
+                state_of_origin = st.text_input("state_of_origin", value=student[6])
+                engagement_in_class = st.text_input("Engagement in class", value=student[7])
                 health_condition = st.text_input("Health Condition", value=student[8])
-                class_spec = st.text_input("Class Spec", value=student[9])
+                class_spec = st.text_input("class Spec", value=student[9])
 
                 if st.button("Update Student Data"):
                     update_student_data(class_id, first_name, family_name, gender, date_of_birth, state_of_origin, 
@@ -380,7 +374,7 @@ def main():
             st.header("Due to cost of production and complexity of the project in this short timeframe of this Datathon we had to focus on other aspects of the project")
             
         elif page == "Visualizations":
-            visualize_database()
+            visualize_student_data()
 
         # [Add similar update pages for Parent and Staff data]
 
