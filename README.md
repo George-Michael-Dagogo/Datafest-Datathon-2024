@@ -31,7 +31,9 @@ The solution workflow can be seen below.
   - [Objectives](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#objectives)
 - [School operations](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#school-operations)
 - [Data generation, and infrastructure](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#data-generation-and-infrastructure)
-  - [About the data](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#about-the-data)
+  - [Data generation]()
+      - [About the data](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#about-the-data)
+  - [Data infrastructure]()
 - [Model development](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#model-development)
 - [Data analysis](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#data-analytics)
 - [Recommendations]()
@@ -42,48 +44,28 @@ The solution workflow can be seen below.
 # School operations
 This refers to systems and principles by which the school - GMS- located in a typical African society follows. These systems guided our solution building process.
 1.	Compulsory extra-curricular activities. This includes sports and club activities.
-2.	10 subjects are being offered by students in both specializations – Art and Science, with 5 subjects common between them.
-3.	Each senior secondary school class has 6 subdivisions (A-F) and is further divided into Art and Science classes
+2.	Each senior secondary school class has 6 subdivisions (A-F) and is further divided into Art and Science classes
+3.	10 subjects are being offered by students in both specializations – Art and Science, with 5 subjects common between them.
 4.	Each student is allowed to select between Art and Science
 5.	An academic session in senior secondary school - GMS- is made up of three terms, each term comprising 3 months of dedicated studies
 
 
-# Data generation, and infrastructure
+# Data generation and infrastructure
 
 GMS as we already established lacked a scalable data infrastructure system that allows for the school's data collection, pipelining, warehousing, automation, and reporting needs. Moreso, since the school provided no base data to work with, the task falls on us the consultants to create synthetic data that reflects the Nigeria secondary school ecosystem.
 
 ## Data generation
 
-The primary goal here is to create rich, realistic datasets that can be used for educational data mining, predictive analytics, and decision support systems in the context of Nigerian secondary education. By simulating a complete school ecosystem, the datasets provide a valuable resource for researchers, data scientists, and education policymakers to explore factors influencing student performance, resource allocation, and overall school management without compromising real student privacy.
+The primary goal here is to create rich, realistic datasets that can be used for educational data mining, predictive analytics, and decision support systems in the context of Nigerian secondary education. By simulating a complete school ecosystem, the datasets provide a valuable resource for school stakeholders, researchers, data scientists, and education policymakers to explore factors influencing student performance, resource allocation, and overall school management without compromising real student privacy.
 
-To create a synthetic dataset that respects student privacy, we leveraged Python libraries like Faker, random, and Numpy to generate a substantial amount of realistic-looking data without compromising real students' personal information. The following were put in place:
+To achieve this, Python libraries like Faker, Random, and Numpy were utilized to generate realistic-looking data while safeguarding student identities. The simulated data covers a broad range of areas, including student demographics, parent and staff information, academic performance, and extracurricular activities, all while incorporating Nigerian-specific elements like regions and states. The data is organized using a star schema design, ensuring efficient querying and analysis, and is saved in Parquet format for compatibility with big data tools. This dataset is stored in a data lake on Azure, as well as in a database like Postgres on Aiven, with a web interface developed for easy access and data entry. The [Data Collection Plan]() further outlines the methods and tools used for data generation and collection.
 
-- School Structure: The simulated school is modeled after a typical Nigerian secondary school, featuring Senior Secondary (SS) classes from SS1 to SS3, each divided into segments A through F. This structure accurately reflects the common organization of Nigerian secondary education.
+The database diagram for Goodness and Mercy School can be seen below: 
 
-- Diverse Data Points: To ensure comprehensive analysis, we generated a wide range of data points, including student demographics, parent information, staff details, class resources, academic performance, attendance records, and extracurricular activities. This multifaceted approach enables in-depth exploration of various aspects of the school environment.
-
-- Nigerian Context: To make the data more authentic, we incorporated Nigerian-specific elements such as regions, states, and name patterns. This aligns the dataset with the unique characteristics of the Nigerian educational context.
-
-- Interconnected Tables: The data is organized into interconnected tables, following a star schema design. This structure is well-suited for data warehousing and facilitates efficient querying and analysis.
-
-- Realistic Constraints: To maintain data realism, we implemented realistic constraints and distributions. For example, the number of students per class, the range of test scores, and the distribution of health conditions were designed to reflect real-world scenarios.
-
-- Flexibility and Scalability: our approach ensures flexibility and scalability by allowing for easy adjustment of the dataset size and modification of parameters. This adaptability makes the dataset suitable for various research questions and analytical needs.
-
-- Data Quality Checks: To ensure data integrity, I implemented data quality checks before saving the data as parquet files. These checks help maintain the accuracy and reliability of the dataset.
-
-Parquet Output: All generated data is saved as parquet files. Parquet is an efficient storage format that enables faster data access and better compatibility with big data tools.
-
-Data Storage and Access: The dataset is stored in a data lake on Azure and on a database like Postgres on Aiven. Additionally, a web interface is developed to allow for easy data input and access.
+![Database diagram](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/school_data_model.png)
 
 
-
-The database diagram for Goodness and Mercy School can be seen below:
-
-![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/school_data_model.png)
-
-
-## About the data
+### About the data
 
 Based on the data generated:
 1. students table: shows the bio-data for all different students in senior secondary schools
@@ -95,6 +77,8 @@ Based on the data generated:
 7. ss3_student_survey: survey data on the factors impacting the academic performance of SS3 students
 8. staff_table: contains details about every staff at GMS
 9. teachers_table: details about all teachers at GMS
+
+##
 
 
 
