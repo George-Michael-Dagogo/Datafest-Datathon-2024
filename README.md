@@ -1,28 +1,16 @@
 # DATAFEST SCHOOL 
 
-### Overview: Faker was used to generate data for a senior secondary school, this data was pushed to a Blob Storage container on Azure(for backup and historical data) and a Postgres database on Aiven after passing several data quality checks(mimicking a real world scenario), analysis was carried out and a dashboard built in Power BI and models were build to ascertain the likelyhood of a student would passing or failing. As part of our data solution, we built a web app with Streamlit where the school can easily insert new data and update old data in the database. After every academic session(3 months), the database will be queried and all the data within that time frame will be moved to the Blob Storage as a PARQUET file and this process was automated with GitHub Actions.
+### Overview: Faker was used to generate data for a senior secondary school, this data was pushed to a Blob Storage container on Azure(for backup and historical data) and a Postgres database on Aiven after passing several data quality checks(mimicking a real world scenario), analysis was carried out and a dashboard built in Power BI and models were build to ascertain the likelyhood of a student would passing or failing. As part of our data solution, we built a web app with Streamlit for data entry and collection where the school can easily insert new data and update old data in the database. After every academic session(3 months), the database will be queried and all the data within that time frame will be moved to the Blob Storage as a PARQUET file and this process was automated with GitHub Actions.
 
 ## Data Pipeline Architecture
 ![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/datafest_architecturee.png)
 
-## Here's a breakdown of the pipeline:
+## Data Collection
+### We initially utilized the Faker library to generate data, but found that its outputs didn’t fully capture the realistic nuances, particularly the Nigerian context. To address this, we enhanced the dataset by scraping authentic Nigerian male and female names from multiple sources, and incorporated Nigerian locations for better geographical relevance. Additionally, we modeled challenges that a typical West African child might face, ensuring the data was culturally and contextually accurate.
 
-### Data Generation: I'm using Python libraries like Faker, random, and numpy to generate synthetic data. This allows me to create a large volume of realistic-looking data without compromising real students' privacy.
-### School Structure: I've modeled the school with Senior Secondary (SS) classes from SS1 to SS3, each with segments A through F. This reflects a typical Nigerian secondary school structure.
-### Diverse Data Points: I'm generating a wide range of data points including student demographics, parent information, staff details, class resources, academic performance, attendance records, and extracurricular activities. This comprehensive approach allows for rich, multi-faceted analysis.
-### Nigerian Context: I've incorporated Nigerian-specific elements like regions, states, and name patterns to make the data more authentic to the Nigerian educational context.
-### Interconnected Tables: I'm creating several interconnected tables (dimensions and facts) that follow a star schema design. This structure is ideal for data warehousing and facilitates easier querying and analysis.
-### Realistic Constraints: I'm implementing realistic constraints and distributions in the data. For example, the number of students per class, the range of test scores, and the distribution of health conditions are all designed to reflect real-world scenarios.
-### Special Focus on SS3: I've added a special survey for SS3 students, including mock JAMB scores and WAEC results. This allows for more detailed analysis of final-year students' performance and factors affecting their outcomes.
-### Flexibility and Scalability: My approach allows for easy scaling of the dataset size and modification of parameters. This flexibility makes it adaptable for various research questions or analytical needs.
-### Data Quality checks: I added data quality checks(assuming this was real world data) that needs to be passed befoe the data is saved as parquet.
-### Parquet Output:I'm saving all generated data as parquet files. Saving as Parquet ensures efficient storage, faster data access, and better compatibility with big data tools.
-### Saving to data lake on Azure: 
-### Saving to Postgres on Aiven: 
-### Web Interface for New Data:
+### Alongside this, we developed a custom application that allows the school to seamlessly update and insert new data into the database, ensuring real-time data management. Further details on the data dictionary are provided below.
 
-#### The reason I took this approach is to create a rich, realistic dataset that can be used for educational data mining, predictive analytics, and decision support systems in the context of Nigerian secondary education. By simulating a complete school ecosystem, I'm providing a sandbox for testing various hypotheses about factors influencing student performance, resource allocation, and overall school management.
-#### This dataset could be valuable for researchers, data scientists, or education policymakers looking to develop insights or predictive models without the need for sensitive, real-world student data. It also serves as a great teaching tool for data science students learning about educational data analysis.
+
 
 ## School Database Model
 ![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/school_data_model.png)
