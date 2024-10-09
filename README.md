@@ -3,6 +3,8 @@
 ### Overview: Faker was used to generate data for a senior secondary school, this data was pushed to a Blob Storage container on Azure(for backup and historical data) and a Postgres database on Aiven after passing several data quality checks(mimicking a real world scenario), analysis was carried out and a dashboard built in Power BI and models were build to ascertain the likelyhood of a student would passing or failing. As part of our data solution, we built a web app with Streamlit for data entry and collection where the school can easily insert new data and update old data in the database. After every academic session(3 months), the database will be queried and all the data within that time frame will be moved to the Blob Storage as a PARQUET file and this process was automated with GitHub Actions.
 
 ## Link to Streamlit app : https://datafestschoolapp.streamlit.app/
+- username = datafest_school
+- password = datafest_school
 
 ## Data Pipeline Architecture
 ![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/datafest_architecturee.png)
