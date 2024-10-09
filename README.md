@@ -1,7 +1,7 @@
 # Improving  Academic Outcome For Secondary Education in Nigeria -- DataFestAfrica Hackathon 2024
 
 <p align="center">
-    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/Images/Secondary%20school%20kids.jpg" alt="Secondary school kids">
+    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Secondary%20school%20kids.jpg" alt="Secondary school kids">
 </p>
 <div align="center">
   <p style="font-size: 7px;"><i>© UNICEF/UN0270198/Knowles-Coursin</i></p>
@@ -27,19 +27,16 @@ The **Phoenix team (Hannah Igboke, Michael George, and Olawumi Olabode)** has be
 The solution workflow can be seen below.
 
 # Workflow
-- [Background: Problem statement](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#background-problem-statement)
-  - [Objectives](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#objectives)
-- [School operations](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#school-operations)
-- [Data generation, and infrastructure](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#data-generation-and-infrastructure)
-  - [Data generation]()
-      - [About the data](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#about-the-data)
-  - [Data infrastructure]()
-- [Model development](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#model-development)
-- [Data analysis](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#data-analytics)
-- [Recommendations]()
-  - Solution statement
-- [Conclusion](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#conclusion)
-- [References](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/README.md#references)
+- [Background: Problem statement](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#background-problem-statement)
+  - [Objectives](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#objectives)
+- [School operations](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#school-operations)
+- [Data generation, and infrastructure](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#data-generation-and-infrastructure)
+- [Model development](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#model-development)
+  - Recommendations
+- [Data analysis](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#data-analytics)
+  - Recommendations
+- [Conclusion](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#conclusion)
+- [References](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#references)
 
 # School operations
 This refers to systems and principles by which the school - GMS- located in a typical African society follows. These systems guided our solution building process.
@@ -58,11 +55,11 @@ GMS as we already established lacked a scalable data infrastructure system that 
 
 The primary goal here is to create rich, realistic datasets that can be used for educational data mining, predictive analytics, and decision support systems in the context of Nigerian secondary education. By simulating a complete school ecosystem, the datasets provide a valuable resource for school stakeholders, researchers, data scientists, and education policymakers to explore factors influencing student performance, resource allocation, and overall school management without compromising real student privacy.
 
-To achieve this, Python libraries like Faker, Random, and Numpy were utilized to generate realistic-looking data while safeguarding student identities. The simulated data covers a broad range of areas, including student demographics, parent and staff information, academic performance, and extracurricular activities, all while incorporating Nigerian-specific elements like regions and states. The data is organized using a star schema design, ensuring efficient querying and analysis, and is saved in Parquet format for compatibility with big data tools. This dataset is stored in a data lake on Azure, as well as in a database like Postgres on Aiven, with a web interface developed for easy access and data entry. The [Data Collection Plan]() further outlines the methods and tools used for data generation/ collection, pipelining, warehousing, automation and reporting needs. The [Data warehouse dictionary]() provides detailed information about our data warehouse design, including database, schema, tables, relationships, data types etc
+To achieve this, Python libraries like Faker, Random, and Numpy were utilized to generate realistic-looking data while safeguarding student identities. The simulated data covers a broad range of areas, including student demographics, parent and staff information, academic performance, and extracurricular activities, all while incorporating Nigerian-specific elements like regions and states. The data is organized using a star schema design, ensuring efficient querying and analysis, and is saved in Parquet format for compatibility with big data tools. This dataset is stored in a data lake on Azure, as well as in a database like Postgres on Aiven, with a web interface developed for easy access and data entry. The [Data Collection Plan](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Data%20Collection%20Plan.pdf) further outlines the methods and tools used for data generation/ collection, pipelining, warehousing, automation and reporting needs. The [Data warehouse dictionary](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Database%20Data%20Dictionary.pdf) provides detailed information about our data warehouse design, including database, schema, tables, relationships, data types etc
 
 The database diagram for Goodness and Mercy School can be seen below: 
 
-![Database diagram](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/school_data_model.png)
+![Database diagram](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/main/Images/school_data_model.png)
 
 
 ### About the data
@@ -88,11 +85,11 @@ The task here involves creating a forecasting model that can adequately inform t
 
 ## Solution
 
-The optimized model built is divided into two for art and for science students. The notebook [here](https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/Model%20development/Model%20development.ipynb) contains the comprehensive steps taken for model development and the final prediction models for the science and art categories.
+The optimized model built is divided into two for art and for science students. The notebook [here](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Model%20development/Model%20development.ipynb) contains the comprehensive steps taken for model development and the final prediction models for the science and art categories.
 
 
 <p align="center">
-    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/Images/Science%20students.JPG" alt="Science students">
+    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Science%20students.JPG" alt="Science students">
 </p>
 
 In the Nigerian educational system, a student is usually considered for admission if he/she has at least 5 credit passes for relevant subjects in the WASSCE exams and a JAMB score that meets the cut off mark (usually based on the school and the course of study).
@@ -119,7 +116,7 @@ At the end of the day, it does matter if a student is happy at school because ac
 
 
 <p align="center">
-    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest/blob/Data-science/Images/Art%20students.JPG" alt="Art students">
+    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Art%20students.JPG" alt="Art students">
 </p>
 
 
