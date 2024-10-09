@@ -183,7 +183,7 @@ Ogunode Niyi Jacob, & Ahaotu Godwin Ndubuisi, 2020 in their research noted the s
 
 - Gender distribution: 50.15% female, 49.85% male. There is a healthy ratio of males to females with only a slight difference in distribution.
 
-Further analysis included:
+## Further analysis included
 
 1. Performance Distribution: Performance was analyzed across different classes and segments (SS1, SS2, SS3). It was found that attendance had no significant correlation with student performance.
 
@@ -201,7 +201,13 @@ Further analysis included:
 
 4. Factor Analysis: While resource access, parental involvement, and extracurricular participation showed slight correlations with higher average scores, attendance and study hours did not demonstrate strong correlations.
 
-5. Data Visualization: After data processing in MySQL, datasets were exported to Power BI to create visual representations. These visualizations showcased KPIs, performance distributions, attendance trends, parental involvement, and resource allocation efficiency.
+## Data Visualization
+
+The dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNTI5YTcyZDEtZTZkMS00ODBlLWFlNGYtMjhiMGJkMzRhYTc4IiwidCI6IjJkMGNjMjNiLWEwNGUtNDg5MS1iYjM0LTZmYTQzODJlZGFmYyJ9&pageName=f3a6bd0614a41d032dd9)
+
+<p align="center">
+    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Student%20performance%20dashboard.JPG" alt=" Dashboard">
+</p>
 
 ## Recommendations
 1. Resource Allocation:
