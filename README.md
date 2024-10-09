@@ -31,15 +31,22 @@ The solution workflow can be seen below.
   - [Objectives](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#objectives)
 - [School operations](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#school-operations)
 - [Data generation, and infrastructure](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#data-generation-and-infrastructure)
+  - [About the data](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#about-the-data)
 - [Model development](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#model-development)
-  - Recommendations
+  - [How exam scores and other factors affected Science students' performance in an academic year](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#how-exam-scores-and-other-factors-affected-science-students-performance-in-an-academic-year)
+  - [How exam scores and other factors affected Art students' performance in an academic year](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#how-exam-scores-and-other-factors-affected-art-students-performance-in-an-academic-year)
 - [Data analysis](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#data-analytics)
-  - Recommendations
+  - [Data importation](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#data-importation)
+  - [Data Cleaning/Preparation](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#data-cleaningpreparation)
+  - [Exploratory Data Analysis](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#exploratory-data-analysis-eda)
+  - [Further analysis](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#further-analysis-included)
+  - [Data Visualization](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#data-visualization)
+- [Recommendations](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#recommendations-1)
 - [Conclusion](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#conclusion)
 - [References](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#references)
 
 # School operations
-This refers to systems and principles by which the school - GMS- located in a typical African society follows. These systems guided our solution building process.
+This refers to systems and principles by which the school - GMS- located in a typical African society follows. These systems guided our solution-building process.
 1.	Compulsory extra-curricular activities. This includes sports and club activities.
 2.	Each senior secondary school class has 6 subdivisions (A-F) and is further divided into Art and Science classes
 3.	10 subjects are being offered by students in both specializations – Art and Science, with 5 subjects common between them.
@@ -77,7 +84,7 @@ New data collected through this web interface is pushed to the PostgreSQL databa
 
 ### About the data
 
-Based on the data generated:
+Based on the data generated we have the following tables:
 1. students table: shows the bio-data for all different students in senior secondary schools
 2. student_performance table: the historical record of students' exam scores. It contains aggregate records of students in the last academic session (2023/2024) in their respective subjects. P.S. The next academic session is 2024/2025.
 3. class_resources_table: comprising the allocation of resources like functional fans, weekly library hours, etc for each class in the school.
@@ -92,7 +99,7 @@ Based on the data generated:
 
 # Model development
 
-The task here involves creating a forecasting model that can adequately inform the stakeholders at GMS of the likelihood of a student passing or failing their upcoming exams. In this scenario, the upcoming exams refer to their mock exams written to prepare students for their JAMB and WASSCE exams. At GMS, if a student can do well in the mock exams, then they can do well in the JAMB and WASSCE exams. Furthermore, GMS is concerned about other factors that can affect a student's upcoming results aside from their previous exam scores in class and is open to recommendations based on that.
+The task here involves creating a predictive model that can adequately inform the stakeholders at GMS of the likelihood of a student passing or failing their upcoming exams. In this scenario, the upcoming exams refer to their mock exams written to prepare students for their JAMB and WASSCE exams. At GMS, if a student can do well in the mock exams, then they can do well in the JAMB and WASSCE exams. Furthermore, GMS is concerned about other factors that can affect a student's upcoming results aside from their previous exam scores in class and is open to recommendations based on that.
 
 ## Solution
 
@@ -104,6 +111,7 @@ The optimized model built is divided into two for art and for science students. 
 - Feature selection
 - Model Training
 - Testing phase
+- Model evaluation
 
 Additionally, we considered what factors played a role in determining the pass/fail rate of SS3 students. In the following section below, for both art and science students, we examined 5 additional factors aside from their exam scores that played an influential role in student's academic performance in an academic year.
 
@@ -119,9 +127,9 @@ From the plot above, aside from the 10 subjects that play a role in determining 
 
 1. Number of study hours per week: this speaks to whether or not the students had enough number of hours to study per week. Were there other activities taking up this study time? EDA shows that the average number of hours spent per week by science students is 19.6 hours. Further analysis can reveal if this number of hours is enough or if increasing the number of study hours would improve student performance.
 
-2. Extracurricular hours per week: at GMS, extracurricular activities are compulsory. Does the number of hours spent in weekly extracurriculars positively or negatively impact the student's performance? Would making extracurriculars optional improve the student's chances of performing better academically? Are the students unhappy with these extracurriculars being forced down their throats? From our EDA, we noticed that science students spend between 1 - 10 hours weekly on extracurricular activities like sports or being part of the Jet club, debate club, drama club, etc.
+2. Extracurricular hours per week: at GMS, extracurricular activities are compulsory. Does the number of hours spent in weekly extracurriculars positively or negatively impact the student's performance? Would making extracurriculars optional improve the student's chances of performing better academically? Are the students unhappy with these extracurriculars being forced down their throats? Or does their participation in any of these clubs improve their academic performance? From our EDA, we noticed that science students spend between 1 - 10 hours weekly on extracurricular activities like sports or being part of the Jet club, debate club, drama club, etc.
 
-3. Teacher Support: EDA revealed that 22% of the science students felt less support from the teachers while 23% felt the teachers provided enough support for them in class through the availability of these teachers to provide clarifications both within and outside the classroom.
+3. Teacher Support: EDA revealed that 22% of the science students felt less support from the teachers while 23% felt the teachers provided enough support for them in class through the availability of these teachers to provide clarifications both within and outside the classroom. Could these percentages be attributed to the dense population of students in a class and the number of teachers
 
 4. Parental support: A similar case applies here where 48% of the students stated an average level of support from parents. Where parental support includes:
    - Parental supervision of student's school work and grades
@@ -133,14 +141,13 @@ To this point, research done by Uzochukwu and Uchechukwu (2023) (refer to the re
 
 At the end of the day, it does matter if a student is happy at school because according to the European Online Journal of Natural and Social Sciences, there is “a significant positive relationship between happiness and achievement of students.” The authors (Tabbodi, Rahgozar, Mozaffari, and Abadi, 2015) of the study also found a significant correlation “between happiness and the progress of students, stating that an increase or decrease in happiness increases or decreases the level of academic achievement.”
 
-The questions posed here are experiments the management at GMS can carry out, collect data from, and analyze whether there was a change in academic performance.
+The questions posed here and in the next section guide our analysis to provide answers to these questions and offer proactive measures and recommendations tat can be put in place to ensure that an overwhelming majority passes their upcoming exams.
 
 ### How exam scores and other factors affected Art students' performance in an academic year
 
 <p align="center">
     <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Art%20students.JPG" alt="Art students">
 </p>
-
 
 Similar to science students, art students would need to meet a university school's criteria before gaining admission.
 
@@ -152,12 +159,7 @@ Again, aside from the subjects being offered other factors included:
 - Parental support
 - Health issues
 
-The same reasoning for science students also applies to art students since they share similar characteristics or factors that affect their overall performance. The exception here is that 54% of art students (according to EDA) noted that their academic performance was due to health challenges they experienced. 
-
-### Recommendations
-We have established that for science and art students at GMS, the aforementioned factors in addition to their subject scores wield an important role in the outcome of a student's final exams. The following recommendations would therefore serve to proactively improve the performance of students in the next batch of students:
-
-1. 
+The same reasoning for science students also applies to art students since they share similar characteristics or factors that affect their overall performance. The exception here is that 54% of art students (according to EDA) noted that their academic performance was due to health challenges they experienced within their academic here. 
 
 # Data Analytics
 
@@ -179,7 +181,7 @@ The EDA process revealed some Key Performance Indicators (KPIs) for GMS, includi
 - Average weekly study hours: 19.93 hours. For senior secondary school at GMS, students are allocated approximately 20 hours of study on average.
 - Teacher-to-student ratio: 1:65.
 
-Ogunode Niyi Jacob, & Ahaotu Godwin Ndubuisi, 2020 in their research noted the standard for teacher-to-student ratio as 1:40 for secondary schools. However, GMS fails to adhere to this standard, thereby joining other educational institutions in the country with overpopulated classrooms. 
+Ogunode Niyi Jacob, & Ahaotu Godwin Ndubuisi (2020) in their research noted the standard for teacher-to-student ratio as 1:40 for secondary schools. However, GMS fails to adhere to this standard, thereby joining other educational institutions in the country with overpopulated classrooms. 
 
 - Gender distribution: 50.15% female, 49.85% male. There is a healthy ratio of males to females with only a slight difference in distribution.
 
@@ -210,28 +212,35 @@ The dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNTI5YTc
 </p>
 
 ## Recommendations
-1. Resource Allocation:
-   - Increase Access to Learning Materials: Although the impact of textbooks was minimal, increasing access to essential learning materials like textbooks could improve performance in subjects with lower average scores (e.g., Physics, Chemistry, Biology).
-   - Optimize Teacher-Student Ratios: The current ratio of 1:65 is high. Hiring more teachers could enhance individual attention and overall student performance.
+1. Optimize Study Hours
 
-2. Parental Involvement:
-    - Encourage Greater Parental Participation: Students with highly involved parents performed slightly better. Schools should engage parents more in activities like providing regular updates on student progress.
+The current average study time of 20 hours per week for students showed no strong correlation with academic performance. GMS needs to reassess the quality of these study hours rather than just increasing them. Conducting workshops on effective study techniques and providing personalized study plans may yield better outcomes.
 
-3. Extracurricular Programs:
-- Focus on Debates, Press Club, and Arts Programs: Students participating in these activities scored higher. Expanding these programs or encouraging greater student participation could improve overall engagement and performance.
+2. Increase Teacher Support
 
-4. Balanced Resource Distribution:
-   - Monitor Resource Allocation: Classes with more resources, such as textbooks and teaching hours, showed slight improvements in performance. Schools should ensure the equitable distribution of resources to provide all students with similar opportunities.
+With 22% of science students feeling unsupported by teachers, there is a need for more teacher-student engagement. GMS should invest in teacher development programs aimed at improving in-class and out-of-class support. Additionally, the teacher-student ratio of 1:65 is above the recommended standard of 1:40. Hiring more teachers could greatly reduce the class size, improve individual attention, and likely increase overall academic performance.
 
-5. Performance Tracking System:
-  - Implement a Performance Monitoring Tool: A system to regularly review performance and create personalized learning plans could help address weaknesses, particularly in science subjects like Physics, Chemistry, and Biology.
+3. Parental Involvement
+Students with highly involved parents performed slightly better. Since parental involvement has shown a positive correlation with student performance, GMS should actively engage parents in their children’s academic lives. Initiatives such as regular progress updates, parent-teacher meetings, and workshops that emphasize the importance of educational support can help increase parental participation. A focused effort on improving the home environment for learning could further enhance student outcomes
 
-6. Revisit Study Methods:
-   Reassess Study Hours: Despite an average of 20 weekly study hours, there was no clear link to performance. Schools should explore the quality of study time and consider offering workshops or coaching on effective study techniques.
+4. Extracurricular Programs
+Students participating in Debates, Press Club, and Arts extracurriculars scored higher. Expanding these programs or encouraging greater student participation could improve overall engagement and performance. However, some students may feel that extracurricular activities are being forced upon them and are therefore taking a lot of their time. GMS should conduct surveys to assess students' satisfaction with extracurricular activities and adjust the program to align more with students' interests and academic needs, potentially enhancing both student happiness and performance
+
+5. Balanced Resource Distribution
+Classes with more resources, such as textbooks and teaching hours, showed slight performance improvements. Schools should ensure the equitable distribution of resources to provide all students with similar opportunities.
+
+6. Health and Well-being
+
+A significant number of art students (54%) attributed their academic struggles to health issues. GMS should provide better health support, including access to school counselors and healthcare services, and promote initiatives aimed at improving students’ overall well-being. A healthy student body is more likely to succeed academically.
+
 
 # Conclusion
 
-The consultancy believes that her solution is implementable if followed as directed. Moreso, the system is built in such a way to accommodate expansion and scalability when required.
+With the aforementioned recommendations, GMS can act proactively with this new information to make the necessary adjustments required ensuring a more balanced and supportive learning environment that boosts academic achievement. 
+
+Additionally, the optimized model created provides a data-backed approach for GMS stakeholders to tell whether or not a student with certain scores and responses to highlighted factors would either pass or fail their upcoming mock exams. As for GMS data collection and automation needs, the data infrastructure is built in a way that accommodates expansion and scalability as needed. 
+
+In conclusion, the Phoneix team consultancy believes that her solution is implementable if followed as directed.
 
 # References
 
@@ -252,5 +261,3 @@ This consists of a list of journals, articles, and websites consulted which aide
 13. Tabbodi, M., Rahgozar, H., Mozaffari, M., & Abadi, M. (2015). The Relationship between Happiness and Academic Achievements. In European Online Journal of Natural and Social Sciences.
 14. Techpoint Africa. (2023). How much do Nigerians earn? https://techpoint.africa/2023/11/06/how-much-do-nigerians-earn/
 15. Uzochukwu, O., & Uchechukwu Okorie, H. (2023). Impact Of Unhealthy Parenting On Schooling Of Secondary School Students In Anambra State-Nigeria: Gender As A Mediating Variable.
-
-
