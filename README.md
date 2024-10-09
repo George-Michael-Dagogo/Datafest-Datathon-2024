@@ -161,70 +161,75 @@ We have established that for science and art students at GMS, the aforementioned
 
 # Data Analytics
 
-Process Involved in Data Analysis
+## Data Importation
 
-    Data Importation: The student-related datasets (e.g., attendance, class resources, extracurricular activities, parental involvement, SS3 student surveys, staff, student performance, student information, and teachers) were imported as CSV files into MySQL Workbench for structured storage and analysis. SQL queries were used for data cleaning, manipulation, and analysis within MySQL. After processing, the data was exported to Power BI for visualization and advanced analysis.
+The required datasets (attendance, class resources, extracurricular activities, parental involvement, SS3 student surveys, staff, student performance, student information, and teachers) were imported as CSV files into MySQL Workbench for structured analysis. [SQL queries](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Analysis/Analysis_queries.sql) were used for data cleaning, manipulation, and analysis within MySQL. After processing, the data was exported to Power BI for visualization and advanced analysis. You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNTI5YTcyZDEtZTZkMS00ODBlLWFlNGYtMjhiMGJkMzRhYTc4IiwidCI6IjJkMGNjMjNiLWEwNGUtNDg5MS1iYjM0LTZmYTQzODJlZGFmYyJ9&pageName=f3a6bd0614a41d032dd9).
 
-    Data Cleaning: Key steps in the cleaning process included:
-        Checking for missing values in core subjects such as Mathematics, English Language, Civic Education, Economics, and CRS/Islam.
-        Identifying and resolving duplicate records in the [student_performance] table to ensure data integrity.
-        Adding a new column, [average_score], to calculate students' average scores across all subjects.
+## Data Cleaning/Preparation
+This included:
+- Checking for missing values in core subjects such as Mathematics, English Language, Civic Education, Economics, and CRS/Islam.
+- Identifying and resolving duplicate records in the student_performance table to ensure data integrity.
+- Creating a new column - average_score- to calculate students' average scores across all subjects.
 
-    Exploratory Data Analysis (EDA): Several Key Performance Indicators (KPIs) were calculated, including:
-        Total number of students: 983.
-        Average attendance rate: 99.67%.
-        Percentage of students participating in extracurricular activities: 100%.
-        Average weekly study hours: 19.93 hours.
-        Teacher-to-student ratio: 1:65.53.
-        Gender distribution: 50.15% female, 49.85% male.
+## Exploratory Data Analysis (EDA)
+The EDA process revealed some Key Performance Indicators (KPIs) for GMS, including:
+- Total number of students: 983.
+- Average attendance rate: 99.67%. Students had a high attendance rate at school throughout the academic year being considered (2023/2024). There were cases of absenteeism which were attributed to cases like illnesses, insecurity (given that the school is located in the northern part of Nigeria), etc.
+- Percentage of students participating in extracurricular activities: 100%. This is explained given the fact that all students are mandated to be a part of an extracurricular activity
+- Average weekly study hours: 19.93 hours. For senior secondary school at GMS, students are allocated approximately 20 hours of study on average.
+- Teacher-to-student ratio: 1:65.
 
-    Performance Distribution: Performance was analyzed across different classes and segments (SS1, SS2, SS3). It was found that attendance had no significant correlation with student performance.
+Ogunode Niyi Jacob, & Ahaotu Godwin Ndubuisi, 2020 in their research noted the standard for teacher-to-student ratio as 1:40 for secondary schools. However, GMS fails to adhere to this standard, thereby joining other educational institutions in the country with overpopulated classrooms. 
 
-    Correlation Analysis:
-        Attendance vs. Performance: No significant correlation between attendance days and average performance scores.
-        Study Hours vs. Performance: Weekly study hours showed no strong relationship with student performance.
-        Resource Access vs. Performance: Students with resource access scored slightly higher (34 vs. 33).
-        Parental Involvement: Students with highly involved parents performed marginally better (25.12%) than others.
-        Extracurricular Participation: Students involved in arts, debate club, and press club achieved slightly better average scores (34), whereas those in literature and drama had marginally lower scores (32-33).
+- Gender distribution: 50.15% female, 49.85% male. There is a healthy ratio of males to females with only a slight difference in distribution.
 
-    Class Segment Analysis:
-        Class-based Performance: SS1 Class E had the highest average performance (35.11), while SS1 Class D had the lowest (31.00).
-        Resource Allocation: Teaching hours, textbooks, and teachers showed slight positive effects on performance, though the impact was minimal.
+Further analysis included:
 
-    Factor Analysis: While resource access, parental involvement, and extracurricular participation showed slight correlations with higher average scores, attendance and study hours did not demonstrate strong correlations.
+1. Performance Distribution: Performance was analyzed across different classes and segments (SS1, SS2, SS3). It was found that attendance had no significant correlation with student performance.
 
-    Data Visualization: After data processing in MySQL, datasets were exported to Power BI to create visual representations. These visualizations showcased KPIs, performance distributions, attendance trends, parental involvement, and resource allocation efficiency.
+2. Correlation Analysis:
 
+- Attendance vs. Performance: No significant correlation between attendance days and average performance scores.
+- Study Hours vs. Performance: Weekly study hours showed no strong relationship with student performance.
+- Resource Access vs. Performance: Students with resource access scored slightly higher (34 vs. 33).
+- Parental Involvement: Students with highly involved parents performed marginally better (25.12%) than others.
+- Extracurricular Participation: Students involved in arts, debate club, and press club achieved slightly better average scores (34), whereas those in literature and drama had marginally lower scores (32-33).
 
+3. Class Segment Analysis:
+- Class-based Performance: SS1 Class E had the highest average performance (35.11), while SS1 Class D had the lowest (31.00).
+- Resource Allocation: Teaching hours, textbooks, and teachers showed slight positive effects on performance, though the impact was minimal.
+
+4. Factor Analysis: While resource access, parental involvement, and extracurricular participation showed slight correlations with higher average scores, attendance and study hours did not demonstrate strong correlations.
+
+5. Data Visualization: After data processing in MySQL, datasets were exported to Power BI to create visual representations. These visualizations showcased KPIs, performance distributions, attendance trends, parental involvement, and resource allocation efficiency.
 
 ## Recommendations
+1. Resource Allocation:
+   - Increase Access to Learning Materials: Although the impact of textbooks was minimal, increasing access to essential learning materials like textbooks could improve performance in subjects with lower average scores (e.g., Physics, Chemistry, Biology).
+   - Optimize Teacher-Student Ratios: The current ratio of 1:65 is high. Hiring more teachers could enhance individual attention and overall student performance.
 
-Recommendations for Stakeholders
+2. Parental Involvement:
+    - Encourage Greater Parental Participation: Students with highly involved parents performed slightly better. Schools should engage parents more in activities like providing regular updates on student progress.
 
-    Resource Allocation:
-        Increase Access to Learning Materials: Although the impact of textbooks was minimal, increasing access to essential learning materials like textbooks could improve performance in subjects with lower average scores (e.g., Physics, Chemistry, Biology).
-        Optimize Teacher-Student Ratios: The current ratio of 1:65 is high. Hiring more teachers could enhance individual attention and overall student performance.
+3. Extracurricular Programs:
+- Focus on Debates, Press Club, and Arts Programs: Students participating in these activities scored higher. Expanding these programs or encouraging greater student participation could improve overall engagement and performance.
 
-    Parental Involvement:
-        Encourage Greater Parental Participation: Students with highly involved parents performed slightly better. Schools should engage parents more in activities like providing regular updates on student progress.
+4. Balanced Resource Distribution:
+   - Monitor Resource Allocation: Classes with more resources, such as textbooks and teaching hours, showed slight improvements in performance. Schools should ensure the equitable distribution of resources to provide all students with similar opportunities.
 
-    Extracurricular Programs:
-        Focus on Debates, Press Club, and Arts Programs: Students participating in these activities scored higher. Expanding these programs or encouraging greater student participation could improve overall engagement and performance.
+5. Performance Tracking System:
+  - Implement a Performance Monitoring Tool: A system to regularly review performance and create personalized learning plans could help address weaknesses, particularly in science subjects like Physics, Chemistry, and Biology.
 
-    Balanced Resource Distribution:
-        Monitor Resource Allocation: Classes with more resources, such as textbooks and teaching hours, showed slight improvements in performance. Schools should ensure the equitable distribution of resources to provide all students with similar opportunities.
-
-    Performance Tracking System:
-        Implement a Performance Monitoring Tool: A system to regularly review performance and create personalized learning plans could help address weaknesses, particularly in science subjects like Physics, Chemistry, and Biology.
-
-    Revisit Study Methods:
-        Reassess Study Hours: Despite an average of 20 weekly study hours, there was no clear link to performance. Schools should explore the quality of study time and consider offering workshops or coaching on effective study techniques.
+6. Revisit Study Methods:
+   Reassess Study Hours: Despite an average of 20 weekly study hours, there was no clear link to performance. Schools should explore the quality of study time and consider offering workshops or coaching on effective study techniques.
 
 # Conclusion
 
-
+The consultancy believes that her solution is implementable if followed as directed. Moreso, the system is built in such a way to accommodate expansion and scalability when required.
 
 # References
+
+This consists of a list of journals, articles, and websites consulted which aided our solution-building process. 
 
 1. Afe Babalola University. (2024). The decline in quality education in Nigeria (2) The role of parents in a child’s education. – Afe Babalola University. Abuad.edu.ng. https://www.abuad.edu.ng/the-decline-in-quality-education-in-nigeria-2/
 2. Aiven. (2024). How to Connect to PostgreSQL Database from Power BI. Aiven Community. https://aiven.io/community/forum/t/how-to-connect-to-postgresql-database-from-power-bi/1384
