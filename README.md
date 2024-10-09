@@ -16,6 +16,7 @@
 
 
 
+
 ## School Database Model
 ![alt text](https://github.com/George-Michael-Dagogo/Datafest/blob/main/Images/school_data_model.png)
 
