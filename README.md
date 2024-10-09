@@ -48,18 +48,21 @@ This refers to systems and principles by which the school - GMS- located in a ty
 
 
 # Data generation and infrastructure
+_Everything on the data engineering section of this project can be found [here](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024)._
 
 GMS as we already established lacked a scalable data infrastructure system that allows for the school's data collection, pipelining, warehousing, automation, and reporting needs. Moreso, since the school provided no base data to work with, the task falls on us the consultants to create synthetic data that reflects the Nigeria secondary school ecosystem.
 
 The primary goal here is to create rich, realistic datasets that can be used for educational data mining, predictive analytics, and decision support systems in the context of Nigerian secondary education. By simulating a complete school ecosystem, the datasets provide a valuable resource for school stakeholders, researchers, data scientists, and education policymakers to explore factors influencing student performance, resource allocation, and overall school management without compromising real student privacy.
 
-To achieve this, Python libraries like Faker, Random, and Numpy were utilized to generate realistic-looking data while safeguarding student identities. The simulated data covers a broad range of areas, including student demographics, parent and staff information, academic performance, and extracurricular activities, all while incorporating Nigerian-specific elements like regions and states. The data is organized using a star schema design, ensuring efficient querying and analysis, and is saved in Parquet format for compatibility with big data tools. This dataset is stored in a data lake on Azure, as well as in a database like Postgres on Aiven, with a web interface developed for easy access and data entry. The [Data Collection Plan](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Data%20Collection%20Plan.pdf) further outlines the methods and tools used for data generation/ collection, pipelining, warehousing, automation and reporting needs. The [Data warehouse dictionary](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Database%20Data%20Dictionary.pdf) provides detailed information about our data warehouse design, including database, schema, tables, relationships, data types etc
+To achieve this, Python libraries like Faker, Random, and Numpy were utilized to generate realistic-looking data while safeguarding student identities. The simulated data covers a broad range of areas, including student demographics, parent and staff information, academic performance, and extracurricular activities, all while incorporating Nigerian-specific elements like regions and states. The data is organized using a star schema design, ensuring efficient querying and analysis, and is saved in Parquet format for compatibility with big data tools. This dataset is stored in a data lake on Azure, as well as in a database like Postgres on Aiven, with a web interface developed for easy access and data entry. 
+
+The [Data Collection Plan](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Data%20Collection%20Plan.pdf) further outlines the methods and tools used for data generation/ collection, pipelining, warehousing, automation, and reporting needs. The [Data warehouse dictionary](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Database%20Data%20Dictionary.pdf) provides detailed information about our data warehouse design, including database, schema, tables, relationships, data types, etc.
 
 The database diagram for Goodness and Mercy School can be seen below: 
 
 ![Database diagram](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/main/Images/school_data_model.png)
 
-To facilitate real-time data collection and updates, we developed a custom [web application](https://datafestschoolapp.streamlit.app/) using Streamlit. This application enables school administrators to easily insert new data and update existing records in the database. The app as seen below allows for seamless data entry, ensuring that the school's database remains current.
+To facilitate real-time data collection and updates, we developed a custom [web application](https://datafestschoolapp.streamlit.app/) using Streamlit. This application enables GMS school administrators to easily insert new data and update existing records for students, parents, staff, etc in the database. The app as seen below allows for seamless data entry, ensuring that the school's database remains current.
 
 <p align="center">
     <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Streamlit%20app.JPG" alt="Streamlit app">
@@ -68,7 +71,7 @@ To facilitate real-time data collection and updates, we developed a custom [web 
 New data collected through this web interface is pushed to the PostgreSQL database where it is further connected to Microsoft Power BI where it handles the data reporting needs of the school as in the image below. 
 
 <p align="center">
-    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Reporting%20needs.JPG" alt="Reporting needs">
+    <img width="1000" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/GMS_reporting%20needs.JPG" alt="Reporting needs">
 </p>
 
 
@@ -85,8 +88,6 @@ Based on the data generated:
 8. staff_table: contains details about every staff at GMS
 9. teachers_table: details about all teachers at GMS
 
-##
-
 
 
 # Model development
@@ -95,18 +96,28 @@ The task here involves creating a forecasting model that can adequately inform t
 
 ## Solution
 
-The optimized model built is divided into two for art and for science students. The notebook [here](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Model%20development/Model%20development.ipynb) contains the comprehensive steps taken for model development and the final prediction models for the science and art categories.
+The optimized model built is divided into two for art and for science students. The notebook [here](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Model%20development/Model%20development.ipynb) contains the comprehensive steps taken for model development and the final prediction models for the science and art categories. The steps taken include:
+- Connection to PostgreSQL database (connection details and password can be found in the [notebook](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Model%20development/Model%20development.ipynb)).
+- Data preparation
+- Exploratory Data Analysis
+- Data preprocessing
+- Feature selection
+- Model Training
+- Testing phase
 
+Additionally, we considered what factors played a role in determining the pass/fail rate of SS3 students. In the following section below, for both art and science students, we examined 5 additional factors aside from their exam scores that played an influential role in student's academic performance in an academic year.
+
+### How exam scores and other factors affected Science students' performance in an academic year
 
 <p align="center">
     <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Science%20students.JPG" alt="Science students">
 </p>
 
-In the Nigerian educational system, a student is usually considered for admission if he/she has at least 5 credit passes for relevant subjects in the WASSCE exams and a JAMB score that meets the cut off mark (usually based on the school and the course of study).
+In the Nigerian educational system, a student is usually considered for admission if he/she has at least 5 credit passes for relevant subjects in the WASSCE exams and a JAMB score that meets the cut-off mark (usually based on the school and the course of study).
 
-From the plot above, asides from the 10 subjects that play a role in determining the pass/fail of a student, there were 5 other factors that impacted students performance:
+From the plot above, aside from the 10 subjects that play a role in determining the pass/fail of a student, 5 other factors impacted students performance:
 
-1. Number of study hours per week: this speaks to whether or not the students had enough number of hours to study per week. Were they other activities taking up this study time? EDA shows that the average number of hours spent per week by science students is 19.6 hours. Further analysis can reveal if this number of hours is enough or if increasing the number of study hours would improve student performance.
+1. Number of study hours per week: this speaks to whether or not the students had enough number of hours to study per week. Were there other activities taking up this study time? EDA shows that the average number of hours spent per week by science students is 19.6 hours. Further analysis can reveal if this number of hours is enough or if increasing the number of study hours would improve student performance.
 
 2. Extracurricular hours per week: at GMS, extracurricular activities are compulsory. Does the number of hours spent in weekly extracurriculars positively or negatively impact the student's performance? Would making extracurriculars optional improve the student's chances of performing better academically? Are the students unhappy with these extracurriculars being forced down their throats? From our EDA, we noticed that science students spend between 1 - 10 hours weekly on extracurricular activities like sports or being part of the Jet club, debate club, drama club, etc.
 
@@ -116,14 +127,15 @@ From the plot above, asides from the 10 subjects that play a role in determining
    - Parental supervision of student's school work and grades
    - Parental overall attitude towards education and atmosphere at home (peaceful/quarrelsome, accommodating/tight-fisted).
 
-To this point, research done by Uzochukwu and Uchechukwu (2023) (refer to the references section) shows that unhealthy parenting wheels a tremendous negative influence on the schooling of secondary school students
+To this point, research done by Uzochukwu and Uchechukwu (2023) (refer to the references section [below](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/tree/Data-science#references)) shows that unhealthy parenting wheels a tremendous negative influence on the schooling of secondary school students
 
-5. Lack of resources & additional tutoring: Again, EDA showed that 17% of the science students at GMS noted a lack of necessary resources like textbooks, study guides, practical lessons, etc as a reason for their performance. It is known that study and practice make perfect but what happens when adequate resources/avenues are unavailable for students to learn from? Also, aside from class teachings, are the students enrolled in extra lessons? 51% of the students reported not being enrolled in any additional lessons or tutoring.
+5. Lack of resources & additional tutoring: Again, EDA showed that 17% of the science students at GMS noted a lack of necessary resources like textbooks, study guides, practical lessons, etc as a reason for their performance. It is known that study and practice make perfect but what happens when adequate resources/learning opportunities are limited for students to learn from? Also, aside from class teachings, are the students enrolled in extra lessons? 51% of the students reported not being enrolled in any additional lessons or tutoring.
+
+At the end of the day, it does matter if a student is happy at school because according to the European Online Journal of Natural and Social Sciences, there is “a significant positive relationship between happiness and achievement of students.” The authors (Tabbodi, Rahgozar, Mozaffari, and Abadi, 2015) of the study also found a significant correlation “between happiness and the progress of students, stating that an increase or decrease in happiness increases or decreases the level of academic achievement.”
 
 The questions posed here are experiments the management at GMS can carry out, collect data from, and analyze whether there was a change in academic performance.
 
-At the end of the day, it does matter if a student is happy at school because according to the European Online Journal of Natural and Social Sciences, there is “a significant positive relationship between happiness and achievement of students.” The authors (Tabbodi, Rahgozar, Mozaffari, and Abadi, 2015) of the study also found a significant correlation “between happiness and the progress of students… an increase or decrease in happiness increases or decreases the level of academic achievement.”
-
+### How exam scores and other factors affected Art students' performance in an academic year
 
 <p align="center">
     <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Art%20students.JPG" alt="Art students">
@@ -140,9 +152,12 @@ Again, aside from the subjects being offered other factors included:
 - Parental support
 - Health issues
 
-The same reasoning for science students also applies to art students since they share similar characteristics or factors that affect their overall performance. The exception here is that 54% of art students (according to EDA) noted that their academic performance was due to health challenges they experienced.
+The same reasoning for science students also applies to art students since they share similar characteristics or factors that affect their overall performance. The exception here is that 54% of art students (according to EDA) noted that their academic performance was due to health challenges they experienced. 
 
+### Recommendations
+We have established that for science and art students at GMS, the aforementioned factors in addition to their subject scores wield an important role in the outcome of a student's final exams. The following recommendations would therefore serve to proactively improve the performance of students in the next batch of students:
 
+1. 
 
 # Data Analytics
 
