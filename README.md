@@ -51,8 +51,6 @@ This refers to systems and principles by which the school - GMS- located in a ty
 
 GMS as we already established lacked a scalable data infrastructure system that allows for the school's data collection, pipelining, warehousing, automation, and reporting needs. Moreso, since the school provided no base data to work with, the task falls on us the consultants to create synthetic data that reflects the Nigeria secondary school ecosystem.
 
-## Data generation
-
 The primary goal here is to create rich, realistic datasets that can be used for educational data mining, predictive analytics, and decision support systems in the context of Nigerian secondary education. By simulating a complete school ecosystem, the datasets provide a valuable resource for school stakeholders, researchers, data scientists, and education policymakers to explore factors influencing student performance, resource allocation, and overall school management without compromising real student privacy.
 
 To achieve this, Python libraries like Faker, Random, and Numpy were utilized to generate realistic-looking data while safeguarding student identities. The simulated data covers a broad range of areas, including student demographics, parent and staff information, academic performance, and extracurricular activities, all while incorporating Nigerian-specific elements like regions and states. The data is organized using a star schema design, ensuring efficient querying and analysis, and is saved in Parquet format for compatibility with big data tools. This dataset is stored in a data lake on Azure, as well as in a database like Postgres on Aiven, with a web interface developed for easy access and data entry. The [Data Collection Plan](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Data%20Collection%20Plan.pdf) further outlines the methods and tools used for data generation/ collection, pipelining, warehousing, automation and reporting needs. The [Data warehouse dictionary](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Database%20Data%20Dictionary.pdf) provides detailed information about our data warehouse design, including database, schema, tables, relationships, data types etc
@@ -60,6 +58,18 @@ To achieve this, Python libraries like Faker, Random, and Numpy were utilized to
 The database diagram for Goodness and Mercy School can be seen below: 
 
 ![Database diagram](https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/main/Images/school_data_model.png)
+
+To facilitate real-time data collection and updates, we developed a custom [web application](https://datafestschoolapp.streamlit.app/) using Streamlit. This application enables school administrators to easily insert new data and update existing records in the database. The app as seen below allows for seamless data entry, ensuring that the school's database remains current.
+
+<p align="center">
+    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Streamlit%20app.JPG" alt="Streamlit app">
+</p>
+
+New data collected through this web interface is pushed to the PostgreSQL database where it is further connected to Microsoft Power BI where it handles the data reporting needs of the school as in the image below. 
+
+<p align="center">
+    <img width="600" src="https://github.com/George-Michael-Dagogo/Datafest-Datathon-2024/blob/Data-science/Images/Reporting%20needs.JPG" alt="Reporting needs">
+</p>
 
 
 ### About the data
@@ -136,10 +146,64 @@ The same reasoning for science students also applies to art students since they 
 
 # Data Analytics
 
+Process Involved in Data Analysis
 
-# Recommendations
+    Data Importation: The student-related datasets (e.g., attendance, class resources, extracurricular activities, parental involvement, SS3 student surveys, staff, student performance, student information, and teachers) were imported as CSV files into MySQL Workbench for structured storage and analysis. SQL queries were used for data cleaning, manipulation, and analysis within MySQL. After processing, the data was exported to Power BI for visualization and advanced analysis.
+
+    Data Cleaning: Key steps in the cleaning process included:
+        Checking for missing values in core subjects such as Mathematics, English Language, Civic Education, Economics, and CRS/Islam.
+        Identifying and resolving duplicate records in the [student_performance] table to ensure data integrity.
+        Adding a new column, [average_score], to calculate students' average scores across all subjects.
+
+    Exploratory Data Analysis (EDA): Several Key Performance Indicators (KPIs) were calculated, including:
+        Total number of students: 983.
+        Average attendance rate: 99.67%.
+        Percentage of students participating in extracurricular activities: 100%.
+        Average weekly study hours: 19.93 hours.
+        Teacher-to-student ratio: 1:65.53.
+        Gender distribution: 50.15% female, 49.85% male.
+
+    Performance Distribution: Performance was analyzed across different classes and segments (SS1, SS2, SS3). It was found that attendance had no significant correlation with student performance.
+
+    Correlation Analysis:
+        Attendance vs. Performance: No significant correlation between attendance days and average performance scores.
+        Study Hours vs. Performance: Weekly study hours showed no strong relationship with student performance.
+        Resource Access vs. Performance: Students with resource access scored slightly higher (34 vs. 33).
+        Parental Involvement: Students with highly involved parents performed marginally better (25.12%) than others.
+        Extracurricular Participation: Students involved in arts, debate club, and press club achieved slightly better average scores (34), whereas those in literature and drama had marginally lower scores (32-33).
+
+    Class Segment Analysis:
+        Class-based Performance: SS1 Class E had the highest average performance (35.11), while SS1 Class D had the lowest (31.00).
+        Resource Allocation: Teaching hours, textbooks, and teachers showed slight positive effects on performance, though the impact was minimal.
+
+    Factor Analysis: While resource access, parental involvement, and extracurricular participation showed slight correlations with higher average scores, attendance and study hours did not demonstrate strong correlations.
+
+    Data Visualization: After data processing in MySQL, datasets were exported to Power BI to create visual representations. These visualizations showcased KPIs, performance distributions, attendance trends, parental involvement, and resource allocation efficiency.
 
 
+
+## Recommendations
+
+Recommendations for Stakeholders
+
+    Resource Allocation:
+        Increase Access to Learning Materials: Although the impact of textbooks was minimal, increasing access to essential learning materials like textbooks could improve performance in subjects with lower average scores (e.g., Physics, Chemistry, Biology).
+        Optimize Teacher-Student Ratios: The current ratio of 1:65 is high. Hiring more teachers could enhance individual attention and overall student performance.
+
+    Parental Involvement:
+        Encourage Greater Parental Participation: Students with highly involved parents performed slightly better. Schools should engage parents more in activities like providing regular updates on student progress.
+
+    Extracurricular Programs:
+        Focus on Debates, Press Club, and Arts Programs: Students participating in these activities scored higher. Expanding these programs or encouraging greater student participation could improve overall engagement and performance.
+
+    Balanced Resource Distribution:
+        Monitor Resource Allocation: Classes with more resources, such as textbooks and teaching hours, showed slight improvements in performance. Schools should ensure the equitable distribution of resources to provide all students with similar opportunities.
+
+    Performance Tracking System:
+        Implement a Performance Monitoring Tool: A system to regularly review performance and create personalized learning plans could help address weaknesses, particularly in science subjects like Physics, Chemistry, and Biology.
+
+    Revisit Study Methods:
+        Reassess Study Hours: Despite an average of 20 weekly study hours, there was no clear link to performance. Schools should explore the quality of study time and consider offering workshops or coaching on effective study techniques.
 
 # Conclusion
 
